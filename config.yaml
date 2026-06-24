@@ -1,0 +1,21 @@
+schedule: "0 8 * * *"  # 8 AM daily, cron syntax
+
+sources:
+  rss:
+    - name: "BBC World"
+      url: "http://feeds.bbci.co.uk/news/world/rss.xml"
+    - name: "NYT World"
+      url: "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"
+    - name: "Al Jazeera"
+      url: "https://www.aljazeera.com/xml/rss/all.xml"
+    - name: "NPR World"
+      url: "https://feeds.npr.org/1004/rss.xml"
+
+topics_of_interest: []
+# Leave topics_of_interest empty to include all stories.
+# Add keywords here to only keep stories mentioning them, e.g.:
+# topics_of_interest:
+#   - "climate"
+#   - "elections"
+
+max_stories_per_digest: 10

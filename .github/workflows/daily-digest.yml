@@ -1,0 +1,51 @@
+name: Daily News Digest
+
+on:
+  schedule:
+    # Runs every day at 8:00 AM UTC
+    - cron: '0 8 * * *'
+  # Allow manual triggering for testing
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  daily-digest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run News Digest pipeline
+        env:
+          # Optional - only needed if you also want Discord delivery.
+          # Everything else works with zero secrets/config.
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+        run: python src/main.py
+
+      - name: Commit and push digest
+        if: success()
+        run: |
+          git config --local user.email "${{ github.repository_owner_id }}+${{ github.repository_owner }}@users.noreply.github.com"
+          git config --local user.name "${{ github.repository_owner }}"
+          git add -A
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Daily digest - $(date +%Y-%m-%d)" && git push)
+
+      - name: Workflow Notification
+        if: failure()
+        run: |
+          echo "::notice::Daily News Digest workflow failed - check logs"
