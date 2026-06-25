@@ -5,7 +5,7 @@ from RSS feeds, deduplicates similar stories, summarizes each one with a
 free local summarizer (no API key needed), and writes the result as a
 markdown file right in this repo.
 
-## Status: Ready for Production
+## Status: Phase 0 Complete
 
 ## How it works
 1. GitHub Actions cron triggers daily at 8 AM
@@ -32,7 +32,7 @@ markdown file right in this repo.
 - [x] Repo scaffold
 - [x] RSS fetch
 - [x] Dedup logic
-- [x] Free local summarization (no API key)
+- [x] Free local summarization (no API key), might change in future
 - [x] Markdown digest delivery (committed to repo)
 - [x] GitHub Actions cron
 - [ ] Topic-based filtering/scoring
