@@ -1,70 +1,66 @@
-# News Digest - 2026-06-29
+# News Digest - 2026-06-28
 
-## 1. In Venezuela, silence has become a rescue tool
+## 1. Iraq security forces arrest several officials in anticorruption crackdown
 
-**Source:** [NPR World](https://www.npr.org/2026/06/28/nx-s1-5874042/in-venezuela-silence-has-become-a-rescue-tool)
+**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/6/28/iraq-security-forces-arrest-several-officials-in-anticorruption-crackdown?traffic_source=rss)
 
-- In Venezuela rescue crews now stop almost everything and ask for silence so they can hear anyone still alive underneath the rubble.
-- NPR's Eyder Peralta reports from the port city of La Guaira.
+- Large-scale operation carried out at dawn in Green Zone and several neighbourhoods in Baghdad, security source says.
 
-## 2. Delcy Rodriguez, Venezuela’s President, Is Accused of Politicizing Earthquake Relief
+## 2. Mideast Live Updates: U.S. and Iran Trade Attacks With Few Signs of De-escalation
 
-**Source:** [NYT World](https://www.nytimes.com/2026/06/28/world/americas/venezuela-quake-relief-rodriguez.html)
+**Source:** [NYT World](https://www.nytimes.com/live/2026/06/28/world/us-iran-strikes-hormuz)
 
-- Critics say the country’s interim president, Delcy Rodríguez, is trying to exploit the tragedy for her political benefit.
-- Her supporters accuse the opposition of doing the same.
+- President Trump and Iran’s Revolutionary Guards exchanged threats and U.S.
+- allies in the Gulf said they had intercepted Iranian drones, as hostilities entered a fourth day.
 
-## 3. U.S. and Iran exchange strikes, underscoring the fragility of the ceasefire
-
-**Source:** [NPR World](https://www.npr.org/2026/06/28/g-s1-130748/us-iran-israel-lebanon-hormuz-strikes-bahrain-kuwait)
-
-- President Trump accused Iran of violating their framework agreement, and Tehran threatened to halt negotiations with the U.S.
-- entirely.
-- Meanwhile, violence continued between Israel and Hezbollah.
-
-## 4. Trump Cut a Billion-Dollar Mining Deal. His Sons Stand to Profit.
+## 3. As Trump Cut a Billion-Dollar Mining Deal, His Sons Stand to Profit
 
 **Source:** [NYT World](https://www.nytimes.com/2026/06/28/world/europe/trump-lutnick-sons-kazakhstan.html)
 
 - An agreement between the U.S.
 - and Kazakhstan has given a group of American investors with ties to the president and the commerce secretary access to one of the world’s largest untapped reserves of tungsten.
 
-## 5. Trade tensions shake up Brazil's caipirinha spirit
+## 4. Kazakhstan’s Leader Deepens U.S. Ties, Saying Trump Was ‘Sent by Heaven’
 
-**Source:** [NPR World](https://www.npr.org/2026/06/28/nx-s1-5872458/brazil-trade-us-tariffs-europe)
+**Source:** [NYT World](https://www.nytimes.com/2026/06/28/world/asia/kazakhstan-trump.html)
 
-- U.S.
-- tariff pressure is pushing Europe and Brazil closer—opening new global doors for everything from aircraft parts to Brazil's cachaça, the base of the caipirinha.
+- The Central Asian nation is aggressively courting President Trump’s Washington to counterbalance its powerful neighbors, Russia and China.
 
-## 6. 'If you are alive, make any noise': Venezuela searches rubble on Day 4
+## 5. FIFA World Cup: Round of 32 bracket, schedule, predictions, Iran’s exit
 
-**Source:** [NPR World](https://www.npr.org/2026/06/28/nx-s1-5873413/venezuela-earthquake)
+**Source:** [Al Jazeera](https://www.aljazeera.com/sports/2026/6/28/fifa-world-cup-2026-sunday-schedule-round-of-32-fixtures-predictions?traffic_source=rss)
 
-- Rescue teams are racing against time after twin earthquakes killed more than 1,400 people and left tens of thousands unaccounted for.
+- Knockout matches begin with South Africa vs Canada as Iran exit, Africa make history, Messi-Ronaldo final hopes rise.
 
-## 7. Venezuela races to find survivors
+## 6. Venezuela Government Accused of Politicizing Quake Relief
 
-**Source:** [NPR World](https://www.npr.org/2026/06/27/nx-s1-5872799/venezuela-races-to-find-survivors)
+**Source:** [NYT World](https://www.nytimes.com/2026/06/28/world/americas/venezuela-quake-relief-rodriguez.html)
 
-- The search for survivors is entering a critical stage in Venezuela.
-- NPR'S Eyder Peralta reports from La Guaira where rescue crews are still hoping to find people alive.
+- Critics say the country’s interim president, Delcy Rodríguez, is trying to exploit the tragedy for her political benefit.
+- Her supporters accuse the opposition of doing the same.
 
-## 8. Five dead following shooting in Stade, northern Germany
+## 7. What Life Is Like in Dahiya Amid a Hezbollah-Israel Truce in Lebanon
 
-**Source:** [BBC World](https://www.bbc.co.uk/news/articles/c17yzzw1vkjo?at_medium=RSS&at_campaign=rss)
+**Source:** [NYT World](https://www.nytimes.com/2026/06/28/world/middleeast/beirut-dahiya-israel-lebanon-cease-fire.html)
 
-- Two people have been arrested, police said.
+- Dahiya, a sprawling area and Hezbollah stronghold, is stirring back to life amid a tense truce with Israel.
+- “This war has brought so much loss,” one resident said.
 
-## 9. Mideast Live Updates: U.S. and Iran Set for New Talks in Qatar, Trump Says
+## 8. Iran attacks Kuwait and Bahrain in response to US strikes
 
-**Source:** [NYT World](https://www.nytimes.com/live/2026/06/29/world/hormuz-us-iran-strikes)
+**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/6/28/iran-attacks-kuwait-and-bahrain-in-response-to-us-strikes?traffic_source=rss)
 
-- President Trump said the discussions would take place on Tuesday, after the United States and Iran exchanged strikes over the weekend.
-- Iran did not confirm the talks but said consultations with Qatar were continuing.
+- US-Iran deal under strain as Kuwait and Bahrain condemn Iranian attacks in response to US strikes.
 
-## 10. Biden blasts Trump 'vanity projects', calling him a 'loser' at fundraising event
+## 9. Watch World Cup Day 17: Messi breaks record as Algeria and DR Congo advance
 
-**Source:** [BBC World](https://www.bbc.co.uk/news/articles/cy73mvn607do?at_medium=RSS&at_campaign=rss)
+**Source:** [Al Jazeera](https://www.aljazeera.com/video/2026/6/28/video-world-cup-2026-highlights?traffic_source=rss)
 
-- The former US president took aim at his successor's projects in Washington DC, including a planned new White House ballroom.
+- Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America.
+
+## 10. South Africa vs Canada: World Cup 2026 – prediction, team news and lineups
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/sports/2026/6/28/south-africa-vs-canada-fifa-world-cup-2026-prediction-team-news-start-lineups?traffic_source=rss)
+
+- Neither South Africa nor Canada has reached the knockout rounds of a World Cup before, but now a last-16 place awaits.
 

@@ -46,6 +46,7 @@ python test.py fetch
 python test.py dedupe
 python test.py summarize
 python test.py deliver
+python test.py site
 python test.py pipeline
 ```
 
@@ -76,6 +77,18 @@ To test the workflow manually:
 2. Select **Daily News Digest** workflow
 3. Click **Run workflow** → **Run workflow**
 
+### Enabling GitHub Pages (optional)
+
+The pipeline writes `docs/index.html` every run. To get a live URL for it:
+
+1. Repo **Settings → Pages**
+2. **Source:** Deploy from a branch
+3. **Branch:** `main`, folder: `/docs`
+4. Save
+
+GitHub will publish at `https://<username>.github.io/<repo>/` and update it
+automatically every time the workflow commits a new digest.
+
 ### Adding GitHub Secrets (optional)
 
 Only needed if you want Discord delivery in addition to the markdown digest:
@@ -88,14 +101,19 @@ Only needed if you want Discord delivery in addition to the markdown digest:
 ```
 src/
 ├── fetch.py          # RSS fetching with URL verification
-├── dedupe.py         # Deduplication and topic filtering
+├── dedupe.py         # Story grouping (keyword + string similarity) and topic filtering
+├── bias.py           # Static AllSides-based source bias lookup
 ├── summarize.py      # Free local extractive summarization (no API key)
 ├── deliver.py        # Markdown digest writer + optional Discord delivery
+├── htmlsite.py       # Static HTML site generator for GitHub Pages
 ├── main.py           # Orchestrates the full pipeline
 └── __init__.py       # Package initialization
 
 data/
 └── archive/          # Daily digest markdown files
+
+docs/
+└── index.html        # Static site for GitHub Pages, regenerated every run
 
 latest_digest.md      # Always-current digest, updated every run
 

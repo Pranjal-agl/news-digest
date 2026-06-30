@@ -12,6 +12,7 @@ from fetch import fetch_all_articles, verify_rss_url
 from dedupe import process_articles
 from summarize import summarize_articles, configure_gemini
 from deliver import deliver_all
+from htmlsite import generate_site
 
 logging.basicConfig(
     level=logging.INFO,
@@ -118,6 +119,12 @@ def run_pipeline(config: dict) -> bool:
         
         success_count = sum(1 for v in results.values() if v)
         logger.info(f"Delivered to {success_count}/{len(results)} channels")
+
+        # Step 5: Generate static HTML site for GitHub Pages
+        logger.info("\n[Step 5] Generating static site...")
+        site_path = generate_site(processed)
+        if site_path:
+            logger.info(f"Static site updated: {site_path}")
         
         logger.info("\n" + "=" * 60)
         logger.info("Pipeline Complete!")

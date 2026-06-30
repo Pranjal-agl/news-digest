@@ -85,50 +85,54 @@ def test_fetch():
 
 
 def test_dedupe():
-    """Test deduplication."""
+    """Test story grouping across sources."""
     print("\n" + "="*60)
-    print("Testing: Deduplication")
+    print("Testing: Story Grouping (Ground News-style)")
     print("="*60)
-    
+
     try:
-        from dedupe import dedupe_articles, filter_by_topics
-        
-        # Create test data
+        from dedupe import group_articles, filter_by_topics
+
+        # Create test data - two sources covering the same story with
+        # completely different headline wording (tests keyword-overlap
+        # grouping, not just string similarity)
         test_articles = [
             {
-                'title': 'OpenAI Releases New Model',
-                'source': 'OpenAI',
-                'summary': 'OpenAI announces a new language model',
+                'title': 'Doctor diagnosed with Ebola after returning from Congo',
+                'source': 'NYT World',
+                'summary': 'A French doctor has been diagnosed with Ebola.',
                 'type': 'rss',
                 'link': 'https://example.com/1'
             },
             {
-                'title': 'OpenAI Releases New Model',  # Duplicate
-                'source': 'Reddit',
-                'summary': 'OpenAI releases a new language model',
-                'type': 'reddit',
-                'link': 'https://reddit.com/1',
-                'score': 5000
-            },
-            {
-                'title': 'Anthropic AI Safety Research',
-                'source': 'Anthropic',
-                'summary': 'New research on AI safety alignment',
+                'title': 'France confirms first Ebola case',
+                'source': 'BBC World',
+                'summary': 'French health officials confirmed the country has its first Ebola case.',
                 'type': 'rss',
                 'link': 'https://example.com/2'
+            },
+            {
+                'title': 'Iran loyalists promote wider nationalism',
+                'source': 'NYT World',
+                'summary': 'Government supporters are showing off new ties with alleged former dissidents.',
+                'type': 'rss',
+                'link': 'https://example.com/3'
             }
         ]
-        
-        print(f"\nInput: {len(test_articles)} articles (1 duplicate)")
-        
-        deduped = dedupe_articles(test_articles)
-        print(f"Deduplicated to {len(deduped)} unique articles")
-        
-        for i, article in enumerate(deduped, 1):
-            print(f"  {i}. {article['title'][:50]} ({article['source']})")
-        
+
+        print(f"\nInput: {len(test_articles)} articles (1 story covered by 2 sources)")
+
+        grouped = group_articles(test_articles)
+        print(f"Grouped into {len(grouped)} stories")
+
+        for i, article in enumerate(grouped, 1):
+            sources = article.get('all_sources', [article['source']])
+            print(f"  {i}. {article['title'][:50]} - sources: {sources}")
+            if article.get('bias_breakdown'):
+                print(f"     Bias breakdown: {article['bias_breakdown']}")
+
         return True
-        
+
     except Exception as e:
         print(f"Dedup test failed: {e}")
         return False
@@ -204,6 +208,57 @@ def test_deliver():
         return False
 
 
+def test_site():
+    """Test static site (GitHub Pages) generation."""
+    print("\n" + "="*60)
+    print("Testing: Static Site Generation")
+    print("="*60)
+
+    try:
+        from htmlsite import generate_site
+        import tempfile
+
+        test_articles = [
+            {
+                'title': 'France confirms first Ebola case',
+                'link': 'https://example.com/1',
+                'source': 'BBC World',
+                'all_sources': ['BBC World', 'NYT World'],
+                'bias_breakdown': {'Center': 1, 'Lean Left': 1},
+                'is_blindspot': False,
+                'bullet_points': ['A doctor was infected after travel to DR Congo.']
+            },
+            {
+                'title': 'Iran loyalists promote wider nationalism',
+                'link': 'https://example.com/2',
+                'source': 'NYT World',
+                'all_sources': ['NYT World'],
+                'bias_breakdown': {'Lean Left': 1},
+                'is_blindspot': True,
+                'bullet_points': ['Government supporters show ties with former dissidents.']
+            },
+        ]
+
+        with tempfile.TemporaryDirectory() as tmpdir:
+            path = generate_site(test_articles, output_dir=tmpdir)
+            if not path or not os.path.exists(path):
+                print("Site generation failed - no file produced")
+                return False
+
+            with open(path) as f:
+                content = f.read()
+
+            print(f"Site generated successfully ({len(content)} chars)")
+            print(f"  Contains both story titles: {'France confirms' in content and 'Iran loyalists' in content}")
+            print(f"  Blindspot tag present: {'Blindspot' in content}")
+
+        return True
+
+    except Exception as e:
+        print(f"Site test failed: {e}")
+        return False
+
+
 def test_full_pipeline():
     """Test full pipeline."""
     print("\n" + "="*60)
@@ -236,7 +291,7 @@ def main():
         'test',
         nargs='?',
         default='all',
-        choices=['config', 'fetch', 'dedupe', 'summarize', 'deliver', 'pipeline', 'all'],
+        choices=['config', 'fetch', 'dedupe', 'summarize', 'deliver', 'site', 'pipeline', 'all'],
         help='Which test to run (default: all)'
     )
     
@@ -248,6 +303,7 @@ def main():
         'dedupe': test_dedupe,
         'summarize': test_summarize,
         'deliver': test_deliver,
+        'site': test_site,
         'pipeline': test_full_pipeline,
     }
     

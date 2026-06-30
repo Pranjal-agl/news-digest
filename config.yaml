@@ -2,14 +2,34 @@ schedule: "0 8 * * *"  # 8 AM daily, cron syntax
 
 sources:
   rss:
+    # Center
     - name: "BBC World"
-      url: "http://feeds.bbci.co.uk/news/world/rss.xml"
+      url: "https://feeds.bbci.co.uk/news/world/rss.xml"
+    - name: "Christian Science Monitor World"
+      url: "http://rss.csmonitor.com/feeds/world"
+    - name: "Deutsche Welle Top Stories"
+      url: "https://rss.dw.com/rdf/rss-en-top"
+    - name: "WSJ World News"
+      url: "https://feeds.a.dj.com/rss/RSSWorldNews.xml"
+    # Lean Left
     - name: "NYT World"
       url: "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"
-    - name: "Al Jazeera"
-      url: "https://www.aljazeera.com/xml/rss/all.xml"
     - name: "NPR World"
       url: "https://feeds.npr.org/1004/rss.xml"
+    - name: "Al Jazeera"
+      url: "https://www.aljazeera.com/xml/rss/all.xml"
+    - name: "The Guardian World"
+      url: "https://www.theguardian.com/world/rss"
+    - name: "CBC World"
+      url: "https://rss.cbc.ca/lineup/world.xml"
+    # Lean Right
+    - name: "New York Post World"
+      url: "https://nypost.com/world-news/feed"
+    - name: "Washington Times World"
+      url: "https://www.washingtontimes.com/rss/headlines/news/world/"
+    # Right
+    - name: "Fox News World"
+      url: "https://moxie.foxnews.com/google-publisher/world.xml"
 
 topics_of_interest: []
 # Leave topics_of_interest empty to include all stories.
@@ -18,4 +38,5 @@ topics_of_interest: []
 #   - "climate"
 #   - "elections"
 
-max_stories_per_digest: 10
+max_stories_per_digest: 50
+max_stories_per_source: 10

@@ -46,18 +46,46 @@ def format_digest_text(articles: List[Dict[str, Any]]) -> str:
 def format_digest_markdown(articles: List[Dict[str, Any]]) -> str:
     """
     Format articles as markdown (for archiving / the latest-digest doc).
+    Shows which sources covered each story and a simple bias breakdown,
+    Ground News-style, when more than one source covered it. Leads with a
+    summary header and surfaces blindspot stories first.
     """
     today = datetime.now().strftime('%Y-%m-%d')
-    digest = f"# News Digest - {today}\n\n"
 
-    for i, article in enumerate(articles, 1):
+    total = len(articles)
+    multi_source = sum(1 for a in articles if len(a.get('all_sources', [])) > 1)
+    blindspot_count = sum(1 for a in articles if a.get('is_blindspot'))
+
+    digest = f"# News Digest - {today}\n\n"
+    digest += (f"**{total} stories** · {multi_source} with multi-source coverage"
+               f" · {blindspot_count} blindspot{'s' if blindspot_count != 1 else ''}\n\n")
+    digest += "---\n\n"
+
+    # Surface blindspots first so one-sided coverage doesn't get buried
+    ordered = sorted(articles, key=lambda a: not a.get('is_blindspot', False))
+
+    for i, article in enumerate(ordered, 1):
         title = article.get('title', 'No title')
         link = article.get('link', '')
         source = article.get('source', 'Unknown')
         bullets = article.get('bullet_points', ['No summary'])
+        all_sources = article.get('all_sources', [source])
+        bias_counts = article.get('bias_breakdown', {})
+        blindspot = article.get('is_blindspot', False)
 
-        digest += f"## {i}. {title}\n\n"
+        digest += f"## {i}. {'🔍 ' if blindspot else ''}{title}\n\n"
         digest += f"**Source:** [{source}]({link})\n\n"
+
+        if len(all_sources) > 1:
+            others = [s for s in all_sources if s != source]
+            digest += f"**Also covered by:** {', '.join(others)}\n\n"
+
+        if bias_counts:
+            breakdown_str = " · ".join(f"{label}: {count}" for label, count in bias_counts.items())
+            digest += f"**Bias breakdown:** {breakdown_str}\n\n"
+
+        if blindspot:
+            digest += "**Blindspot:** all covering sources lean the same direction\n\n"
 
         for bullet in bullets:
             digest += f"- {bullet}\n"
