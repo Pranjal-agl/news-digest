@@ -55,6 +55,34 @@ def bias_breakdown(sources: List[str]) -> Dict[str, int]:
     return {k: v for k, v in counts.items() if v > 0}
 
 
+def bias_bar_data(sources: List[str]) -> Dict[str, Any]:
+    """
+    Returns L%, C%, R% percentages for the horizontal bias bar shown
+    under each story card, Ground News-style.
+
+    Left bucket  = Left + Lean Left
+    Center bucket = Center + Unrated
+    Right bucket = Right + Lean Right
+    """
+    counts = {"left": 0, "center": 0, "right": 0}
+    for source in sources:
+        lean = get_bias(source)
+        if lean in ("left", "lean-left"):
+            counts["left"] += 1
+        elif lean in ("right", "lean-right"):
+            counts["right"] += 1
+        else:
+            counts["center"] += 1
+
+    total = sum(counts.values()) or 1
+    return {
+        "left_pct":   round(counts["left"]   / total * 100),
+        "center_pct": round(counts["center"] / total * 100),
+        "right_pct":  round(counts["right"]  / total * 100),
+        "total": total,
+    }
+
+
 def is_blindspot(sources: List[str]) -> bool:
     """
     A simple Ground-News-style blindspot check: True if every source

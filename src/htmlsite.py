@@ -1,12 +1,14 @@
 """
-htmlsite.py - Generates a static HTML page from the digest, for GitHub Pages.
+htmlsite.py - Generates docs/data.json (daily story data) and
+docs/index.html (the app shell, only written once / when design changes).
 
-Writes to docs/index.html, which GitHub Pages can serve directly if you
-enable Pages on the `docs/` folder of the main branch (Settings > Pages >
-Source: Deploy from a branch > main > /docs). No build step, no JS
-framework, no extra dependencies - just one self-contained HTML file.
+The index.html is a self-contained vanilla JS news app that fetches
+data.json and renders a Ground News-style card grid - images, bias bar,
+trending/blindspot tags, source count, filter tabs, smooth animations.
+No build step, no frameworks, works on GitHub Pages as-is.
 """
 import os
+import json
 import html
 import logging
 from typing import List, Dict, Any
@@ -15,168 +17,489 @@ from datetime import datetime
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-_BIAS_COLORS = {
-    "Left": "#2563eb",
-    "Lean Left": "#60a5fa",
-    "Center": "#9ca3af",
-    "Lean Right": "#f87171",
-    "Right": "#dc2626",
-    "Unrated": "#d1d5db",
-}
-
-_PAGE_TEMPLATE = """<!DOCTYPE html>
+# ─── App shell HTML ──────────────────────────────────────────────────────────
+# Written to docs/index.html once (or whenever the design changes).
+# Fetches ./data.json at runtime and renders the UI.
+_APP_SHELL = r"""<!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>News Digest - {date}</title>
+<title>Daily News Digest</title>
 <style>
-  :root {{ color-scheme: light dark; }}
-  body {{
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  :root {
+    --bg: #0d0f12;
+    --surface: #161a20;
+    --surface2: #1e2330;
+    --border: #2a2f3d;
+    --text: #e8eaf0;
+    --text2: #8892a4;
+    --accent: #4f8ef7;
+    --left: #3b82f6;
+    --center: #6b7280;
+    --right: #ef4444;
+    --trending: #f59e0b;
+    --blindspot-l: #3b82f6;
+    --blindspot-r: #ef4444;
+    --radius: 14px;
+    --shadow: 0 4px 24px rgba(0,0,0,.45);
+  }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
     font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-    max-width: 760px;
+    min-height: 100vh;
+  }
+
+  /* ── Header ── */
+  header {
+    padding: 24px 24px 0;
+    max-width: 1400px;
     margin: 0 auto;
-    padding: 24px 16px 64px;
-    line-height: 1.5;
-    background: #fafafa;
-    color: #1a1a1a;
-  }}
-  @media (prefers-color-scheme: dark) {{
-    body {{ background: #111315; color: #e5e7eb; }}
-    .story {{ background: #1a1d21 !important; border-color: #2a2d31 !important; }}
-    a {{ color: #93c5fd !important; }}
-  }}
-  h1 {{ font-size: 1.6rem; margin-bottom: 4px; }}
-  .summary {{ color: #666; margin-bottom: 24px; font-size: 0.95rem; }}
-  .story {{
-    background: #fff;
-    border: 1px solid #e5e7eb;
-    border-radius: 10px;
-    padding: 18px 20px;
+  }
+  .header-top {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 6px;
+  }
+  .logo { font-size: 1.5rem; font-weight: 700; letter-spacing: -.5px; }
+  .logo span { color: var(--accent); }
+  #date-label { font-size: .85rem; color: var(--text2); }
+  .stats {
+    display: flex; gap: 20px; flex-wrap: wrap;
+    font-size: .8rem; color: var(--text2);
     margin-bottom: 16px;
-  }}
-  .story.blindspot {{ border-left: 4px solid #f59e0b; }}
-  .story h2 {{ font-size: 1.1rem; margin: 0 0 8px; }}
-  .story h2 a {{ color: inherit; text-decoration: none; }}
-  .story h2 a:hover {{ text-decoration: underline; }}
-  .meta {{ font-size: 0.85rem; color: #666; margin-bottom: 10px; }}
-  .also-covered {{ font-size: 0.85rem; color: #666; margin-bottom: 6px; }}
-  .bias-tags {{ display: flex; flex-wrap: wrap; gap: 6px; margin-bottom: 10px; }}
-  .bias-tag {{
-    display: inline-block;
-    font-size: 0.72rem;
-    font-weight: 600;
+  }
+  .stats b { color: var(--text); }
+
+  /* ── Filter bar ── */
+  .filters {
+    display: flex; gap: 8px; flex-wrap: wrap;
+    margin-bottom: 24px;
+  }
+  .filter-btn {
+    padding: 6px 14px;
+    border-radius: 999px;
+    border: 1px solid var(--border);
+    background: var(--surface);
+    color: var(--text2);
+    cursor: pointer;
+    font-size: .82rem;
+    transition: all .18s;
+  }
+  .filter-btn:hover { border-color: var(--accent); color: var(--text); }
+  .filter-btn.active {
+    background: var(--accent);
+    border-color: var(--accent);
     color: #fff;
-    padding: 2px 8px;
-    border-radius: 999px;
-  }}
-  .blindspot-tag {{
-    display: inline-block;
-    font-size: 0.72rem;
-    font-weight: 600;
-    color: #92400e;
-    background: #fef3c7;
-    padding: 2px 8px;
-    border-radius: 999px;
-    margin-bottom: 10px;
-  }}
-  ul {{ margin: 8px 0 0; padding-left: 20px; }}
-  li {{ margin-bottom: 4px; }}
-  footer {{ margin-top: 32px; font-size: 0.8rem; color: #999; text-align: center; }}
+  }
+
+  /* ── Grid ── */
+  main {
+    max-width: 1400px;
+    margin: 0 auto;
+    padding: 0 24px 64px;
+  }
+  #grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 18px;
+  }
+
+  /* ── Card ── */
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    cursor: pointer;
+    transition: transform .2s, box-shadow .2s, border-color .2s;
+    animation: fadeUp .35s ease both;
+    text-decoration: none;
+    color: inherit;
+  }
+  .card:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--shadow);
+    border-color: #3a4155;
+  }
+
+  @keyframes fadeUp {
+    from { opacity: 0; transform: translateY(14px); }
+    to   { opacity: 1; transform: translateY(0); }
+  }
+
+  /* ── Card image ── */
+  .card-img {
+    position: relative;
+    aspect-ratio: 16/9;
+    overflow: hidden;
+    background: var(--surface2);
+    flex-shrink: 0;
+  }
+  .card-img img {
+    width: 100%; height: 100%;
+    object-fit: cover;
+    display: block;
+    transition: transform .35s;
+  }
+  .card:hover .card-img img { transform: scale(1.04); }
+
+  /* placeholder when no image */
+  .card-img .no-img {
+    width: 100%; height: 100%;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 2.2rem; color: var(--border);
+  }
+
+  /* image gradient overlay */
+  .card-img::after {
+    content: '';
+    position: absolute; inset: 0;
+    background: linear-gradient(to bottom, transparent 40%, rgba(13,15,18,.88) 100%);
+    pointer-events: none;
+  }
+
+  /* tags layered on top of image */
+  .img-tags {
+    position: absolute; top: 10px; left: 10px;
+    display: flex; gap: 6px; flex-wrap: wrap; z-index: 2;
+  }
+
+  /* ── Tags ── */
+  .tag {
+    display: inline-flex; align-items: center; gap: 4px;
+    padding: 3px 9px; border-radius: 999px;
+    font-size: .7rem; font-weight: 700; letter-spacing: .3px;
+    text-transform: uppercase;
+  }
+  .tag-trending  { background: var(--trending); color: #000; }
+  .tag-blindspot-l { background: var(--blindspot-l); color: #fff; }
+  .tag-blindspot-r { background: var(--blindspot-r); color: #fff; }
+  .tag-multi     { background: rgba(255,255,255,.12); color: #fff; backdrop-filter: blur(4px); }
+
+  /* ── Card body ── */
+  .card-body { padding: 14px 16px; flex: 1; display: flex; flex-direction: column; gap: 8px; }
+
+  .card-source { font-size: .75rem; color: var(--text2); }
+  .card-source .source-count {
+    margin-left: 6px;
+    background: var(--surface2);
+    padding: 1px 7px; border-radius: 999px;
+    font-size: .68rem; color: var(--text2);
+  }
+
+  .card-title {
+    font-size: .97rem; font-weight: 600; line-height: 1.4;
+    color: var(--text);
+    display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .card-bullets {
+    list-style: none; padding: 0;
+    font-size: .8rem; color: var(--text2); line-height: 1.5;
+    display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  .card-bullets li::before { content: '·  '; color: var(--accent); font-weight: 700; }
+
+  /* ── Bias bar ── */
+  .bias-bar-wrap { margin-top: auto; padding-top: 10px; }
+  .bias-bar {
+    display: flex; height: 5px; border-radius: 999px; overflow: hidden;
+    gap: 1px;
+  }
+  .bias-bar .seg-l { background: var(--left); }
+  .bias-bar .seg-c { background: var(--center); }
+  .bias-bar .seg-r { background: var(--right); }
+  .bias-labels {
+    display: flex; justify-content: space-between;
+    font-size: .68rem; color: var(--text2); margin-top: 4px;
+  }
+  .bias-labels .bl { color: var(--left); font-weight: 600; }
+  .bias-labels .bc { color: var(--center); }
+  .bias-labels .br { color: var(--right); font-weight: 600; }
+
+  /* ── No results ── */
+  #empty {
+    display: none; text-align: center; color: var(--text2);
+    padding: 80px 20px; font-size: 1rem;
+    grid-column: 1 / -1;
+  }
+
+  /* ── Loading ── */
+  #loading {
+    display: flex; flex-direction: column; align-items: center;
+    justify-content: center; height: 60vh; gap: 16px; color: var(--text2);
+  }
+  .spinner {
+    width: 36px; height: 36px; border: 3px solid var(--border);
+    border-top-color: var(--accent);
+    border-radius: 50%; animation: spin .7s linear infinite;
+  }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  @media (max-width: 600px) {
+    header, main { padding-left: 14px; padding-right: 14px; }
+    #grid { grid-template-columns: 1fr; }
+  }
 </style>
 </head>
 <body>
-<h1>📰 News Digest</h1>
-<div class="summary">{date_full} · {total} stories · {multi_source} with multi-source coverage · {blindspot_count} blindspot{plural}</div>
-{stories}
-<footer>Generated automatically · sources span the political spectrum (see README for bias methodology)</footer>
+
+<header>
+  <div class="header-top">
+    <div class="logo">News<span>Digest</span></div>
+    <div id="date-label"></div>
+  </div>
+  <div class="stats" id="stats"></div>
+  <div class="filters" id="filters">
+    <button class="filter-btn active" data-filter="all">All</button>
+    <button class="filter-btn" data-filter="trending">🔥 Trending</button>
+    <button class="filter-btn" data-filter="blindspot">🔍 Blindspot</button>
+    <button class="filter-btn" data-filter="multi">📰 Multi-source</button>
+  </div>
+</header>
+
+<main>
+  <div id="loading"><div class="spinner"></div><span>Loading today's digest…</span></div>
+  <div id="grid" style="display:none">
+    <div id="empty">No stories match this filter.</div>
+  </div>
+</main>
+
+<script>
+const BIAS_ICONS = { left: '◀', center: '●', right: '▶' };
+
+function biasBlindspotLabel(story) {
+  if (!story.is_blindspot) return null;
+  const bar = story.bias_bar || {};
+  if ((bar.left_pct || 0) > (bar.right_pct || 0)) return 'blindspot-l';
+  return 'blindspot-r';
+}
+
+function blindspotLabel(story) {
+  const cls = biasBlindspotLabel(story);
+  if (!cls) return '';
+  const side = cls === 'blindspot-l' ? 'Left' : 'Right';
+  return `<span class="tag tag-${cls}">🔍 Blindspot ${side}</span>`;
+}
+
+function makeCard(story, delay) {
+  const bar = story.bias_bar || { left_pct: 0, center_pct: 100, right_pct: 0, total: 1 };
+  const sources = story.all_sources || [story.source];
+  const sourceCount = sources.length;
+
+  const imgHtml = story.image_url
+    ? `<img src="${escHtml(story.image_url)}" alt="" loading="lazy" onerror="this.parentElement.innerHTML='<div class=no-img>📰</div>'">`
+    : `<div class="no-img">📰</div>`;
+
+  const trendingTag = story.is_trending
+    ? `<span class="tag tag-trending">🔥 Trending</span>` : '';
+  const bsTag = blindspotLabel(story);
+  const multiTag = sourceCount > 1 && !story.is_blindspot && !story.is_trending
+    ? `<span class="tag tag-multi">📰 ${sourceCount} sources</span>` : '';
+
+  const bullets = (story.bullet_points || []).slice(0, 2)
+    .map(b => `<li>${escHtml(b)}</li>`).join('');
+
+  // bias bar segments - only show if width > 0
+  const lw = bar.left_pct, cw = bar.center_pct, rw = bar.right_pct;
+  const barSegs = [
+    lw > 0 ? `<div class="seg-l" style="flex:${lw}"></div>` : '',
+    cw > 0 ? `<div class="seg-c" style="flex:${cw}"></div>` : '',
+    rw > 0 ? `<div class="seg-r" style="flex:${rw}"></div>` : '',
+  ].join('');
+
+  const lLabel = lw > 0 ? `<span class="bl">L ${lw}%</span>` : '<span></span>';
+  const cLabel = cw > 0 ? `<span class="bc">C ${cw}%</span>` : '<span></span>';
+  const rLabel = rw > 0 ? `<span class="br">R ${rw}%</span>` : '<span></span>';
+
+  const otherSources = sources.filter(s => s !== story.source);
+  const alsoBy = otherSources.length
+    ? `<span class="source-count">+${otherSources.length} more</span>` : '';
+
+  return `
+    <a class="card" href="${escHtml(story.link)}" target="_blank" rel="noopener"
+       style="animation-delay:${delay}ms"
+       data-trending="${story.is_trending}" data-blindspot="${story.is_blindspot}"
+       data-multi="${sourceCount > 1}">
+      <div class="card-img">
+        ${imgHtml}
+        <div class="img-tags">${trendingTag}${bsTag}${multiTag}</div>
+      </div>
+      <div class="card-body">
+        <div class="card-source">
+          ${escHtml(story.source)}${alsoBy}
+        </div>
+        <div class="card-title">${escHtml(story.title)}</div>
+        <ul class="card-bullets">${bullets}</ul>
+        <div class="bias-bar-wrap">
+          <div class="bias-bar">${barSegs}</div>
+          <div class="bias-labels">${lLabel}${cLabel}${rLabel}</div>
+        </div>
+      </div>
+    </a>`;
+}
+
+function escHtml(str) {
+  return String(str || '')
+    .replace(/&/g,'&amp;').replace(/</g,'&lt;')
+    .replace(/>/g,'&gt;').replace(/"/g,'&quot;')
+    .replace(/'/g,'&#39;');
+}
+
+let allStories = [];
+let activeFilter = 'all';
+
+function render(filter) {
+  activeFilter = filter;
+  const grid = document.getElementById('grid');
+  const empty = document.getElementById('empty');
+
+  let stories = allStories;
+  if (filter === 'trending') stories = stories.filter(s => s.is_trending);
+  if (filter === 'blindspot') stories = stories.filter(s => s.is_blindspot);
+  if (filter === 'multi')     stories = stories.filter(s => (s.all_sources||[]).length > 1);
+
+  // remove old cards (not empty div)
+  [...grid.querySelectorAll('.card')].forEach(el => el.remove());
+
+  if (!stories.length) {
+    empty.style.display = 'block';
+  } else {
+    empty.style.display = 'none';
+    stories.forEach((story, i) => {
+      grid.insertAdjacentHTML('beforeend', makeCard(story, i * 35));
+    });
+  }
+}
+
+document.getElementById('filters').addEventListener('click', e => {
+  const btn = e.target.closest('.filter-btn');
+  if (!btn) return;
+  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  render(btn.dataset.filter);
+});
+
+fetch('./data.json')
+  .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
+  .then(data => {
+    document.getElementById('loading').style.display = 'none';
+    document.getElementById('grid').style.display = 'grid';
+
+    allStories = data.stories || [];
+    const stats = data.stats || {};
+    const d = new Date(data.generated_at || Date.now());
+    document.getElementById('date-label').textContent =
+      d.toLocaleDateString('en-US', { weekday:'long', month:'long', day:'numeric', year:'numeric' });
+
+    document.getElementById('stats').innerHTML = `
+      <span><b>${stats.total || allStories.length}</b> stories</span>
+      <span><b>${stats.multi_source || 0}</b> multi-source</span>
+      <span><b>${stats.trending || 0}</b> trending</span>
+      <span><b>${stats.blindspots || 0}</b> blindspots</span>
+    `;
+
+    render('all');
+  })
+  .catch(err => {
+    document.getElementById('loading').innerHTML =
+      `<div style="color:#ef4444">Failed to load digest: ${err.message}</div>`;
+  });
+</script>
 </body>
 </html>
 """
 
 
-def _bias_tags_html(bias_breakdown: Dict[str, int]) -> str:
-    tags = []
-    for label, count in bias_breakdown.items():
-        color = _BIAS_COLORS.get(label, "#d1d5db")
-        tags.append(f'<span class="bias-tag" style="background:{color}">{html.escape(label)}: {count}</span>')
-    return f'<div class="bias-tags">{"".join(tags)}</div>' if tags else ""
-
-
-def _story_html(article: Dict[str, Any]) -> str:
-    title = html.escape(article.get('title', 'No title'))
-    link = html.escape(article.get('link', '#'))
-    source = html.escape(article.get('source', 'Unknown'))
-    bullets = article.get('bullet_points', ['No summary'])
-    all_sources = article.get('all_sources', [source])
-    bias_counts = article.get('bias_breakdown', {})
-    blindspot = article.get('is_blindspot', False)
-
-    parts = [f'<div class="story{" blindspot" if blindspot else ""}">']
-    parts.append(f'<h2><a href="{link}" target="_blank" rel="noopener">{title}</a></h2>')
-    parts.append(f'<div class="meta">Source: {source}</div>')
-
-    others = [s for s in all_sources if s != article.get('source')]
-    if others:
-        parts.append(f'<div class="also-covered">Also covered by: {html.escape(", ".join(others))}</div>')
-
-    parts.append(_bias_tags_html(bias_counts))
-
-    if blindspot:
-        parts.append('<div class="blindspot-tag">🔍 Blindspot - one-sided coverage</div>')
-
-    parts.append('<ul>')
-    for bullet in bullets:
-        parts.append(f'<li>{html.escape(bullet)}</li>')
-    parts.append('</ul>')
-
-    parts.append('</div>')
-    return "\n".join(parts)
-
+# ─── Python: generate data.json ──────────────────────────────────────────────
 
 def generate_site(articles: List[Dict[str, Any]], output_dir: str = 'docs') -> str:
     """
-    Generate a static HTML digest page at {output_dir}/index.html.
+    Generate docs/data.json (the daily story data consumed by the JS app)
+    and docs/index.html (the app shell — only written if it doesn't already
+    exist, so the design survives daily pipeline runs unchanged).
 
     Args:
-        articles: List of processed story dicts (same shape as the
-            markdown digest uses)
-        output_dir: Directory to write index.html into (GitHub Pages
-            convention is 'docs' on the main branch)
+        articles: Processed story dicts from the pipeline
+        output_dir: Directory to write into (default: docs/)
 
     Returns:
-        Path to the generated file, or "" on failure
+        Path to data.json, or "" on failure
     """
     try:
         os.makedirs(output_dir, exist_ok=True)
 
-        total = len(articles)
+        total        = len(articles)
         multi_source = sum(1 for a in articles if len(a.get('all_sources', [])) > 1)
-        blindspot_count = sum(1 for a in articles if a.get('is_blindspot'))
+        trending     = sum(1 for a in articles if a.get('is_trending'))
+        blindspots   = sum(1 for a in articles if a.get('is_blindspot'))
 
-        # Surface blindspots first, same as the markdown digest
-        ordered = sorted(articles, key=lambda a: not a.get('is_blindspot', False))
-        stories_html = "\n".join(_story_html(a) for a in ordered)
+        # Build the JSON payload
+        payload = {
+            "date": datetime.now().strftime('%Y-%m-%d'),
+            "generated_at": datetime.now().isoformat(),
+            "stats": {
+                "total": total,
+                "multi_source": multi_source,
+                "trending": trending,
+                "blindspots": blindspots,
+            },
+            "stories": []
+        }
 
-        page = _PAGE_TEMPLATE.format(
-            date=datetime.now().strftime('%Y-%m-%d'),
-            date_full=datetime.now().strftime('%B %d, %Y'),
-            total=total,
-            multi_source=multi_source,
-            blindspot_count=blindspot_count,
-            plural='s' if blindspot_count != 1 else '',
-            stories=stories_html,
+        # Surface blindspots first, then trending, then rest (by date)
+        ordered = sorted(
+            articles,
+            key=lambda a: (not a.get('is_blindspot', False),
+                           not a.get('is_trending', False))
         )
 
-        output_path = os.path.join(output_dir, 'index.html')
-        with open(output_path, 'w', encoding='utf-8') as f:
-            f.write(page)
+        for article in ordered:
+            story = {
+                "title":         article.get('title', ''),
+                "link":          article.get('link', ''),
+                "source":        article.get('source', ''),
+                "all_sources":   article.get('all_sources', [article.get('source', '')]),
+                "bias_breakdown": article.get('bias_breakdown', {}),
+                "bias_bar":      article.get('bias_bar', {"left_pct":0,"center_pct":100,"right_pct":0,"total":1}),
+                "is_blindspot":  article.get('is_blindspot', False),
+                "is_trending":   article.get('is_trending', False),
+                "bullet_points": article.get('bullet_points', []),
+                "image_url":     article.get('image_url'),
+                "published":     article.get('published', ''),
+            }
+            payload["stories"].append(story)
 
-        logger.info(f"Static site generated at {output_path}")
-        return output_path
+        # Write data.json (updated every run)
+        data_path = os.path.join(output_dir, 'data.json')
+        with open(data_path, 'w', encoding='utf-8') as f:
+            json.dump(payload, f, ensure_ascii=False, indent=2)
+        logger.info(f"data.json written: {total} stories → {data_path}")
+
+        # Write index.html only if it doesn't already exist
+        # (preserves any manual design tweaks between runs)
+        index_path = os.path.join(output_dir, 'index.html')
+        if not os.path.exists(index_path):
+            with open(index_path, 'w', encoding='utf-8') as f:
+                f.write(_APP_SHELL)
+            logger.info(f"App shell written: {index_path}")
+        else:
+            logger.info(f"App shell already exists, skipping: {index_path}")
+
+        return data_path
 
     except Exception as e:
-        logger.error(f"Error generating static site: {e}")
+        logger.error(f"Error generating site: {e}")
         return ""
 
 
@@ -186,10 +509,14 @@ if __name__ == '__main__':
             'title': 'France confirms first Ebola case',
             'link': 'https://example.com/1',
             'source': 'BBC World',
-            'all_sources': ['BBC World', 'NYT World'],
-            'bias_breakdown': {'Center': 1, 'Lean Left': 1},
+            'all_sources': ['BBC World', 'NYT World', 'Al Jazeera'],
+            'bias_breakdown': {'Center': 1, 'Lean Left': 2},
+            'bias_bar': {'left_pct': 67, 'center_pct': 33, 'right_pct': 0, 'total': 3},
             'is_blindspot': False,
-            'bullet_points': ['A doctor was infected after travel to DR Congo.']
+            'is_trending': True,
+            'image_url': 'https://ichef.bbci.co.uk/news/1024/branded_news/placeholder.jpg',
+            'bullet_points': ['A doctor was infected after travel to DR Congo.',
+                              'The authorities said the risk to the wider population was low.']
         },
         {
             'title': 'Iran loyalists promote wider nationalism',
@@ -197,11 +524,12 @@ if __name__ == '__main__':
             'source': 'NYT World',
             'all_sources': ['NYT World'],
             'bias_breakdown': {'Lean Left': 1},
+            'bias_bar': {'left_pct': 100, 'center_pct': 0, 'right_pct': 0, 'total': 1},
             'is_blindspot': True,
+            'is_trending': False,
+            'image_url': None,
             'bullet_points': ['Government supporters show ties with former dissidents.']
         },
     ]
-    path = generate_site(test_articles, output_dir='/tmp/site_test')
+    path = generate_site(test_articles, output_dir='/tmp/site_test2')
     print(f"Wrote {path}")
-    with open(path) as f:
-        print(f.read()[:500])

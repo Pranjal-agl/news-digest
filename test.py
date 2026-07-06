@@ -4,6 +4,7 @@ test.py - Test individual components of the AI News Digest Bot
 Run this to verify each module works correctly.
 """
 import sys
+import json
 import os
 
 # Add src to path
@@ -240,17 +241,20 @@ def test_site():
         ]
 
         with tempfile.TemporaryDirectory() as tmpdir:
-            path = generate_site(test_articles, output_dir=tmpdir)
-            if not path or not os.path.exists(path):
-                print("Site generation failed - no file produced")
+            data_path = generate_site(test_articles, output_dir=tmpdir)
+            if not data_path or not os.path.exists(data_path):
+                print("Site generation failed - no data.json produced")
                 return False
 
-            with open(path) as f:
-                content = f.read()
+            index_path = os.path.join(tmpdir, 'index.html')
+            with open(data_path) as f:
+                data = json.load(f)
 
-            print(f"Site generated successfully ({len(content)} chars)")
-            print(f"  Contains both story titles: {'France confirms' in content and 'Iran loyalists' in content}")
-            print(f"  Blindspot tag present: {'Blindspot' in content}")
+            print(f"data.json written ({len(data['stories'])} stories)")
+            print(f"  Trending count: {data['stats']['trending']}")
+            print(f"  Blindspot count: {data['stats']['blindspots']}")
+            print(f"  bias_bar present: {'bias_bar' in data['stories'][0]}")
+            print(f"  index.html written: {os.path.exists(index_path)}")
 
         return True
 

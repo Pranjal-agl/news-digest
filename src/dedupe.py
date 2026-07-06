@@ -10,7 +10,7 @@ from difflib import SequenceMatcher
 import re
 import logging
 
-from bias import get_bias_label, bias_breakdown, is_blindspot
+from bias import get_bias_label, bias_breakdown, bias_bar_data, is_blindspot
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -162,10 +162,19 @@ def group_articles(articles: List[Dict[str, Any]],
 
         all_sources = [a.get('source', 'Unknown') for a in group_articles_list]
 
+        # Pick the first available image from any article in the group
+        image_url = next(
+            (a.get('image_url') for a in group_articles_list if a.get('image_url')),
+            None
+        )
+
         merged = dict(best)
         merged['all_sources'] = all_sources
         merged['bias_breakdown'] = bias_breakdown(all_sources)
+        merged['bias_bar'] = bias_bar_data(all_sources)
         merged['is_blindspot'] = is_blindspot(all_sources)
+        merged['is_trending'] = len(all_sources) >= 3
+        merged['image_url'] = image_url
 
         grouped.append(merged)
         seen_indices.add(i)

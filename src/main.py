@@ -120,11 +120,13 @@ def run_pipeline(config: dict) -> bool:
         success_count = sum(1 for v in results.values() if v)
         logger.info(f"Delivered to {success_count}/{len(results)} channels")
 
-        # Step 5: Generate static HTML site for GitHub Pages
-        logger.info("\n[Step 5] Generating static site...")
-        site_path = generate_site(processed)
+        # Step 5: Generate site data + app shell for GitHub Pages
+        logger.info("\n[Step 5] Generating site data...")
+        project_root = Path(__file__).resolve().parent.parent
+        docs_dir = str(project_root / 'docs')
+        site_path = generate_site(processed, output_dir=docs_dir)
         if site_path:
-            logger.info(f"Static site updated: {site_path}")
+            logger.info(f"Site data written: {site_path}")
         
         logger.info("\n" + "=" * 60)
         logger.info("Pipeline Complete!")

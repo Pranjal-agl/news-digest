@@ -5,6 +5,7 @@ No accounts, no API keys, no signup needed - just public RSS feeds.
 """
 import feedparser
 import requests
+import re
 from typing import List, Dict, Any, Optional
 from datetime import datetime
 import logging
@@ -12,12 +13,54 @@ import logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-# feedparser.parse() has no built-in timeout, and if it's given a URL it
-# will use urllib under the hood, which can hang for minutes on a slow or
-# unresponsive server. To avoid that, we always fetch raw bytes ourselves
-# with `requests` (which DOES support a timeout) and hand those bytes to
-# feedparser instead of letting it fetch the URL itself.
 REQUEST_TIMEOUT = 10  # seconds
+
+
+def _extract_image(entry) -> Optional[str]:
+    """
+    Extract the best available thumbnail/image URL from an RSS entry.
+    Checks, in order:
+      1. media:thumbnail  (BBC, Guardian, NYT, Fox etc all use this)
+      2. media:content with image type
+      3. enclosure with image type
+      4. first <img> tag embedded in summary HTML (fallback)
+    Returns the URL string, or None if nothing found.
+    """
+    # 1. media:thumbnail
+    thumbnails = getattr(entry, 'media_thumbnail', None)
+    if thumbnails:
+        return thumbnails[0].get('url')
+
+    # 2. media:content flagged as image
+    media = getattr(entry, 'media_content', None)
+    if media:
+        for m in media:
+            url = m.get('url', '')
+            medium = m.get('medium', '')
+            mime = m.get('type', '')
+            if medium == 'image' or mime.startswith('image/') or any(
+                url.lower().endswith(ext) for ext in ('.jpg', '.jpeg', '.png', '.webp')
+            ):
+                return url
+
+    # 3. RSS enclosure
+    enclosures = getattr(entry, 'enclosures', None)
+    if enclosures:
+        for enc in enclosures:
+            mime = enc.get('type', '')
+            if mime.startswith('image/'):
+                return enc.get('href') or enc.get('url')
+
+    # 4. Scrape first <img src="..."> from the summary HTML as last resort
+    summary = entry.get('summary', '') or ''
+    if summary:
+        match = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', summary, re.IGNORECASE)
+        if match:
+            url = match.group(1)
+            if url.startswith('http'):
+                return url
+
+    return None
 
 
 def _fetch_feed_bytes(url: str) -> Optional[bytes]:
@@ -92,6 +135,7 @@ def fetch_rss_articles(rss_urls: List[Dict[str, str]]) -> List[Dict[str, Any]]:
                     'source': name,
                     'summary': entry.get('summary', entry.get('description', '')),
                     'published': entry.get('published', datetime.now().isoformat()),
+                    'image_url': _extract_image(entry),
                     'type': 'rss'
                 }
                 articles.append(article)

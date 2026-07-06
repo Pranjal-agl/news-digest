@@ -7,11 +7,17 @@ Actions, the workflow commits these files back to the repo automatically -
 so "delivery" is just an updated doc you can read on GitHub.
 """
 import os
+import html as html_module
 import logging
 from typing import List, Dict, Any
 import requests
 from datetime import datetime
 from dotenv import load_dotenv
+
+
+def _clean(text: str) -> str:
+    """Unescape HTML entities (e.g. &apos; → ') from RSS-sourced text."""
+    return html_module.unescape(str(text or ''))
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -27,10 +33,10 @@ def format_digest_text(articles: List[Dict[str, Any]]) -> str:
     digest = f"News Digest - {today}\n\n"
 
     for i, article in enumerate(articles, 1):
-        title = article.get('title', 'No title')
+        title = _clean(article.get('title', 'No title'))
         link = article.get('link', '')
         source = article.get('source', 'Unknown')
-        bullets = article.get('bullet_points', ['No summary'])
+        bullets = [_clean(b) for b in article.get('bullet_points', ['No summary'])]
 
         digest += f"{i}. [{title}]({link})\n"
         digest += f"   *Source: {source}*\n"
@@ -65,10 +71,10 @@ def format_digest_markdown(articles: List[Dict[str, Any]]) -> str:
     ordered = sorted(articles, key=lambda a: not a.get('is_blindspot', False))
 
     for i, article in enumerate(ordered, 1):
-        title = article.get('title', 'No title')
+        title = _clean(article.get('title', 'No title'))
         link = article.get('link', '')
         source = article.get('source', 'Unknown')
-        bullets = article.get('bullet_points', ['No summary'])
+        bullets = [_clean(b) for b in article.get('bullet_points', ['No summary'])]
         all_sources = article.get('all_sources', [source])
         bias_counts = article.get('bias_breakdown', {})
         blindspot = article.get('is_blindspot', False)
