@@ -249,7 +249,7 @@
 <main>
   <div id="loading"><div class="spinner"></div><span>Loading today's digest…</span></div>
   <div id="grid" style="display:none">
-    <div id="empty">No stories match this filter.</div>
+    <div id="empty">No stories yet. Run the workflow from the GitHub Actions tab to generate today's digest.</div>
   </div>
 </main>
 
@@ -368,7 +368,7 @@ document.getElementById('filters').addEventListener('click', e => {
   render(btn.dataset.filter);
 });
 
-fetch('./data.json')
+fetch('./data.json?t=' + Date.now())
   .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
   .then(data => {
     document.getElementById('loading').style.display = 'none';
@@ -391,7 +391,7 @@ fetch('./data.json')
   })
   .catch(err => {
     document.getElementById('loading').innerHTML =
-      `<div style="color:#ef4444">Failed to load digest: ${err.message}</div>`;
+      `<div style="color:#ef4444">⏳ No digest yet — trigger the workflow from the Actions tab to generate today's stories.</div>`;
   });
 </script>
 </body>
