@@ -1,45 +1,43 @@
 {
-  "date": "2026-07-15",
-  "generated_at": "2026-07-15T10:01:34.791398",
+  "date": "2026-07-16",
+  "generated_at": "2026-07-16T10:07:46.948457",
   "stats": {
     "total": 50,
-    "multi_source": 3,
-    "trending": 1,
+    "multi_source": 2,
+    "trending": 0,
     "blindspots": 1
   },
   "stories": [
     {
-      "title": "U.S. and Iran Reignite War Over Strait of Hormuz",
-      "link": "https://www.nytimes.com/live/2026/07/14/world/iran-war-trump-hormuz",
-      "source": "NYT World",
+      "title": "Wildfires in Ontario make Toronto air quality worst in world",
+      "link": "https://www.theguardian.com/world/2026/jul/15/wildfires-in-ontario-make-toronto-canada-air-quality-worst-in-world",
+      "source": "The Guardian World",
       "all_sources": [
         "NYT World",
-        "NPR World",
-        "NPR World",
-        "Al Jazeera"
+        "The Guardian World"
       ],
       "bias_breakdown": {
-        "Lean Left": 4
+        "Lean Left": 2
       },
       "bias_bar": {
         "left_pct": 100,
         "center_pct": 0,
         "right_pct": 0,
-        "total": 4
+        "total": 2
       },
       "is_blindspot": true,
-      "is_trending": true,
+      "is_trending": false,
       "bullet_points": [
-        "The two countries slid back to open war over the waterway, as the U.S.",
-        "planned to reinstate a blockade on Iranian ports on Tuesday.",
-        "Iran said it had attacked two tankers and fired at U.S."
+        "Environment Canada has issued health warnings after sky over city turns yellow  Smoke from more than 100 active wildfires in northern Ontario have made Toronto’s air quality the current worst in the world and caused yellow, smoky air in cities across the north-east US.",
+        "Environment Canada issued health warnings on Wednesday after the sky over country’s largest city turned a sickly yellow and was ranked the worst in the world according to  IQAir , the Swiss technology company that racks global air quality.",
+        "Continue reading..."
       ],
-      "image_url": "https://static01.nyt.com/images/2026/07/14/multimedia/14live-mideast-header-hbwm-alert-copy/14live-mideast-header-hbwm-mediumSquareAt3X.jpg",
-      "published": "Tue, 14 Jul 2026 20:36:23 +0000"
+      "image_url": "https://static01.nyt.com/images/2026/07/15/multimedia/15int-canada-smoke-wkhc/15int-canada-smoke-wkhc-mediumSquareAt3X.jpg",
+      "published": "Wed, 15 Jul 2026 16:08:39 GMT"
     },
     {
-      "title": "Kenyan court dismisses Rastafarians' bid to legalise cannabis",
-      "link": "https://www.bbc.co.uk/news/articles/c0lyl5ryyr4o?at_medium=RSS&at_campaign=rss",
+      "title": "New monkey species with orange lips found 'hiding' in DR Congo forest",
+      "link": "https://www.bbc.co.uk/news/articles/c15y5wgj4x8o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "all_sources": [
         "BBC World"
@@ -56,14 +54,14 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "The court acknowledged the need for a broader national debate on cannabis policy in Kenya."
+        "Scientists describe \"amazing feeling\" to look into the face of an animal that so few people knew existed."
       ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb9d/live/a4f76250-8024-11f1-bee8-53ce494e1abc.jpg",
-      "published": "Wed, 15 Jul 2026 09:57:11 GMT"
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d72/live/6b309920-80e1-11f1-bee8-53ce494e1abc.jpg",
+      "published": "Wed, 15 Jul 2026 23:02:49 GMT"
     },
     {
-      "title": "Boss of fake government agency arrested in Nigeria after weeks on the run",
-      "link": "https://www.bbc.co.uk/news/articles/c17y7ykzgrgo?at_medium=RSS&at_campaign=rss",
+      "title": "Families of 43 victims await verdict in Genoa bridge disaster",
+      "link": "https://www.bbc.co.uk/news/articles/c20y00712ezo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "all_sources": [
         "BBC World"
@@ -80,14 +78,62 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "The case has gripped Nigeria since President Bola Tinubu ordered a corruption investigation last week."
+        "A large section of the giant Morandi motorway bridge crumbled and collapsed on to the railway tracks below."
       ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4f3/live/b190b220-8013-11f1-855c-e18bf6105698.jpg",
-      "published": "Wed, 15 Jul 2026 09:42:09 GMT"
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/86c0/live/1516edc0-8071-11f1-b976-0b9c15b0ccfc.jpg",
+      "published": "Wed, 15 Jul 2026 23:02:37 GMT"
     },
     {
-      "title": "China economic growth falls sharply, missing target",
-      "link": "https://www.bbc.co.uk/news/articles/cd959x4edy8o?at_medium=RSS&at_campaign=rss",
+      "title": "Jamey Carney, NY mom allegedly slain in Ireland by migrant beau, remembered as ‘ray of sunshine’ at funeral",
+      "link": "https://nypost.com/2026/07/16/world-news/jamey-carney-laid-to-rest-after-alleged-murder-by-migrant-beau/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The FBI stands ready to assist Irish police as the Jordanian suspect in the Killarney murder case remains detained."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2F2026-new-york-native-found-134546074.jpg?w%3D1024",
+      "published": "Wed, 15 Jul 2026 21:30:08 -0700"
+    },
+    {
+      "title": "As Argentina Tries to Win the World Cup, the Rest of Latin America Cheers Against It",
+      "link": "https://www.nytimes.com/2026/07/15/world/americas/argentina-world-cup-semifinals.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Rather than rally behind the tournament’s last Latin American team, other countries in the region are confronting Argentina’s fraught claims to its own identity."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/07/15/multimedia/15int-argentina-hate01-photo-vlpm/15int-argentina-hate01-photo-vlpm-mediumSquareAt3X.jpg",
+      "published": "Wed, 15 Jul 2026 21:24:08 +0000"
+    },
+    {
+      "title": "Russian attacks kill 14 as Ukraine hits Black Sea oil tankers",
+      "link": "https://www.bbc.co.uk/news/articles/c8929jv8kdzo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "all_sources": [
         "BBC World"
@@ -104,134 +150,14 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Weak demand domestically and the impact of the Iran war on oil prices overshadowed the country's strong exports."
+        "Civilian casualties are reported in a number of Ukrainian regions, while Kyiv hits 20 Russian vessels in the Black Sea."
       ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8de/live/7e6a3480-7f40-11f1-ba68-9b76167cb04b.jpg",
-      "published": "Wed, 15 Jul 2026 09:40:42 GMT"
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d14b/live/76285910-802f-11f1-a2a1-e90920ef9667.jpg",
+      "published": "Wed, 15 Jul 2026 21:21:19 GMT"
     },
     {
-      "title": "Sheikh Hamad bin Khalifa Al Thani and Al Jazeera",
-      "link": "https://www.aljazeera.com/opinions/2026/7/15/sheikh-hamad-bin-khalifa-al-thani-and-al-jazeera?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "A tribute to the late Father Emir from Al Jazeera&#039;s Chairman of Board of Directors Sheikh Hamad bin Thamer Al Thani."
-      ],
-      "image_url": null,
-      "published": "Wed, 15 Jul 2026 09:32:25 +0000"
-    },
-    {
-      "title": "Iran launches attacks across region as US strikes continue",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/iran-launches-attacks-across-region-as-us-strikes-continue?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Iran attacked Kuwait, Bahrain, and Jordan on Tuesday night, claiming to destroy the US Fifth Fleet’s command centre."
-      ],
-      "image_url": null,
-      "published": "Wed, 15 Jul 2026 09:15:56 +0000"
-    },
-    {
-      "title": "Russian attack on Odesa kills three as Ukraine targets vessels in Black Sea",
-      "link": "https://www.aljazeera.com/news/2026/7/15/russian-attack-on-odesa-kills-three-as-ukraine-targets-vessels-in-black-sea?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "At least three people killed and three others wounded in Russian strikes on Odesa, city&#039;s military administrator says."
-      ],
-      "image_url": null,
-      "published": "Wed, 15 Jul 2026 08:55:40 +0000"
-    },
-    {
-      "title": "US resumes Iran ports blockade as Gulf attacks continue: What’s the latest?",
-      "link": "https://www.aljazeera.com/news/2026/7/15/us-resumes-iran-ports-blockade-as-gulf-attacks-continue-whats-the-latest?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Less than a month after signing an MoU as a step towards peace, the US reinstates a naval blockade on Iranian ports."
-      ],
-      "image_url": null,
-      "published": "Wed, 15 Jul 2026 08:44:38 +0000"
-    },
-    {
-      "title": "Watch FIFA World Cup: Spain defeats France to reach final",
-      "link": "https://www.aljazeera.com/video/2026/7/15/video-world-cup-2026-highlights?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Latest match highlights, reaction and previews from the FIFA World Cup 2026 in North America."
-      ],
-      "image_url": null,
-      "published": "Wed, 15 Jul 2026 08:15:41 +0000"
-    },
-    {
-      "title": "Shipwrecks of Shackleton and Scott recreated in 3D digital form after deep sea expedition",
-      "link": "https://www.theguardian.com/science/2026/jul/15/deep-sea-expedition-builds-digital-twins-shipwrecks-scott-shackleton",
+      "title": "Mexico asks US state attorneys general to investigate immigrant ICE deaths",
+      "link": "https://www.theguardian.com/us-news/2026/jul/15/mexico-investigate-ice-deaths",
       "source": "The Guardian World",
       "all_sources": [
         "The Guardian World"
@@ -248,19 +174,69 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Canadian scientists visit remains of polar exploration vessels in ‘golden era for shipwreck investigating’  Moments after devouring the final glimmers of light, the seafloor offered nothing but darkness and silt.",
-        "Then the bow appeared.",
-        "More than 1,000ft (305 metres) below the surface of the Labrador Sea, off the coast of Canada, the skeleton of the final ship used by the  famed polar explorer Ernest Shackleton  appeared in its silty grave."
+        "Since start of Trump’s second term, 14 Mexican immigrants have died in ICE custody and three in agency operations  Mexico formally requested that US state attorneys general criminally investigate cases of immigrants who have died in Immigration and Customs Enforcement (ICE) custody or during raids, the Mexican government said Tuesday.",
+        "The request follows the death of Mexican immigrant  Lorenzo Salgado Araujo , who was shot and killed by an ICE agent in Houston.",
+        "Since the beginning of  Donald Trump ’s second term, 17 Mexican immigrants have died during immigration enforcement, 14 in ICE custody and three in agency operations."
       ],
       "image_url": null,
-      "published": "Wed, 15 Jul 2026 08:00:49 GMT"
+      "published": "Wed, 15 Jul 2026 20:58:43 GMT"
     },
     {
-      "title": "Lindsey Graham’s sister sworn in to fill his US Senate seat",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/15/lindsey-grahams-sister-sworn-in-to-fill-his-us-senate-seat?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "US strikes northern Iran, hitting a ship accused of trying to break blockade on Islamic Republic",
+      "link": "https://nypost.com/2026/07/15/us-news/us-strikes-northern-iran-hitting-a-ship-accused-of-trying-to-break-blockade-on-islamic-republic/",
+      "source": "New York Post World",
       "all_sources": [
-        "Al Jazeera"
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Already, Iranian officials say US strikes have killed more than than 35 people and wounded over 300 others."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2Fsaid-washington-reimposed-naval-blockade-134461836.jpg?w%3D1024",
+      "published": "Wed, 15 Jul 2026 19:35:31 -0700"
+    },
+    {
+      "title": "France Votes to Allow Assisted Dying",
+      "link": "https://www.nytimes.com/2026/07/15/world/europe/france-law-assisted-dying.html",
+      "source": "NYT World",
+      "all_sources": [
+        "BBC World",
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1,
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 50,
+        "center_pct": 50,
+        "right_pct": 0,
+        "total": 2
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Lawmakers approved a bill that will allow doctors to help terminally ill patients to die, adding France to a short list of nations that allow the practice."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16a7/live/8bde6ac0-807e-11f1-bee8-53ce494e1abc.jpg",
+      "published": "Wed, 15 Jul 2026 19:11:21 +0000"
+    },
+    {
+      "title": "Why is it so hard for the U.S. to win wars?",
+      "link": "https://www.npr.org/2026/07/15/nx-s1-5844921/why-is-it-so-hard-for-the-u-s-to-win-wars",
+      "source": "NPR World",
+      "all_sources": [
+        "NPR World"
       ],
       "bias_breakdown": {
         "Lean Left": 1
@@ -274,38 +250,40 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Lindsey Graham’s sister sworn in to fill his US Senate seat"
+        "The U.S.",
+        "has fought three major wars in the past quarter-century, in Iran, Iraq and Afghanistan.",
+        "None has gone as planned."
       ],
       "image_url": null,
-      "published": "Wed, 15 Jul 2026 07:50:17 +0000"
+      "published": "Wed, 15 Jul 2026 18:05:12 -0400"
     },
     {
-      "title": "Photos: Spain ends Mbappe and France’s World Cup dream to reach final",
-      "link": "https://www.aljazeera.com/gallery/2026/7/15/photos-france-fireworks-fade-as-spain-march-into-world-cup-final?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "Spain’s Lamine Yamal’s home targeted in attempted burglary hours after winning World Cup semifinal",
+      "link": "https://nypost.com/2026/07/15/sports/lamine-yamals-home-nearly-broken-into-hours-after-spains-world-cup-semifinal/",
+      "source": "New York Post World",
       "all_sources": [
-        "Al Jazeera"
+        "New York Post World"
       ],
       "bias_breakdown": {
-        "Lean Left": 1
+        "Lean Right": 1
       },
       "bias_bar": {
-        "left_pct": 100,
+        "left_pct": 0,
         "center_pct": 0,
-        "right_pct": 0,
+        "right_pct": 100,
         "total": 1
       },
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "France’s free-scoring World Cup run ends in 2-0 loss to Spain, denting Mbappe’s hopes of a third final."
+        "The break-in attempt took place in Barcelona, shortly after Spain defeated France in Arlington, Texas."
       ],
-      "image_url": null,
-      "published": "Wed, 15 Jul 2026 07:25:22 +0000"
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2Flamine-yamal-19-spain-arrives-134364085.jpg?w%3D683",
+      "published": "Wed, 15 Jul 2026 18:00:44 -0700"
     },
     {
-      "title": "In Bangkok Bar Blaze, Signs of Fatal Lapses Repeated Across the World",
-      "link": "https://www.nytimes.com/2026/07/14/world/asia/bangkok-bar-fire-flammable-foam.html",
+      "title": "Ukraine Pounds Russian Ships in Its Campaign to Cut Off Crimea",
+      "link": "https://www.nytimes.com/2026/07/15/world/europe/ukraine-russia-crimea-azov-sea.html",
       "source": "NYT World",
       "all_sources": [
         "NYT World"
@@ -322,17 +300,66 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "After a fire killed 30 people, the scrutiny has turned to whether the venue used flammable foam on its ceilings and had blocked exits."
+        "After striking roads and railways, Kyiv is now focusing on sea routes as it tries to disrupt fuel supplies and pressure Russia to end the war."
       ],
-      "image_url": "https://static01.nyt.com/images/2026/07/14/multimedia/14int-thailand-fire-01-pbgz/14int-thailand-fire-01-pbgz-mediumSquareAt3X.jpg",
-      "published": "Wed, 15 Jul 2026 07:24:10 +0000"
+      "image_url": "https://static01.nyt.com/images/2026/07/15/world/15int-ukraine-crimea-ships-angua/15int-ukraine-crimea-ships-angua-mediumSquareAt3X.jpg",
+      "published": "Wed, 15 Jul 2026 17:59:48 +0000"
     },
     {
-      "title": "India’s ethanol rush prompts anger among vehicle owners, questions for gov’t",
-      "link": "https://www.aljazeera.com/news/2026/7/15/indias-ethanol-rush-prompts-anger-among-vehicle-owners-questions-for-govt?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "Influencer dies weeks after cycling collision with Olympian during Italian honeymoon: reports",
+      "link": "https://nypost.com/2026/07/15/world-news/influencer-dies-collision-olympic-skiier-honeymoon/",
+      "source": "New York Post World",
       "all_sources": [
-        "Al Jazeera"
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "A German influencer died three weeks after colliding head on with an Olympic skier while cycling during her honeymoon, according to Italian media."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2FJam_Press_JMP890164.jpg?w%3D821",
+      "published": "Wed, 15 Jul 2026 17:46:53 -0700"
+    },
+    {
+      "title": "Syrians put on brave face after Damascus bombings. But security is a real issue.",
+      "link": "https://www.csmonitor.com/World/Middle-East/2026/0715/syrian-security-damascus-bombings-conspiracy-theories?icid=rss",
+      "source": "Christian Science Monitor World",
+      "all_sources": [
+        "Christian Science Monitor World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Despite bombings in Damascus, including when France’s president was in town, Syrians voice confidence in their safety.",
+        "At the same time, they distrust official information, leaving room for conspiracy theories that reflect the real security issues Syria faces."
+      ],
+      "image_url": null,
+      "published": "Wed, 15 Jul 2026 17:36:58 EDT"
+    },
+    {
+      "title": "Sen. Shaheen discusses new Russia sanctions bill",
+      "link": "https://www.npr.org/2026/07/15/nx-s1-5893688/sen-shaheen-discusses-new-russia-sanctions-bill",
+      "source": "NPR World",
+      "all_sources": [
+        "NPR World"
       ],
       "bias_breakdown": {
         "Lean Left": 1
@@ -346,15 +373,111 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Indian petrol stations now only offer fuel with 20 percent ethanol blended in.",
-        "But the rushed move triggers criticism."
+        "A conversation with Jeanne Shaheen, Democratic Senator from New Hampshire, about a bipartisan bill she put together with the late Senator Lindsey Graham that slaps new sanctions on Russia."
       ],
       "image_url": null,
-      "published": "Wed, 15 Jul 2026 07:05:24 +0000"
+      "published": "Wed, 15 Jul 2026 17:23:00 -0400"
     },
     {
-      "title": "Six Dead in an Elevator After Fire in Central Brussels",
-      "link": "https://www.nytimes.com/2026/07/14/world/europe/six-dead-in-fire-central-brussels.html",
+      "title": "More people around the world now favour China over the US, Pew study suggests",
+      "link": "https://www.bbc.co.uk/news/articles/cd959q11g54o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "There is more confidence in Xi Jinping than Donald Trump, the US think tank's survey indicates."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c14/live/40b48570-801f-11f1-9317-f3c8d3f68726.jpg",
+      "published": "Wed, 15 Jul 2026 17:02:41 GMT"
+    },
+    {
+      "title": "The crews stuck at sea as the Strait of Hormuz crisis grows",
+      "link": "https://www.npr.org/2026/07/15/nx-s1-5894731/the-crews-stuck-at-sea-as-the-strait-of-hormuz-crisis-grows",
+      "source": "NPR World",
+      "all_sources": [
+        "NPR World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The Strait of Hormuz crisis is leaving thousands of crew members on commercial ships stranded.",
+        "Arsenio Dominguez, head of the UN's International Maritime Organization, explains."
+      ],
+      "image_url": null,
+      "published": "Wed, 15 Jul 2026 16:54:15 -0400"
+    },
+    {
+      "title": "China and Xi favored over U.S. and Trump in many nations: Survey",
+      "link": "https://www.npr.org/2026/07/15/g-s1-133827/china-and-xi-favored-over-us-and-trump-in-many-nations-survey",
+      "source": "NPR World",
+      "all_sources": [
+        "NPR World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The change is driven by improved perceptions of China and declining views of the United States."
+      ],
+      "image_url": null,
+      "published": "Wed, 15 Jul 2026 16:34:30 -0400"
+    },
+    {
+      "title": "WATCH: Russian soldier thrown through air as Soviet-era helicopter gun spins out of control",
+      "link": "https://www.foxnews.com/world/watch-russian-soldier-thrown-through-air-soviet-era-helicopter-gun-spins-out-control",
+      "source": "Fox News World",
+      "all_sources": [
+        "Fox News World"
+      ],
+      "bias_breakdown": {
+        "Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Trump says Putin is &quot;ready to make a deal&quot; to end the Ukraine war, but Russia warned Western troops enforcing any ceasefire would be military targets."
+      ],
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/russian-soldier-3.gif",
+      "published": "Wed, 15 Jul 2026 15:37:53 -0400"
+    },
+    {
+      "title": "He Has a $25 Million Bounty on His Head but Is Also a U.S. Partner in Venezuela",
+      "link": "https://www.nytimes.com/2026/07/15/world/americas/us-bounty-diosdado-cabello-venezuela.html",
       "source": "NYT World",
       "all_sources": [
         "NYT World"
@@ -371,17 +494,67 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "After a fire broke out at the Oxy building in central Brussels on Tuesday morning, six bodies were found in an elevator."
+        "A list of alleged crimes has not prevented Diosdado Cabello, and other Venezuelan officials, from working with a U.S.",
+        "government that once hounded them."
       ],
-      "image_url": "https://static01.nyt.com/images/2026/07/14/multimedia/14int-brussels-fire-photo-tfwz/14int-brussels-fire-photo-tfwz-mediumSquareAt3X.jpg",
-      "published": "Wed, 15 Jul 2026 07:01:30 +0000"
+      "image_url": "https://static01.nyt.com/images/2026/07/14/multimedia/00venezuela-quakes-wanted-02-hkcm/00venezuela-quakes-wanted-02-hkcm-mediumSquareAt3X.jpg",
+      "published": "Wed, 15 Jul 2026 15:37:17 +0000"
     },
     {
-      "title": "Spain recapture 2010 spirit after reaching World Cup final: De la Fuente",
-      "link": "https://www.aljazeera.com/news/2026/7/15/spain-france-world-cup-semifinal-luis-de-la-fuente-2010-title?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "US troops unload China's only known aid flight to earthquake-ravaged Venezuela as Americans surge relief",
+      "link": "https://www.foxnews.com/world/us-troops-unload-chinas-aid-flight-earthquake-ravaged-venezuela-americans-surge-relief",
+      "source": "Fox News World",
       "all_sources": [
-        "Al Jazeera"
+        "Fox News World"
+      ],
+      "bias_breakdown": {
+        "Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "U.S.",
+        "government photos show American soldiers unloading China&apos;s only aid flight at Simón Bolívar Airport as Venezuela reels from June earthquakes."
+      ],
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/us-troops-venezuela-aid-3.png?ve=1&tl=1",
+      "published": "Wed, 15 Jul 2026 15:09:29 -0400"
+    },
+    {
+      "title": "China builds 3D, 510-foot replica of US warship in the middle of the desert",
+      "link": "https://nypost.com/2026/07/15/world-news/china-builds-3d-replica-of-us-warship-in-the-middle-of-the-desert/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "China has built a full 3D replica of a US Navy destroyer in the middle of the Taklamakan Desert, satellite images show."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2Fchinas-military-built-mockups-shape-134486431.jpg?w%3D708",
+      "published": "Wed, 15 Jul 2026 14:59:25 -0700"
+    },
+    {
+      "title": "For Israel, the U.S.-Iran Hostilities Have Created an Uneasy Limbo",
+      "link": "https://www.nytimes.com/2026/07/15/world/middleeast/israel-us-iran-trump.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
       ],
       "bias_breakdown": {
         "Lean Left": 1
@@ -395,10 +568,305 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "After a masterclass against France in the semifinals, Spain are just one win from winning their second World Cup."
+        "Officials see a return to full-blown war as preferable to an agreement that fails to curb the threats Iran poses to Israel.",
+        "Meanwhile, they wait."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/07/14/multimedia/14int-israel-iran-assess01-photo-qgkv/14int-israel-iran-assess01-photo-qgkv-mediumSquareAt3X.jpg",
+      "published": "Wed, 15 Jul 2026 14:44:50 +0000"
+    },
+    {
+      "title": "As China’s global star rises, how is Washington planning to adjust?",
+      "link": "https://www.csmonitor.com/World/Asia-Pacific/2026/0715/trump-xi-china-united-states-pew?icid=rss",
+      "source": "Christian Science Monitor World",
+      "all_sources": [
+        "Christian Science Monitor World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "China’s soft power is rising as global views of the U.S.",
+        "turn negative, and the Trump administration might lack the strategic thinking and empowered China hands to compete with Beijing."
       ],
       "image_url": null,
-      "published": "Wed, 15 Jul 2026 07:01:10 +0000"
+      "published": "Wed, 15 Jul 2026 14:38:20 EDT"
+    },
+    {
+      "title": "Who is Andy Burnham? The Trump critic set to become the UK's next prime minister",
+      "link": "https://www.foxnews.com/world/who-andy-burnham-trump-critic-set-become-uks-next-prime-minister",
+      "source": "Fox News World",
+      "all_sources": [
+        "Fox News World"
+      ],
+      "bias_breakdown": {
+        "Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Andy Burnham secured 322 MP nominations on day one of the leadership process, but critics say he faces less scrutiny than any recent U.K.",
+        "prime minister."
+      ],
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/Andy-Burnham.png?ve=1&tl=1",
+      "published": "Wed, 15 Jul 2026 13:58:59 -0400"
+    },
+    {
+      "title": "Trump doesn’t rule out decimating IRGC, warns Iran he’ll ‘finish’ them off they don’t settle",
+      "link": "https://nypost.com/2026/07/15/us-news/trump-doesnt-rule-out-decimating-irans-islamic-revolutionary-guard-corps/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Asked if he'd consider leveling the Islamic Revolutionary Guard Corps just like he took out ISIS, the president didn't say it's off the table."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2FAP_Trump_95775-d8869-0.jpg?quality%3D90%26",
+      "published": "Wed, 15 Jul 2026 13:26:19 -0700"
+    },
+    {
+      "title": "Heroic pups save dog walker from attempted rape after masked brute tried to chase her into tunnel",
+      "link": "https://nypost.com/2026/07/15/world-news/eight-dogs-thwart-alleged-sexual-assault-in-australia-he-lunged-for-my-friend/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Police are hunting for the man whose alleged attempts to sexually assault two women were thwarted by a loyal paw patrol."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2Fdog-walker-spoken-man-allegedly-134494807.jpg?w%3D1024",
+      "published": "Wed, 15 Jul 2026 13:23:15 -0700"
+    },
+    {
+      "title": "Venezuela’s interim government and opposition to begin formal talks",
+      "link": "https://www.theguardian.com/world/2026/jul/15/venezuela-interim-government-opposition-talks-democracy-maria-corina-machado",
+      "source": "The Guardian World",
+      "all_sources": [
+        "The Guardian World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Nobel laureate María Corina Machado will not lead negotiations over new elections, contrary to expectations  The interim government of Venezuela has announced it will begin formal talks with the opposition aimed at “strengthening democracy” in the country.",
+        "The move is backed by the US, which says it is seeking a “democratic transition” in a country still recovering from the  twin earthquakes  that killed more than 4,700 people.",
+        "Continue reading..."
+      ],
+      "image_url": null,
+      "published": "Wed, 15 Jul 2026 11:46:23 GMT"
+    },
+    {
+      "title": "Benjamin Netanyahu sends warning to Iran against attacking Israel: ‘We will respond with power’",
+      "link": "https://nypost.com/2026/07/15/world-news/netanyahu-warns-iran-against-attacking-israel-we-will-respond-with-power/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Any attack on Israel will trigger an “even more powerful” response, Israeli Prime Minister Benjamin Netanyahu warned Tehran on Wednesday."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2Fisraeli-prime-minister-benjamin-netanyahu-134190817.jpg?w%3D683",
+      "published": "Wed, 15 Jul 2026 11:45:27 -0700"
+    },
+    {
+      "title": "Hong Kong booksellers arrested for allegedly selling seditious books",
+      "link": "https://www.npr.org/2026/07/15/g-s1-133697/hong-kong-booksellers-arrested-for-allegedly-selling-seditious-books",
+      "source": "NPR World",
+      "all_sources": [
+        "NPR World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Hong Kong was once known for its freedom of publication, but political changes have created a challenging environment for independent bookstores."
+      ],
+      "image_url": null,
+      "published": "Wed, 15 Jul 2026 11:37:22 -0400"
+    },
+    {
+      "title": "U.S. Presses China to Free American Seismologist Accused of Spying",
+      "link": "https://www.nytimes.com/2026/07/15/world/asia/china-seismologist-north-korea-nuclear.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "President Trump has urged Xi Jinping to release the scientist, Youlin Chen, the man’s family says.",
+        "Dr.",
+        "Chen studied the detection of North Korean nuclear tests."
+      ],
+      "image_url": null,
+      "published": "Wed, 15 Jul 2026 10:58:43 +0000"
+    },
+    {
+      "title": "A new chapter for America’s 250th: 'J250' initiative puts Jewish contributions in the spotlight",
+      "link": "https://www.foxnews.com/world/new-chapter-americas-250th-j250-initiative-puts-jewish-contributions-spotlight",
+      "source": "Fox News World",
+      "all_sources": [
+        "Fox News World"
+      ],
+      "bias_breakdown": {
+        "Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The J250 Initiative launches with 250 stories of Jewish American patriots, scientists and leaders who shaped the nation from the Revolution onward."
+      ],
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/10/931/523/sandy-koufax.jpg?ve=1&tl=1",
+      "published": "Wed, 15 Jul 2026 10:15:59 -0400"
+    },
+    {
+      "title": "China's economy grows 4.3% in Q2, slowest since late 2022",
+      "link": "https://www.npr.org/2026/07/15/g-s1-133672/chinas-economy-grows-4-3-in-q2-slowest-since-late-2022",
+      "source": "NPR World",
+      "all_sources": [
+        "NPR World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Lagging consumer spending and business investment offset the boost from strong exports thanks partly to the boom in artificial intelligence."
+      ],
+      "image_url": null,
+      "published": "Wed, 15 Jul 2026 10:11:41 -0400"
+    },
+    {
+      "title": "Trump officials unveil private sector blueprint for life after USAID",
+      "link": "https://www.foxnews.com/world/trump-officials-unveil-private-sector-blueprint-life-after-usaid",
+      "source": "Fox News World",
+      "all_sources": [
+        "Fox News World"
+      ],
+      "bias_breakdown": {
+        "Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Ambassador Mike Waltz says the Trump administration is replacing traditional foreign aid with private investment and trade to create jobs, cut dependency."
+      ],
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/un-mike-waltz-usa.jpg?ve=1&tl=1",
+      "published": "Wed, 15 Jul 2026 08:50:54 -0400"
+    },
+    {
+      "title": "More health workers strike over no payment as Congo Ebola cases exceed 2K, with 754 deaths",
+      "link": "https://nypost.com/2026/07/15/world-news/health-workers-strike-as-ebola-cases-in-congo-exceed-2000-including-754-deaths/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The outbreak continues to spread faster than health officials can track despite an expanding response."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2F2026-health-workers-epicentre-ebola-134333848.jpg?w%3D1024",
+      "published": "Wed, 15 Jul 2026 08:40:51 -0700"
     },
     {
       "title": "Trump won’t rule out Kharg Island takeover: What a US assault could look like",
@@ -450,399 +918,6 @@
       "published": "Wed, 15 Jul 2026 05:00:10 EDT"
     },
     {
-      "title": "American AI is expensive. Some startups are turning to cheap Chinese models",
-      "link": "https://www.npr.org/2026/07/15/nx-s1-5886476/startups-cheap-chinese-ai-models",
-      "source": "NPR World",
-      "all_sources": [
-        "NPR World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "AI is a fast-growing business expense.",
-        "Some companies are cutting costs by switching to cheaper Chinese AI models."
-      ],
-      "image_url": null,
-      "published": "Wed, 15 Jul 2026 05:00:00 -0400"
-    },
-    {
-      "title": "Ex-UK government minister Ann Widdecombe killed in ‘targeted attack’ at home but motive still being probed: cops",
-      "link": "https://nypost.com/2026/07/15/world-news/uk-politician-ann-widdecombe-killed-in-targeted-attack-cops/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Former politician and reality TV contestant Ann Widdecombe was killed in a “targeted attack,” though the motivation is still under investigation, British counterterror police said Tuesday."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2Fformer-conservative-party-mp-ann-134060108.jpg?w%3D1024",
-      "published": "Wed, 15 Jul 2026 04:47:32 -0400"
-    },
-    {
-      "title": "Ann Widdecombe Was Killed in ‘Targeted Attack,’ UK Police Say",
-      "link": "https://www.nytimes.com/2026/07/14/world/europe/ann-widdecombe-targeted-attack.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Counterterrorism police said that they were continuing to interview a 28-year-old man accused of killing Ann Widdecombe, a prominent member of the right-wing Reform U.K.",
-        "party."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/07/14/world/14int-uk-murder-investigation-alaofna/Hugh-Hastings-Getty-Images-aalgni-mediumSquareAt3X.jpg",
-      "published": "Wed, 15 Jul 2026 04:38:51 +0000"
-    },
-    {
-      "title": "Iran vows to keep Hormuz strait closed until the ‘end of America’s evils,’ threatens to block more seaways as Trump reimposes blockade",
-      "link": "https://nypost.com/2026/07/15/world-news/iran-vows-to-keep-strait-of-hormuz-closed-until-the-end-of-americas-evils-threatens-to-block-more-seaways-as-trump-reimposes-blockade/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Iran's Islamic Revolutionary Guard Corps has threatened to close \"all other export corridors that benefit the US ​and its allies\", Iranian media reported, after Iran shut the Strait of Hormuz and the US reimposed a naval blockade of Iranian ports."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2F19-straight-hormuz-wednesday-15-134445778.jpg?w%3D1024",
-      "published": "Wed, 15 Jul 2026 04:35:35 -0400"
-    },
-    {
-      "title": "Bangkok bar fire death toll rises to 32 as survivor recalls ‘hectic’ tragedy: ‘I just ran’",
-      "link": "https://nypost.com/2026/07/15/world-news/death-toll-from-bangkok-bar-fire-rises-to-32-as-2-more-die-in-hospital/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Survivors and family members of victims of a deadly bar fire in Bangkok visited a nearby police station on Wednesday to seek compensation, gather belongings and share statements from the blaze."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2F2026-txng-di-kwa-deim-134235028.jpg?w%3D1024",
-      "published": "Wed, 15 Jul 2026 03:43:07 -0400"
-    },
-    {
-      "title": "Ebola is spreading faster in eastern Congo than it can be tracked, as deaths pass 700",
-      "link": "https://www.npr.org/2026/07/15/g-s1-133630/ebola-congo-deaths",
-      "source": "NPR World",
-      "all_sources": [
-        "NPR World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Eighty percent of new Ebola cases in eastern Congo are emerging from unknown chains of transmission, according to WHO, a sign the outbreak is spreading faster than health officials can track."
-      ],
-      "image_url": null,
-      "published": "Wed, 15 Jul 2026 01:39:55 -0400"
-    },
-    {
-      "title": "Seven Britons among those killed in Spain wildfires",
-      "link": "https://www.bbc.co.uk/news/articles/cp8l87784ngo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "all_sources": [
-        "BBC World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Twelve of the 13 victims were foreign nationals, Spanish authorities said on Tuesday."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dfc7/live/8d789890-8017-11f1-bee8-53ce494e1abc.jpg",
-      "published": "Wed, 15 Jul 2026 01:03:07 GMT"
-    },
-    {
-      "title": "Trump retreat over Hormuz tolls suggests he is struggling to end Iran war",
-      "link": "https://www.bbc.co.uk/news/articles/crele3r8j19o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "all_sources": [
-        "BBC World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The abrupt about-face from the US president was the latest twist in a conflict that has now lasted more than four months."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87df/live/cb49bc70-7fc8-11f1-82bc-eb96a9eb8087.jpg",
-      "published": "Tue, 14 Jul 2026 23:17:27 GMT"
-    },
-    {
-      "title": "US seismologist who studied North Korean nukes detained in China, wife fights ‘unjust’ charges",
-      "link": "https://nypost.com/2026/07/14/world-news/us-scientist-who-studied-north-korean-nukes-detained-by-china/",
-      "source": "New York Post World",
-      "all_sources": [
-        "BBC World",
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Center": 1,
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 50,
-        "right_pct": 50,
-        "total": 2
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "An American seismologist who spent his career studying North Korean nuclear tests has been locked up in China for years and is expected to be hauled in front of a court over spying charges, his wife and advocates said.&nbsp; Youlin Chen, 54, was cuffed by Chinese authorities on Nov.",
-        "5, 2024, at Beijing International Airport..."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8707/live/0aa9b510-8027-11f1-b976-0b9c15b0ccfc.jpg",
-      "published": "Tue, 14 Jul 2026 22:13:18 -0400"
-    },
-    {
-      "title": "Europe, Flexing Muscle in Ukraine, Is Still on Sidelines in Iran",
-      "link": "https://www.nytimes.com/2026/07/14/world/europe/macron-trump-bastille-day-military-parade.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "In a show of collective strength, President Emmanuel Macron of France hosted European allies at the annual Bastille Day parade in Paris.",
-        "Yet Europe is still a hostage to America’s foreign policy."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/07/14/multimedia/14int-europe-mideast-01-kcjq/14int-europe-mideast-01-kcjq-mediumSquareAt3X.jpg",
-      "published": "Tue, 14 Jul 2026 19:17:57 +0000"
-    },
-    {
-      "title": "Derision at US chain Chipotle’s plan to sell its Mexican food in Mexico",
-      "link": "https://www.theguardian.com/world/2026/jul/14/derision-at-us-chain-chipotles-plan-to-sell-its-mexican-food-in-mexico",
-      "source": "The Guardian World",
-      "all_sources": [
-        "The Guardian World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "One social media user described the opening of its first outlet in Monterrey as ‘like the dog teaching a duck to fly’  A US chain’s plan to sell its version of Mexican food to Mexicans with a first branch south of the border has prompted bemusement, skepticism and anger among local people.",
-        "Chipotle Mexican Grill, known for its customisable burritos, tacos and bowls, has more than 4,000 locations worldwide and announced on Tuesday that it was expanding into Mexico in what it described as a significant milestone.",
-        "Continue reading..."
-      ],
-      "image_url": null,
-      "published": "Tue, 14 Jul 2026 18:23:45 GMT"
-    },
-    {
-      "title": "US to keep refuelers at Israel’s Ben Gurion Airport, risking flights for 50,000 travelers",
-      "link": "https://nypost.com/2026/07/14/world-news/us-to-keep-refuelers-at-israels-ben-gurion-airport-risking-flights-for-50000-travelers/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The US has opted to keep its crowd of refueling planes parked at Israel's Ben Gurion Airport due to the war in Iran despite protests from the Jewish state that the move puts 50,000 flight tickets at risk during the country's busy summer season."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2Famerican-military-aerial-refueling-tanker-131079392.jpg?w%3D1024",
-      "published": "Tue, 14 Jul 2026 18:20:29 -0400"
-    },
-    {
-      "title": "Middle East allies rushing new pipelines, port to bypass Iran’s grip on Strait of Hormuz",
-      "link": "https://nypost.com/2026/07/14/world-news/middle-east-allies-rushing-new-pipelines-port-to-bypass-irans-grip-on-strait-of-hormuz/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The conflict around the Strait of Hormuz has caused pipeline and port construction projects in the Gulf to accelerate, with some set to debut as soon as next year, minimizing Iran's leverage in the region."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2F134351858.jpg?w%3D1024",
-      "published": "Tue, 14 Jul 2026 18:13:15 -0400"
-    },
-    {
-      "title": "Gen. Dan Caine pleads with defense contractors to build weapons ‘faster’",
-      "link": "https://nypost.com/2026/07/14/world-news/gen-dan-caine-pleads-with-defense-contractors-to-build-weapons-faster/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "“What I need you to know — and I know this is simple for me to say but hard to do — but go faster, please, go faster, think bolder,” he told the Defense and Innovation Summit."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2Fus-chairman-joint-chiefs-staff-132117463.jpg?w%3D1024",
-      "published": "Tue, 14 Jul 2026 18:10:34 -0400"
-    },
-    {
-      "title": "Federal judge awards $314 million to 3 Americans allegedly tortured in Venezuelan ‘criminal enterprise’ led by Maduro",
-      "link": "https://nypost.com/2026/07/14/us-news/federal-judge-awards-314-million-to-3-americans-allegedly-tourtured-in-venezuelan-criminal-enterprise-led-by-maduro/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Last year, the three Americans sued several top Venezuelan officials, including now acting President Delcy Rodríguez, claiming they were subjected to physical and psychological torture."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2F2023-freed-amid-prisoner-swap-134386796.jpg?w%3D1024",
-      "published": "Tue, 14 Jul 2026 17:57:28 -0400"
-    },
-    {
-      "title": "A Heated Rivalry Over Bull Mascots Is Dividing a Brazilian Town",
-      "link": "https://www.nytimes.com/2026/07/14/world/americas/bull-mascots-red-blue-parintins-brazil.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Deep in the Amazon rainforest, a heated rivalry has split a town for a century.",
-        "It’s got nothing to do with sports or politics."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/07/08/multimedia/00int-brazil-festival-dispatch11-photo-pfch/00int-brazil-festival-dispatch11-photo-pfch-mediumSquareAt3X.jpg",
-      "published": "Tue, 14 Jul 2026 17:55:39 +0000"
-    },
-    {
       "title": "FBI snares an American heir indicted for allegedly bankrolling anti-cop, pro-Hamas communist revolution",
       "link": "https://www.foxnews.com/world/fbi-snares-american-heir-indicted-bankrolling-anti-cop-pro-hamas-communist-revolution",
       "source": "Fox News World",
@@ -867,70 +942,20 @@
       "published": "Tue, 14 Jul 2026 17:49:03 -0400"
     },
     {
-      "title": "Israeli strike on police post in north Gaza kills seven, officials say",
-      "link": "https://www.bbc.co.uk/news/articles/cqj1jqeyl5ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "all_sources": [
-        "BBC World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "A senior officer in the Hamas-run police force was among those killed in the strike, which Israel's military says targeted \"terrorists\"."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13bb/live/d7d46710-7f87-11f1-a47a-d94293d2b0e4.jpg",
-      "published": "Tue, 14 Jul 2026 17:13:27 GMT"
-    },
-    {
-      "title": "Trump pays writer E Jean Carroll $5m in damages over sexual abuse and defamation",
-      "link": "https://www.bbc.co.uk/news/articles/c2dydj1wp93o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "all_sources": [
-        "BBC World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The president had sought to delay the payment as he tried to persuade the Supreme Court to overturn the judgement."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a14c/live/efc3d020-7f98-11f1-a5f4-433bb9aa2e5a.jpg",
-      "published": "Tue, 14 Jul 2026 17:07:42 GMT"
-    },
-    {
       "title": "Mike Huckabee rejects Ro Khanna's Israel visit claims: 'Not held at gunpoint'",
       "link": "https://www.foxnews.com/world/mike-huckabee-rejects-ro-khannas-israel-visit-claims-not-held-gunpoint",
       "source": "Fox News World",
       "all_sources": [
-        "NPR World",
         "Fox News World"
       ],
       "bias_breakdown": {
-        "Lean Left": 1,
         "Right": 1
       },
       "bias_bar": {
-        "left_pct": 50,
+        "left_pct": 0,
         "center_pct": 0,
-        "right_pct": 50,
-        "total": 2
+        "right_pct": 100,
+        "total": 1
       },
       "is_blindspot": false,
       "is_trending": false,
@@ -940,54 +965,6 @@
       ],
       "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/huckabee-khanna-2.png?ve=1&tl=1",
       "published": "Tue, 14 Jul 2026 16:45:34 -0400"
-    },
-    {
-      "title": "Russia accuses Ukraine of terrorism following escalation of attacks on shipping in Sea of Azov",
-      "link": "https://nypost.com/2026/07/14/world-news/russia-accuses-ukraine-of-terrorism-following-escalation-of-attacks-on-shipping-in-sea-of-azov/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Ukrainian drones hit 11 Russian vessels in the Sea of Azov overnight, Kyiv's drone forces commander said."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2Fsmoke-rises-ukranian-authorities-say-133593396_d59d5d.jpg?w%3D1024",
-      "published": "Tue, 14 Jul 2026 16:26:54 -0400"
-    },
-    {
-      "title": "Israel, Lebanon begin US-mediated  peace talks in attempt to end months of fighting",
-      "link": "https://nypost.com/2026/07/14/world-news/israel-lebanon-begin-us-mediated-talks-in-rome/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The discussions are taking place at the US Embassy in the Italian capital through Wednesday."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2F2026-two-countries-officially-war-134327655.jpg?w%3D1024",
-      "published": "Tue, 14 Jul 2026 16:25:08 -0400"
     },
     {
       "title": "The French transformed Africa. Now, Africa is transforming their language.",
@@ -1041,56 +1018,6 @@
       "published": "Tue, 14 Jul 2026 12:27:06 GMT"
     },
     {
-      "title": "Ukraine Wants to Make Its Own Antimissile System, Not Just Patriots",
-      "link": "https://www.nytimes.com/2026/07/14/world/europe/ukraine-fire-point-patriot-missiles.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The Ukrainian firm Fire Point has produced weapons that hit Russian territory.",
-        "Its next goal, developing an antimissile system, is a much bigger challenge, experts said."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/07/13/multimedia/13int-ukraine-air-defenses-photo1-qhkb/13int-ukraine-air-defenses-photo1-qhkb-mediumSquareAt3X.jpg",
-      "published": "Tue, 14 Jul 2026 11:56:53 +0000"
-    },
-    {
-      "title": "China Purges Top Official Over Corruption and Sex Charges",
-      "link": "https://www.nytimes.com/2026/07/14/world/asia/china-expels-politburo-official-sex-corruption.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Ma Xingrui is the third member of the Politburo to be purged since 2022.",
-        "He once led the Xinjiang region and was previously head of China’s space program."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/07/14/multimedia/14int-china-politburo-mcvh/14int-china-politburo-mcvh-mediumSquareAt3X.jpg",
-      "published": "Tue, 14 Jul 2026 10:23:29 +0000"
-    },
-    {
       "title": "Inside Israel's mission to train civilians to stop the next Oct 7-like terror attack",
       "link": "https://www.foxnews.com/world/inside-israels-mission-train-civilians-stop-next-oct-7-like-terror-attack",
       "source": "Fox News World",
@@ -1116,11 +1043,11 @@
       "published": "Tue, 14 Jul 2026 09:18:52 -0400"
     },
     {
-      "title": "‘God is punishing the politicians’: anger at earthquake response grows in Venezuela",
-      "link": "https://www.theguardian.com/world/2026/jul/14/anger-earthquake-response-venezuela",
-      "source": "The Guardian World",
+      "title": "Decades of denial: Death certificate for disappeared reopens Kashmir wounds",
+      "link": "https://www.aljazeera.com/news/2026/7/16/decades-of-denial-death-certificate-for-disappeared-reopens-kashmir-wounds?traffic_source=rss",
+      "source": "Al Jazeera",
       "all_sources": [
-        "The Guardian World"
+        "Al Jazeera"
       ],
       "bias_breakdown": {
         "Lean Left": 1
@@ -1134,19 +1061,17 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Threat of social unrest rises as public indignation at lack of disaster aid comes on top of fallout from US military intervention  •  A revolution in ruins: fury amid the rubble of a housing project in quake-hit Venezuela   Public anger at what many perceive as  the Venezuelan government’s botched response  to twin earthquakes that killed nearly 4,500 people is growing, with one grieving mother caught on camera berating the son of former president Nicolás Maduro.",
-        "Maduro’s politician son received a hostile reception while visiting a semi-destroyed social housing project named after his father’s late mentor Hugo Chávez.",
-        "Continue reading..."
+        "After years of searching and court battles, a judge declares what Junaid Rashid already believed: His father was dead."
       ],
       "image_url": null,
-      "published": "Tue, 14 Jul 2026 09:00:26 GMT"
+      "published": "Thu, 16 Jul 2026 09:39:42 +0000"
     },
     {
-      "title": "U.S. to reinstate Hormuz blockade. And, states sue over Paramount-Warner deal",
-      "link": "https://www.npr.org/2026/07/14/g-s1-133443/up-first-newsletter-iran-strait-hormuz-maine-ice-shooting-paramount-warner-bros-merger",
-      "source": "NPR World",
+      "title": "Yemen is edging closer to renewed confrontation",
+      "link": "https://www.aljazeera.com/opinions/2026/7/16/yemen-is-edging-closer-to-renewed-confrontation?traffic_source=rss",
+      "source": "Al Jazeera",
       "all_sources": [
-        "NPR World"
+        "Al Jazeera"
       ],
       "bias_breakdown": {
         "Lean Left": 1
@@ -1160,16 +1085,110 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "The United States plans to reinstate a blockade over the Strait of Hormuz today.",
-        "And, several states are suing to stop the massive Paramount-Warner Bros.",
-        "merger."
+        "The Iranian aircraft incident has exposed a fragile calm that may not survive a wider regional escalation."
       ],
       "image_url": null,
-      "published": "Tue, 14 Jul 2026 08:18:58 -0400"
+      "published": "Thu, 16 Jul 2026 09:36:38 +0000"
     },
     {
-      "title": "Deportations by India Cause Tension Along Border with Bangladesh",
-      "link": "https://www.nytimes.com/2026/07/14/world/asia/india-bangladesh-border-migration.html",
+      "title": "Eleven people die in fire at Algerian foster care home",
+      "link": "https://www.bbc.co.uk/news/articles/cvgwd4nz344o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Along with the fatalities, 19 people suffered injuries, the authorities say."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dac8/live/b562b090-80f6-11f1-bee8-53ce494e1abc.jpg",
+      "published": "Thu, 16 Jul 2026 09:20:43 GMT"
+    },
+    {
+      "title": "US military to start screening for testosterone deficiency, Hegseth says",
+      "link": "https://www.bbc.co.uk/news/articles/cn0nlx18rz0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Hegseth says he is authorising hormone screening to ensure US troops \"operate at your absolute best\"."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5dc/live/04f4b590-8093-11f1-9946-258bcfdcbe12.jpg",
+      "published": "Thu, 16 Jul 2026 09:10:38 GMT"
+    },
+    {
+      "title": "FIFA World Cup final: Date, time, halftime show, prediction and Trump",
+      "link": "https://www.aljazeera.com/sports/2026/7/16/fifa-world-cup-final-2026-date-time-and-venue-trump-prediction?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "From Donald Trump&#039;s attendance to the match winner, the short guide before football’s global showpiece in New Jersey."
+      ],
+      "image_url": null,
+      "published": "Thu, 16 Jul 2026 09:07:06 +0000"
+    },
+    {
+      "title": "Why Italy’s Genoa bridge collapse led to one of its biggest criminal trials",
+      "link": "https://www.aljazeera.com/news/2026/7/16/why-italys-genoa-bridge-collapse-led-to-one-of-its-biggest-criminal-trials?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Eight years after 43 people were killed, judges rule in the first trial over the Genoa bridge collapse."
+      ],
+      "image_url": null,
+      "published": "Thu, 16 Jul 2026 08:57:42 +0000"
+    },
+    {
+      "title": "Iran War Updates: U.S. and Iran Exchange Strikes for 5th Straight Day",
+      "link": "https://www.nytimes.com/live/2026/07/15/world/iran-war-trump-hormuz",
       "source": "NYT World",
       "all_sources": [
         "NYT World"
@@ -1186,18 +1205,17 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "India is driving out Bangladeshi immigrants it says are in the country illegally.",
-        "Bangladesh is pushing back, leaving people stranded along the border amid increasing tensions between the countries."
+        "Though both sides appeared to be digging in, a top Iranian official seemed to leave the door open for a deal, saying, “We must fear neither war nor negotiations.”"
       ],
-      "image_url": "https://static01.nyt.com/images/2026/07/04/multimedia/00INT-INDIA-BANGLADESH-01-fpkw/00INT-INDIA-BANGLADESH-01-fpkw-mediumSquareAt3X.jpg",
-      "published": "Tue, 14 Jul 2026 07:12:27 +0000"
+      "image_url": "https://static01.nyt.com/images/2026/07/15/multimedia/15mideast-live-promo-8pm/15mideast-live-promo-8pm-mediumSquareAt3X.jpg",
+      "published": "Thu, 16 Jul 2026 08:50:14 +0000"
     },
     {
-      "title": "Death toll from a Bangkok music bar fire rises to 30, dozens remain in hospital",
-      "link": "https://www.npr.org/2026/07/14/g-s1-133425/death-toll-bangkok-fire",
-      "source": "NPR World",
+      "title": "Vance says Epstein had connections to US, Israeli intelligence",
+      "link": "https://www.aljazeera.com/news/2026/7/16/vance-says-epstein-had-connections-to-us-israeli-intelligence?traffic_source=rss",
+      "source": "Al Jazeera",
       "all_sources": [
-        "NPR World"
+        "Al Jazeera"
       ],
       "bias_breakdown": {
         "Lean Left": 1
@@ -1211,35 +1229,10 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "More than 70 people were injured, with 24 of them still in critical condition, according to a statement by the Bangkok Metropolitan Administration."
+        "The US vice president says Epstein &#039;seemed&#039; to be connected to elements of the &#039;Israeli deep state&#039;."
       ],
       "image_url": null,
-      "published": "Tue, 14 Jul 2026 02:43:57 -0400"
-    },
-    {
-      "title": "France and Morocco may have been the teams, but their World Cup match was transnational",
-      "link": "https://www.csmonitor.com/World/2026/0709/france-vs-morocco-game-mbappe-dembele-world-cup?icid=rss",
-      "source": "Christian Science Monitor World",
-      "all_sources": [
-        "Christian Science Monitor World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The World Cup may be a contest between nations, but most countries’ rosters are quite international.",
-        "The French and Moroccan sides are cases in point."
-      ],
-      "image_url": null,
-      "published": "Thu, 09 Jul 2026 22:03:11 EDT"
+      "published": "Thu, 16 Jul 2026 08:37:54 +0000"
     }
   ]
 }
