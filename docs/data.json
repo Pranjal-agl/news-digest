@@ -1,96 +1,68 @@
 {
-  "date": "2026-07-19",
-  "generated_at": "2026-07-19T09:51:52.552505",
+  "date": "2026-07-20",
+  "generated_at": "2026-07-20T10:51:08.329795",
   "stats": {
     "total": 50,
-    "multi_source": 4,
-    "trending": 2,
-    "blindspots": 2
+    "multi_source": 6,
+    "trending": 1,
+    "blindspots": 1
   },
   "stories": [
     {
-      "title": "Air quality warnings remain in place across US as wildfire smoke continues to swathe country",
-      "link": "https://www.theguardian.com/world/2026/jul/18/air-quality-warnings-canada-wildfires",
-      "source": "The Guardian World",
+      "title": "US ambassador to UN slaps down Zohran Mamdani’s threat to have Benjamin Netanyahu arrested when Israeli PM visits NYC",
+      "link": "https://nypost.com/2026/07/19/us-news/us-ambassador-to-un-slaps-down-zohran-mamdanis-threat-to-have-benjamin-netanyahu-arrested/",
+      "source": "New York Post World",
       "all_sources": [
-        "NYT World",
-        "The Guardian World",
-        "The Guardian World"
+        "New York Post World",
+        "Fox News World"
       ],
       "bias_breakdown": {
-        "Lean Left": 3
+        "Lean Right": 1,
+        "Right": 1
       },
       "bias_bar": {
-        "left_pct": 100,
+        "left_pct": 0,
         "center_pct": 0,
-        "right_pct": 0,
-        "total": 3
-      },
-      "is_blindspot": true,
-      "is_trending": true,
-      "bullet_points": [
-        "Some parts of the US mid-Atlantic and north-east regions will continue to endure poor air quality until Saturday afternoon, where there is a  high chance of thunderstorms , which could bring some reprieve from the poor air but come with other risks like flash flooding and high winds.",
-        "Meanwhile, parts of the midwest and Great Lakes regions will continue to see dangerous air quality.",
-        "Continue reading..."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/07/18/multimedia/18int-canada-fires-ford-bvql/18int-canada-fires-ford-bvql-mediumSquareAt3X.jpg",
-      "published": "Sat, 18 Jul 2026 14:13:36 GMT"
-    },
-    {
-      "title": "White House backs Argentina players over Falklands banner in World Cup semi-final",
-      "link": "https://www.theguardian.com/football/2026/jul/18/white-house-backs-argentina-team-falklands-banner-world-cup-semi-final",
-      "source": "The Guardian World",
-      "all_sources": [
-        "Al Jazeera",
-        "The Guardian World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 2
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
+        "right_pct": 100,
         "total": 2
       },
       "is_blindspot": true,
       "is_trending": false,
       "bullet_points": [
-        "White House Fifa taskforce chief defends Argentina footballers, saying US believes in free speech  The White House has backed Argentina’s footballers who  displayed a banner  supporting their country’s claim to the Falkland Islands after their World Cup semi-final victory against England.",
-        "After  Argentina’s 2-1 win  in a fractious match in Atlanta on Wednesday, some players held up a banner that said: “ Las Malvinas son Argentinas ” – using the country’s term for the South Atlantic islands.",
-        "Continue reading..."
+        "Danny Danon, Israeli ambassador to the United Nations in New York, said that “if anyone should be arrested, it is New York City Mayor Zohran Mamdani.”"
       ],
-      "image_url": null,
-      "published": "Sat, 18 Jul 2026 10:54:07 GMT"
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2Ffast-buses-better-service-sweeping-134720493.jpg?w%3D1024",
+      "published": "Sun, 19 Jul 2026 01:43:19 -0400"
     },
     {
-      "title": "Lamine Yamal, Soccer Star and Son of African Migrants, Personifies a Changing Spain",
-      "link": "https://www.nytimes.com/2026/07/18/world/europe/spain-lamine-yamal.html",
-      "source": "NYT World",
+      "title": "Earthquake in Peru leaves at least six dead",
+      "link": "https://www.theguardian.com/world/2026/jul/19/55-magnitude-earthquake-hits-perus-andes-region-and-kills-at-least-5-people",
+      "source": "The Guardian World",
       "all_sources": [
-        "Christian Science Monitor World",
-        "NYT World",
-        "Al Jazeera",
-        "Al Jazeera",
-        "Al Jazeera"
+        "The Guardian World",
+        "New York Post World",
+        "Fox News World"
       ],
       "bias_breakdown": {
-        "Lean Left": 4,
-        "Center": 1
+        "Lean Left": 1,
+        "Lean Right": 1,
+        "Right": 1
       },
       "bias_bar": {
-        "left_pct": 80,
-        "center_pct": 20,
-        "right_pct": 0,
-        "total": 5
+        "left_pct": 33,
+        "center_pct": 0,
+        "right_pct": 67,
+        "total": 3
       },
       "is_blindspot": false,
       "is_trending": true,
       "bullet_points": [
-        "As he prepares for the World Cup final, Lamine Yamal, 19, is at the heart of a national debate about what it means to be Spanish in an increasingly multicultural society."
+        "More than 30 injured and 300 displaced after buildings collapse near Sicaya  A 5.5-magnitude earthquake shook the Andes region of Peru, killing at least six people, authorities said Sunday.",
+        "More than 30 people were injured and 300 have been displaced.",
+        "It was 10km (6.2 miles) deep."
       ],
-      "image_url": "https://static01.nyt.com/images/2026/07/19/multimedia/19int-spain-yamal-01-wgfb/19int-spain-yamal-01-wgfb-mediumSquareAt3X.jpg",
-      "published": "Sat, 18 Jul 2026 13:56:40 +0000"
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2Fdestroyed-house-following-earthquake-magnitude-134884503.jpg?w%3D1024",
+      "published": "Sun, 19 Jul 2026 17:12:47 GMT"
     },
     {
       "title": "Syrians put on brave face after Damascus bombings. But security is a real issue.",
@@ -118,55 +90,6 @@
       "published": "Wed, 15 Jul 2026 17:36:58 EDT"
     },
     {
-      "title": "WATCH: Russian soldier thrown through air as Soviet-era helicopter gun spins out of control",
-      "link": "https://www.foxnews.com/world/watch-russian-soldier-thrown-through-air-soviet-era-helicopter-gun-spins-out-control",
-      "source": "Fox News World",
-      "all_sources": [
-        "Fox News World"
-      ],
-      "bias_breakdown": {
-        "Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Trump says Putin is &quot;ready to make a deal&quot; to end the Ukraine war, but Russia warned Western troops enforcing any ceasefire would be military targets."
-      ],
-      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/russian-soldier-3.gif",
-      "published": "Wed, 15 Jul 2026 15:37:53 -0400"
-    },
-    {
-      "title": "US troops unload China's only known aid flight to earthquake-ravaged Venezuela as Americans surge relief",
-      "link": "https://www.foxnews.com/world/us-troops-unload-chinas-aid-flight-earthquake-ravaged-venezuela-americans-surge-relief",
-      "source": "Fox News World",
-      "all_sources": [
-        "Fox News World"
-      ],
-      "bias_breakdown": {
-        "Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "U.S.",
-        "government photos show American soldiers unloading China&apos;s only aid flight at Simón Bolívar Airport as Venezuela reels from June earthquakes."
-      ],
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/us-troops-venezuela-aid-3.png?ve=1&tl=1",
-      "published": "Wed, 15 Jul 2026 15:09:29 -0400"
-    },
-    {
       "title": "As China’s global star rises, how is Washington planning to adjust?",
       "link": "https://www.csmonitor.com/World/Asia-Pacific/2026/0715/trump-xi-china-united-states-pew?icid=rss",
       "source": "Christian Science Monitor World",
@@ -190,31 +113,6 @@
       ],
       "image_url": null,
       "published": "Wed, 15 Jul 2026 14:38:20 EDT"
-    },
-    {
-      "title": "Who is Andy Burnham? The Trump critic set to become the UK's next prime minister",
-      "link": "https://www.foxnews.com/world/who-andy-burnham-trump-critic-set-become-uks-next-prime-minister",
-      "source": "Fox News World",
-      "all_sources": [
-        "Fox News World"
-      ],
-      "bias_breakdown": {
-        "Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Andy Burnham secured 322 MP nominations on day one of the leadership process, but critics say he faces less scrutiny than any recent U.K.",
-        "prime minister."
-      ],
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/andy-burnham-uk-labour-leader.jpg?ve=1&tl=1",
-      "published": "Wed, 15 Jul 2026 13:58:59 -0400"
     },
     {
       "title": "The black-and-white dog that became the face of hope in post-earthquake Venezuela",
@@ -292,31 +190,6 @@
       "published": "Thu, 16 Jul 2026 15:20:58 GMT"
     },
     {
-      "title": "Resource-rich nation praises US ties amid Washington-Beijing critical minerals race",
-      "link": "https://www.foxnews.com/world/resource-rich-nation-praises-us-ties-amid-washington-beijing-critical-minerals-race",
-      "source": "Fox News World",
-      "all_sources": [
-        "Fox News World"
-      ],
-      "bias_breakdown": {
-        "Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Foreign Minister Thérèse Kayikwamba Wagner says the Democratic Republic of the Congo needs multiple partners to develop its cobalt, copper and lithium wealth amid growing U.S.",
-        "interest."
-      ],
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/Trump-Congo_s-Foreign-Minister-Therese-Kayikwamba-Wagner.jpg?ve=1&tl=1",
-      "published": "Thu, 16 Jul 2026 15:03:07 -0400"
-    },
-    {
       "title": "Why Ukrainians have taken to the streets to protest a cabinet shuffle",
       "link": "https://www.csmonitor.com/World/Europe/2026/0716/russian-ukraine-war-fedorov-defense-minister-protests?icid=rss",
       "source": "Christian Science Monitor World",
@@ -339,31 +212,6 @@
       ],
       "image_url": null,
       "published": "Thu, 16 Jul 2026 13:58:36 EDT"
-    },
-    {
-      "title": "Iran calls on Houthis to prepare to cut off Red Sea gateway — can the terror group do it?",
-      "link": "https://www.foxnews.com/world/iran-calls-houthis-prepare-cut-off-red-sea-gateway-can-terror-group-do-it",
-      "source": "Fox News World",
-      "all_sources": [
-        "Fox News World"
-      ],
-      "bias_breakdown": {
-        "Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Iran reportedly told Houthis to prepare to close the Bab el-Mandeb Strait with missiles, drones and sea mines if the U.S.",
-        "strikes Iranian infrastructure."
-      ],
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/bab-straits-houthis-split.jpg?ve=1&tl=1",
-      "published": "Thu, 16 Jul 2026 11:53:39 -0400"
     },
     {
       "title": "Uganda calls for travel restrictions to be lifted after last Ebola patient discharged",
@@ -392,30 +240,6 @@
       "published": "Thu, 16 Jul 2026 11:33:27 GMT"
     },
     {
-      "title": "African growth boom follows Trump push to replace aid with trade",
-      "link": "https://www.foxnews.com/world/african-growth-boom-follows-trump-push-replace-aid-trade",
-      "source": "Fox News World",
-      "all_sources": [
-        "Fox News World"
-      ],
-      "bias_breakdown": {
-        "Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Despite predictions of collapse after USAID cuts, sub-Saharan Africa is outpacing Asia in growth forecasts, fueled by trade and private investment."
-      ],
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/south-africa-economy.jpg?ve=1&tl=1",
-      "published": "Thu, 16 Jul 2026 07:23:19 -0400"
-    },
-    {
       "title": "Trump Says Colombia Will Accept Deportees, Ending Tariff Standoff",
       "link": "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497",
       "source": "WSJ World News",
@@ -440,8 +264,8 @@
       "published": "Sun, 26 Jan 2025 22:59:00 -0500"
     },
     {
-      "title": "Ferry carrying 116 passengers sinks off Guyana coast, authorities say",
-      "link": "https://www.bbc.co.uk/news/articles/cm2gm99nrm7o?at_medium=RSS&at_campaign=rss",
+      "title": "JD Vance says wife Usha and son 'happy and healthy' after birth of fourth child",
+      "link": "https://www.bbc.co.uk/news/articles/cj63kngxpxpo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "all_sources": [
         "BBC World"
@@ -458,110 +282,92 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Eight passengers have so far been rescued after the vessel capsized between Georgetown and Port Kaituma."
+        "The couple welcomed their fourth child, Alec Neel Vance, on Sunday morning."
       ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/47c6/live/e5bedff0-8350-11f1-8d99-f1f0cec0b1ae.jpg",
-      "published": "Sun, 19 Jul 2026 09:20:58 GMT"
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6ab/live/23ffb250-83c2-11f1-8c17-094a3427da23.jpg",
+      "published": "Sun, 19 Jul 2026 23:16:04 GMT"
     },
     {
-      "title": "Five people rescued after Indonesia boat sinks, at least 20 still missing",
-      "link": "https://www.aljazeera.com/news/2026/7/19/five-people-rescued-after-indonesia-boat-sinks-at-least-20-still-missing?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "In World Cup final, even Messi is no match for Spain’s all-around effort",
+      "link": "https://www.csmonitor.com/World/2026/0719/world-cup-winner-argentina-spain-messi-ferran-torres?icid=rss",
+      "source": "Christian Science Monitor World",
       "all_sources": [
+        "Christian Science Monitor World",
         "Al Jazeera"
       ],
       "bias_breakdown": {
-        "Lean Left": 1
+        "Lean Left": 1,
+        "Center": 1
       },
       "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
+        "left_pct": 50,
+        "center_pct": 50,
         "right_pct": 0,
+        "total": 2
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "In the climax of World Cup 2026, Spain may not have had superstars, but the unity of its players proved more important than individual heroics."
+      ],
+      "image_url": null,
+      "published": "Sun, 19 Jul 2026 21:55:40 EDT"
+    },
+    {
+      "title": "ISIS poised to exploit historic US Iraq exit, terror group 'actively waiting in the gaps,' expert warns",
+      "link": "https://www.foxnews.com/world/isis-poised-exploit-historic-us-iraq-exit-terror-group-actively-waiting-gaps-expert-warns",
+      "source": "Fox News World",
+      "all_sources": [
+        "Fox News World"
+      ],
+      "bias_breakdown": {
+        "Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
         "total": 1
       },
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "The survivors were found clinging to a fish trap and floating debris at sea three days after the boat sank."
+        "ISIS fighters in Syria may have grown from 2,000 to 10,000 as the U.S.",
+        "prepares to complete its Iraq withdrawal by Sept.",
+        "30, an expert warns."
       ],
-      "image_url": null,
-      "published": "Sun, 19 Jul 2026 09:08:55 +0000"
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/Logo-Isis-Soldier.jpg?ve=1&tl=1",
+      "published": "Sun, 19 Jul 2026 20:04:59 -0400"
     },
     {
-      "title": "From settlements to blocked recovery: Israeli strategy taking shape in Gaza",
-      "link": "https://www.aljazeera.com/news/2026/7/19/from-settlements-to-blocked-recovery-israeli-strategy-taking-shape-in-gaza?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "Russia launches major ballistic missile attack on Ukrainian cities",
+      "link": "https://www.bbc.co.uk/news/articles/c2el7xpnzrpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "all_sources": [
-        "Al Jazeera"
+        "BBC World",
+        "NYT World"
       ],
       "bias_breakdown": {
-        "Lean Left": 1
+        "Lean Left": 1,
+        "Center": 1
       },
       "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
+        "left_pct": 50,
+        "center_pct": 50,
         "right_pct": 0,
-        "total": 1
+        "total": 2
       },
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Setting up illegal settlements, erasing cities and obstructing aid serve goal of forcing Palestinians out, analysts say."
+        "Eight people die and dozens are injured as several cities are hit by missile and drone attacks, while Kyiv continues its own assault on Russian infrastructure."
       ],
-      "image_url": null,
-      "published": "Sun, 19 Jul 2026 08:46:42 +0000"
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/856a/live/4c968bc0-8346-11f1-9454-a31108ec7e77.png",
+      "published": "Sun, 19 Jul 2026 18:25:40 GMT"
     },
     {
-      "title": "Spain vs Argentina: How each team can win World Cup final 2026",
-      "link": "https://www.aljazeera.com/sports/2026/7/19/spain-vs-argentina-five-key-factors-2026-world-cup-final?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Matchups, a style clash, Messi magic, a midfield battle and a passing of the torch could be key narratives in the final."
-      ],
-      "image_url": null,
-      "published": "Sun, 19 Jul 2026 08:12:54 +0000"
-    },
-    {
-      "title": "Israel demolishes Palestinian home in Masafer Yatta",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/19/israel-demolishes-palestinian-home-in-masafer-yatta?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Israel demolishes Palestinian home in Masafer Yatta"
-      ],
-      "image_url": null,
-      "published": "Sun, 19 Jul 2026 07:30:54 +0000"
-    },
-    {
-      "title": "Ukraine’s Top General Becomes a Target of Protesters’ Anger",
-      "link": "https://www.nytimes.com/2026/07/18/world/europe/ukraine-protests-general-syrskyi-fedorov.html",
+      "title": "The U.S. Braced For the World Cup. It Fell in Love Instead.",
+      "link": "https://www.nytimes.com/2026/07/19/world/europe/us-world-cup-trump-boston-kansas.html",
       "source": "NYT World",
       "all_sources": [
         "NYT World"
@@ -578,11 +384,305 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Demonstrators supporting Ukraine’s ousted defense minister have begun denouncing the commander he clashed with in office, Gen.",
-        "Oleksandr Syrskyi."
+        "Amid anxiety over how the United States would welcome the world, cities like Lawrence, Kan., and Boston threw open their doors.",
+        "The bonds forged are still visible on the streets."
       ],
-      "image_url": "https://static01.nyt.com/images/2026/07/18/multimedia/18int-ukraine-protests-blzg/18int-ukraine-protests-blzg-mediumSquareAt3X.jpg",
-      "published": "Sun, 19 Jul 2026 07:13:23 +0000"
+      "image_url": "https://static01.nyt.com/images/2026/07/19/multimedia/19int-worldcup-assess-bcfh/19int-worldcup-assess-bcfh-mediumSquareAt3X.jpg",
+      "published": "Sun, 19 Jul 2026 18:11:18 +0000"
+    },
+    {
+      "title": "'We want land invasion': Iran mouthpiece touts new missile, boasts decades of war prep",
+      "link": "https://www.foxnews.com/world/we-want-land-invasion-iran-mouthpiece-touts-new-missile-boasts-decades-war-prep",
+      "source": "Fox News World",
+      "all_sources": [
+        "Fox News World"
+      ],
+      "bias_breakdown": {
+        "Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Regime mouthpiece Seyed Mohammad Marandi claims Iran welcomes a U.S.",
+        "ground invasion and has introduced a new missile as strikes hit Khorramabad."
+      ],
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/Iran-Missile-Tehran.jpg?ve=1&tl=1",
+      "published": "Sun, 19 Jul 2026 16:30:09 -0400"
+    },
+    {
+      "title": "At least one more US servicemember dies after massive Iranian missile attack",
+      "link": "https://nypost.com/2026/07/19/world-news/at-least-one-more-us-servicemember-dies-after-massive-iranian-missile-attack/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "At least one more US service member has died following a massive Iranian missile attack in the continuing Middle East conflict, US Central Command said Sunday."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2F2285704847_8b630a.jpg?w%3D1024",
+      "published": "Sun, 19 Jul 2026 16:12:56 -0400"
+    },
+    {
+      "title": "Kuwait condemns Iran for ‘dangerous escalation’ after attack on civilian infrastructure",
+      "link": "https://nypost.com/2026/07/19/world-news/kuwait-condemns-iran-for-dangerous-escalation-after-attack-on-civilian-infrastructure/",
+      "source": "New York Post World",
+      "all_sources": [
+        "Al Jazeera",
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1,
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 50,
+        "center_pct": 0,
+        "right_pct": 50,
+        "total": 2
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Kuwait on Sunday accused Iran of “dangerous escalation” after another attack on the country’s power plants and water desalination facilities."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2F2026-shows-plume-black-smoke-134798008.jpg?w%3D1024",
+      "published": "Sun, 19 Jul 2026 15:29:26 -0400"
+    },
+    {
+      "title": "The 1975's Matty Healy marries model Gabbriette Bechtel in Los Angeles",
+      "link": "https://www.bbc.co.uk/news/articles/c5ywxp2d826o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The newlyweds were first linked in 2023 after Healy's brief relationship with Taylor Swift."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1e8/live/0c25cea0-8415-11f1-926f-c90d1bcfbc84.jpg",
+      "published": "Sun, 19 Jul 2026 14:50:11 GMT"
+    },
+    {
+      "title": "Chilling video shows Monaco bomb attack that nearly killed Ukrainian oligarch, reportedly blew legs off gal pal",
+      "link": "https://nypost.com/2026/07/19/world-news/video-shows-monaco-bombing-that-nearly-killed-ukraine-oligarch/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Kyiv prosecutors released new video over the weekend depicting the moment a parcel bomb went off in Monaco, seriously injuring a Ukrainian tycoon and his family."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2F2026-shows-person-leaving-bag-134728896.jpg?w%3D1024",
+      "published": "Sun, 19 Jul 2026 14:35:33 -0400"
+    },
+    {
+      "title": "Trump administration touts more than $1B in UN budget cuts as reform push gains momentum",
+      "link": "https://www.foxnews.com/world/trump-administration-touts-1-billion-un-budget-cuts-reform-push-gains-momentum",
+      "source": "Fox News World",
+      "all_sources": [
+        "Fox News World"
+      ],
+      "bias_breakdown": {
+        "Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The Trump administration says it secured over $1 billion in U.N.",
+        "budget cuts in six months, including a $550 million peacekeeping budget reduction."
+      ],
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/un-tank-unifil.jpg?ve=1&tl=1",
+      "published": "Sun, 19 Jul 2026 12:24:34 -0400"
+    },
+    {
+      "title": "Europe's fires reveal deadly mix of record heat, human error, arson and land mismanagement",
+      "link": "https://www.foxnews.com/world/europes-fires-reveal-deadly-mix-record-heat-human-error-arson-land-mismanagement",
+      "source": "Fox News World",
+      "all_sources": [
+        "Fox News World"
+      ],
+      "bias_breakdown": {
+        "Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Record heat has fueled Europe&apos;s devastating wildfires, but experts say human error, suspected arson and land management have also played a major role in this summer&apos;s destruction."
+      ],
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/almeria-wildfires-spain.jpg?ve=1&tl=1",
+      "published": "Sun, 19 Jul 2026 12:11:42 -0400"
+    },
+    {
+      "title": "Who is Andy Burnham, the U.K.'s new prime minister?",
+      "link": "https://www.npr.org/2026/07/19/g-s1-134001/andy-burnham-new-british-prime-minister",
+      "source": "NPR World",
+      "all_sources": [
+        "NPR World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "On Monday, former Manchester Mayor Andy Burnham succeeds Keir Starmer as the United Kingdom's prime minister.",
+        "Burnham's politics have been shaped by England's north-south class divide."
+      ],
+      "image_url": null,
+      "published": "Sun, 19 Jul 2026 12:00:00 -0400"
+    },
+    {
+      "title": "Furious Iran accuses US of striking Iranian nuclear facility in revenge attacks for deaths of two Americans",
+      "link": "https://nypost.com/2026/07/19/world-news/us-hits-under-construction-nuke-plant-in-iran-tehran/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "\"An attack on a peaceful nuclear facility under international safeguards is a clear violation of international law,\" said Iranian nuclear authorities."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2F2026-shows-us-military-says-134758755_a068eb.jpg?w%3D1024",
+      "published": "Sun, 19 Jul 2026 11:58:47 -0400"
+    },
+    {
+      "title": "Liam Payne pal finally off the hook for star’s tragic death — but prosecutors still investigating 2 others",
+      "link": "https://nypost.com/2026/07/19/entertainment/liam-payne-pal-finally-off-the-hook-for-stars-tragic-death-but-prosecutors-still-investigating-2-others/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Argentine businessman Rogelio Luis “Roger” Nores, 38, has been completely cleared of any wrongdoing, according to court records."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2F2017-summit-gathers-financial-leaders-134719776.jpg?w%3D1024",
+      "published": "Sun, 19 Jul 2026 10:13:19 -0400"
+    },
+    {
+      "title": "A Modest Proposal for the Strait Dispute: A Shared Pact Among Gulf States",
+      "link": "https://www.nytimes.com/2026/07/19/world/middleeast/strait-hormuz-iran.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "A London-based research group has invoked a now-defunct European pact on coal and steel to suggest forming a coalition of countries that would share control of the Strait of Hormuz."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/07/19/multimedia/19int-iran-hormuz-01-mphb/19int-iran-hormuz-01-mphb-mediumSquareAt3X.jpg",
+      "published": "Sun, 19 Jul 2026 08:37:19 +0000"
+    },
+    {
+      "title": "An Israeli paraglider tries to save migrating swifts that nest in the Western Wall",
+      "link": "https://www.npr.org/2026/07/19/nx-s1-5870684/israel-swift-birds-jerusalem",
+      "source": "NPR World",
+      "all_sources": [
+        "NPR World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Swifts have nested in Jerusalem's Western Wall since biblical times.",
+        "Now one Israeli paraglider is trying to save them."
+      ],
+      "image_url": null,
+      "published": "Sun, 19 Jul 2026 06:00:00 -0400"
     },
     {
       "title": "Deadly overnight Russian attack on Ukraine targets the capital",
@@ -654,7 +754,7 @@
         "The Tokyo government is allowing workers to wear shorts for the first time this summer, prompting delicate questions about etiquette and hairy legs."
       ],
       "image_url": "https://static01.nyt.com/images/2026/07/16/multimedia/00int-japan-shorts-03-tzjl/00int-japan-shorts-03-tzjl-mediumSquareAt3X.jpg",
-      "published": "Sun, 19 Jul 2026 04:01:05 +0000"
+      "published": "Sun, 19 Jul 2026 04:01:06 +0000"
     },
     {
       "title": "São Tomé and Príncipe heads to polls in tense presidential election",
@@ -683,52 +783,54 @@
       "published": "Sun, 19 Jul 2026 04:00:16 GMT"
     },
     {
-      "title": "New EU border system tripling time at passport control, airport boss says",
-      "link": "https://www.bbc.co.uk/news/articles/ckg5gg6n9x3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "title": "Cuban artist and dissident exiled from country after 5 years in prison arrives in US",
+      "link": "https://www.npr.org/2026/07/19/nx-s1-5899494/cuban-artist-exile-us",
+      "source": "NPR World",
       "all_sources": [
-        "BBC World"
+        "NPR World"
       ],
       "bias_breakdown": {
-        "Center": 1
+        "Lean Left": 1
       },
       "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
+        "left_pct": 100,
+        "center_pct": 0,
         "right_pct": 0,
         "total": 1
       },
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Ryanair has also warned passengers travelling to Europe this summer to prepare for extended waits."
+        "A famous Cuban dissident artist and musician, Luis Manuel Otero Alcántara, arrived in Miami on Saturday after being released from a five-year prison sentence on the condition that he leave his country."
       ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9693/live/d4402e80-81d1-11f1-926f-c90d1bcfbc84.jpg",
-      "published": "Sun, 19 Jul 2026 01:47:59 GMT"
+      "image_url": null,
+      "published": "Sun, 19 Jul 2026 03:27:59 -0400"
     },
     {
-      "title": "US ambassador to UN slaps down Zohran Mamdani’s threat to have Benjamin Netanyahu arrested when Israeli PM visits NYC",
-      "link": "https://nypost.com/2026/07/19/us-news/us-ambassador-to-un-slaps-down-zohran-mamdanis-threat-to-have-benjamin-netanyahu-arrested/",
-      "source": "New York Post World",
+      "title": "Andrew and Tristan Tate arrested in Florida on charges of rape and sex trafficking",
+      "link": "https://www.npr.org/2026/07/18/g-s1-134475/tate-brothers-arrested-miami",
+      "source": "NPR World",
       "all_sources": [
-        "New York Post World"
+        "BBC World",
+        "NPR World"
       ],
       "bias_breakdown": {
-        "Lean Right": 1
+        "Lean Left": 1,
+        "Center": 1
       },
       "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
+        "left_pct": 50,
+        "center_pct": 50,
+        "right_pct": 0,
+        "total": 2
       },
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Danny Danon, Israeli ambassador to the United Nations in New York, said that “if anyone should be arrested, it is New York City Mayor Zohran Mamdani.”"
+        "Influencer Andrew Tate and his brother Tristan have been arrested in Miami after British authorities issued 38 new charges against them, and said they are \"seeking extradition\" for the two men."
       ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2Ffast-buses-better-service-sweeping-134720493.jpg?w%3D1024",
-      "published": "Sun, 19 Jul 2026 01:43:19 -0400"
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f7d3/live/9a3779e0-8308-11f1-926f-c90d1bcfbc84.jpg",
+      "published": "Sat, 18 Jul 2026 20:57:08 -0400"
     },
     {
       "title": "Diver survives after being bitten by nearly 7-foot shark in Australia: ‘Pretty good bite’",
@@ -756,107 +858,11 @@
       "published": "Sat, 18 Jul 2026 20:50:49 -0400"
     },
     {
-      "title": "Hungary's president agrees to stand down after parliament backs removal",
-      "link": "https://www.bbc.co.uk/news/articles/cpd7q7eev7po?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "title": "Flash flood warnings strike north-east US amid wildfire smoke from Canada",
+      "link": "https://www.theguardian.com/us-news/2026/jul/18/flash-flood-weather-north-east-us",
+      "source": "The Guardian World",
       "all_sources": [
-        "BBC World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Tamás Sulyok, seen as an Orbán loyalist, had until Saturday night to agree to end his term."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3323/live/67c3a600-82db-11f1-9a15-3bb955e2f294.jpg",
-      "published": "Sat, 18 Jul 2026 19:34:16 GMT"
-    },
-    {
-      "title": "Hamas and Muslim Brotherhood financed Gaza flotilla, Israel says",
-      "link": "https://nypost.com/2026/07/18/world-news/gaza-flotilla-operated-by-hamas-and-muslim-brotherhood-via-shell-companies-israeli-fm/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Israel's foreign minister says Hamas financed the Gaza Aid flotilla and that one of the organization's own activists was an agent of the terrorist group."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2F12-8-25-news-israeli-116995148.jpg?w%3D683",
-      "published": "Sat, 18 Jul 2026 19:12:11 -0400"
-    },
-    {
-      "title": "Wild videos show hotel employee attacking guests, co-worker at luxury Dominican Republic resort",
-      "link": "https://nypost.com/2026/07/18/world-news/wild-videos-show-hotel-employee-attacking-guests-co-worker-at-luxury-dominican-republic-resort/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Wild videos have captured the moment an employee attacked guests and a fellow worker at a luxury hotel in Punta Cana, Dominican Republic."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2Fcrop-40025874.jpg",
-      "published": "Sat, 18 Jul 2026 19:03:10 -0400"
-    },
-    {
-      "title": "News of the World: What you missed this week internationally",
-      "link": "https://nypost.com/2026/07/18/world-news/news-of-the-world-july-18-2026/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The White House backs Argentinian soccer players' right to free speech, a $10.9 billion wellness island is being built in Abu Dhabi, and more news from around the world."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2Fphoto-mockford-bonetti-eye-ubiquitous-134799468.jpg?w%3D1024",
-      "published": "Sat, 18 Jul 2026 18:29:47 -0400"
-    },
-    {
-      "title": "A Very British CPAC: Few, if Any, Costumes and Not Much Trump",
-      "link": "https://www.nytimes.com/2026/07/18/world/europe/cpac-great-britain-farage.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
+        "The Guardian World"
       ],
       "bias_breakdown": {
         "Lean Left": 1
@@ -870,35 +876,12 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "London hosted an understated version of the Conservative Political Action Conference, known in the United States for its over-the-top celebration of MAGA causes."
+        "Poor air quality from wildfires continues to plague New York City as several neighborhoods hit by thunderstorms  Saturday is delivering a double dose of dangerous weather across the north-eastern US, with smoky skies from Canadian wildfires giving way to severe thunderstorms that have already triggered a flash flood warning as torrential rain pounds parts of the region.",
+        "After a brief break on Friday, smoke from the wildfires moved back into New York City and surrounding communities on Saturday, sending air quality back into  unhealthy levels .",
+        "Continue reading..."
       ],
-      "image_url": "https://static01.nyt.com/images/2026/07/18/multimedia/18int-uk-cpac-01-gfzw/18int-uk-cpac-01-gfzw-mediumSquareAt3X.jpg",
-      "published": "Sat, 18 Jul 2026 16:48:22 +0000"
-    },
-    {
-      "title": "New Iranian billboard threatens Trump is ‘next one’ after death of regime critic Lindsey Graham",
-      "link": "https://nypost.com/2026/07/18/world-news/new-iranian-billboard-threatens-trump-is-next-one-after-death-of-regime-critic-lindsey-graham/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "An ominous new Iranian billboard unveiled after the death of Sen.",
-        "Lindsey Graham alludes to President Trump as the Islamic Republic's next target -- the latest escalation in a series of threats on the president's life over the past week."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2Flindseygraham-referring-late-u-s-134567667.jpg?w%3D1024",
-      "published": "Sat, 18 Jul 2026 16:22:23 -0400"
+      "image_url": null,
+      "published": "Sat, 18 Jul 2026 19:11:13 GMT"
     },
     {
       "title": "Josh Kerr of Britain breaks 27-year-old world record in the mile",
@@ -925,34 +908,6 @@
       "published": "Sat, 18 Jul 2026 16:06:35 -0400"
     },
     {
-      "title": "As Trump Scraps With Meloni, His Envoy to Italy Is at Sea",
-      "link": "https://www.nytimes.com/2026/07/18/world/europe/tilman-fertitta-superyacht-italy-ambassador.html",
-      "source": "NYT World",
-      "all_sources": [
-        "Christian Science Monitor World",
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1,
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 50,
-        "center_pct": 50,
-        "right_pct": 0,
-        "total": 2
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Tilman J.",
-        "Fertitta, the U.S.",
-        "ambassador to Rome, is summering on his superyacht as President Trump squabbles with Prime Minister Giorgia Meloni of Italy."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/07/18/multimedia/18italy-ambassador-01-gmft/18italy-ambassador-01-gmft-mediumSquareAt3X.jpg",
-      "published": "Sat, 18 Jul 2026 15:45:28 +0000"
-    },
-    {
       "title": "Mount Olympus considered for World Heritage status",
       "link": "https://www.csmonitor.com/World/2026/0718/Greece-Mount-Olympus-UNESCO-site?icid=rss",
       "source": "Christian Science Monitor World",
@@ -976,30 +931,6 @@
       ],
       "image_url": null,
       "published": "Sat, 18 Jul 2026 15:24:12 EDT"
-    },
-    {
-      "title": "World’s most livable city tops global list second year in a row — and North America only appears once",
-      "link": "https://nypost.com/2026/07/18/world-news/worlds-most-livable-city-revealed-in-annual-report/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The Economist Intelligence Unit released its Global Livability Index on Tuesday, ranking 173 cities from around the world, with New York City a distant 66th."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2Fcolorful-traditional-houses-copenhagen-old-134778328.jpg?w%3D1024",
-      "published": "Sat, 18 Jul 2026 15:04:16 -0400"
     },
     {
       "title": "Canadian wildfire smoke ignites cross-border feud over Ottawa's 'willful negligence'",
@@ -1044,7 +975,7 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Two U.S.",
+        "Three U.S.",
         "service members were killed in action while \"partner forces defended against Iranian ballistic missile and drone attacks,\" U.S.",
         "Central Command said Saturday."
       ],
@@ -1052,8 +983,8 @@
       "published": "Sat, 18 Jul 2026 14:14:11 -0400"
     },
     {
-      "title": "Cuba edges toward breakdown as power cuts and US meddling push society to brink",
-      "link": "https://www.theguardian.com/world/2026/jul/18/cuba-edges-toward-breakdown-as-power-cuts-and-us-meddling-push-society-to-brink",
+      "title": "Air quality warnings remain in place across US as wildfire smoke continues to swathe country",
+      "link": "https://www.theguardian.com/world/2026/jul/18/air-quality-warnings-canada-wildfires",
       "source": "The Guardian World",
       "all_sources": [
         "The Guardian World"
@@ -1070,19 +1001,19 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "As Cuba swelters under six-month oil blockade imposed by US, tempers are fraying and unrest is growing  When Cuba’s national grid collapses, as it did for the third time in 10 days on Tuesday, a collective groan spreads across its cities and people wonder, again, whether the island’s antiquated electricity system may soon become unrecoverable.",
-        "The 777-mile Caribbean island of 9.5 million people has been sweltering under  a six-month-long oil blockade imposed by the  US, part of a pressure campaign to bring down its communist government.",
-        "But the parlous state of Cuba’s infrastructure goes far further back."
+        "Some parts of the US mid-Atlantic and north-east regions will continue to endure poor air quality until Saturday afternoon, where there is a  high chance of thunderstorms , which could bring some reprieve from the poor air but come with other risks like flash flooding and high winds.",
+        "Meanwhile, parts of the midwest and Great Lakes regions will continue to see dangerous air quality.",
+        "Continue reading..."
       ],
       "image_url": null,
-      "published": "Sat, 18 Jul 2026 13:14:57 GMT"
+      "published": "Sat, 18 Jul 2026 14:13:36 GMT"
     },
     {
-      "title": "Israel Counters Iranian Spying by Warning Against Recruitment",
-      "link": "https://www.nytimes.com/2026/07/18/world/middleeast/israel-recruits-rabbis-iran.html",
-      "source": "NYT World",
+      "title": "‘We are preserving a tradition’: how Ghana’s sensationalist film posters became collectible art",
+      "link": "https://www.theguardian.com/world/2026/jul/18/ghana-sensationalist-film-posters-collectible-art",
+      "source": "The Guardian World",
       "all_sources": [
-        "NYT World"
+        "The Guardian World"
       ],
       "bias_breakdown": {
         "Lean Left": 1
@@ -1096,65 +1027,19 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "The Israeli authorities have enacted a broad array of countermeasures to contain what they describe as online recruiting efforts by Iranian agents."
+        "Higher on the canvas, he had started on an outline of a skull.",
+        "Heavy J was creating a poster, but not as you might have expected for a horror film.",
+        "The man with the knife was not a killer but the film’s kind-hearted prince, Eric."
       ],
-      "image_url": "https://static01.nyt.com/images/2026/06/30/multimedia/xxint-israel-spies-hblc/xxint-israel-spies-hblc-mediumSquareAt3X.jpg",
-      "published": "Sat, 18 Jul 2026 13:09:16 +0000"
+      "image_url": null,
+      "published": "Sat, 18 Jul 2026 04:00:47 GMT"
     },
     {
-      "title": "US renews warning against travel to Middle East after Iranian terror group targets Saudi Arabia",
-      "link": "https://nypost.com/2026/07/18/world-news/us-renews-warning-against-travel-to-middle-east-amid-war-with-iran/",
-      "source": "New York Post World",
+      "title": "Palestinians Stream Back to Northern Gaza on Foot",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "source": "WSJ World News",
       "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The US is urging Americans to reconsider traveling to the Middle East as war with Iran continues to escalate in the Gulf region."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2F2026-screen-grab-obtained-social-134778650_2ccdf7.jpg?quality%3D90%26",
-      "published": "Sat, 18 Jul 2026 12:25:22 -0400"
-    },
-    {
-      "title": "Cops forced to issue warning not to bring unexploded WW2 grenades into police station",
-      "link": "https://nypost.com/2026/07/18/world-news/police-dept-warns-residents-not-to-bring-in-ww2-grenades/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "A police department had to issue a dire warning to its residents -- urging them against showing up to the station with unexploded World War 2 grenades, after one woman did just that."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2F2207520000-type-3-earlier-today-134769539.jpg?w%3D1024",
-      "published": "Sat, 18 Jul 2026 11:19:49 -0400"
-    },
-    {
-      "title": "Laos says it can't determine cause of  tourist deaths linked to methanol",
-      "link": "https://www.bbc.co.uk/news/articles/cdx8rj99endo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "all_sources": [
-        "BBC World"
+        "WSJ World News"
       ],
       "bias_breakdown": {
         "Center": 1
@@ -1168,85 +1053,204 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Officials say they have no evidence of poisoning over the 2024 deaths because autopsies were not conducted."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbc2/live/32672200-a8c8-11ef-a4fe-a3e9a6c5d640.jpg",
-      "published": "Sat, 18 Jul 2026 11:10:20 GMT"
-    },
-    {
-      "title": "Iqaluit, Canada’s Most Northern City, Gets Its First Bus Line",
-      "link": "https://www.nytimes.com/2026/07/18/world/canada/iqaluit-arctic-city-bus.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Jacinto Marques left Angola for Canada’s frozen edge.",
-        "Now he’s running a bus service in Iqaluit, the largest, and only city in Canada’s Arctic."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/07/07/multimedia/00int-canada-iqaluit-dispatch01-photo-cvfw/00int-canada-iqaluit-dispatch01-photo-cvfw-mediumSquareAt3X.jpg",
-      "published": "Sat, 18 Jul 2026 09:01:06 +0000"
-    },
-    {
-      "title": "Why is it so hard for the U.S. to win wars?",
-      "link": "https://www.npr.org/2026/07/18/g-s1-134037/why-is-it-so-hard-for-the-u-s-to-win-wars",
-      "source": "NPR World",
-      "all_sources": [
-        "NPR World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "U.S.",
-        "presidents have promised short, decisive wars in Afghanistan, Iraq and Iran.",
-        "All have proved much more difficult than advertised and fallen far short of the political goals set at the beginning."
+        "Israel allowed displaced Gazans to begin crossing a military zone that bisects the enclave after a deadlock over hostage releases was broken."
       ],
       "image_url": null,
-      "published": "Sat, 18 Jul 2026 08:45:13 -0400"
+      "published": "Mon, 27 Jan 2025 14:23:00 -0500"
     },
     {
-      "title": "Incoming UK PM Andy Burnham rejects Thatcher-era policies, signals leftward shift",
-      "link": "https://www.foxnews.com/world/incoming-uk-pm-andy-burnham-rejects-thatcher-era-policies-signals-leftward-shift",
-      "source": "Fox News World",
+      "title": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+      "link": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+      "source": "WSJ World News",
       "all_sources": [
-        "Fox News World"
+        "WSJ World News"
       ],
       "bias_breakdown": {
-        "Right": 1
+        "Center": 1
       },
       "bias_bar": {
         "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
+        "center_pct": 100,
+        "right_pct": 0,
         "total": 1
       },
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Andy Burnham condemned Margaret Thatcher&apos;s legacy and promised public ownership of utilities, housing and transport in his first Labour leader speech."
+        "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in."
       ],
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/burnham-thatcher-1.jpg?ve=1&tl=1",
-      "published": "Sat, 18 Jul 2026 07:38:36 -0400"
+      "image_url": null,
+      "published": "Mon, 27 Jan 2025 12:32:00 -0500"
+    },
+    {
+      "title": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+      "link": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
+      "source": "WSJ World News",
+      "all_sources": [
+        "WSJ World News"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said."
+      ],
+      "image_url": null,
+      "published": "Mon, 27 Jan 2025 12:12:00 -0500"
+    },
+    {
+      "title": "Suspected Sabotage of Deep-Sea Cable Triggers First NATO-Led Response",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "source": "WSJ World News",
+      "all_sources": [
+        "WSJ World News"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The alliance mounted its first coordinated response to a suspected sabotage campaign against critical infrastructure after another cable was severed in the Baltic Sea."
+      ],
+      "image_url": null,
+      "published": "Mon, 27 Jan 2025 11:22:00 -0500"
+    },
+    {
+      "title": "Rwanda-Backed Rebels Enter Congo's Safe-Haven City",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "source": "WSJ World News",
+      "all_sources": [
+        "WSJ World News"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Residents of Goma reported gunfire and shelling after rebels overran Congolese troops.",
+        "U.N.",
+        "officials estimated that more than one million displaced people were now inside the city."
+      ],
+      "image_url": null,
+      "published": "Mon, 27 Jan 2025 10:07:00 -0500"
+    },
+    {
+      "title": "Cocaine-Funded Gangs Shake Colombia Years After Peace Pact",
+      "link": "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da",
+      "source": "WSJ World News",
+      "all_sources": [
+        "WSJ World News"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Attacks by powerful militias against civilians reflect the state’s inaction eight years after a peace accord removed a powerful rebel group from the field."
+      ],
+      "image_url": null,
+      "published": "Mon, 27 Jan 2025 07:00:00 -0500"
+    },
+    {
+      "title": "Italy Supports Saudi Arabia Joining Fighter-Jet Program, PM Meloni Says",
+      "link": "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1",
+      "source": "WSJ World News",
+      "all_sources": [
+        "WSJ World News"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The U.K., Italy and Japan have already partnered on the Global Combat Air Programme, which aims to put a new stealth fighter with supersonic capability in the skies by 2035."
+      ],
+      "image_url": null,
+      "published": "Mon, 27 Jan 2025 05:34:00 -0500"
+    },
+    {
+      "title": "Shippers Wary of Red Sea Routes Despite Houthi Pledge to End Targeting",
+      "link": "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2",
+      "source": "WSJ World News",
+      "all_sources": [
+        "WSJ World News"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The world’s top three container operators said they fear instability in Gaza and broader regional tensions mean continued danger."
+      ],
+      "image_url": null,
+      "published": "Mon, 27 Jan 2025 01:05:00 -0500"
+    },
+    {
+      "title": "Kim Jong Un Is Doing Everything He Can to Keep North Korea's Youth in Line",
+      "link": "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de",
+      "source": "WSJ World News",
+      "all_sources": [
+        "WSJ World News"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The dictator, eager to shut out the influence of Hollywood and K-pop, has been exalting a “shock brigade” of 300,000 teens and 20-somethings drafted into flood reconstruction."
+      ],
+      "image_url": null,
+      "published": "Mon, 27 Jan 2025 01:05:00 -0500"
     }
   ]
 }
