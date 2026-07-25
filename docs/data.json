@@ -1,67 +1,40 @@
 {
-  "date": "2026-07-24",
-  "generated_at": "2026-07-24T10:15:14.937286",
+  "date": "2026-07-25",
+  "generated_at": "2026-07-25T09:45:53.509147",
   "stats": {
     "total": 50,
-    "multi_source": 3,
+    "multi_source": 2,
     "trending": 1,
-    "blindspots": 1
+    "blindspots": 0
   },
   "stories": [
     {
-      "title": "Canada cancels joint bridge-opening celebration with US amid trade tensions",
-      "link": "https://www.theguardian.com/us-news/2026/jul/21/gordie-howe-bridge-opening-celebration-canceled",
-      "source": "The Guardian World",
+      "title": "Modi’s greatest challenge yet? Delhi struggles to contain student unrest.",
+      "link": "https://www.csmonitor.com/World/Asia-South-Central/2026/0723/modi-india-student-protests-cockroach-exam-leaks?icid=rss",
+      "source": "Christian Science Monitor World",
       "all_sources": [
+        "Christian Science Monitor World",
         "NYT World",
-        "The Guardian World"
+        "NYT World"
       ],
       "bias_breakdown": {
-        "Lean Left": 2
+        "Lean Left": 2,
+        "Center": 1
       },
       "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 2
-      },
-      "is_blindspot": true,
-      "is_trending": false,
-      "bullet_points": [
-        "Trump’s 50% tariff threat means there will be no ribbon-cutting celebration of Gordie Howe International Bridge  A planned joint US-Canada ceremony on Friday celebrating the opening of the Gordie Howe International Bridge connecting Detroit and Windsor, Ontario, is no longer expected to take place after Donald Trump announced a 50% tariff on most Canadian goods.",
-        "In announcing the tariffs, the president accused Canada of unfairly discriminating against US automobiles, alcohol and dairy products, escalating tensions with one of the United States’ closest allies.",
-        "Continue reading..."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/07/24/multimedia/24int-canada-bridge-jclb/24int-canada-bridge-jclb-mediumSquareAt3X.jpg",
-      "published": "Wed, 22 Jul 2026 16:35:02 GMT"
-    },
-    {
-      "title": "Trump says Saudi Arabia's nuclear deal hinges on the kingdom normalizing Israel ties",
-      "link": "https://www.npr.org/2026/07/23/nx-s1-5904327/us-saudi-arabia-iran",
-      "source": "NPR World",
-      "all_sources": [
-        "BBC World",
-        "NPR World",
-        "Fox News World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1,
-        "Center": 1,
-        "Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 33,
+        "left_pct": 67,
         "center_pct": 33,
-        "right_pct": 33,
+        "right_pct": 0,
         "total": 3
       },
       "is_blindspot": false,
       "is_trending": true,
       "bullet_points": [
-        "After a Saudi nuclear power deal raised alarm in Israel, President Trump announced online that the arrangement is subject to the kingdom normalizing relations with Israel through the Abraham Accords."
+        "Long-simmering frustrations with corruption and youth unemployment have bubbled over into India’s streets.",
+        "And in what is arguably the biggest test yet for Prime Minister Narendra Modi’s government, India’s young “cockroaches” aren’t backing down."
       ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3939/live/be2c4e20-86a0-11f1-926f-c90d1bcfbc84.jpg",
-      "published": "Thu, 23 Jul 2026 06:55:44 -0400"
+      "image_url": "https://static01.nyt.com/images/2026/07/24/multimedia/24int-india-minister-HFO-pjmq/24int-india-minister-HFO-pjmq-mediumSquareAt3X.jpg",
+      "published": "Thu, 23 Jul 2026 17:26:27 EDT"
     },
     {
       "title": "Israeli UN envoy blasts Mamdani as 'clown' over call to arrest Netanyahu: 'It's a stunt'",
@@ -161,60 +134,6 @@
       "published": "Wed, 22 Jul 2026 14:22:10 -0400"
     },
     {
-      "title": "Nicaragua’s congress announces ‘work plan’ to suspend elections",
-      "link": "https://www.theguardian.com/world/2026/jul/22/nicaragua-daniel-ortega-congress-work-plan-suspend-elections",
-      "source": "The Guardian World",
-      "all_sources": [
-        "The Guardian World",
-        "Fox News World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1,
-        "Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 50,
-        "center_pct": 0,
-        "right_pct": 50,
-        "total": 2
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "US secretary of state says international community should ‘join forces’ against authoritarian Ortega regime  Nicaragua’s congress, controlled by the country’s long-serving president, Daniel Ortega, has announced a “work plan” to implement the authoritarian leader’s order that the country should no longer hold elections.",
-        "The UN and the US strongly condemned  Sunday’s announcement  by Ortega, who has been in power since 2007 and, after a controversial constitutional change last year, now  governs alongside his wife , Rosario Murillo, as “co-president”.",
-        "Continue reading..."
-      ],
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/Daniel-Ortega-elections-rule.png?ve=1&tl=1",
-      "published": "Wed, 22 Jul 2026 13:33:35 GMT"
-    },
-    {
-      "title": "Sperm whales change ‘vowel’ sounds when boats are nearby, scientists discover",
-      "link": "https://www.theguardian.com/environment/2026/jul/22/sperm-whales-dominica-clicks-vowels-language-changes-shipping-noise-project-ceti",
-      "source": "The Guardian World",
-      "all_sources": [
-        "The Guardian World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Researchers listening off the Caribbean island of Dominica found variations in the mammals’ audible clicks when marine traffic was close  Sperm whales produce a specific pattern of clicking noises when they hear the noise of boats, researchers have found.",
-        "The pattern is so distinct that the scientists who identified it said they can now use it to predict when ships are nearby.",
-        "Researchers from  Project Ceti  (the Cetacean Translation Initiative), a non-profit research organisation working to decode sperm whale communication, spent four years tuning in on the calls of 15 sperm whales off the coast of Dominica."
-      ],
-      "image_url": null,
-      "published": "Wed, 22 Jul 2026 13:00:15 GMT"
-    },
-    {
       "title": "Rubio accuses Iran of flying IRGC personnel into Yemen as Houthi threat escalates",
       "link": "https://www.foxnews.com/world/rubio-accuses-iran-flying-irgc-personnel-yemen-houthi-threat-escalates",
       "source": "Fox News World",
@@ -237,80 +156,6 @@
       ],
       "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/marco-rubio-asean-summit_001.jpg?ve=1&tl=1",
       "published": "Wed, 22 Jul 2026 10:05:56 -0400"
-    },
-    {
-      "title": "Israel's new exhibit exposes years of Hamas terrorist planning before Oct 7 massacre",
-      "link": "https://www.foxnews.com/world/israels-new-exhibit-exposes-years-hamas-terrorist-planning-before-oct-7-massacre",
-      "source": "Fox News World",
-      "all_sources": [
-        "Fox News World"
-      ],
-      "bias_breakdown": {
-        "Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "A 600-square-meter exhibition features Hamas tunnel replicas, attack vehicles, and documents revealing Hezbollah and Iran&apos;s roles in the Oct.",
-        "7 assault."
-      ],
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/03/931/523/thumbnail_image0.jpg?ve=1&tl=1",
-      "published": "Wed, 22 Jul 2026 08:56:30 -0400"
-    },
-    {
-      "title": "Nigerian pastor highlighted by Trump says he’s next after militia kills his relatives",
-      "link": "https://www.foxnews.com/world/nigerian-pastor-highlighted-trump-says-hes-next-after-militia-kills-his-relatives",
-      "source": "Fox News World",
-      "all_sources": [
-        "Fox News World"
-      ],
-      "bias_breakdown": {
-        "Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Rev.",
-        "Ezekiel Dachomo says Fulani militia killed nine of his family and now threatens his life as the State Department condemns Christian persecution."
-      ],
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/pastor-nigeria-4.jpg?ve=1&tl=1",
-      "published": "Wed, 22 Jul 2026 06:00:31 -0400"
-    },
-    {
-      "title": "Iran regime change talk resurfaces as Trump says Tehran 'wants to meet' amid US strikes",
-      "link": "https://www.foxnews.com/world/iran-regime-change-talk-resurfaces-trump-says-tehran-wants-meet-amid-us-strikes",
-      "source": "Fox News World",
-      "all_sources": [
-        "Fox News World"
-      ],
-      "bias_breakdown": {
-        "Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Trump administration officials are reportedly debating whether to support Iran&apos;s downfall, even as Trump says Iran is desperately seeking talks."
-      ],
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/ak-funeral-2.jpg?ve=1&tl=1",
-      "published": "Wed, 22 Jul 2026 06:00:06 -0400"
     },
     {
       "title": "Health worker monitored for Ebola in London hospital after working in DRC",
@@ -415,151 +260,6 @@
       "published": "Tue, 21 Jul 2026 10:00:42 GMT"
     },
     {
-      "title": "Indonesian babies were trafficked to Singapore. What happens to them now?",
-      "link": "https://www.bbc.co.uk/news/articles/c7vgeredvlgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "all_sources": [
-        "BBC World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "At least 12 babies have been trafficked from Indonesia to Singapore, but what will happen to them remains unclear."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9a4/live/b3961660-8666-11f1-93cb-95d7eb12ec49.jpg",
-      "published": "Thu, 23 Jul 2026 23:19:58 GMT"
-    },
-    {
-      "title": "US-made F-16 helps Ukraine take out Russian Su-35 fighter jet for first time during war",
-      "link": "https://nypost.com/2026/07/23/world-news/ukrainian-f-16-fighter-makes-history-striking-down-russian-su-35-jet/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "An American-made, Ukrainian F-16 fighter jet took out an airborne Russian Su-35 for the first time in the war."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2Fukrainian-air-forces-f-16-135290843.jpg?w%3D1024",
-      "published": "Thu, 23 Jul 2026 21:40:38 -0400"
-    },
-    {
-      "title": "Iran flew commanders, missile gear to Houthi rebels in Yemen: report",
-      "link": "https://nypost.com/2026/07/23/world-news/iran-flew-commanders-missile-gear-to-houthi-rebels-in-yemen-report/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Iran flew Islamic Revolutionary Guard Corps (IRGC) commanders, military advisers and missile and drone gear into Yemen ahead of the overnight tanker attack in the Red Sea, according to a new report."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2Farmed-yemeni-supporters-iran-backed-134710412.jpg?w%3D1024",
-      "published": "Thu, 23 Jul 2026 19:35:41 -0400"
-    },
-    {
-      "title": "13 tanker ships have been hit by Iran and Houthis since cease-fire breakdown",
-      "link": "https://nypost.com/2026/07/23/world-news/iran-houthis-attack-13-ships-in-arabian-peninsula-since-cease-fire-breakdown/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Iran and its Houthi terror proxies have attacked at least 13 ships in the Arabian Peninsula since the cease-fire with the US collapsed earlier this month."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2Fhouthi-supporters-rally-saudi-led-135279672.jpg?w%3D1024",
-      "published": "Thu, 23 Jul 2026 18:08:42 -0400"
-    },
-    {
-      "title": "Ukraine's ousted defence minister insists on being reinstated",
-      "link": "https://www.bbc.co.uk/news/articles/ce97nm53pgxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "all_sources": [
-        "BBC World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Mykhailo Fedorov refuses President Zelensky's offer to accept an alternative post, as the battle of wills continues."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bcc1/live/101e62c0-86b7-11f1-bb58-d3ffca85db6d.jpg",
-      "published": "Thu, 23 Jul 2026 17:37:59 GMT"
-    },
-    {
-      "title": "Modi’s greatest challenge yet? Delhi struggles to contain student unrest.",
-      "link": "https://www.csmonitor.com/World/Asia-South-Central/2026/0723/modi-india-student-protests-cockroach-exam-leaks?icid=rss",
-      "source": "Christian Science Monitor World",
-      "all_sources": [
-        "Christian Science Monitor World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Long-simmering frustrations with corruption and youth unemployment have bubbled over into India’s streets.",
-        "And in what is arguably the biggest test yet for Prime Minister Narendra Modi’s government, India’s young “cockroaches” aren’t backing down."
-      ],
-      "image_url": null,
-      "published": "Thu, 23 Jul 2026 17:26:27 EDT"
-    },
-    {
       "title": "French modeling scout linked to Jeffrey Epstein found dead in Paris apartment",
       "link": "https://www.foxnews.com/world/french-modeling-scout-linked-jeffrey-epstein-found-dead-paris-apartment",
       "source": "Fox News World",
@@ -582,129 +282,6 @@
       ],
       "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/daniel-siad-001.jpg?ve=1&tl=1",
       "published": "Thu, 23 Jul 2026 17:02:38 -0400"
-    },
-    {
-      "title": "Mayor shot dead in Mexico months after surviving assassination attempt",
-      "link": "https://www.theguardian.com/world/2026/jul/23/mayor-shot-dead-mexico-after-surviving-assassination",
-      "source": "The Guardian World",
-      "all_sources": [
-        "The Guardian World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Valentín Lavín Romero is the 14th mayor to be murdered since Claudia Sheinbaum became president in 2024  A mayor was shot dead on Wednesday in the Mexican state of Morelos after having survived a previous assassination attempt earlier this year.",
-        "He is the 14th mayor to be murdered since Claudia Sheinbaum became president in October 2024.",
-        "Valentín Lavín Romero, who was from the Green party, an ally of the ruling leftwing Morena party, was wounded at the end of January when hitmen shot him at a petrol station on a motorway."
-      ],
-      "image_url": null,
-      "published": "Thu, 23 Jul 2026 16:32:53 GMT"
-    },
-    {
-      "title": "Teen jailed for exam cheating in Guinea dies after sickle cell complications, father says",
-      "link": "https://www.bbc.co.uk/news/articles/cn0nykz6lweo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "all_sources": [
-        "BBC World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Mamadou Djouma Bah, 17, was arrested and sentenced to prison for exam fraud earlier this month."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/097f/live/f3fca430-86b1-11f1-bee8-53ce494e1abc.png",
-      "published": "Thu, 23 Jul 2026 16:26:49 GMT"
-    },
-    {
-      "title": "Iran’s frightening missile accuracy sparks fears adversaries are helping Tehran target US troops, CIA sites",
-      "link": "https://nypost.com/2026/07/23/world-news/irans-strikes-on-us-troops-cia-facilities-expose-deadly-new-threat-with-russia-and-chinas-help-feared/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Iran's increasingly precise missile and drone attacks — including strikes that evaded US air defenses and killed American troops last week — are fueling fears inside the Pentagon that Tehran is getting help from American adversaries such as Russia and China."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2Fmuwaffaq-salti-air-base-jordan-135296295.jpg?w%3D768",
-      "published": "Thu, 23 Jul 2026 16:19:05 -0400"
-    },
-    {
-      "title": "Oil-Rich Saudi Arabia Isn’t Short on Energy. Here’s Why It Wants to Go Nuclear.",
-      "link": "https://www.nytimes.com/2026/07/23/world/middleeast/saudi-arabia-nuclear.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Opponents warn that a U.S.-Saudi deal could be a step toward the kingdom building an atomic bomb.",
-        "But there are other reasons for the world’s largest oil exporter to diversify its energy mix."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/07/22/multimedia/22int-saudi-nuclear-civilian-1-lqkv/22int-saudi-nuclear-civilian-1-lqkv-mediumSquareAt3X.jpg",
-      "published": "Thu, 23 Jul 2026 15:57:43 +0000"
-    },
-    {
-      "title": "Oil prices hit $100 for the first time since May",
-      "link": "https://www.bbc.co.uk/news/articles/cx2djnzrqk2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "all_sources": [
-        "BBC World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The price of Brent crude rose more than 6% on Thursday as the war in the Middle East continues to escalate."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d668/live/b41122b0-867a-11f1-8c77-df97511a6b05.jpg",
-      "published": "Thu, 23 Jul 2026 15:31:00 GMT"
     },
     {
       "title": "Two Russian men jailed in Angola for terrorism and spying",
@@ -759,103 +336,6 @@
       "published": "Thu, 23 Jul 2026 14:06:01 GMT"
     },
     {
-      "title": "Why I Sought Out a Taliban Commander I Had Fought",
-      "link": "https://www.nytimes.com/2026/07/23/world/asia/taliban-afghanistan-marine.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "First as a Marine and then as a journalist, I spent years tied to Afghanistan.",
-        "I returned one last time to speak to a former enemy in search of answers, and perhaps closure."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/07/23/multimedia/23int-taliban-return-top-gzlc/23int-taliban-return-top-gzlc-mediumSquareAt3X.jpg",
-      "published": "Thu, 23 Jul 2026 13:26:28 +0000"
-    },
-    {
-      "title": "Fake corpses of Barron, Ivanka, and Melania shown in latest sick Iran billboard: ‘Get ready to die’",
-      "link": "https://nypost.com/2026/07/23/world-news/sick-iran-billboard-shows-corpses-of-trumps-wife-and-kids/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "It's the latest ghoulish threat made to President Trump and his family in recent weeks by the Iranian state."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2Fpicture-provided-third-party-israel-135068170.jpg?w%3D1024",
-      "published": "Thu, 23 Jul 2026 12:08:56 -0400"
-    },
-    {
-      "title": "Woman crushed to death by man who landed on her after he fell from 12-story building",
-      "link": "https://nypost.com/2026/07/23/world-news/woman-killed-by-man-who-landed-on-her-after-he-fell-from-12-story-building-in-japan/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The young woman was walking along a footpath when a 29-year-old man allegedly fell on her from a high-rise apartment building above."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2F119-reporting-man-fell-top-135282709.jpg?w%3D1024",
-      "published": "Thu, 23 Jul 2026 11:18:09 -0400"
-    },
-    {
-      "title": "UK cops apologize for ‘missed opportunity’ in last year’s synagogue attack by ‘committed jihadist’",
-      "link": "https://nypost.com/2026/07/23/world-news/uk-police-sorry-for-missed-opportunity-to-stop-deadly-synagogue-attack/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "One Jewish worshipper died from stab wounds and ​another was accidentally shot dead by the police in last year's attack in Manchester."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2Frabbi-daniel-walker-britains-king-135281125.jpg?w%3D1024",
-      "published": "Thu, 23 Jul 2026 11:05:20 -0400"
-    },
-    {
       "title": "In a first, Chinese woman wins the prestigious Fields Medal",
       "link": "https://www.npr.org/2026/07/23/g-s1-135032/in-a-first-chinese-woman-wins-the-prestigious-fields-medal",
       "source": "NPR World",
@@ -878,82 +358,6 @@
       ],
       "image_url": null,
       "published": "Thu, 23 Jul 2026 10:56:47 -0400"
-    },
-    {
-      "title": "U.S. signs nuclear deal with Saudi Arabia. And, Nolan Wells' independent autopsy results",
-      "link": "https://www.npr.org/2026/07/23/g-s1-135097/up-first-newsletter-saudi-arabia-nuclear-deal-house-bills-peptides-nolan-wells",
-      "source": "NPR World",
-      "all_sources": [
-        "NPR World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The U.S.",
-        "has signed a nuclear cooperation agreement with Saudi Arabia.",
-        "And, the independent autopsy results of Nolan Wells fuel more questions surrounding his cause of death."
-      ],
-      "image_url": null,
-      "published": "Thu, 23 Jul 2026 07:39:57 -0400"
-    },
-    {
-      "title": "U.S. signs commercial nuclear deal with Saudi Arabia",
-      "link": "https://www.npr.org/2026/07/23/nx-s1-5903125/u-s-signs-commercial-nuclear-deal-with-saudi-arabia",
-      "source": "NPR World",
-      "all_sources": [
-        "NPR World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The agreement between the U.S.",
-        "and Saudi Arabia gives American companies priority access to nuclear reactors and fuel to Saudi Arabia.",
-        "It's expected to last decades and be worth billions of dollars."
-      ],
-      "image_url": null,
-      "published": "Thu, 23 Jul 2026 06:46:02 -0400"
-    },
-    {
-      "title": "Former State Department official on the implications of the U.S.-Saudi nuclear deal",
-      "link": "https://www.npr.org/2026/07/23/nx-s1-5903069/former-state-department-official-on-the-implications-of-the-u-s-saudi-nuclear-deal",
-      "source": "NPR World",
-      "all_sources": [
-        "NPR World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "NPR's Michel Martin talks to Daniel Benaim, a former State Department official who worked on Gulf issues, about the U.S.-Saudi nuclear deal."
-      ],
-      "image_url": null,
-      "published": "Thu, 23 Jul 2026 06:45:56 -0400"
     },
     {
       "title": "IOC drops Russia ban, but it might not be all good news for the Kremlin",
@@ -980,52 +384,28 @@
       "published": "Thu, 23 Jul 2026 05:00:09 EDT"
     },
     {
-      "title": "Ebola death toll in DR Congo surpasses 1,000",
-      "link": "https://www.npr.org/2026/07/23/nx-s1-5902980/ebola-congo-outbreak-deaths",
-      "source": "NPR World",
+      "title": "Nicaragua's parliament plans to eliminate elections to codify President Ortega's declaration",
+      "link": "https://www.foxnews.com/world/nicaraguas-parliament-plans-eliminate-elections-codify-president-ortegas-declaration",
+      "source": "Fox News World",
       "all_sources": [
-        "NPR World"
+        "Fox News World"
       ],
       "bias_breakdown": {
-        "Lean Left": 1
+        "Right": 1
       },
       "bias_bar": {
-        "left_pct": 100,
+        "left_pct": 0,
         "center_pct": 0,
-        "right_pct": 0,
+        "right_pct": 100,
         "total": 1
       },
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Congo's Ebola outbreak has crossed the grim 1,000-death threshold, marking the fastest fatal surge in  recorded history of the virus."
+        "Nicaragua&apos;s congress moves to abolish elections after President Daniel Ortega declared no more elections, drawing condemnation from the international community."
       ],
-      "image_url": null,
-      "published": "Thu, 23 Jul 2026 04:45:45 -0400"
-    },
-    {
-      "title": "Beloved educator's detention fuels India's biggest protests in years",
-      "link": "https://www.npr.org/2026/07/23/nx-s1-5901932/beloved-educators-detention-fuels-indias-biggest-protests-in-years",
-      "source": "NPR World",
-      "all_sources": [
-        "NPR World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "In India, the detention of a beloved educator on hunger strike has turned into its largest anti-government protests in years."
-      ],
-      "image_url": null,
-      "published": "Thu, 23 Jul 2026 04:45:40 -0400"
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/Daniel-Ortega-elections-rule.png?ve=1&tl=1",
+      "published": "Thu, 23 Jul 2026 00:39:53 -0400"
     },
     {
       "title": "Trump Says Colombia Will Accept Deportees, Ending Tariff Standoff",
@@ -1052,54 +432,6 @@
       "published": "Sun, 26 Jan 2025 22:59:00 -0500"
     },
     {
-      "title": "In World Cup final, even Messi is no match for Spain’s all-around effort",
-      "link": "https://www.csmonitor.com/World/2026/0719/world-cup-winner-argentina-spain-messi-ferran-torres?icid=rss",
-      "source": "Christian Science Monitor World",
-      "all_sources": [
-        "Christian Science Monitor World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "In the climax of World Cup 2026, Spain may not have had superstars, but the unity of its players proved more important than individual heroics."
-      ],
-      "image_url": null,
-      "published": "Sun, 19 Jul 2026 21:55:40 EDT"
-    },
-    {
-      "title": "How a ‘white elephant’ ended up in Colombia’s Congress",
-      "link": "https://www.csmonitor.com/World/Americas/2026/0719/colombia-election-corruption-white-elephant?icid=rss",
-      "source": "Christian Science Monitor World",
-      "all_sources": [
-        "Christian Science Monitor World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "An anti-corruption candidate rose to fame for highlighting government waste – and doing it in an elephant costume."
-      ],
-      "image_url": null,
-      "published": "Sun, 19 Jul 2026 05:00:09 EDT"
-    },
-    {
       "title": "São Tomé and Príncipe heads to polls in tense presidential election",
       "link": "https://www.theguardian.com/world/2026/jul/19/sao-tome-and-principe-presidential-election",
       "source": "The Guardian World",
@@ -1124,6 +456,418 @@
       ],
       "image_url": null,
       "published": "Sun, 19 Jul 2026 04:00:16 GMT"
+    },
+    {
+      "title": "Wildfire Smoke Chokes Skies in Spain and France",
+      "link": "https://www.nytimes.com/2026/07/25/world/europe/wildfires-photos-spain-france.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Hundreds of thousands of people, including residents as well as vacationers, were forced to evacuate or told to remain indoors."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/07/25/multimedia/25Int-Europe-Fires-Visual-thlq/25Int-Europe-Fires-Visual-thlq-mediumSquareAt3X.jpg",
+      "published": "Sat, 25 Jul 2026 09:35:48 +0000"
+    },
+    {
+      "title": "Iran Journey Reveals Society’s Wartime Defiance and Hope",
+      "link": "https://www.nytimes.com/2026/07/25/world/middleeast/what-a-journey-through-wartime-iran-revealed.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "From the capital, Tehran, to the holy city of Mashhad, the Iran I saw was a nation of many layers: defiant but also weary, despairing but hopeful."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/07/25/multimedia/25iran-01-gvkh/25iran-01-gvkh-mediumSquareAt3X.jpg",
+      "published": "Sat, 25 Jul 2026 09:01:55 +0000"
+    },
+    {
+      "title": "Colombia’s Trump-Endorsed President-Elect Was Once Investigated by U.S. Authorities",
+      "link": "https://www.nytimes.com/2026/07/25/world/americas/colombia-president-de-la-espriella-trump-us-investigation.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "While living in Miami, Colombia’s president-elect represented accused drug traffickers and money launderers.",
+        "He himself was investigated by U.S.",
+        "authorities, though never charged."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/07/27/multimedia/00int-colombian-president-florida-glqf/00int-colombian-president-florida-glqf-mediumSquareAt3X.jpg",
+      "published": "Sat, 25 Jul 2026 09:00:23 +0000"
+    },
+    {
+      "title": "Dodging snipers, housing crisis forces Yemenis to live on front line",
+      "link": "https://www.aljazeera.com/news/2026/7/25/dodging-snipers-housing-crisis-forces-yemenis-to-live-on-front-line?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Living near Taiz&#039;s front line forces families to make difficult choices amid sniper threats and economic hardships."
+      ],
+      "image_url": null,
+      "published": "Sat, 25 Jul 2026 08:09:47 +0000"
+    },
+    {
+      "title": "Canadian Intern at NATO Military HQ Is Arrested on Suspicion of Spying",
+      "link": "https://www.nytimes.com/2026/07/25/world/europe/nato-canada-china-arrest-spying.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The authorities in Belgium did not name the country that the intern, a woman “of Chinese origin,” is suspected of spying for."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/07/25/multimedia/25xp-nato-shape/25xp-nato-shape-mediumSquareAt3X.jpg",
+      "published": "Sat, 25 Jul 2026 07:59:14 +0000"
+    },
+    {
+      "title": "Born too soon: Premature babies fight for survival in Gaza",
+      "link": "https://www.aljazeera.com/features/2026/7/25/born-too-soon-premature-babies-fighting-for-survival-in-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Israel&#039;s genocidal war on Gaza is causing a surge in premature births and endangering mothers&#039; health."
+      ],
+      "image_url": null,
+      "published": "Sat, 25 Jul 2026 07:25:35 +0000"
+    },
+    {
+      "title": "Guterres arrives in Syria in first official visit by a UN chief in 17 years",
+      "link": "https://www.aljazeera.com/news/2026/7/25/guterres-arrives-in-syria-in-first-official-visit-by-a-un-chief-in-17-years?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The UN chief will meet Syrian President Ahmed al-Sharaa, who was under UN Security Council sanctions until last year."
+      ],
+      "image_url": null,
+      "published": "Sat, 25 Jul 2026 07:22:47 +0000"
+    },
+    {
+      "title": "Taiwan Tests How It Would Resist a Chinese Siege at Sea",
+      "link": "https://www.nytimes.com/2026/07/25/world/asia/taiwan-china-ships-blockade.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Taiwan is stepping up plans to secure fuel and other vital imports as Chinese government ships practice moves that could one day be used in a blockade."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/07/21/multimedia/00int-china-taiwan-coastguard-wtzp/00int-china-taiwan-coastguard-wtzp-mediumSquareAt3X.jpg",
+      "published": "Sat, 25 Jul 2026 07:10:49 +0000"
+    },
+    {
+      "title": "Commonwealth Games: Gymnast Langton’s headfirst crash leads to concussion",
+      "link": "https://www.aljazeera.com/sports/2026/7/25/commonwealth-games-gymnast-langtons-headfirst-crash-leads-to-concussion?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Gabriel Langton suffers concussion after headfirst crash off horizontal bar in the ⁠final rotation of the competition."
+      ],
+      "image_url": null,
+      "published": "Sat, 25 Jul 2026 06:36:22 +0000"
+    },
+    {
+      "title": "Venezuelans hold vigil one month after devastating earthquakes",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/7/25/venezuelans-hold-vigil-one-month-after-devastating-earthquakes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "One month after Venezuela’s earthquakes, families are still searching collapsed buildings for missing loved ones."
+      ],
+      "image_url": null,
+      "published": "Sat, 25 Jul 2026 05:50:04 +0000"
+    },
+    {
+      "title": "South Africa’s le Clos breaks Commonwealth Games record with 19th medal",
+      "link": "https://www.aljazeera.com/sports/2026/7/25/south-africas-le-clos-breaks-commonwealth-games-record-with-19th-medal?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "A record 19th medal took South Africa&#039;s Chad le Clos past shooters Phil Adams of Australia and Mick Gault of England."
+      ],
+      "image_url": null,
+      "published": "Sat, 25 Jul 2026 05:48:52 +0000"
+    },
+    {
+      "title": "Punch the monkey gets thousands of birthday messages as he turns 1",
+      "link": "https://nypost.com/2026/07/25/world-news/punch-the-monkey-gets-2500-birthday-messages-as-he-turns-1-on-sunday/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "He has received some 2,500 birthday cards from inside and outside Japan."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2Fpunch-young-japanese-macaque-plays-135439143.jpg?w%3D1024",
+      "published": "Sat, 25 Jul 2026 04:09:48 -0400"
+    },
+    {
+      "title": "More than 220,000 evacuated in France and Spain due to wildfires",
+      "link": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1,
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 50,
+        "center_pct": 50,
+        "right_pct": 0,
+        "total": 2
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "French firefighters battle a blaze heading towards Bordeaux while officials in Madrid say they face the \"worst fire in the history of the region\"."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/638c/live/3592d2f0-87ae-11f1-9e55-1d545cca1941.jpg",
+      "published": "Sat, 25 Jul 2026 02:29:36 GMT"
+    },
+    {
+      "title": "Trump orders Smithsonian to post warnings about 'inaccurate' US history",
+      "link": "https://www.bbc.co.uk/news/articles/c1w10gwnj74o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The Trump administration has often accused the world's largest research museum of harbouring an anti-American bias."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ada/live/69a18890-87cf-11f1-b948-61d0d1524256.jpg",
+      "published": "Sat, 25 Jul 2026 02:23:09 GMT"
+    },
+    {
+      "title": "Texts reveal 14-year-old allegedly murdered by singer D4vd had pregnancy and abortion",
+      "link": "https://www.bbc.co.uk/news/articles/cr592qdj1ldo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Prosecutors allege D4vd started abusing the girl when she was 13 and she had threatened to expose him."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f8b/live/a675bbc0-87b5-11f1-88ae-859397b768ed.jpg",
+      "published": "Sat, 25 Jul 2026 02:14:50 GMT"
+    },
+    {
+      "title": "Young Saudi Prince died after ingesting lethal cocktail of drugs in London hotel, inquest hears",
+      "link": "https://nypost.com/2026/07/25/world-news/saudi-prince-died-after-ingesting-lethal-cocktail-of-drugs-in-london-hotel-inquest-hears/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The Saudi Prince who died in a luxurious London hotel had ingested a huge cocktail of drugs and alcohol, causing him to suffer cardiac arrest, an inquest ruled Thursday."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2Fhttps-olympic-sa-prince-abdullah-135426812.jpg?w%3D1024",
+      "published": "Sat, 25 Jul 2026 00:33:19 -0400"
+    },
+    {
+      "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
+      "link": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/065e/live/19c07e70-875d-11f1-95ec-a30de4e448c4.jpg",
+      "published": "Sat, 25 Jul 2026 00:06:53 GMT"
     },
     {
       "title": "Palestinians Stream Back to Northern Gaza on Foot",
@@ -1246,6 +990,250 @@
       ],
       "image_url": null,
       "published": "Mon, 27 Jan 2025 10:07:00 -0500"
+    },
+    {
+      "title": "Cocaine-Funded Gangs Shake Colombia Years After Peace Pact",
+      "link": "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da",
+      "source": "WSJ World News",
+      "all_sources": [
+        "WSJ World News"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Attacks by powerful militias against civilians reflect the state’s inaction eight years after a peace accord removed a powerful rebel group from the field."
+      ],
+      "image_url": null,
+      "published": "Mon, 27 Jan 2025 07:00:00 -0500"
+    },
+    {
+      "title": "Italy Supports Saudi Arabia Joining Fighter-Jet Program, PM Meloni Says",
+      "link": "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1",
+      "source": "WSJ World News",
+      "all_sources": [
+        "WSJ World News"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The U.K., Italy and Japan have already partnered on the Global Combat Air Programme, which aims to put a new stealth fighter with supersonic capability in the skies by 2035."
+      ],
+      "image_url": null,
+      "published": "Mon, 27 Jan 2025 05:34:00 -0500"
+    },
+    {
+      "title": "Shippers Wary of Red Sea Routes Despite Houthi Pledge to End Targeting",
+      "link": "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2",
+      "source": "WSJ World News",
+      "all_sources": [
+        "WSJ World News"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The world’s top three container operators said they fear instability in Gaza and broader regional tensions mean continued danger."
+      ],
+      "image_url": null,
+      "published": "Mon, 27 Jan 2025 01:05:00 -0500"
+    },
+    {
+      "title": "Kim Jong Un Is Doing Everything He Can to Keep North Korea's Youth in Line",
+      "link": "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de",
+      "source": "WSJ World News",
+      "all_sources": [
+        "WSJ World News"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The dictator, eager to shut out the influence of Hollywood and K-pop, has been exalting a “shock brigade” of 300,000 teens and 20-somethings drafted into flood reconstruction."
+      ],
+      "image_url": null,
+      "published": "Mon, 27 Jan 2025 01:05:00 -0500"
+    },
+    {
+      "title": "Why so many Ukrainians are up in arms over firing of defense minister",
+      "link": "https://www.csmonitor.com/World/Europe/2026/0720/ukraine-drone-war-defense-minister-fedorov-general-syrskyi?icid=rss",
+      "source": "Christian Science Monitor World",
+      "all_sources": [
+        "Christian Science Monitor World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Ukrainian President Volodymyr Zelenskyy’s dismissal of the popular defense minister, an architect of Ukraine’s effective high-tech warfare, has sparked protests across the country.",
+        "More than just strategy, youth appears part of his appeal."
+      ],
+      "image_url": null,
+      "published": "Mon, 20 Jul 2026 17:33:07 EDT"
+    },
+    {
+      "title": "Why Greeks are going to TikTok for news instead of newspapers or TV",
+      "link": "https://www.csmonitor.com/World/Europe/2026/0720/greece-social-media-tiktok-instagram-news-europe?icid=rss",
+      "source": "Christian Science Monitor World",
+      "all_sources": [
+        "Christian Science Monitor World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Greeks don’t turn to traditional media for news; they go to TikTok, Instagram, and the like.",
+        "That makes them a lens on the possible future of news."
+      ],
+      "image_url": null,
+      "published": "Mon, 20 Jul 2026 16:36:54 EDT"
+    },
+    {
+      "title": "Zelensky tries to fix crisis over removal of defence minister and counts the cost",
+      "link": "https://www.bbc.co.uk/news/articles/c1d1gz3n99ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Protests have continued over Zelensky's decision to dismiss Mykhailo Fedorov, and some commentators believe he has been damaged politically."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90d1/live/f0b4a0e0-877c-11f1-845d-49d72435354a.jpg",
+      "published": "Fri, 24 Jul 2026 23:01:06 GMT"
+    },
+    {
+      "title": "Trump vows to investigate EU over fining of US tech companies",
+      "link": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\""
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92c8/live/180ebdb0-8787-11f1-9428-e17279226993.jpg",
+      "published": "Fri, 24 Jul 2026 20:23:58 GMT"
+    },
+    {
+      "title": "Ships transiting Strait of Hormuz go dark, hug Iran’s Coast to evade Tehran’s wrath",
+      "link": "https://nypost.com/2026/07/24/world-news/ships-transiting-strait-of-hormuz-go-dark-hug-irans-coast-to-evade-tehrans-wrath/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Commercial shipping through the Strait of Hormuz has slowed dramatically since the US resumed strikes on Iran two weeks ago, with traffic falling to levels not seen since the height of the conflict as insurance costs soar and security risks mount — but some vessels secretly continue to brave the waterway anyway."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2Fvessels-strait-hormuz-seen-musandam-135245085.jpg?w%3D1024",
+      "published": "Fri, 24 Jul 2026 18:30:11 -0400"
+    },
+    {
+      "title": "Thousands of lightning strikes trigger fresh wildfires in western Canada",
+      "link": "https://www.theguardian.com/world/2026/jul/24/thousands-of-lightning-strikes-trigger-fresh-wildfires-in-western-canada",
+      "source": "The Guardian World",
+      "all_sources": [
+        "The Guardian World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "At least 90 active blazes in British Columbia in what PM says is one of the country’s most intense seasons on record     How dangerous are wildfires and how can we stop them from getting worse?",
+        "Fresh wildfires have broken out in western Canada and forests continued to ⁠burn in Ontario as the country ⁠battled what the prime ​minister, Mark Carney, called one of the most intense wildfire seasons on record.",
+        "There were 25 evacuation orders and 90 active wildfires in the province as of Friday morning, and authorities said warming ⁠and drying conditions could cause them to grow."
+      ],
+      "image_url": null,
+      "published": "Fri, 24 Jul 2026 17:58:00 GMT"
     }
   ]
 }
