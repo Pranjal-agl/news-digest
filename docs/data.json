@@ -1,17 +1,69 @@
 {
-  "date": "2026-08-02",
-  "generated_at": "2026-08-02T09:55:23.599558",
+  "date": "2026-08-03",
+  "generated_at": "2026-08-03T11:21:26.660197",
   "stats": {
     "total": 50,
-    "multi_source": 5,
-    "trending": 3,
-    "blindspots": 1
+    "multi_source": 4,
+    "trending": 0,
+    "blindspots": 3
   },
   "stories": [
     {
-      "title": "Socialist Spanish PM blasts Meloni over restored border controls after Ceuta surge, demands emergency meeting",
-      "link": "https://www.foxnews.com/world/socialist-spanish-pm-blasts-meloni-restored-border-controls-ceuta-surge-demands-emergency-meeting",
-      "source": "Fox News World",
+      "title": "Past fires suggest effects of Europe and North America wildfires may linger for years",
+      "link": "https://www.theguardian.com/world/2026/jul/28/wildfires-europe-north-america-effects",
+      "source": "The Guardian World",
+      "all_sources": [
+        "Al Jazeera",
+        "The Guardian World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 2
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 2
+      },
+      "is_blindspot": true,
+      "is_trending": false,
+      "bullet_points": [
+        "Previous fires suggest the effects of these blazes may linger for years to come.",
+        "The current fires and their plumes of smoke can appear to be a temporary, if immediate, crisis.",
+        "Nearly 1,000 fires have sprung into life in the boreal forests of Canada, causing the evacuation of towns and toxic smoke to waft into major Canadian and US cities, prompting threats of retribution from Donald Trump, who  bizarrely accused  Canada of “poisoning” his country’s air."
+      ],
+      "image_url": null,
+      "published": "Tue, 28 Jul 2026 13:00:04 GMT"
+    },
+    {
+      "title": "In Ceuta, Far-Right Leaders Call on Spain to Expel Migrants",
+      "link": "https://www.nytimes.com/2026/08/02/world/europe/spain-ceuta-far-right.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World",
+        "NPR World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 2
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 2
+      },
+      "is_blindspot": true,
+      "is_trending": false,
+      "bullet_points": [
+        "Far-right politicians and activists are flocking to the Spanish territory on the northern coast of Africa, fueling tensions there days after thousands of migrants entered the exclave."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/08/02/multimedia/02int-spain-ceuta-promo/02int-spain-ceuta-02-gjhm-mediumSquareAt3X.jpg",
+      "published": "Sun, 02 Aug 2026 21:49:48 +0000"
+    },
+    {
+      "title": "Ceuta border storming death toll reaches 72 after 50K migrants attempt to enter Spanish enclave",
+      "link": "https://nypost.com/2026/08/02/world-news/ceuta-border-storming-death-toll-at-72-after-50k-migrants-attempt-to-enter-spanish-enclave/",
+      "source": "New York Post World",
       "all_sources": [
         "New York Post World",
         "Fox News World"
@@ -29,97 +81,10 @@
       "is_blindspot": true,
       "is_trending": false,
       "bullet_points": [
-        "Pedro Sánchez called Europe&apos;s response &quot;selfish&quot; and &quot;unlawful&quot; after Italy suspended Schengen Area free-travel arrangements with Spain over the crisis."
+        "The death toll from Thursday's mass rush into Spain's North African enclave of Ceuta from Morocco ‌reached at least 72 on Sunday as five more bodies were found along Ceuta's coast, officials said."
       ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F08%2Fcurrently-facing-extreme-tension-severe-136171591.jpg?w%3D1024",
-      "published": "Sat, 01 Aug 2026 14:58:25 -0400"
-    },
-    {
-      "title": "Trump Says He Is Canceling Strikes on Iran, Pending a Rapid Deal",
-      "link": "https://www.nytimes.com/2026/08/02/world/middleeast/trump-iran-cancels-attack-deal.html",
-      "source": "NYT World",
-      "all_sources": [
-        "BBC World",
-        "Deutsche Welle Top Stories",
-        "NYT World",
-        "NPR World",
-        "Al Jazeera",
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 4,
-        "Center": 2
-      },
-      "bias_bar": {
-        "left_pct": 67,
-        "center_pct": 33,
-        "right_pct": 0,
-        "total": 6
-      },
-      "is_blindspot": false,
-      "is_trending": true,
-      "bullet_points": [
-        "President Trump said he agreed to requests from Iran and other Middle Eastern countries to cancel planned attacks, citing what he said was progress in reaching the “perimeters of a deal” with Tehran."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f054/live/47777f10-8e44-11f1-b92b-e77f734e2374.jpg",
-      "published": "Sun, 02 Aug 2026 07:02:40 +0000"
-    },
-    {
-      "title": "Homemade bomb carried by woman kills 3, injures 21 near Moscow restaurant, authorities say",
-      "link": "https://nypost.com/2026/08/02/world-news/russia-restaurant-bombing-kills-three-injures-21-in-moscow/",
-      "source": "New York Post World",
-      "all_sources": [
-        "BBC World",
-        "Deutsche Welle Top Stories",
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Center": 2,
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 67,
-        "right_pct": 33,
-        "total": 3
-      },
-      "is_blindspot": false,
-      "is_trending": true,
-      "bullet_points": [
-        "A homemade bomb carried by a woman killed three people and injured at least 21 in an explosion near an upscale restaurant in central Moscow on Saturday evening, the authorities said."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/074e/live/33005890-8e4e-11f1-b2ab-0dd01740f9f6.jpg",
-      "published": "Sun, 02 Aug 2026 04:22:24 -0400"
-    },
-    {
-      "title": "Tourist plane crashes during flight over Peru’s Nazca Lines, killing 13",
-      "link": "https://www.theguardian.com/world/2026/aug/01/at-least-13-dead-as-tourist-plane-crashes-during-flight-over-perus-nazca-lines",
-      "source": "The Guardian World",
-      "all_sources": [
-        "BBC World",
-        "Deutsche Welle Top Stories",
-        "NYT World",
-        "The Guardian World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 2,
-        "Center": 2
-      },
-      "bias_bar": {
-        "left_pct": 50,
-        "center_pct": 50,
-        "right_pct": 0,
-        "total": 4
-      },
-      "is_blindspot": false,
-      "is_trending": true,
-      "bullet_points": [
-        "Aircraft crashes into field after departing from nearby city of Pisco, according to local authorities  Police in Peru report that 13 people, among them foreign tourists, have been killed in a plane crash in southern Peru, near the Nazca Lines.",
-        "Local authorities in Nazca confirmed that 11 tourists and two pilots died when the Cessna Grand Caravan crashed in Pueblo Viejo, approximately 4 miles (6km) from the city of Nazca and roughly 12km from the Nazca Lines site.",
-        "Continue reading..."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/233c/live/7e290c00-8e16-11f1-b8e8-d5f03f10fe6d.jpg",
-      "published": "Sat, 01 Aug 2026 22:31:13 GMT"
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F08%2Fundocumented-migrants-mostly-young-men-136103105.jpg?w%3D1024",
+      "published": "Sun, 02 Aug 2026 12:55:06 -0400"
     },
     {
       "title": "After a brief pause, the Iran war might be expanding",
@@ -194,31 +159,6 @@
       "published": "Wed, 29 Jul 2026 13:41:22 EDT"
     },
     {
-      "title": "How Ukraine’s long-range drones are changing what’s possible in war with Russia",
-      "link": "https://www.csmonitor.com/World/Europe/2026/0728/ukraine-zelenskyy-trump-drone-warfare-russia?icid=rss",
-      "source": "Christian Science Monitor World",
-      "all_sources": [
-        "Christian Science Monitor World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The latest story of the Ukraine war has been the shift – on the battlefield, and in the adversaries’ minds – wrought by Ukraine’s drone strikes deep into Russia.",
-        "The goal is to pave a path to a diplomatic resolution."
-      ],
-      "image_url": null,
-      "published": "Tue, 28 Jul 2026 17:46:18 EDT"
-    },
-    {
       "title": "Canadians spent $3.3bn less on travel to US in 2025 after Trump’s return to office",
       "link": "https://www.theguardian.com/world/2026/jul/28/canadians-us-travel-drop-trump",
       "source": "The Guardian World",
@@ -245,82 +185,6 @@
       "published": "Tue, 28 Jul 2026 16:46:05 GMT"
     },
     {
-      "title": "Past fires suggest effects of Europe and North America wildfires may linger for years",
-      "link": "https://www.theguardian.com/world/2026/jul/28/wildfires-europe-north-america-effects",
-      "source": "The Guardian World",
-      "all_sources": [
-        "The Guardian World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Previous fires suggest the effects of these blazes may linger for years to come.",
-        "The current fires and their plumes of smoke can appear to be a temporary, if immediate, crisis.",
-        "Nearly 1,000 fires have sprung into life in the boreal forests of Canada, causing the evacuation of towns and toxic smoke to waft into major Canadian and US cities, prompting threats of retribution from Donald Trump, who  bizarrely accused  Canada of “poisoning” his country’s air."
-      ],
-      "image_url": null,
-      "published": "Tue, 28 Jul 2026 13:00:04 GMT"
-    },
-    {
-      "title": "Javier Milei accuses US Democrats of financing ‘anti-Argentina campaign’ at World Cup",
-      "link": "https://www.theguardian.com/world/2026/jul/28/javier-milei-accuses-us-democrats-of-financing-anti-argentina-campaign-at-world-cup",
-      "source": "The Guardian World",
-      "all_sources": [
-        "The Guardian World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "President also blames Brazil and Mexico and says online critics ‘do not want the ideas of freedom to succeed’  More than a week has passed since Ferran Torres scored the extra-time goal that gave Spain its second World Cup, but – at least for Argentina’s president – the tournament is not over.",
-        "Javier Milei has claimed that a coordinated “anti-Argentina campaign” was behind criticism of the country’s team,  accusations of racism  among its fans and conspiracy theories alleging that Lionel Messi’s side was secretly being favoured by Fifa.",
-        "Continue reading..."
-      ],
-      "image_url": null,
-      "published": "Tue, 28 Jul 2026 10:21:46 GMT"
-    },
-    {
-      "title": "Spain deploys military after thousands of migrants overwhelm border enclave, at least 18 dead",
-      "link": "https://www.foxnews.com/world/spain-deploys-military-after-thousands-migrants-overwhelm-border-enclave-least-9-dead",
-      "source": "Fox News World",
-      "all_sources": [
-        "Fox News World"
-      ],
-      "bias_breakdown": {
-        "Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Video shows thousands of migrants overwhelming Ceuta&apos;s Tarajal border as Spain deploys its military and at least 18 people die during crossings."
-      ],
-      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/Spain-Migrant-Crisis.gif",
-      "published": "Thu, 30 Jul 2026 21:35:41 -0400"
-    },
-    {
       "title": "In Modi’s India, many felt dissent didn’t matter. Then came the ‘cockroaches.’",
       "link": "https://www.csmonitor.com/World/Asia-South-Central/2026/0730/cockroach-movement-india-modi-dissent-education?icid=rss",
       "source": "Christian Science Monitor World",
@@ -343,30 +207,6 @@
       ],
       "image_url": null,
       "published": "Thu, 30 Jul 2026 18:00:10 EDT"
-    },
-    {
-      "title": "White House blasts Spanish government as thousands of migrants surge from Morocco, emergency request denied",
-      "link": "https://www.foxnews.com/world/white-house-blasts-spanish-government-thousands-migrants-surge-from-morocco-emergency-request-denied",
-      "source": "Fox News World",
-      "all_sources": [
-        "Fox News World"
-      ],
-      "bias_breakdown": {
-        "Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Video captured thousands of migrants stampeding through Ceuta as Spain&apos;s government denies the enclave president&apos;s request for a national emergency."
-      ],
-      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/07/spain-migration.gif",
-      "published": "Thu, 30 Jul 2026 14:19:05 -0400"
     },
     {
       "title": "Rwandan cooperative allows women to stitch together a livelihood",
@@ -417,202 +257,32 @@
       "published": "Sun, 26 Jan 2025 22:59:00 -0500"
     },
     {
-      "title": "How Davutoglu helped shape Erdogan’s Turkiye but failed to challenge it",
-      "link": "https://www.aljazeera.com/features/2026/8/2/how-davutoglu-helped-shape-erdogans-turkiye-but-failed-to-challenge-it?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "Ukraine seeks more US Patriot interceptors as bomb shelter probe deepens",
+      "link": "https://www.foxnews.com/world/ukraine-seeks-more-us-patriot-interceptors-bomb-shelter-probe-deepens",
+      "source": "Fox News World",
       "all_sources": [
-        "Al Jazeera"
+        "Fox News World"
       ],
       "bias_breakdown": {
-        "Lean Left": 1
+        "Right": 1
       },
       "bias_bar": {
-        "left_pct": 100,
+        "left_pct": 0,
         "center_pct": 0,
-        "right_pct": 0,
+        "right_pct": 100,
         "total": 1
       },
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Once Turkiye&#039;s prime minister, Ahmet Davutoglu has stepped back from party politics."
+        "A former Ukrainian official describes &quot;scandalous situations&quot; in bomb shelters as Volodymyr Zelenskyy pushes partners for 300 Patriot interceptors."
       ],
-      "image_url": null,
-      "published": "Sun, 02 Aug 2026 09:07:20 +0000"
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/07/931/523/gettyimages-2165218523.jpg?ve=1&tl=1",
+      "published": "Sun, 02 Aug 2026 19:20:55 -0400"
     },
     {
-      "title": "After Most Migrants Leave Ceuta, Exhausted Holdouts Find Shelter on Beach",
-      "link": "https://www.nytimes.com/2026/08/02/world/europe/ceuta-spain-morocco-migrant-holdouts-beach.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Most of the people who surged into Spain on Thursday have since returned to Morocco.",
-        "A small minority are holed up on a seafront, tired, hungry and vowing to stay."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/08/02/multimedia/02int-spain-holdouts-qhmf/02int-spain-holdouts-qhmf-mediumSquareAt3X.jpg",
-      "published": "Sun, 02 Aug 2026 08:49:09 +0000"
-    },
-    {
-      "title": "Canada’s WestJet Cancels Trips Amid Strike By Flight Attendants",
-      "link": "https://www.nytimes.com/2026/08/02/world/canada/westjet-flight-attendants-strike-canada.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Labor talks broke down between the airline and union representing 4,400 flight attendants, who want improved wages and compensation for unpaid work."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/07/31/multimedia/00int-canada-westjet-strike-bghv/00int-canada-westjet-strike-bghv-mediumSquareAt3X.jpg",
-      "published": "Sun, 02 Aug 2026 08:47:25 +0000"
-    },
-    {
-      "title": "Petro urges global support to stop possible US invasion of Cuba",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/petro-urges-global-support-to-stop-possible-us-invasion-of-cuba?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Petro urges global support to stop possible US invasion of Cuba"
-      ],
-      "image_url": null,
-      "published": "Sun, 02 Aug 2026 08:23:32 +0000"
-    },
-    {
-      "title": "Lionel Messi returns for Inter Miami after extended post-World Cup break",
-      "link": "https://www.aljazeera.com/sports/2026/8/2/lionel-messi-returns-for-inter-miami-after-extended-post-world-cup-break?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Argentinian star made his return for the MLS champions as Inter Miami play out a 2-2 result with Columbus Crew."
-      ],
-      "image_url": null,
-      "published": "Sun, 02 Aug 2026 08:20:43 +0000"
-    },
-    {
-      "title": "Tarik Skubal acquired by LA Dodgers at the MLB trade deadline",
-      "link": "https://www.aljazeera.com/sports/2026/8/2/tarik-skubal-acquired-by-la-dodgers-at-the-mlb-trade-deadline?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "World Series champions for the past two years add Skubal to star-studded roster that already includes Shohei Ohtani."
-      ],
-      "image_url": null,
-      "published": "Sun, 02 Aug 2026 08:12:54 +0000"
-    },
-    {
-      "title": "Arsenal’s Arteta expects more signings as Tzolis scores against Girona",
-      "link": "https://www.aljazeera.com/sports/2026/8/2/arsenals-arteta-expects-more-signings-as-tzolis-scores-against-girona?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Newly acquired Christos Tzolis scores for the English champions who have been linked to Bruno Guimaraes and Vinicius Jr."
-      ],
-      "image_url": null,
-      "published": "Sun, 02 Aug 2026 08:08:19 +0000"
-    },
-    {
-      "title": "Europe’s Far Right, Once Marginal, Now Sets Tone on Spain Migrant Crisis",
-      "link": "https://www.nytimes.com/2026/08/02/world/europe/europe-migrants-ceuta.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Europe sheltered many refugees in 2015.",
-        "Its hard-line reaction to a new crisis in Ceuta shows how, 11 years on, the far right has reshaped European attitudes."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/08/02/multimedia/02int-spain-europe-bzpj/02int-spain-europe-bzpj-mediumSquareAt3X.jpg",
-      "published": "Sun, 02 Aug 2026 07:30:01 +0000"
-    },
-    {
-      "title": "Iranian revolution can happen ‘any day now’ as protest leaders try to arm: sources",
-      "link": "https://nypost.com/2026/08/02/world-news/iranian-revolution-can-happen-any-day-now-as-protest-leaders-try-to-arm-sources/",
+      "title": "At least 5 dead, 41 missing after Indonesian ferry catches fire — prompting massive rescue effort",
+      "link": "https://nypost.com/2026/08/02/world-news/at-least-5-dead-41-missing-after-indonesian-ferry-is-set-ablaze/",
       "source": "New York Post World",
       "all_sources": [
         "New York Post World"
@@ -629,38 +299,15 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "The streets of Iran are near a breaking point over public executions, economic collapse and a war with no end in sight, anti-regime figures based in Tehran told The Post."
+        "By Sunday afternoon, nearby vessels had rescued a whopping 225 passengers and crew members -- and also recovered the five bodies.",
+        "It's unclear whether the dead were passengers or crew members."
       ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F07%2Fscenes-january-anti-regime-protests-136024955.jpg?w%3D1024",
-      "published": "Sun, 02 Aug 2026 05:41:10 -0400"
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F08%2F225-rescued-indonesian-ferry-caught-136289845.jpg?w%3D1024",
+      "published": "Sun, 02 Aug 2026 19:09:10 -0400"
     },
     {
-      "title": "Gaza students overcome Israel’s genocide to mark Tawjihi results",
-      "link": "https://www.aljazeera.com/features/2026/8/2/gaza-students-overcome-israels-genocide-to-celebrate-tawjihi-results?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Students in Gaza overcome distressing conditions amid Israel&#039;s genocide to finish their Tawjihi high school exams."
-      ],
-      "image_url": null,
-      "published": "Sun, 02 Aug 2026 05:27:04 +0000"
-    },
-    {
-      "title": "Iceland seizes Paul Watson Foundation’s anti-whaling ship, detains 21 crew members",
-      "link": "https://nypost.com/2026/08/02/world-news/iceland-seizes-paul-watson-foundations-anti-whaling-ship-and-detains-its-crew/",
+      "title": "Trump announces when new Iran talks to begin after calling off ‘massive’ weekend attack",
+      "link": "https://nypost.com/2026/08/02/world-news/trump-announces-when-new-iran-talks-to-begin-after-calling-off-massive-weekend-attack/",
       "source": "New York Post World",
       "all_sources": [
         "New York Post World"
@@ -677,17 +324,113 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Icelandic coast guards and special forces seized a ship operated by a group founded by anti-whaling activist Paul Watson and detained its crew, officials in the Arctic island nation said Saturday."
+        "President Trump announced new talks with Tehran will begin Monday after he called off a “massive” attack on Iran that had been planned for this weekend."
       ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F08%2Fbelonging-foundation-animal-rights-activist-136174626.jpg?w%3D1024",
-      "published": "Sun, 02 Aug 2026 04:47:29 -0400"
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F08%2FBLU_A129066232.jpg?w%3D1024",
+      "published": "Sun, 02 Aug 2026 19:03:53 -0400"
     },
     {
-      "title": "Three dead including female bomber in Moscow restaurant attack",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/2/three-dead-including-female-bomber-in-moscow-restaurant-attack?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "Oct. 7 survivor commits suicide on the grave of his girlfriend who was murdered by Hamas: report",
+      "link": "https://nypost.com/2026/08/02/world-news/oct-7-survivor-takes-life-on-grave-of-lover-hamas-murdered/",
+      "source": "New York Post World",
       "all_sources": [
-        "Al Jazeera"
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The body of Bar Asraf, 30, was found on Saturday evening at the burial site of his slain girlfriend Liron Barda, almost three years after her death at the Nova Festival massacre, according to Israeli news site JFeed."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F08%2F10219137538509446-set-1686253416298-136296758.jpg?w%3D1024",
+      "published": "Sun, 02 Aug 2026 18:33:58 -0400"
+    },
+    {
+      "title": "Italy takes ‘extraordinary’ step after 60K migrants rushed Spanish city following socialist leader’s open border policy",
+      "link": "https://nypost.com/2026/08/02/world-news/italy-takes-extraordinary-step-after-60k-migrants-rushed-spanish-city/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The dramatic move announced by PM Giorgia Meloni is meant to prevent migrants from entering Italy after they flooded into Spain following socialist leader Pedro Sanchez’s immigration-friendly policies."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F08%2F2026-thousands-migrants-crossed-overnight-136062443.jpg?w%3D1024",
+      "published": "Sun, 02 Aug 2026 14:09:25 -0400"
+    },
+    {
+      "title": "Horror moment 2 firefighting helicopters collide mid-air in Greece, killing 2 crewmembers — as blazes ravage Europe",
+      "link": "https://nypost.com/2026/08/02/world-news/horror-moment-2-firefighting-helicopters-collide-mid-air-as-blazes-ravage-europe/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Both helicopters had two people on board at the time, according to the fire service."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F08%2F136273426.jpg?w%3D723",
+      "published": "Sun, 02 Aug 2026 11:40:34 -0400"
+    },
+    {
+      "title": "Mayor calls upscale restaurant bombing a 'brutal terrorist act' after 3 killed, 21 injured",
+      "link": "https://www.foxnews.com/world/mayor-calls-upscale-restaurant-bombing-brutal-terrorist-act-3-killed-21-injured",
+      "source": "Fox News World",
+      "all_sources": [
+        "Fox News World"
+      ],
+      "bias_breakdown": {
+        "Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Moscow Mayor Sergei Sobyanin vowed to hunt down those responsible after a body-worn bomb detonated at an upscale restaurant on Saturday killing three."
+      ],
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/police-block-moscow-restaurant-explosion.jpg?ve=1&tl=1",
+      "published": "Sun, 02 Aug 2026 11:18:25 -0400"
+    },
+    {
+      "title": "La Guaira Is Unrecognizable After Venezuela’s Deadly Earthquakes",
+      "link": "https://www.nytimes.com/2026/08/02/world/americas/venezuela-earthquakes-la-guaira.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
       ],
       "bias_breakdown": {
         "Lean Left": 1
@@ -701,14 +444,38 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "At least three people are dead and more than 20 injured after a bomb exploded outside a restaurant in central Moscow."
+        "More than a month after the earthquakes, the coastal region of La Guaira — once Venezuela’s main gateway — is completely unrecognizable."
       ],
       "image_url": null,
-      "published": "Sun, 02 Aug 2026 04:44:55 +0000"
+      "published": "Sun, 02 Aug 2026 11:05:56 +0000"
     },
     {
-      "title": "Australia’s Indie Music Venues Closing as Costs Rise and Attendance Drops",
-      "link": "https://www.nytimes.com/2026/08/02/world/australia/sydney-australia-marys-underground-music-venues-closing.html",
+      "title": "Wildfires rage across Europe as firefighters battle blazes strengthened by gale-force winds",
+      "link": "https://nypost.com/2026/08/02/world-news/europe-wildfires-blazing-across-greece-spain-and-france/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Over 224,000 French residents were forced to flee due to the wildfires so far."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F08%2Fright-edge-urban-zone-new-136259556.jpg?w%3D1024",
+      "published": "Sun, 02 Aug 2026 10:49:37 -0400"
+    },
+    {
+      "title": "Cowboys Fringants Bassist Is Named Quebec’s Chief Scientist",
+      "link": "https://www.nytimes.com/2026/08/02/world/canada/jerome-dupras-quebec-chief-scientist-les-cowboys-fringants.html",
       "source": "NYT World",
       "all_sources": [
         "NYT World"
@@ -725,18 +492,42 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "When Mary’s Underground in Sydney closed, it was a familiar tune for a scene hit by high costs and low attendance.",
-        "Critics worry about a shrinking space for new talent."
+        "Jérôme Dupras is a member of one of Quebec’s most popular folk rock bands.",
+        "Now, as the province’s chief scientist, he will help shape its environmental destiny."
       ],
-      "image_url": "https://static01.nyt.com/images/2026/07/31/multimedia/31int-oz-music-02-cwjm-promo/31int-oz-music-02-cwjm-mediumSquareAt3X.jpg",
-      "published": "Sun, 02 Aug 2026 04:33:07 +0000"
+      "image_url": "https://static01.nyt.com/images/2026/07/29/world/00int-canada-quebec-profile-promo/00int-canada-quebec-profile-mediumSquareAt3X.jpg",
+      "published": "Sun, 02 Aug 2026 09:00:17 +0000"
     },
     {
-      "title": "How China Keeps Tabs on Foreigners",
-      "link": "https://www.nytimes.com/2026/08/02/world/asia/china-surveillance-foreigners-database.html",
-      "source": "NYT World",
+      "title": "Satellite images show evidence of oil leak spreading from sanctioned vessel near Oman",
+      "link": "https://www.foxnews.com/world/satellite-images-show-evidence-oil-leak-spreading-sanctioned-vessel-near-oman",
+      "source": "Fox News World",
       "all_sources": [
-        "NYT World"
+        "Fox News World"
+      ],
+      "bias_breakdown": {
+        "Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The Caroline Bezengi, reportedly carrying over 800,000 barrels of Russian crude, is leaking oil into a marine reserve home to endangered wildlife off Oman&apos;s coast."
+      ],
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/oman-oil-tanker-spill.jpg?ve=1&tl=1",
+      "published": "Sun, 02 Aug 2026 08:35:53 -0400"
+    },
+    {
+      "title": "Breakfasts around the world: In Australia, being denied vegemite is grounds for suing",
+      "link": "https://www.npr.org/2026/08/02/nx-s1-5896064/breakfasts-around-the-world-in-australia-being-denied-vegemite-is-grounds-for-suing",
+      "source": "NPR World",
+      "all_sources": [
+        "NPR World"
       ],
       "bias_breakdown": {
         "Lean Left": 1
@@ -750,10 +541,108 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "An unsecured police dashboard was a rare window into how the authorities track foreigners by collecting and aggregating vast amounts of private data."
+        "As part of our series on breakfasts from around the world, we take a look at Vegemite, the iconic salty, yeasty spread popular in Australia."
       ],
-      "image_url": "https://static01.nyt.com/images/2026/07/27/world/china-surveillance-promo/china-surveillance-promo-mediumSquareAt3X.png",
-      "published": "Sun, 02 Aug 2026 04:03:06 +0000"
+      "image_url": null,
+      "published": "Sun, 02 Aug 2026 08:08:07 -0400"
+    },
+    {
+      "title": "Iran's war on Americans began decades ago. These families still carry the scars",
+      "link": "https://www.foxnews.com/world/irans-war-americans-began-decades-ago-families-still-carry-scars",
+      "source": "Fox News World",
+      "all_sources": [
+        "Fox News World"
+      ],
+      "bias_breakdown": {
+        "Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Robert Bartlett says he died three times after an Iranian-supplied EFP tore through his Humvee in Baghdad, launching a decades-long fight for justice."
+      ],
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/iran-irgc-regime.jpg?ve=1&tl=1",
+      "published": "Sun, 02 Aug 2026 08:00:13 -0400"
+    },
+    {
+      "title": "Why is the rate of premature births so high in this community?",
+      "link": "https://www.npr.org/2026/08/02/g-s1-135946/premature-birth-slum-pakistan",
+      "source": "NPR World",
+      "all_sources": [
+        "NPR World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "About 1 in 4 babies in the Pakistani fishing settlement of Rehri Goth are born prematurely.",
+        "Researchers are trying to figure out how to bring the numbers down."
+      ],
+      "image_url": null,
+      "published": "Sun, 02 Aug 2026 07:03:47 -0400"
+    },
+    {
+      "title": "Israeli orphans of fallen heroes find pride, connection on US journey",
+      "link": "https://www.foxnews.com/world/israeli-orphans-fallen-heroes-find-pride-connection-us-journey",
+      "source": "Fox News World",
+      "all_sources": [
+        "Fox News World"
+      ],
+      "bias_breakdown": {
+        "Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "A young Oct.",
+        "7 hostage survivor shared his story with fellow bereaved children during the IDF Widows &amp; Orphans Organization&apos;s Bar/Bat Mitzvah trip."
+      ],
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/israeli-kids-orphans-broadway-trip.jpg?ve=1&tl=1",
+      "published": "Sun, 02 Aug 2026 06:00:41 -0400"
+    },
+    {
+      "title": "US companies win billions in African data center deals in direct competition with China",
+      "link": "https://www.foxnews.com/world/us-companies-win-billions-african-data-center-deals-direct-competition-china",
+      "source": "Fox News World",
+      "all_sources": [
+        "Fox News World"
+      ],
+      "bias_breakdown": {
+        "Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "From Lesotho to Gabon, American firms are winning AI data center and power contracts worth billions as the U.S.-China trade war intensifies in Africa."
+      ],
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/us-rendering-ivory-coast.jpg?ve=1&tl=1",
+      "published": "Sun, 02 Aug 2026 06:00:03 -0400"
     },
     {
       "title": "Anti-LGBTQ+ laws are on the rise across west Africa, campaigners warn",
@@ -782,167 +671,46 @@
       "published": "Sun, 02 Aug 2026 04:00:11 GMT"
     },
     {
-      "title": "13 tourists killed in plane crash near Peru’s famed Nazca Lines during viewing flight",
-      "link": "https://nypost.com/2026/08/02/world-news/peru-plane-crash-kills-13-european-tourists-near-nazca-lines-site/",
-      "source": "New York Post World",
+      "title": "Tourist plane crashes during flight over Peru’s Nazca Lines, killing 13",
+      "link": "https://www.theguardian.com/world/2026/aug/01/at-least-13-dead-as-tourist-plane-crashes-during-flight-over-perus-nazca-lines",
+      "source": "The Guardian World",
       "all_sources": [
-        "New York Post World"
+        "The Guardian World"
       ],
       "bias_breakdown": {
-        "Lean Right": 1
+        "Lean Left": 1
       },
       "bias_bar": {
-        "left_pct": 0,
+        "left_pct": 100,
         "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Nazca’s municipal government said the plane departed from the nearby city of Ica and was operated by Peruvian company Aerodiana."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F08%2Fpolice-officers-work-scene-small-136227803.jpg?w%3D1024",
-      "published": "Sun, 02 Aug 2026 02:48:49 -0400"
-    },
-    {
-      "title": "How Spain's migrant crisis created a political storm - whipped up by social media",
-      "link": "https://www.bbc.co.uk/news/articles/c62vl925dqdo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "all_sources": [
-        "BBC World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
         "right_pct": 0,
         "total": 1
       },
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "The Ceuta crossings have shaken Europe politically, exposing divisions over the sensitive issue of migration, the BBC's Sarah Rainsford writes."
+        "Aircraft crashes into field after departing from nearby city of Pisco, according to local authorities  Police in Peru report that 13 people, among them foreign tourists, have been killed in a plane crash in southern Peru, near the Nazca Lines.",
+        "Local authorities in Nazca confirmed that 11 tourists and two pilots died when the Cessna Grand Caravan crashed in Pueblo Viejo, approximately 4 miles (6km) from the city of Nazca and roughly 12km from the Nazca Lines site.",
+        "Continue reading..."
       ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b913/live/403e8040-8e03-11f1-8f5c-bb464f752049.jpg",
-      "published": "Sun, 02 Aug 2026 00:55:16 GMT"
-    },
-    {
-      "title": "Young guns for hire - the teenage hitmen recruited to kill across Europe",
-      "link": "https://www.bbc.co.uk/news/articles/czrjyevmv61o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "all_sources": [
-        "BBC World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The Foxtrot Network is thought to be responsible for about 35 murders in Europe, and uses violence-as-a-service tactics."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe10/live/f5b8a870-8c09-11f1-8665-e382dc49dfdb.jpg",
-      "published": "Sat, 01 Aug 2026 23:03:35 GMT"
-    },
-    {
-      "title": "The Sopranos star Vincent Pastore dies aged 80",
-      "link": "https://www.bbc.co.uk/news/articles/cm2gz0epljgo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "all_sources": [
-        "BBC World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Pastore, who played Salvatore \"Big Pussy\" Bonpensiero in the hit US show, was found at his home in New York City, US media report."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0086/live/c9f00e60-8df6-11f1-902e-fd8182e85c3f.jpg",
-      "published": "Sat, 01 Aug 2026 22:57:55 GMT"
-    },
-    {
-      "title": "A bruising 24 hours - what next for Fifa and under-pressure Infantino?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c9w0djx2g92o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "all_sources": [
-        "BBC World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Pressure is building on Gianni Infantino.",
-        "Can he survive as Fifa president after the implosion of the controversial World Cup investment plan?"
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de1b/live/d2f82cb0-8ddb-11f1-9d54-295807679b3c.jpg",
-      "published": "Sat, 01 Aug 2026 22:23:20 GMT"
-    },
-    {
-      "title": "News of the World: What you missed this week internationally",
-      "link": "https://nypost.com/2026/08/01/world-news/news-of-the-world-august-1-2026/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Spain's plans for the world's first octopus farm are thwarted, Japan uses facial recognition for Pokémon customers, and more news from around the world."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F08%2F2022-dubai-united-arab-emirates-136198912.jpg?w%3D1024",
-      "published": "Sat, 01 Aug 2026 22:11:13 -0400"
+      "image_url": null,
+      "published": "Sat, 01 Aug 2026 22:31:13 GMT"
     },
     {
       "title": "Famed mountaineer Nirmal Purja, 43, among 10 climbers killed after avalanche in Pakistan",
       "link": "https://www.foxnews.com/world/famed-mountaineer-nirmal-purja-43-among-10-climbers-killed-avalanche-pakistan",
       "source": "Fox News World",
       "all_sources": [
-        "NPR World",
         "Fox News World"
       ],
       "bias_breakdown": {
-        "Lean Left": 1,
         "Right": 1
       },
       "bias_bar": {
-        "left_pct": 50,
+        "left_pct": 0,
         "center_pct": 0,
-        "right_pct": 50,
-        "total": 2
+        "right_pct": 100,
+        "total": 1
       },
       "is_blindspot": false,
       "is_trending": false,
@@ -951,103 +719,6 @@
       ],
       "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/nirmal-purja-everest-record-attempt.jpg?ve=1&tl=1",
       "published": "Sat, 01 Aug 2026 21:59:24 -0400"
-    },
-    {
-      "title": "Baby cut from slain mom’s womb found dead as 5 are arrested in alleged murder-for-baby plot",
-      "link": "https://nypost.com/2026/08/01/world-news/baby-cut-from-colombia-mothers-womb-found-dead-5-arrested/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Yulieth Angulo allegedly agreed to pay around $1,265 to four local street gang members to kidnap a pregnant woman steal her unborn baby, authorities said Friday."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F08%2Fcrop-40153359.jpg?w%3D961",
-      "published": "Sat, 01 Aug 2026 20:42:31 -0400"
-    },
-    {
-      "title": "Iran Plotted Wider War With Help of Its Proxies",
-      "link": "https://www.nytimes.com/2026/08/01/world/middleeast/iran-proxies-war-oil.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "During a fleeting truce, Iranians covertly devised a plan to raise the war’s costs for President Trump if U.S.",
-        "forces attacked anew."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/08/02/multimedia/02int-Iran-Proxies-wkpm/02int-Iran-Proxies-wkpm-mediumSquareAt3X.jpg",
-      "published": "Sat, 01 Aug 2026 20:26:35 +0000"
-    },
-    {
-      "title": "Israel Says It Killed Several Hezbollah Members on Key Lebanon Hilltop",
-      "link": "https://www.nytimes.com/2026/08/01/world/middleeast/israel-hezbollah-lebanon-killing.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The confrontation, over a strategic ridge in southern Lebanon, challenged a fragile cease-fire between Israel and the Iran-backed militant group."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/08/01/multimedia/01int-israel-lebanon-zqwt/01int-israel-lebanon-zqwt-mediumSquareAt3X.jpg",
-      "published": "Sat, 01 Aug 2026 20:14:08 +0000"
-    },
-    {
-      "title": "Saudi Arabia gearing up for major assault and possible ground invasion on Iranian-backed Houthis: report",
-      "link": "https://nypost.com/2026/08/01/world-news/saudi-arabia-gearing-up-for-major-assault-on-houthis/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The Kingdom is preparing for a naval and possible ground invasion against the terror group in order to break open its stranglehold on vital shipping routes in the Red Sea."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F08%2Fboy-holds-toy-weapon-joins-136095772.jpg?w%3D1024",
-      "published": "Sat, 01 Aug 2026 19:56:56 -0400"
     },
     {
       "title": "Trump threatens additional Iran strikes as tensions lead to more warnings",
@@ -1099,130 +770,8 @@
       "published": "Sat, 01 Aug 2026 19:16:46 -0400"
     },
     {
-      "title": "Italy putting nearly all major cities on highest heat alert",
-      "link": "https://www.bbc.co.uk/news/articles/cr7k4gdrgljo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "all_sources": [
-        "BBC World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Some 19 major Italian cities - including Rome, Milan and Naples - are already on red alert, and by Monday all but two will be."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f990/live/6272fba0-8dd1-11f1-b8ee-9b3c26ad07bb.jpg",
-      "published": "Sat, 01 Aug 2026 17:51:46 GMT"
-    },
-    {
-      "title": "Mamdani slammed by Israeli president for blasting ‘antisemitic rhetoric’ after threatening Netanyahu’s arrest",
-      "link": "https://nypost.com/2026/08/01/us-news/mamdani-slammed-by-israeli-president-for-antisemetic-rhetoric-after-threatening-netanyahus-arrest/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "New York City Mayor Zohran Mamdani is spreading hateful and antisemitic rhetoric and endangering the lives of New Yorkers, Israeli President Isaac Herzog said."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F08%2Fnew-york-city-mayor-zohran-135128679.jpg?w%3D1024",
-      "published": "Sat, 01 Aug 2026 17:01:27 -0400"
-    },
-    {
-      "title": "Overnight Russian barrage kills nine in Kyiv, as air defense struggle with U.S. continues",
-      "link": "https://www.npr.org/2026/08/01/nx-s1-5916393/overnight-russia-kyiv-ukraine-strikes",
-      "source": "NPR World",
-      "all_sources": [
-        "NPR World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Ballistic missiles tore into five districts of the Ukrainian capital before dawn Saturday.",
-        "President Trump is now walking back a promised boost to Ukraine's missile defense systems."
-      ],
-      "image_url": null,
-      "published": "Sat, 01 Aug 2026 16:27:32 -0400"
-    },
-    {
-      "title": "In Iran, the U.S. Appears Headed for a Strategic Defeat, Allies Fear",
-      "link": "https://www.nytimes.com/2026/08/01/world/middleeast/us-iran-war-strategy.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "With none of President Trump’s aims accomplished and the Strait of Hormuz closed, U.S.",
-        "allies see dysfunction and vulnerability from the war."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/08/01/multimedia/01int-iran-defeat-assess-cwph/01int-iran-defeat-assess-cwph-mediumSquareAt3X.jpg",
-      "published": "Sat, 01 Aug 2026 14:46:20 +0000"
-    },
-    {
-      "title": "Spain's Pedro Sánchez was a hero of migrants. After Ceuta, he faces his biggest challenge",
-      "link": "https://www.npr.org/2026/08/01/nx-s1-5916330/spain-sanchez-ceuta-migrants",
-      "source": "NPR World",
-      "all_sources": [
-        "NPR World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The pro-immigration leader is facing backlash at home and abroad after roughly 60,000 people crossed from Morocco into the Spanish enclave."
-      ],
-      "image_url": null,
-      "published": "Sat, 01 Aug 2026 14:33:27 -0400"
-    },
-    {
-      "title": "Exclusive: Israeli President Herzog blasts Mamdani, praises Trump, sounds alarm on Iran",
-      "link": "https://www.foxnews.com/world/exclusive-israeli-president-herzog-blasts-mamdani-praises-trump-sounds-alarm-iran",
+      "title": "Explosion at restaurant in central Moscow leaves three dead, more than a dozen injured",
+      "link": "https://www.foxnews.com/world/explosion-restaurant-central-moscow-leaves-three-dead-dozen-injured",
       "source": "Fox News World",
       "all_sources": [
         "Fox News World"
@@ -1239,10 +788,446 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Israel&apos;s president praised Trump&apos;s deep support for the Jewish state and addressed Gaza and the board of peace, Karim Khan&apos;s ICC dismissal, U.S.-Israel relations and Zohran Mamdani."
+        "A homemade explosive device killed three people at a Moscow restaurant, and injured many more on Saturday night, Russian officials said."
       ],
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/isaac-herzog-fox-news-digital-interview-jerusalem.jpg?ve=1&tl=1",
-      "published": "Sat, 01 Aug 2026 10:57:13 -0400"
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/moscow-restaurant-explosion-august-2026.jpg?ve=1&tl=1",
+      "published": "Sat, 01 Aug 2026 17:45:42 -0400"
+    },
+    {
+      "title": "Uruguay offers a cooperative answer to the global housing shortage",
+      "link": "https://www.csmonitor.com/World/Americas/2026/0801/uruguay-housing-cost-of-living?icid=rss",
+      "source": "Christian Science Monitor World",
+      "all_sources": [
+        "Christian Science Monitor World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "As affordability and housing crises grow worldwide, Uruguay's decades-old cooperative housing model is gaining new attention."
+      ],
+      "image_url": null,
+      "published": "Sat, 01 Aug 2026 05:00:11 EDT"
+    },
+    {
+      "title": "Palestinians Stream Back to Northern Gaza on Foot",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "source": "WSJ World News",
+      "all_sources": [
+        "WSJ World News"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Israel allowed displaced Gazans to begin crossing a military zone that bisects the enclave after a deadlock over hostage releases was broken."
+      ],
+      "image_url": null,
+      "published": "Mon, 27 Jan 2025 14:23:00 -0500"
+    },
+    {
+      "title": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+      "link": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+      "source": "WSJ World News",
+      "all_sources": [
+        "WSJ World News"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in."
+      ],
+      "image_url": null,
+      "published": "Mon, 27 Jan 2025 12:32:00 -0500"
+    },
+    {
+      "title": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+      "link": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
+      "source": "WSJ World News",
+      "all_sources": [
+        "WSJ World News"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said."
+      ],
+      "image_url": null,
+      "published": "Mon, 27 Jan 2025 12:12:00 -0500"
+    },
+    {
+      "title": "Suspected Sabotage of Deep-Sea Cable Triggers First NATO-Led Response",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "source": "WSJ World News",
+      "all_sources": [
+        "WSJ World News"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The alliance mounted its first coordinated response to a suspected sabotage campaign against critical infrastructure after another cable was severed in the Baltic Sea."
+      ],
+      "image_url": null,
+      "published": "Mon, 27 Jan 2025 11:22:00 -0500"
+    },
+    {
+      "title": "Rwanda-Backed Rebels Enter Congo's Safe-Haven City",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "source": "WSJ World News",
+      "all_sources": [
+        "WSJ World News"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Residents of Goma reported gunfire and shelling after rebels overran Congolese troops.",
+        "U.N.",
+        "officials estimated that more than one million displaced people were now inside the city."
+      ],
+      "image_url": null,
+      "published": "Mon, 27 Jan 2025 10:07:00 -0500"
+    },
+    {
+      "title": "Cocaine-Funded Gangs Shake Colombia Years After Peace Pact",
+      "link": "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da",
+      "source": "WSJ World News",
+      "all_sources": [
+        "WSJ World News"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Attacks by powerful militias against civilians reflect the state’s inaction eight years after a peace accord removed a powerful rebel group from the field."
+      ],
+      "image_url": null,
+      "published": "Mon, 27 Jan 2025 07:00:00 -0500"
+    },
+    {
+      "title": "Italy Supports Saudi Arabia Joining Fighter-Jet Program, PM Meloni Says",
+      "link": "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1",
+      "source": "WSJ World News",
+      "all_sources": [
+        "WSJ World News"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The U.K., Italy and Japan have already partnered on the Global Combat Air Programme, which aims to put a new stealth fighter with supersonic capability in the skies by 2035."
+      ],
+      "image_url": null,
+      "published": "Mon, 27 Jan 2025 05:34:00 -0500"
+    },
+    {
+      "title": "Shippers Wary of Red Sea Routes Despite Houthi Pledge to End Targeting",
+      "link": "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2",
+      "source": "WSJ World News",
+      "all_sources": [
+        "WSJ World News"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The world’s top three container operators said they fear instability in Gaza and broader regional tensions mean continued danger."
+      ],
+      "image_url": null,
+      "published": "Mon, 27 Jan 2025 01:05:00 -0500"
+    },
+    {
+      "title": "Kim Jong Un Is Doing Everything He Can to Keep North Korea's Youth in Line",
+      "link": "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de",
+      "source": "WSJ World News",
+      "all_sources": [
+        "WSJ World News"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The dictator, eager to shut out the influence of Hollywood and K-pop, has been exalting a “shock brigade” of 300,000 teens and 20-somethings drafted into flood reconstruction."
+      ],
+      "image_url": null,
+      "published": "Mon, 27 Jan 2025 01:05:00 -0500"
+    },
+    {
+      "title": "Todd Blanche formally withdraws Trump's 'anti-weaponisation' fund plan",
+      "link": "https://www.bbc.co.uk/news/articles/c3w05gx32d4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Two Republican senators wanted a written guarantee that Trump would not revive a controversial proposal."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89e0/live/001f8270-8f1b-11f1-b8ee-9b3c26ad07bb.jpg",
+      "published": "Mon, 03 Aug 2026 11:07:13 GMT"
+    },
+    {
+      "title": "Ariana Grande to take a break from public life amid 'endless' scrutiny",
+      "link": "https://www.bbc.co.uk/news/articles/c80ngjjvevyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The US singer, 33, will \"step back from visibility\" at the end of her world tour next month, her representative says."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7080/live/0395c5a0-8ee8-11f1-b2ab-0dd01740f9f6.jpg",
+      "published": "Mon, 03 Aug 2026 10:59:12 GMT"
+    },
+    {
+      "title": "Israel defies Trump’s peace plan as it escalates deadly attacks on Gaza",
+      "link": "https://www.aljazeera.com/news/2026/8/3/israel-defies-trumps-peace-plan-as-it-escalates-deadly-attacks-on-gaza?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Israel escalates Gaza attacks and pushes hardline demands, threatening the US-backed peace roadmap."
+      ],
+      "image_url": null,
+      "published": "Mon, 03 Aug 2026 10:53:47 +0000"
+    },
+    {
+      "title": "US cricket player Reddy receives eight-year ban for match-fixing",
+      "link": "https://www.aljazeera.com/sports/2026/8/3/us-cricket-player-reddy-receives-eight-year-ban-for-match-fixing?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "ICC Anti-Corruption Tribunal says Akhilesh Reddy guilty of three offences during Abu Dhabi T10 competition in November."
+      ],
+      "image_url": null,
+      "published": "Mon, 03 Aug 2026 10:52:17 +0000"
+    },
+    {
+      "title": "Singapore Bans Band Massive Attack for Displaying Palestinian Flag",
+      "link": "https://www.nytimes.com/2026/08/03/world/asia/massive-attack-singapore-palestinian-flag.html",
+      "source": "NYT World",
+      "all_sources": [
+        "BBC World",
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1,
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 50,
+        "center_pct": 50,
+        "right_pct": 0,
+        "total": 2
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The British group was punished under a policy of racial harmony that has long been criticized as stifling free speech in the city-state."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49d8/live/9a26f660-8f01-11f1-a7ab-8b30adf0800a.jpg",
+      "published": "Mon, 03 Aug 2026 10:35:49 +0000"
+    },
+    {
+      "title": "Sudan army drone strike on court session kills 35, rights group says",
+      "link": "https://www.bbc.co.uk/news/articles/ce85097leydo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The army has not commented on claims that civilians died in the attack on a paramilitary-held village."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fcdf/live/fd37a7f0-8f1e-11f1-9a6b-afa7ab10ffdf.jpg",
+      "published": "Mon, 03 Aug 2026 10:29:24 GMT"
+    },
+    {
+      "title": "2 Killed as Firefighting Helicopters Collide in Greece",
+      "link": "https://www.nytimes.com/2026/08/03/world/europe/greece-fire-helicopter-crash-firefighters.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The aircraft crashed while battling a wildfire northwest of Athens, as Greece fought more than 200 fires in the past week."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/08/03/multimedia/03xp-greece-fires-twgc/03xp-greece-fires-twgc-mediumSquareAt3X-v2.jpg",
+      "published": "Mon, 03 Aug 2026 10:25:07 +0000"
+    },
+    {
+      "title": "North Koreans flood new ‘tourist zone’ beach amid heatwave",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/3/north-koreans-flood-new-tourist-zone-beach-amid-heatwave?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "North Koreans flood new ‘tourist zone’ beach amid heatwave"
+      ],
+      "image_url": null,
+      "published": "Mon, 03 Aug 2026 10:10:50 +0000"
     }
   ]
 }
