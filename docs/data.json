@@ -1,53 +1,56 @@
 {
-  "date": "2026-08-16",
-  "generated_at": "2026-08-16T08:27:16.756870",
+  "date": "2026-08-17",
+  "generated_at": "2026-08-17T08:41:05.520951",
   "stats": {
     "total": 50,
-    "multi_source": 5,
-    "trending": 1,
-    "blindspots": 1
+    "multi_source": 6,
+    "trending": 4,
+    "blindspots": 0
   },
   "stories": [
     {
-      "title": "Professor’s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring",
-      "link": "https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World",
-        "NPR World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 2
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 2
-      },
-      "is_blindspot": true,
-      "is_trending": false,
-      "bullet_points": [
-        "Jason Arday, the school’s youngest Black professor, was found dead on Friday.",
-        "The school ignored a series of warnings about his life story and his work."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/08/15/world/15int-uk-cambridge-qqqq/15int-uk-cambridge-qqqq-mediumSquareAt3X.jpg",
-      "published": "Sat, 15 Aug 2026 17:31:40 +0000"
-    },
-    {
-      "title": "Moroccan police arrest more than 100 people as they attempt to enter Ceuta",
-      "link": "https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta",
+      "title": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
+      "link": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
       "source": "The Guardian World",
       "all_sources": [
         "BBC World",
-        "Deutsche Welle Top Stories",
         "The Guardian World",
-        "Fox News World"
+        "The Guardian World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 2,
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 67,
+        "center_pct": 33,
+        "right_pct": 0,
+        "total": 3
+      },
+      "is_blindspot": false,
+      "is_trending": true,
+      "bullet_points": [
+        "Man dies in Bas-Uele after travelling from Haut-Uele, as head of WHO says outbreak on track to be deadliest ever  The Ebola outbreak in the Democratic Republic of the Congo has spread to a sixth province, officials have said, a day after the head of the World Health Organization said the outbreak was on track to surpass the deadliest in history, which killed at least 11,000 people more than a decade ago.",
+        "The current outbreak has killed more than 2,100 people out of more than 4,500 cases, according to the latest government figures released on Tuesday.",
+        "At the same point in the 2014-16 outbreak in west Africa, the previous most deadly outbreak, 755 cases had been recorded, according to WHO data."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6968/live/176af9c0-99f5-11f1-8ffd-896dfa12c5fd.jpg",
+      "published": "Thu, 13 Aug 2026 15:17:13 GMT"
+    },
+    {
+      "title": "Trump instructs Pentagon to reduce military exercises with South Korea",
+      "link": "https://nypost.com/2026/08/16/world-news/trump-instructs-pentagon-to-reduce-military-exercises-with-south-korea/",
+      "source": "New York Post World",
+      "all_sources": [
+        "BBC World",
+        "Deutsche Welle Top Stories",
+        "NPR World",
+        "New York Post World"
       ],
       "bias_breakdown": {
         "Lean Left": 1,
         "Center": 2,
-        "Right": 1
+        "Lean Right": 1
       },
       "bias_bar": {
         "left_pct": 25,
@@ -58,12 +61,66 @@
       "is_blindspot": false,
       "is_trending": true,
       "bullet_points": [
-        "Border security tightened after social media posts call for another mass crossing into Spain’s north African territory  Moroccan police have arrested 111 people as they tried to enter Spain’s north African territory of Ceuta, amid ⁠tightened security on both sides after social media posts ​called for another mass crossing.",
-        "The attempted crossing on Saturday came two weeks after more than  72,000 migrants surged into Ceuta , causing  tensions within the EU  and prompting anti-immigration rhetoric among far-right parties worldwide.",
-        "At least 96 people died trying to ⁠reach European soil."
+        "Trump said in a post on his Truth Social site that, although it was too late to cancel the exercises entirely, he was \"not happy\" that the United States had previously agreed to participate."
       ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b64/live/5894c3c0-98d0-11f1-9687-fb984065014d.jpg",
-      "published": "Sat, 15 Aug 2026 18:08:21 GMT"
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8304/live/fde5dbb0-99c6-11f1-b604-2bfb19ba7385.jpg",
+      "published": "Sun, 16 Aug 2026 17:57:01 -0400"
+    },
+    {
+      "title": "Kushner meets with Hamas on the Gaza road map ahead of talks with Netanyahu",
+      "link": "https://www.npr.org/2026/08/16/g-s1-138948/kushner-gaza-hamas-netanyahu-egypt-talks",
+      "source": "NPR World",
+      "all_sources": [
+        "BBC World",
+        "Deutsche Welle Top Stories",
+        "NYT World",
+        "NPR World",
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 3,
+        "Center": 2
+      },
+      "bias_bar": {
+        "left_pct": 60,
+        "center_pct": 40,
+        "right_pct": 0,
+        "total": 5
+      },
+      "is_blindspot": false,
+      "is_trending": true,
+      "bullet_points": [
+        "Jared Kushner, President Trump's son-in-law, held a rare meeting with Hamas leadership Sunday in Egypt, in a new diplomatic effort to make progress in the stalled Gaza ceasefire."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c31f/live/48688550-99f6-11f1-b2ab-0dd01740f9f6.jpg",
+      "published": "Sun, 16 Aug 2026 16:20:22 -0400"
+    },
+    {
+      "title": "Ukraine kills at least 6 people in Russia after launching one of the largest aerial assaults of war",
+      "link": "https://nypost.com/2026/08/16/world-news/ukraine-kills-at-least-6-people-in-russia-after-launching-one-of-the-largest-aerial-assaults-of-war/",
+      "source": "New York Post World",
+      "all_sources": [
+        "NPR World",
+        "Al Jazeera",
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 2,
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 67,
+        "center_pct": 0,
+        "right_pct": 33,
+        "total": 3
+      },
+      "is_blindspot": false,
+      "is_trending": true,
+      "bullet_points": [
+        "This attack occurred as Ukrainian forces increasingly take the war into the very heart of Russia nearly four and a half years into the full-blown conflict sparked by Moscow's invasion."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F08%2Freuters-confirmed-location-road-layout-137596344.jpg?w%3D607",
+      "published": "Sun, 16 Aug 2026 09:35:56 -0400"
     },
     {
       "title": "Former Mexican governor charged in case of 43 students who vanished in 2014",
@@ -118,32 +175,6 @@
       "published": "Wed, 12 Aug 2026 15:21:32 EDT"
     },
     {
-      "title": "Canadian airline WestJet agrees to settle flight attendants’ sexual harassment class action",
-      "link": "https://www.theguardian.com/world/2026/aug/12/canadian-airline-westjet-settle-flight-attendants-sexual-harassment-class-action",
-      "source": "The Guardian World",
-      "all_sources": [
-        "The Guardian World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Female staff alleged company failed to maintain safe workplace, after allegations of sexual assault against pilot  The Canadian airline WestJet has agreed to pay C$4.5m (£2.4m) to settle a decade-long sexual harassment class action lawsuit levelled by its female flight attendants, who alleged the company failed to maintain a safe workplace.",
-        "The suit followed allegations by Mandalena Lewis, a former flight attendant, that a pilot had sexually assaulted her and a colleague, but that WestJet kept the pilot flying, thereby putting other employees at risk.",
-        "Continue reading..."
-      ],
-      "image_url": null,
-      "published": "Wed, 12 Aug 2026 14:40:36 GMT"
-    },
-    {
       "title": "Internet slowdown and drones in the Strait: Taiwan preps for potential China conflict",
       "link": "https://www.csmonitor.com/World/Asia-Pacific/2026/0811/taiwan-internet-blackout-military-exercises?icid=rss",
       "source": "Christian Science Monitor World",
@@ -193,131 +224,6 @@
       "published": "Tue, 11 Aug 2026 14:40:12 EDT"
     },
     {
-      "title": "With Middle East still at war, three regional powers ink a new alliance",
-      "link": "https://www.csmonitor.com/World/Middle-East/2026/0811/turkey-pakistan-saudi-alliance-iran-israel?icid=rss",
-      "source": "Christian Science Monitor World",
-      "all_sources": [
-        "Christian Science Monitor World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The Saudi-Turkish-Pakistani compact is a response to the prolonged Iran war, an Israel perceived as seeking hegemony, and the failure of other diplomatic initiatives.",
-        "It also anticipates a reduced U.S.",
-        "regional posture."
-      ],
-      "image_url": null,
-      "published": "Tue, 11 Aug 2026 05:00:11 EDT"
-    },
-    {
-      "title": "Iran could unleash ‘kinetic’ response as US tightens economic containment, analyst warns",
-      "link": "https://www.foxnews.com/world/tehran-turn-kinetic-tool-break-us-economic-containment-analyst-warns",
-      "source": "Fox News World",
-      "all_sources": [
-        "Fox News World"
-      ],
-      "bias_breakdown": {
-        "Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Analysts warn Iran could strike U.S.",
-        "bases, ships, and Gulf infrastructure this fall as Trump&apos;s sanctions tighten and the Strait of Hormuz deadline looms."
-      ],
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2024/02/931/523/russia-missiles.jpg?ve=1&tl=1",
-      "published": "Thu, 13 Aug 2026 20:14:20 -0400"
-    },
-    {
-      "title": "Russia’s ‘Amazon’ in deep-strike Ukraine blitz, wiping billions from Putin-linked CEO",
-      "link": "https://www.foxnews.com/world/russia-amazon-deep-strike-ukraine-blitz-wiping-billions-putin-linked-ceo",
-      "source": "Fox News World",
-      "all_sources": [
-        "Fox News World"
-      ],
-      "bias_breakdown": {
-        "Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Ukraine&apos;s drone strikes have knocked out 27% of Wildberries warehouse capacity, with losses estimated up to $8.5 billion as Russia&apos;s logistics reels."
-      ],
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/wildberries-strike-russia-factory.jpg?ve=1&tl=1",
-      "published": "Thu, 13 Aug 2026 17:20:28 -0400"
-    },
-    {
-      "title": "Luxury $9 million yacht caught on camera sinking off coast, days after delivery to owner",
-      "link": "https://www.foxnews.com/world/luxury-yacht-caught-camera-sinking-coast-after-delivery-owner",
-      "source": "Fox News World",
-      "all_sources": [
-        "Fox News World"
-      ],
-      "bias_breakdown": {
-        "Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Video footage shows the $9.1 million Angiola II tipping onto its side in the Mediterranean Sea after engine failure sparked a fire off Porto Cervo."
-      ],
-      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/08/boatsinks.gif",
-      "published": "Thu, 13 Aug 2026 15:40:55 -0400"
-    },
-    {
-      "title": "DRC’s fast-growing Ebola outbreak spreads to sixth province",
-      "link": "https://www.theguardian.com/world/2026/aug/13/ebola-drc-democratic-republic-congo-sixth-province",
-      "source": "The Guardian World",
-      "all_sources": [
-        "The Guardian World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Man dies in Bas-Uele after travelling from Haut-Uele, as head of WHO says outbreak on track to be deadliest ever  The Ebola outbreak in the Democratic Republic of the Congo has spread to a sixth province, officials have said, a day after the head of the World Health Organization said the outbreak was on track to surpass the deadliest in history, which killed at least 11,000 people more than a decade ago.",
-        "The current outbreak has killed more than 2,100 people out of more than 4,500 cases, according to the latest government figures released on Tuesday.",
-        "At the same point in the 2014-16 outbreak in west Africa, the previous most deadly outbreak, 755 cases had been recorded, according to WHO data."
-      ],
-      "image_url": null,
-      "published": "Thu, 13 Aug 2026 15:17:13 GMT"
-    },
-    {
       "title": "Brazilians weigh the benefits of AI facial recognition against the costs",
       "link": "https://www.csmonitor.com/World/Americas/2026/0813/brazil-facial-recognition-artificial-intelligence?icid=rss",
       "source": "Christian Science Monitor World",
@@ -340,32 +246,6 @@
       ],
       "image_url": null,
       "published": "Thu, 13 Aug 2026 14:53:36 EDT"
-    },
-    {
-      "title": "French ambassador to CAR investigated over claims he hosted dozens of women",
-      "link": "https://www.theguardian.com/world/2026/aug/13/france-ambassador-car-central-african-republic-investigation-bruno-foucher",
-      "source": "The Guardian World",
-      "all_sources": [
-        "The Guardian World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Disciplinary proceedings under way after security concerns raised over reported visits to official residence  France has opened disciplinary proceedings against its ambassador to Central African Republic over allegations of misconduct, after claims he brought dozens of women into his official residence, raising potential security concerns.",
-        "The investigation comes as Paris seeks to rebuild relations with CAR after their sharp deterioration in recent years amid Russia’s expanding influence in the former French colony.",
-        "Continue reading..."
-      ],
-      "image_url": null,
-      "published": "Thu, 13 Aug 2026 14:21:52 GMT"
     },
     {
       "title": "A climbing gym in Damascus allows Syrians to scale new heights after a long war",
@@ -440,8 +320,57 @@
       "published": "Sun, 26 Jan 2025 22:59:00 -0500"
     },
     {
-      "title": "Three killed as Russia launches fresh aerial attacks across Ukraine",
-      "link": "https://www.bbc.co.uk/news/articles/c1411pgje8xo?at_medium=RSS&at_campaign=rss",
+      "title": "Liechtenstein Changes Its Law to Allow Women to Ascend the Throne",
+      "link": "https://www.nytimes.com/2026/08/16/world/europe/liechtenstein-royal-succession-women.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The move puts the principality in the majority among nearby nations with royal families."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/08/16/multimedia/16int-Liechtenstein-Royals-blhq/16int-Liechtenstein-Royals-blhq-mediumSquareAt3X.jpg",
+      "published": "Sun, 16 Aug 2026 22:10:54 +0000"
+    },
+    {
+      "title": "Iran war thrusts Diego Garcia into spotlight as official calls US military base ‘integral’",
+      "link": "https://www.foxnews.com/world/iran-war-thrusts-diego-garcia-spotlight-official-calls-us-military-base-integral",
+      "source": "Fox News World",
+      "all_sources": [
+        "Fox News World"
+      ],
+      "bias_breakdown": {
+        "Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Diego Garcia supports U.S.",
+        "carrier strike groups and supply chains after an Iranian strike on Bahrain forced the Pentagon to shift logistics."
+      ],
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/chagos-islands.jpg?ve=1&tl=1",
+      "published": "Sun, 16 Aug 2026 20:38:23 -0400"
+    },
+    {
+      "title": "Two dead and hundreds evacuated after twin fires break out on Greek island",
+      "link": "https://www.bbc.co.uk/news/articles/c87nnwlpe5no?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "all_sources": [
         "BBC World"
@@ -458,308 +387,14 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Firefighters are tackling a fire at a market in Kyiv, while Moscow reports that a warehouse was hit."
+        "About 200 firefighters worked to keep the fires from converging on Salamina, with one now under control."
       ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c54/live/e957d010-9947-11f1-b2ab-0dd01740f9f6.jpg",
-      "published": "Sun, 16 Aug 2026 08:14:56 GMT"
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbb6/live/70fefcb0-9992-11f1-a7ab-8b30adf0800a.jpg",
+      "published": "Sun, 16 Aug 2026 19:50:36 GMT"
     },
     {
-      "title": "Lionel Messi misses penalty as Nashville thrash Inter Miami in MLS",
-      "link": "https://www.aljazeera.com/sports/2026/8/16/lionel-messi-misses-penalty-as-nashville-thrash-inter-miami-in-mls?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Messi&#039;s record from the penalty spot is poor by his sky-high standards, including missing twice at the 2026 World Cup."
-      ],
-      "image_url": null,
-      "published": "Sun, 16 Aug 2026 07:47:45 +0000"
-    },
-    {
-      "title": "New satellite images show Europe’s disappearing rivers due to drought",
-      "link": "https://www.aljazeera.com/news/2026/8/16/new-satellite-images-show-europes-disappearing-rivers-due-to-drought?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Half of Europe’s land is experiencing drought with rivers running low from the Danube to the Rhine."
-      ],
-      "image_url": null,
-      "published": "Sun, 16 Aug 2026 07:46:22 +0000"
-    },
-    {
-      "title": "UFC 330: Makhachev secures record-setting win against Machado Garry",
-      "link": "https://www.aljazeera.com/sports/2026/8/16/ufc-330-makhachev-secures-record-setting-win-against-machado-garry?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Islam Makhachev records 17th UFC victory in a row in his welterweight title defeat of Ian Machado Garry."
-      ],
-      "image_url": null,
-      "published": "Sun, 16 Aug 2026 07:04:29 +0000"
-    },
-    {
-      "title": "Bangladesh make history with first-ever Test cricket win in Australia",
-      "link": "https://www.aljazeera.com/sports/2026/8/16/bangladesh-australia-first-test-win-miraz-mahmud-hasan-smith-green-hazlewood?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Bangladesh dominated Australia throughout, and the margin of victory will send shockwaves through the cricketing world."
-      ],
-      "image_url": null,
-      "published": "Sun, 16 Aug 2026 06:40:50 +0000"
-    },
-    {
-      "title": "How a simple lighter has become the backbone of life in Gaza",
-      "link": "https://www.aljazeera.com/economy/2026/8/16/struggle-for-a-spark-gaza-lighter-crisis-makes-cooking-an-expensive-chore?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "In Gaza the struggle to find lighters can mean the difference between cooking a meal or going to bed hungry."
-      ],
-      "image_url": null,
-      "published": "Sun, 16 Aug 2026 06:10:58 +0000"
-    },
-    {
-      "title": "A nation divided: What do Israelis want in October’s elections?",
-      "link": "https://www.aljazeera.com/news/2026/8/16/a-nation-divided-what-do-israelis-want-in-octobers-elections?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Despite a genocide and multiple wars, analysts say the issues determining October’s elections fall far closer to home."
-      ],
-      "image_url": null,
-      "published": "Sun, 16 Aug 2026 06:06:31 +0000"
-    },
-    {
-      "title": "Indonesia’s magnitude 7.7 quake kills at least 51, displaces thousands",
-      "link": "https://www.aljazeera.com/news/2026/8/16/indonesias-magnitude-7-7-quake-kills-at-least-51-displaces-thousands?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1,
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 50,
-        "center_pct": 50,
-        "right_pct": 0,
-        "total": 2
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Over 1,300 homes damaged and 5,000 people displaced as Indonesia grapples with one of its deadliest quakes in years."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5f8/live/fc58ea40-98ee-11f1-94a7-b9e415195b83.jpg",
-      "published": "Sun, 16 Aug 2026 05:14:00 +0000"
-    },
-    {
-      "title": "Israel strikes south Lebanon again as families flee north",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/16/israel-strikes-south-lebanon-again-as-families-flee-north?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Israeli airstrikes hit the Nabatieh district of southern Lebanon just hours after the deadliest day of Israeli raids."
-      ],
-      "image_url": null,
-      "published": "Sun, 16 Aug 2026 04:43:21 +0000"
-    },
-    {
-      "title": "Australia gun buyback spurred by Bondi attack to start in November, PM says",
-      "link": "https://www.aljazeera.com/news/2026/8/16/australia-gun-buyback-spurred-by-bondi-attack-to-start-in-november-pm-says?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Australia introduced measures to reduce gun ownership following a deadly attack on Sydney&#039;s Bondi Beach last year."
-      ],
-      "image_url": null,
-      "published": "Sun, 16 Aug 2026 04:35:26 +0000"
-    },
-    {
-      "title": "After Women in India Joined Protests, Online Harassment Followed",
-      "link": "https://www.nytimes.com/2026/08/16/world/asia/india-women-protests-online-abuse.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Widespread online abuse and visits from the police show the added risks women take standing up for their beliefs in a patriarchal society."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/08/16/multimedia/16INT-INDIA-WOMEN1-tgqw/16INT-INDIA-WOMEN1-tgqw-mediumSquareAt3X.jpg",
-      "published": "Sun, 16 Aug 2026 04:01:23 +0000"
-    },
-    {
-      "title": "With Priests Scarce in Rural Italy, an African Pastor Is Filling the Void",
-      "link": "https://www.nytimes.com/2026/08/16/world/europe/italy-priest-shortage.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Immigrants have long eased labor shortages on farms and factories in Italy.",
-        "But churches also need foreign-born priests, like the Rev.",
-        "Vincent Souly of the Ivory Coast."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/07/02/multimedia/02int-italy-priest-pkwl-promo/02int-italy-priest-pkwl-promo-mediumSquareAt3X.jpg",
-      "published": "Sun, 16 Aug 2026 04:01:17 +0000"
-    },
-    {
-      "title": "12 killed and at least 10 injured in Polish bus crash in Hungary",
-      "link": "https://nypost.com/2026/08/16/world-news/polish-bus-crash-leaves-12-dead-at-least-10-injured-in-hungary/",
-      "source": "New York Post World",
-      "all_sources": [
-        "BBC World",
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Center": 1,
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 50,
-        "right_pct": 50,
-        "total": 2
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The bus ran into a ditch and tipped over early on Sunday ​near the town of Mezokeresztes in eastern Hungary, police said."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/972b/live/dabb8db0-993f-11f1-9d32-93c6539c1530.jpg",
-      "published": "Sun, 16 Aug 2026 03:39:18 -0400"
-    },
-    {
-      "title": "Groom-to-be found dead in hotel rubble after Colombia earthquake hits 2 days before his wedding",
-      "link": "https://nypost.com/2026/08/15/world-news/groom-to-be-24-found-dead-underneath-collapsed-hotel-rubble-after-devastating-7-4-magnitude-earthquake-struck-colombia-2-days-before-his-wedding/",
+      "title": "Iran offering $30,000 bounty for the slaughter and capture of US soldiers, army chief says",
+      "link": "https://nypost.com/2026/08/16/world-news/iran-offering-30000-for-the-slaughter-and-capture-of-us-soldiers-army-chief-says/",
       "source": "New York Post World",
       "all_sources": [
         "New York Post World"
@@ -776,15 +411,138 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Juan Felipe Giraldo, 24, who was set to marry the mother of his child, Natalia Patiño, on Aug.",
-        "16, went missing in the town of Pereira after the disaster ravaged cities across the South American nation, international outlet Infobae reported."
+        "\"Anyone who kills or captures and hands over an invading American military personnel will receive a reward equivalent to $30,000 or 5 billion tomans from the Islamic Republic of Iran’s Army,” he said."
       ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F08%2F137565934.jpg?w%3D1024",
-      "published": "Sat, 15 Aug 2026 23:36:25 -0400"
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F08%2Fhandout-via-reuters-attention-editors-137639290.jpg?w%3D1024",
+      "published": "Sun, 16 Aug 2026 18:51:20 -0400"
     },
     {
-      "title": "Australian state to launch gun buyback after Bondi Beach attack",
-      "link": "https://www.bbc.co.uk/news/articles/cgjee21eenvo?at_medium=RSS&at_campaign=rss",
+      "title": "Brazil’s Lula launches historic fourth term bid – but son of jailed Bolsonaro stands in his way",
+      "link": "https://www.theguardian.com/world/2026/aug/16/lula-brazil-president-fourth-term-jair-flavio-bolsonaro",
+      "source": "The Guardian World",
+      "all_sources": [
+        "The Guardian World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "President, 80, vows to keep far-right from power as Flávio Bolsonaro tells supporters he will ‘fight this system’  Brazil’s leftwing president, Luiz Inácio Lula da Silva, has launched his campaign for a historic fourth term and vowed that as long as he lived he would not allow the “shameless” right to return to power.",
+        "Addressing a sea of supporters in São Bernardo do Campo, the industrial city where his political career began nearly half a century ago, the 80-year-old politician reminded voters of the chaos and violence that unfolded during  the 2018-22 presidency of his far-right predecessor, Jair Bolsonaro , whose son  Flávio Bolsonaro will face Lula in October’s presidential election .",
+        "Continue reading..."
+      ],
+      "image_url": null,
+      "published": "Sun, 16 Aug 2026 18:44:41 GMT"
+    },
+    {
+      "title": "As Iran War Turns Into Economic Battle, a New U.S. Strategy Recalls Old Ones",
+      "link": "https://www.nytimes.com/2026/08/16/world/middleeast/iran-war-us-trump.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The United States and Iran are poised to blow past a deadline they had set themselves to broker terms on peace and Iran’s nuclear program."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/08/16/multimedia/16int-iran-mou-01-jzwl/16int-iran-mou-01-jzwl-mediumSquareAt3X-v2.jpg",
+      "published": "Sun, 16 Aug 2026 17:39:39 +0000"
+    },
+    {
+      "title": "Top military commander visits long-deployed aircraft carrier",
+      "link": "https://www.csmonitor.com/World/2026/0816/brad-cooper-uss-lincoln-mental-health?icid=rss",
+      "source": "Christian Science Monitor World",
+      "all_sources": [
+        "Christian Science Monitor World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "troops have been deployed on the USS Abraham Lincoln for a record 240 days.",
+        "Adm.",
+        "Brad Cooper visited the sailors amid reports of deteriorating mental health."
+      ],
+      "image_url": null,
+      "published": "Sun, 16 Aug 2026 15:48:52 EDT"
+    },
+    {
+      "title": "Arab allies join Trump in calling for Israel to drop opposition to US-backed Gaza peace plan",
+      "link": "https://nypost.com/2026/08/16/world-news/arab-allies-join-trump-in-calling-for-israel-to-drop-opposition-to-us-backed-gaza-peace-plan/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "President Trump and Arab allies are pushing to advance the American-backed Gaza peace deal on Sunday, even as Israel rejected the plan and carried on with airstrikes in the Palestinian enclave."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F08%2F2026-presence-foreign-minister-badr-137620018.jpg?w%3D1024",
+      "published": "Sun, 16 Aug 2026 14:53:08 -0400"
+    },
+    {
+      "title": "US military moving last aircraft carrier out of the Pacific to prioritize operations in Iran",
+      "link": "https://nypost.com/2026/08/16/world-news/us-military-moving-last-aircraft-carrier-out-of-the-pacific-to-prioritize-operation-epic-fury-in-iran/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The US is moving its last aircraft carrier out of the Pacific to replace the USS Abraham Lincoln — which is heading back after the longest American naval deployment since the Cold War."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F08%2Fuss-george-washington-arrives-port-135943213.jpg?w%3D1024",
+      "published": "Sun, 16 Aug 2026 14:35:28 -0400"
+    },
+    {
+      "title": "Four 'extraordinary' Renaissance paintings stolen from Italian museum",
+      "link": "https://www.bbc.co.uk/news/articles/cqjxx2gzd9qo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "all_sources": [
         "BBC World"
@@ -801,22 +559,70 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "New South Wales, where the attack took place, will offer gun owners cash to give up their firearms."
+        "The works were taken overnight without alarms being triggered, raising suspicion of a professional hit."
       ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c544/live/402629b0-98ed-11f1-97a4-c77753d94e40.jpg",
-      "published": "Sat, 15 Aug 2026 21:41:43 GMT"
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad24/live/d18d0100-996d-11f1-aaab-c702cc6b4645.jpg",
+      "published": "Sun, 16 Aug 2026 13:34:38 GMT"
     },
     {
-      "title": "$10 Million in Gold Found Buried Under Former Brewery in Belgium",
-      "link": "https://www.nytimes.com/2026/08/15/world/europe/gold-bars-coins-belgium.html",
-      "source": "NYT World",
+      "title": "Iranians set to face harsh prison sentences for telling the world what’s happening inside their country under new law",
+      "link": "https://nypost.com/2026/08/16/world-news/iranians-set-to-face-harsh-prison-sentences-for-telling-the-world-whats-happening-inside-their-country-under-new-law/",
+      "source": "New York Post World",
       "all_sources": [
-        "NYT World",
-        "Fox News World"
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Iran's parliament approved on Sunday the general principles of a bill that ​would criminalize interviews and other communications with media deemed hostile to the ‌Islamic Republic"
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F08%2Fbillboard-depicting-fallen-statue-liberty-136341086.jpg?w%3D1024",
+      "published": "Sun, 16 Aug 2026 13:11:19 -0400"
+    },
+    {
+      "title": "Harrowing video shows woman take death-defying leap from 11th-floor of burning high-rise building",
+      "link": "https://nypost.com/2026/08/16/world-news/woman-jumps-from-burning-high-rise-building-in-berlin/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The firefighter was two floors below to be able to catch her fall."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F08%2Fdramatic-rescue-operation-high-rise-137559651.jpg?w%3D814",
+      "published": "Sun, 16 Aug 2026 12:42:16 -0400"
+    },
+    {
+      "title": "A good – and bad – week for Italy's art police and museum security",
+      "link": "https://www.npr.org/2026/08/16/nx-s1-5933052/sicily-art-heist-museum-parma",
+      "source": "NPR World",
+      "all_sources": [
+        "NPR World",
+        "New York Post World"
       ],
       "bias_breakdown": {
         "Lean Left": 1,
-        "Right": 1
+        "Lean Right": 1
       },
       "bias_bar": {
         "left_pct": 50,
@@ -827,34 +633,158 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "A construction worker’s drill struck gold during a renovation project in East Flanders, setting off a search for the owners of the stashed fortune."
+        "On Friday, Italian police said they'd recovered three paintings stolen from a museum near the city of Parma.",
+        "By Saturday night, thieves in Sicily had made off with four more masterpieces."
       ],
-      "image_url": "https://static01.nyt.com/images/2026/08/15/world/15Belgium-gold/15Belgium-gold-mediumSquareAt3X.jpg",
-      "published": "Sat, 15 Aug 2026 21:07:17 +0000"
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F08%2Fwikipedia-org-wiki-polittico-di-137592308.jpg?w%3D504",
+      "published": "Sun, 16 Aug 2026 12:27:54 -0400"
     },
     {
-      "title": "Liechtenstein changes succession rule to allow women to ascend the throne",
-      "link": "https://www.bbc.co.uk/news/articles/cn9nnxrxg4qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "title": "Clueless influencer sparks outrage filming skincare routine during lengthy movie: ‘So insanely rude’",
+      "link": "https://nypost.com/2026/08/16/lifestyle/influencers-movie-theater-skincare-post-sparks-outrage/",
+      "source": "New York Post World",
       "all_sources": [
-        "BBC World"
+        "New York Post World"
       ],
       "bias_breakdown": {
-        "Center": 1
+        "Lean Right": 1
       },
       "bias_bar": {
         "left_pct": 0,
-        "center_pct": 100,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "“Girl, what the hell, just watch the movie,” one commenter pushed back."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F08%2Fmiranda-wilson-popular-skincare-influencer-137612277.jpg?w%3D614",
+      "published": "Sun, 16 Aug 2026 11:39:25 -0400"
+    },
+    {
+      "title": "What really happened in Ceuta? Why we may never find out",
+      "link": "https://www.npr.org/2026/08/16/nx-s1-5927053/what-happened-in-ceuta",
+      "source": "NPR World",
+      "all_sources": [
+        "NPR World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
         "right_pct": 0,
         "total": 1
       },
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "The declaration was made on the national day of the central European country, which has a population of just 44,000."
+        "Hundreds of migrants have again attempted to cross from Morocco into the Spanish territory of Ceuta.",
+        "This time, Moroccan officials fended them off, raising new questions about the crossing of July 30."
       ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b3eb/live/39b85200-98cb-11f1-9687-fb984065014d.jpg",
-      "published": "Sat, 15 Aug 2026 19:41:57 GMT"
+      "image_url": null,
+      "published": "Sun, 16 Aug 2026 11:38:22 -0400"
+    },
+    {
+      "title": "Global corgis gather for cutest costume contest and annual high-speed race",
+      "link": "https://nypost.com/2026/08/16/lifestyle/annual-corgi-competition-draws-150-dogs-to-lithuania/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The pups played their hardest for superlatives like \"Sharpest Nose\" and other titles."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F08%2Fcorgi-dogs-run-corgi-race-137511444.jpg?w%3D1024",
+      "published": "Sun, 16 Aug 2026 10:49:21 -0400"
+    },
+    {
+      "title": "Bab el-Mandeb Strait faces growing threat as Houthi attacks raise fears of a second Hormuz",
+      "link": "https://www.foxnews.com/world/bab-el-mandeb-strait-faces-growing-threat-houthi-attacks-raise-fears-second-hormuz",
+      "source": "Fox News World",
+      "all_sources": [
+        "Fox News World"
+      ],
+      "bias_breakdown": {
+        "Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Iran-backed Houthis exploit Yemen&apos;s fractured state to threaten Bab el-Mandeb, raising fears it could become a second Strait of Hormuz choke point."
+      ],
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/bab-straits-houthis-split.jpg?ve=1&tl=1",
+      "published": "Sun, 16 Aug 2026 09:53:38 -0400"
+    },
+    {
+      "title": "How a Ukrainian Bank Worker Came to Face Life in a Russian Prison",
+      "link": "https://www.nytimes.com/2026/08/16/world/europe/russia-detained-ukrainians-war-murdid.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Artem Murdid, his mother and his girlfriend are accused of terrorism.",
+        "They say they did nothing wrong."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/08/14/world/00int-russia-prisoner/00int-russia-prisoner-mediumSquareAt3X-v2.jpg",
+      "published": "Sun, 16 Aug 2026 09:01:44 +0000"
+    },
+    {
+      "title": "Trump’s Other Hold on the Americas: The Visa",
+      "link": "https://www.nytimes.com/2026/08/16/world/americas/trump-americas-visas.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "As part of its expansionist approach to the Western Hemisphere, the Trump administration is trying to reassert its dominance, one U.S.",
+        "visa at a time."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/08/05/multimedia/00int-latam-visas-vbmq/00int-latam-visas-vbmq-mediumSquareAt3X.jpg",
+      "published": "Sun, 16 Aug 2026 09:00:11 +0000"
     },
     {
       "title": "Zimbabwe boat accident death toll hits 68 as 22 more bodies recovered",
@@ -883,246 +813,32 @@
       "published": "Sat, 15 Aug 2026 19:39:07 GMT"
     },
     {
-      "title": "Multiple suspects at large after five shot at Virginia State University, police say",
-      "link": "https://www.bbc.co.uk/news/articles/c0l5583903yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "title": "Moroccan police arrest more than 100 people as they attempt to enter Ceuta",
+      "link": "https://www.theguardian.com/world/2026/aug/15/moroccan-police-arrest-more-than-100-people-as-they-attempt-to-enter-ceuta",
+      "source": "The Guardian World",
       "all_sources": [
-        "BBC World"
+        "The Guardian World",
+        "Fox News World"
       ],
       "bias_breakdown": {
-        "Center": 1
+        "Lean Left": 1,
+        "Right": 1
       },
       "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Police responded to reports of a shooting outside a residence halls at about 01:28 local time (05:28 GMT) on Saturday."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae25/live/6493d6c0-98bc-11f1-a7ab-8b30adf0800a.jpg",
-      "published": "Sat, 15 Aug 2026 19:34:22 GMT"
-    },
-    {
-      "title": "Mamdani’s Uganda homeland honors Netanyahu’s brother with  monumental tribute",
-      "link": "https://nypost.com/2026/08/15/world-news/mamdanis-uganda-homeland-honors-netanyahus-brother-with-monument/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
+        "left_pct": 50,
         "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
+        "right_pct": 50,
+        "total": 2
       },
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Uganda unveiled a statue of Yoni Netanyahu, the fallen brother of Israel's PM, at the Entebbe airport where he died during a 1976 rescue mission."
+        "Border security tightened after social media posts call for another mass crossing into Spain’s north African territory  Moroccan police have arrested 111 people as they tried to enter Spain’s north African territory of Ceuta, amid ⁠tightened security on both sides after social media posts ​called for another mass crossing.",
+        "The attempted crossing on Saturday came two weeks after more than  72,000 migrants surged into Ceuta , causing  tensions within the EU  and prompting anti-immigration rhetoric among far-right parties worldwide.",
+        "At least 96 people died trying to ⁠reach European soil."
       ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F08%2F1976-father-benzion-netanyahu-professor-137187377.jpg?w%3D1024",
-      "published": "Sat, 15 Aug 2026 19:12:14 -0400"
-    },
-    {
-      "title": "Putin loses 43K soldiers on Ukraine battlefield in one of bloodiest months since start of war",
-      "link": "https://nypost.com/2026/08/15/world-news/putin-loses-43k-soldiers-in-ukraine-in-one-of-wars-bloodiest-months/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Putin lost a staggering 42,860 men on the battlefield in July between soldiers killed and wounded, the most since January 2025 -- and the fourth bloodiest month since the start of the war in 2022."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F08%2F2026-korsakov-sakhalin-oblast-russia-137181234_1009e0.jpg?w%3D1024",
-      "published": "Sat, 15 Aug 2026 18:27:37 -0400"
-    },
-    {
-      "title": "Canadian Petition to Expel U.S. Ambassador Pete Hoekstra Takes Off",
-      "link": "https://www.nytimes.com/2026/08/15/world/canada/hoekstra-ambassador-petition-canada-trump.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Mr.",
-        "Hoekstra has been President Trump’s faithful messenger in Canada amid a historic low in relations.",
-        "More than 170,000 Canadians want him gone."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/08/15/multimedia/15int-canada-hoekstra-qhzb/15int-canada-hoekstra-qhzb-mediumSquareAt3X.jpg",
-      "published": "Sat, 15 Aug 2026 18:15:49 +0000"
-    },
-    {
-      "title": "Mom gets keyboard tattooed on her arm so autistic son can always ‘talk’ to her",
-      "link": "https://nypost.com/2026/08/15/world-news/mom-gets-keyboard-tattooed-on-her-arm-so-autistic-son-can-talk-to-her/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Canadian mom Jessica Fletcher has an 11-year-old autistic son named Hunter, and when his (AAC) device, where he communicates by typing, broke down, she decided to tattoo a keyboard on her arm so they could always \"talk.\""
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F08%2Fmom-jessica-fletcher-tattooed-keyboard-137525703.jpg?w%3D617",
-      "published": "Sat, 15 Aug 2026 18:11:41 -0400"
-    },
-    {
-      "title": "News of the World: What you missed this week internationally",
-      "link": "https://nypost.com/2026/08/15/world-news/news-of-the-world-august-15-2026/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Mexico's leading avocado producer is back in business, a Quebec man received North America’s first regenerated liver transplant, and more news from around the world."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F08%2F2025-us-president-donald-trump-137523889.jpg?w%3D1024",
-      "published": "Sat, 15 Aug 2026 17:26:35 -0400"
-    },
-    {
-      "title": "The bizarre and hilarious chaos on cruise ships exposed — including pirates, pot, and polar bears",
-      "link": "https://nypost.com/2026/08/15/world-news/ship-happens-pirates-pot-polar-bears-and-chaos-on-the-high-seas/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "A few of the most ridiculous, hilarious or just plain memorable incidents about cruse ships."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F08%2Fcarnival-cruise-line-cruise-ship-137408823.jpg?w%3D1024",
-      "published": "Sat, 15 Aug 2026 16:27:47 -0400"
-    },
-    {
-      "title": "Syrian Convicted in Austria of Civil War Abuses Is Detained in Syria",
-      "link": "https://www.nytimes.com/2026/08/15/world/middleeast/syria-austria-arrest-civil-war-crimes.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Musab Abu Rukbah, a former police chief, left Austria after appealing his eight-year sentence for crimes committed during Syria’s civil war."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/08/15/world/15int-syria-arrest-amgaolag/15int-syria-arrest-amgaolag-mediumSquareAt3X.jpg",
-      "published": "Sat, 15 Aug 2026 15:28:28 +0000"
-    },
-    {
-      "title": "Roman shipwreck believed to be over 2,000 years old discovered in Sicily’s newly unearthed ‘underwater museum’",
-      "link": "https://nypost.com/2026/08/15/world-news/roman-shipwreck-believed-to-be-over-2000-years-old-discovered-in-sicily/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "An ancient Roman shipwreck believed to be over 2,000 years old was discovered in Sicily."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F08%2Fdiscovery-off-coast-mazara-del-137519410.jpg?w%3D772",
-      "published": "Sat, 15 Aug 2026 15:10:10 -0400"
-    },
-    {
-      "title": "Colombia earthquake survivor loses both triplet sisters, parents in building collapse",
-      "link": "https://nypost.com/2026/08/15/world-news/colombia-earthquake-survivor-loses-both-triplet-sisters-in-building-collapse/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The sole surviving triplet of a Colombia earthquake pulled from rubble in birth order lost both sisters, parents and uncle in the Cali building collapse that killed nearly 300."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F08%2Fana-mar-survivor-now-knows-137503348.jpg?w%3D839",
-      "published": "Sat, 15 Aug 2026 15:02:22 -0400"
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/morocco-cueta-migrants-riot-1.jpg?ve=1&tl=1",
+      "published": "Sat, 15 Aug 2026 18:08:21 GMT"
     },
     {
       "title": "Families of USS Lincoln crew say Trump should be 'ashamed' of conditions on board",
@@ -1149,30 +865,6 @@
       "published": "Sat, 15 Aug 2026 14:21:32 -0400"
     },
     {
-      "title": "New Iranian billboard depicts dead US soldier on shore of Strait of Hormuz",
-      "link": "https://nypost.com/2026/08/15/world-news/iranian-billboard-shows-skeleton-of-us-soldier-next-to-strait-of-hormuz/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The Islamic Republic has intensified its anti-US messaging in recent weeks, as it ramps up its propaganda war with violent state-sponsored billboards plastered across Tehran."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F08%2Fpro-government-mourner-stands-beside-137503231.jpg?w%3D1024",
-      "published": "Sat, 15 Aug 2026 13:51:45 -0400"
-    },
-    {
       "title": "Exclusive: Israel seizes vast Iran terror axis arsenal with surprising foreign origins",
       "link": "https://www.foxnews.com/world/exclusive-israel-seizes-vast-iran-terror-axis-arsenal-surprising-foreign-origins",
       "source": "Fox News World",
@@ -1197,11 +889,11 @@
       "published": "Sat, 15 Aug 2026 13:49:48 -0400"
     },
     {
-      "title": "The Iranian YouTube Show Posing Questions Few Dare Ask",
-      "link": "https://www.nytimes.com/2026/08/15/world/middleeast/iran-youtube-show.html",
-      "source": "NYT World",
+      "title": "Jason Arday, Cambridge professor accused of plagiarism, is found dead",
+      "link": "https://www.npr.org/2026/08/15/nx-s1-5932488/jason-arday-dead",
+      "source": "NPR World",
       "all_sources": [
-        "NYT World"
+        "NPR World"
       ],
       "bias_breakdown": {
         "Lean Left": 1
@@ -1215,11 +907,11 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Azad, a popular online debate program, has tackled topics that push the limits of Iran’s authoritarian system.",
-        "Some question how it has remained on air."
+        "Arday was 37 when he became Cambridge's youngest Black professor in 2023.",
+        "He was found unresponsive Friday at a home in southwest London."
       ],
       "image_url": null,
-      "published": "Sat, 15 Aug 2026 09:30:14 +0000"
+      "published": "Sat, 15 Aug 2026 13:04:43 -0400"
     },
     {
       "title": "Iran jails psychologist over Trump plea as regime demands he make Americans ‘look stupid’: family",
@@ -1244,6 +936,322 @@
       ],
       "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/Seyed-Ahmad-Seyedabdollahi.jpg?ve=1&tl=1",
       "published": "Sat, 15 Aug 2026 06:00:38 -0400"
+    },
+    {
+      "title": "These Afghan women in Europe aim to bring change to their home country",
+      "link": "https://www.csmonitor.com/World/Asia-South-Central/2026/0815/afghan-women-afghanistan-taliban-human-rights-education-girls?icid=rss",
+      "source": "Christian Science Monitor World",
+      "all_sources": [
+        "Christian Science Monitor World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Displaced Afghans from the world’s “worst women’s rights crisis” leverage education for their new lives in Europe."
+      ],
+      "image_url": null,
+      "published": "Sat, 15 Aug 2026 05:00:10 EDT"
+    },
+    {
+      "title": "They fought for the U.S. in Afghanistan. Now they worry about losing their green cards",
+      "link": "https://www.npr.org/2026/08/15/nx-s1-5897606/afghanistan-visa-green-card-deport",
+      "source": "NPR World",
+      "all_sources": [
+        "NPR World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "When the U.S.",
+        "withdrew from Afghanistan five years ago, thousands of Afghans who helped U.S.",
+        "troops were brought here to rebuild their lives."
+      ],
+      "image_url": null,
+      "published": "Sat, 15 Aug 2026 05:00:00 -0400"
+    },
+    {
+      "title": "Rescuers dig through rubble and landslides after Indonesia quake kills 51",
+      "link": "https://www.npr.org/2026/08/15/nx-s1-5932405/earthquake-indonesia",
+      "source": "NPR World",
+      "all_sources": [
+        "NPR World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "A powerful earthquake struck off the coast of Indonesia early Saturday, collapsing buildings as well as causing panic in a region prone to deadly quakes."
+      ],
+      "image_url": null,
+      "published": "Sat, 15 Aug 2026 04:29:20 -0400"
+    },
+    {
+      "title": "Palestinians Stream Back to Northern Gaza on Foot",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "source": "WSJ World News",
+      "all_sources": [
+        "WSJ World News"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Israel allowed displaced Gazans to begin crossing a military zone that bisects the enclave after a deadlock over hostage releases was broken."
+      ],
+      "image_url": null,
+      "published": "Mon, 27 Jan 2025 14:23:00 -0500"
+    },
+    {
+      "title": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+      "link": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+      "source": "WSJ World News",
+      "all_sources": [
+        "WSJ World News"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in."
+      ],
+      "image_url": null,
+      "published": "Mon, 27 Jan 2025 12:32:00 -0500"
+    },
+    {
+      "title": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+      "link": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
+      "source": "WSJ World News",
+      "all_sources": [
+        "WSJ World News"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said."
+      ],
+      "image_url": null,
+      "published": "Mon, 27 Jan 2025 12:12:00 -0500"
+    },
+    {
+      "title": "Suspected Sabotage of Deep-Sea Cable Triggers First NATO-Led Response",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "source": "WSJ World News",
+      "all_sources": [
+        "WSJ World News"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The alliance mounted its first coordinated response to a suspected sabotage campaign against critical infrastructure after another cable was severed in the Baltic Sea."
+      ],
+      "image_url": null,
+      "published": "Mon, 27 Jan 2025 11:22:00 -0500"
+    },
+    {
+      "title": "Rwanda-Backed Rebels Enter Congo's Safe-Haven City",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "source": "WSJ World News",
+      "all_sources": [
+        "WSJ World News"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Residents of Goma reported gunfire and shelling after rebels overran Congolese troops.",
+        "U.N.",
+        "officials estimated that more than one million displaced people were now inside the city."
+      ],
+      "image_url": null,
+      "published": "Mon, 27 Jan 2025 10:07:00 -0500"
+    },
+    {
+      "title": "Cocaine-Funded Gangs Shake Colombia Years After Peace Pact",
+      "link": "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da",
+      "source": "WSJ World News",
+      "all_sources": [
+        "WSJ World News"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Attacks by powerful militias against civilians reflect the state’s inaction eight years after a peace accord removed a powerful rebel group from the field."
+      ],
+      "image_url": null,
+      "published": "Mon, 27 Jan 2025 07:00:00 -0500"
+    },
+    {
+      "title": "Italy Supports Saudi Arabia Joining Fighter-Jet Program, PM Meloni Says",
+      "link": "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1",
+      "source": "WSJ World News",
+      "all_sources": [
+        "WSJ World News"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The U.K., Italy and Japan have already partnered on the Global Combat Air Programme, which aims to put a new stealth fighter with supersonic capability in the skies by 2035."
+      ],
+      "image_url": null,
+      "published": "Mon, 27 Jan 2025 05:34:00 -0500"
+    },
+    {
+      "title": "Shippers Wary of Red Sea Routes Despite Houthi Pledge to End Targeting",
+      "link": "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2",
+      "source": "WSJ World News",
+      "all_sources": [
+        "WSJ World News"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The world’s top three container operators said they fear instability in Gaza and broader regional tensions mean continued danger."
+      ],
+      "image_url": null,
+      "published": "Mon, 27 Jan 2025 01:05:00 -0500"
+    },
+    {
+      "title": "Kim Jong Un Is Doing Everything He Can to Keep North Korea's Youth in Line",
+      "link": "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de",
+      "source": "WSJ World News",
+      "all_sources": [
+        "WSJ World News"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The dictator, eager to shut out the influence of Hollywood and K-pop, has been exalting a “shock brigade” of 300,000 teens and 20-somethings drafted into flood reconstruction."
+      ],
+      "image_url": null,
+      "published": "Mon, 27 Jan 2025 01:05:00 -0500"
+    },
+    {
+      "title": "Iran’s Supreme Leader Signals Intention to Keep Country on a War Footing",
+      "link": "https://www.nytimes.com/2026/08/17/world/middleeast/iran-khamenei-military-leaders-war.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Ayatollah Mojtaba Khamenei’s appointment of hard-line loyalists to top jobs suggests he is prepared to keep the country on a war footing and to quash domestic dissent."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/08/17/multimedia/17int-iran-assess-01-htwk/17int-iran-assess-01-htwk-mediumSquareAt3X.jpg",
+      "published": "Mon, 17 Aug 2026 08:29:54 +0000"
     }
   ]
 }
