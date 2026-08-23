@@ -1,13 +1,71 @@
 {
-  "date": "2026-08-22",
-  "generated_at": "2026-08-22T08:27:48.149899",
+  "date": "2026-08-23",
+  "generated_at": "2026-08-23T08:27:43.610889",
   "stats": {
     "total": 50,
-    "multi_source": 2,
-    "trending": 0,
-    "blindspots": 0
+    "multi_source": 6,
+    "trending": 1,
+    "blindspots": 1
   },
   "stories": [
+    {
+      "title": "Woman in her 30s who pretended to be a child and lived with family found guilty of fraud",
+      "link": "https://nypost.com/2026/08/23/world-news/brazilian-woman-amanda-maria-souza-de-oliveira-who-pretended-to-be-a-child-is-found-guilty-of-fraud/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World",
+        "Fox News World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1,
+        "Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 2
+      },
+      "is_blindspot": true,
+      "is_trending": false,
+      "bullet_points": [
+        "A woman in Brazil was found guilty this week of living with a foster family for more than a year while pretending to be a child, officials said."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F08%2Fhttps-www-campograndenews-com-br-138262226.jpg?w%3D1024",
+      "published": "Sat, 22 Aug 2026 23:41:02 -0700"
+    },
+    {
+      "title": "Canada vows ‘dollar for dollar’ response as US puts 50% tariffs on some goods",
+      "link": "https://www.theguardian.com/world/2026/aug/22/canada-tariffs-trump-trade-deal-talks-fail",
+      "source": "The Guardian World",
+      "all_sources": [
+        "BBC World",
+        "Deutsche Welle Top Stories",
+        "NYT World",
+        "NYT World",
+        "Al Jazeera",
+        "The Guardian World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 4,
+        "Center": 2
+      },
+      "bias_bar": {
+        "left_pct": 67,
+        "center_pct": 33,
+        "right_pct": 0,
+        "total": 6
+      },
+      "is_blindspot": false,
+      "is_trending": true,
+      "bullet_points": [
+        "Collapse of trade talks could lead to job losses, but biggest impact on traditional allies is expected to be political   The US has imposed 50% tariffs on some goods from Canada, and Mark Carney, the country’s prime minister, has vowed to match them “dollar for dollar” after the collapse of trade talks.",
+        "The tariffs came into force on roughly $20bn (£14.6bn) of goods – ranging from hockey sticks to tongue depressors – at 04.00GMT.",
+        "Trade experts said the tariffs could result in some job losses, but the largest impact is expected to be political, driving a further wedge between the traditional allies."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b8b/live/0b4b35a0-9eba-11f1-8afa-6d906fcc4949.jpg",
+      "published": "Sat, 22 Aug 2026 14:04:57 GMT"
+    },
     {
       "title": "Iran taps financial lifeline, Russian arms as Trump escalates 'crushing' economic warfare",
       "link": "https://www.foxnews.com/world/iran-taps-financial-lifeline-russian-arms-trump-escalates-crushing-economic-warfare",
@@ -209,30 +267,6 @@
       ],
       "image_url": null,
       "published": "Wed, 19 Aug 2026 13:44:57 GMT"
-    },
-    {
-      "title": "Cuba’s economic freefall is hiding a national security threat just miles from Florida: report",
-      "link": "https://www.foxnews.com/world/cubas-economic-freefall-hiding-national-security-threat-just-miles-from-florida-report",
-      "source": "Fox News World",
-      "all_sources": [
-        "Fox News World"
-      ],
-      "bias_breakdown": {
-        "Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "A new report says Cuba&apos;s ties with Russia, China and Iran create intelligence and military threats just 90 miles from the Florida coastline."
-      ],
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/07/931/523/cuba-city.jpg?ve=1&tl=1",
-      "published": "Wed, 19 Aug 2026 11:23:14 -0400"
     },
     {
       "title": "Activist forced out of US after criticising Trump-aligned Colombian politician",
@@ -634,8 +668,8 @@
       "published": "Sun, 26 Jan 2025 22:59:00 -0500"
     },
     {
-      "title": "Panama Canal to reduce shipping as ‘extreme’ El Nino approaches",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/panama-canal-to-reduce-shipping-as-extreme-el-nino-approaches?traffic_source=rss",
+      "title": "Kazakhstan holds parliamentary election expected to cement president’s grip",
+      "link": "https://www.aljazeera.com/news/2026/8/23/kazakhstan-holds-parliamentary-election-expected-to-cement-presidents-grip?traffic_source=rss",
       "source": "Al Jazeera",
       "all_sources": [
         "Al Jazeera"
@@ -652,14 +686,14 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Panama Canal will cut daily transits from 40 to 32 vessels by September 15, risking slower shipping and higher costs."
+        "Only state-approved parties loyal to President Tokayev permitted to take part amid a sweeping constitutional overhaul."
       ],
       "image_url": null,
-      "published": "Sat, 22 Aug 2026 08:00:30 +0000"
+      "published": "Sun, 23 Aug 2026 07:38:42 +0000"
     },
     {
-      "title": "Lionel Messi fined for striking opponent in Inter Miami MLS game",
-      "link": "https://www.aljazeera.com/sports/2026/8/22/messi-fined-for-striking-opponent-in-inter-miami-mls-game?traffic_source=rss",
+      "title": "Infantino defies FIFA vice president, makes appearance in the Caribbean",
+      "link": "https://www.aljazeera.com/sports/2026/8/23/infantino-defies-fifa-makes-rare-appearance-at-youth-event-amid-furor?traffic_source=rss",
       "source": "Al Jazeera",
       "all_sources": [
         "Al Jazeera"
@@ -676,14 +710,14 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "MLS fine Inter Miami&#039;s Lionel Messi and Ian Fray for separate incidents in match against Philadelphia Union."
+        "FIFA boss turns up at event after CONCACAF chief Montagliani asked him to reconsider amid the body’s governance crisis."
       ],
       "image_url": null,
-      "published": "Sat, 22 Aug 2026 07:41:21 +0000"
+      "published": "Sun, 23 Aug 2026 07:22:37 +0000"
     },
     {
-      "title": "‘Young want to leave’: Libya’s brain drain, 15 years after Tripoli fell",
-      "link": "https://www.aljazeera.com/news/2026/8/22/young-want-to-leave-libyas-brain-drain-15-years-after-tripoli-fell?traffic_source=rss",
+      "title": "Serena Williams teams up with Carlos Alcaraz in US Open mixed doubles",
+      "link": "https://www.aljazeera.com/sports/2026/8/23/serena-williams-teams-up-with-carlos-alcaraz-in-us-open-mixed-doubles?traffic_source=rss",
       "source": "Al Jazeera",
       "all_sources": [
         "Al Jazeera"
@@ -700,14 +734,14 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Professionals who left a country in turmoil say they are unlikely to return as more in Libya could be planning to leave."
+        "The 23-time Grand Slam champion will not be playing singles, but could team up with her older sister Venus for doubles."
       ],
       "image_url": null,
-      "published": "Sat, 22 Aug 2026 07:41:10 +0000"
+      "published": "Sun, 23 Aug 2026 06:59:51 +0000"
     },
     {
-      "title": "World Bank projects war-hit Lebanon’s economy to contract by 6.4 percent",
-      "link": "https://www.aljazeera.com/news/2026/8/22/world-bank-projects-war-hit-lebanons-economy-to-contract-by-6-4-percent?traffic_source=rss",
+      "title": "Starc takes 10 as Australia hand Bangladesh innings defeat in second Test",
+      "link": "https://www.aljazeera.com/sports/2026/8/23/starc-takes-10-as-australia-hand-bangladesh-innings-defeat-in-second-test?traffic_source=rss",
       "source": "Al Jazeera",
       "all_sources": [
         "Al Jazeera"
@@ -724,14 +758,14 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Conflict with Israel derails Lebanon&#039;s economic recovery as inflation and consumer prices rise, the global lender says."
+        "Australia bounce back after losing first Test, bowling out the visitors for 64 and 95 to win by an innings and 51 runs."
       ],
       "image_url": null,
-      "published": "Sat, 22 Aug 2026 07:35:08 +0000"
+      "published": "Sun, 23 Aug 2026 06:48:34 +0000"
     },
     {
-      "title": "Somalia child hunger crisis deepens after aid cuts, UNICEF says",
-      "link": "https://www.aljazeera.com/news/2026/8/22/somalia-child-hunger-crisis-deepens-after-aid-cuts-unicef-says?traffic_source=rss",
+      "title": "Pegula dethrones Swiatek to book Cincinnati final against Gauff",
+      "link": "https://www.aljazeera.com/sports/2026/8/23/pegula-dethrones-swiatek-to-book-cincinnati-final-against-gauff?traffic_source=rss",
       "source": "Al Jazeera",
       "all_sources": [
         "Al Jazeera"
@@ -748,14 +782,62 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "The drought-stricken country has recorded a 32 percent jump in the number of children treated for severe malnutrition."
+        "The women’s all-American final will be followed by a men&#039;s title clash between Frances Tiafoe and Arthur Fils of France."
       ],
       "image_url": null,
-      "published": "Sat, 22 Aug 2026 07:11:27 +0000"
+      "published": "Sun, 23 Aug 2026 06:15:50 +0000"
     },
     {
-      "title": "Mexican Governor, Accused by U.S. of Helping Cartel, Returns to His Job",
-      "link": "https://www.nytimes.com/2026/08/21/world/americas/mexico-sinaloa-governor-cartels.html",
+      "title": "Kazakhstan parliamentary elections begin: What’s at stake?",
+      "link": "https://www.aljazeera.com/news/2026/8/23/kazakhstan-parliamentary-elections-begin-whats-at-stake?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The Central Asian country heads to the polls on August 23."
+      ],
+      "image_url": null,
+      "published": "Sun, 23 Aug 2026 05:55:10 +0000"
+    },
+    {
+      "title": "Ex-Colombian president: Restoring Israeli ties applauds Gaza genocide",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/ex-colombian-president-restoring-israeli-ties-applauds-gaza-genocide?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Ex-Colombian President, Gustavo Petro, says restoring ties with Israel amounts to applauding the Gaza genocide."
+      ],
+      "image_url": null,
+      "published": "Sun, 23 Aug 2026 05:10:05 +0000"
+    },
+    {
+      "title": "Four Years Ago, a Crypto Boss Went Missing. Now His Successor Has.",
+      "link": "https://www.nytimes.com/2026/08/23/world/europe/poland-estonia-cryptocurrency.html",
       "source": "NYT World",
       "all_sources": [
         "NYT World"
@@ -772,16 +854,88 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "After U.S.",
-        "prosecutors accused Gov.",
-        "Rubén Rocha Moya of protecting the Sinaloa cartel, he said he would step down to focus on his defense."
+        "The mysterious collapse of a European cryptocurrency exchange helps to explain why the industry hasn’t shaken off its reputation as a magnet for criminals."
       ],
-      "image_url": "https://static01.nyt.com/images/2026/08/21/multimedia/21int-mexico-governor-bhpv/21int-mexico-governor-bhpv-mediumSquareAt3X.jpg",
-      "published": "Sat, 22 Aug 2026 06:42:24 +0000"
+      "image_url": "https://static01.nyt.com/images/2026/08/23/multimedia/23int-poland-crypto-hqbv/23int-poland-crypto-hqbv-mediumSquareAt3X.jpg",
+      "published": "Sun, 23 Aug 2026 04:01:08 +0000"
     },
     {
-      "title": "Search for survivors after 16 killed by Russian double-tap strike on Ukraine mall",
-      "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+      "title": "In rural Chad, solar kiosks bring healthcare closer",
+      "link": "https://www.aljazeera.com/news/2026/8/23/in-rural-chad-solar-kiosks-bring-healthcare-closer?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Solar-powered telemedicine is helping rural Chadians overcome distance and limited access to doctors."
+      ],
+      "image_url": null,
+      "published": "Sun, 23 Aug 2026 03:21:03 +0000"
+    },
+    {
+      "title": "Chinese robot beats Usain Bolt’s 100m world record at humanoid games",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/23/chinese-robot-beats-usain-bolts-100m-world-record-at-humanoid-games?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "A Chinese humanoid robot ran 100m in 9.39 seconds, beating Usain Bolt’s 9.58 second world record."
+      ],
+      "image_url": null,
+      "published": "Sun, 23 Aug 2026 03:16:19 +0000"
+    },
+    {
+      "title": "Student killed in sword attack at a Swedish school ID’d as 17-year-old girl",
+      "link": "https://nypost.com/2026/08/23/world-news/swedish-school-sword-attack-victim-idd-as-17-year-old-girl/",
+      "source": "New York Post World",
+      "all_sources": [
+        "BBC World",
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Center": 1,
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 50,
+        "right_pct": 50,
+        "total": 2
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The victim of a deadly sword attack at a school in central Sweden was a 17-year-old girl, police said Saturday."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4961/live/739e15f0-9e92-11f1-ab7f-1982e3129a69.jpg",
+      "published": "Sun, 23 Aug 2026 00:44:39 -0700"
+    },
+    {
+      "title": "Syria says Israeli strike near Damascus violation of international law",
+      "link": "https://www.bbc.co.uk/news/articles/c2dkdegr2xeo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "all_sources": [
         "BBC World"
@@ -798,86 +952,14 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Nine people are still missing after the attack which left 130 injured, including a number of children."
+        "The latest incident comes days after reports emerged Israel had struck a military airbase close to the Turkish border."
       ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da84/live/0b5a45c0-9d86-11f1-adf5-2dc21c9cc109.png",
-      "published": "Sat, 22 Aug 2026 06:40:30 GMT"
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed19/live/4e4b3010-9e62-11f1-a386-a9605bab950d.jpg",
+      "published": "Sat, 22 Aug 2026 21:42:42 GMT"
     },
     {
-      "title": "China’s new moon mission could unlock secret of lunar ice: Why that matters",
-      "link": "https://www.aljazeera.com/news/2026/8/22/chinas-new-moon-mission-could-unlock-secret-of-lunar-ice-why-that-matters?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The Chang&#039;e-7 seeks to find out more about the water trapped within the moon&#039;s shadowed craters."
-      ],
-      "image_url": null,
-      "published": "Sat, 22 Aug 2026 05:36:39 +0000"
-    },
-    {
-      "title": "‘It was a tsunami’: Floods leave death trail in India’s Assam",
-      "link": "https://www.aljazeera.com/news/2026/8/22/it-was-a-tsunami-floods-leave-death-trail-in-indias-assam?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "From father searching for his daughter&#039;s body to man who drowned trying to save a friend, floods take devastating toll."
-      ],
-      "image_url": null,
-      "published": "Sat, 22 Aug 2026 05:35:50 +0000"
-    },
-    {
-      "title": "Inundated Philippine communities seek answers over flood control funds",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/inundated-philippine-communities-seek-answers-over-flood-control-funds?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Al Jazeera’s Jamela Alindogan reports from Northern Philippines where inundated communities are demanding answers."
-      ],
-      "image_url": null,
-      "published": "Sat, 22 Aug 2026 04:36:26 +0000"
-    },
-    {
-      "title": "Cities Compete in Dizzying ‘Gold Rush’ to Be Japan’s Backup Capital",
-      "link": "https://www.nytimes.com/2026/08/22/world/asia/japan-capital-osaka.html",
+      "title": "How Two British Historians Made a Smash Hit Podcast",
+      "link": "https://www.nytimes.com/2026/08/22/world/europe/rest-is-history-podcast-sandbrook-holland.html",
       "source": "NYT World",
       "all_sources": [
         "NYT World"
@@ -894,16 +976,15 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Osaka?",
-        "Fukuoka?",
-        "Sapporo?"
+        "They took on topics as diverse as fall of the Aztecs, the French Revolution, the assassination of Abraham Lincoln, and history’s greatest monkeys.",
+        "The rest is history."
       ],
-      "image_url": "https://static01.nyt.com/images/2026/08/22/multimedia/22int-japan-capital-gtfl/22int-japan-capital-gtfl-mediumSquareAt3X.jpg",
-      "published": "Sat, 22 Aug 2026 04:01:07 +0000"
+      "image_url": "https://static01.nyt.com/images/2026/08/22/multimedia/22int-uk-rest-is-history-01-bkmg/22int-uk-rest-is-history-01-bkmg-mediumSquareAt3X.jpg",
+      "published": "Sat, 22 Aug 2026 21:03:54 +0000"
     },
     {
-      "title": "Lindsay Clancy suffering 'command hallucination' when she killed children, court hears",
-      "link": "https://www.bbc.co.uk/news/articles/c62xpre63j2o?at_medium=RSS&at_campaign=rss",
+      "title": "Carney faces crucial test after walking away from Trump's deal",
+      "link": "https://www.bbc.co.uk/news/articles/c3040pn8lmmo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "all_sources": [
         "BBC World"
@@ -920,14 +1001,14 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "The defence brought their final witness - a forensic psychiatrist - to the stand to testify about the effects of postpartum psychosis."
+        "The Canadian prime minister will have to sell his gamble that walking away from talks with the White House will be worth the consequences."
       ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ec0/live/e9fd5290-9d9f-11f1-b160-9b29341ab62f.jpg",
-      "published": "Sat, 22 Aug 2026 03:43:26 GMT"
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa28/live/becb6d00-9e49-11f1-8871-ff7211da55c9.jpg",
+      "published": "Sat, 22 Aug 2026 20:02:46 GMT"
     },
     {
-      "title": "Mount Fuji hiker leaves tired son, 7, behind to reach iconic summit: ‘Wait here’",
-      "link": "https://nypost.com/2026/08/22/world-news/mount-fuji-hiker-leaves-tired-son-7-behind-to-reach-iconic-summit/",
+      "title": "New footage of El Chapo’s first hours in captivity reveals notorious drug lord insisting his cartel would not rescue him out of prison",
+      "link": "https://nypost.com/2026/08/22/world-news/new-video-shows-how-el-chapo-spent-first-hours-in-captivity/",
       "source": "New York Post World",
       "all_sources": [
         "New York Post World"
@@ -944,14 +1025,138 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Police reprimanded the father over the decision and warned that leaving a child behind was unacceptable."
+        "Mexican newspaper El Universal released three never-before-seen videos that highlight Joaquín 'El Chapo' Guzmán first hours under the custody of security forces after his capture on Jan.",
+        "8, 2016."
       ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F08%2Fgeneral-view-shows-keihin-industrial-138146758.jpg?w%3D1024",
-      "published": "Sat, 22 Aug 2026 01:43:08 -0400"
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F08%2Fcrop-40448662.jpg?w%3D1024",
+      "published": "Sat, 22 Aug 2026 15:36:03 -0700"
     },
     {
-      "title": "As they return to the UK, Harry and Meghan search for a brand that sticks",
-      "link": "https://www.bbc.co.uk/news/articles/c0l5d387j18o?at_medium=RSS&at_campaign=rss",
+      "title": "Top Egyptian, Iranian diplomats talk about restarting negotiations with US",
+      "link": "https://nypost.com/2026/08/22/world-news/top-egyptian-iranian-diplomats-talk-about-restarting-negotiations-with-us/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The two discussed resuming the implementation of the US-Iran memorandum of understanding -- signed in June -- with the goal of reaching a “comprehensive and sustainable agreement.”"
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F08%2Fphoto-sayed-hassan-getty-images-138217625_0d5742.jpg?quality%3D90%26",
+      "published": "Sat, 22 Aug 2026 15:29:20 -0700"
+    },
+    {
+      "title": "Slain Ayatollah Khamenei wanted to end conflict with US through peace talks, Iranian president claims",
+      "link": "https://nypost.com/2026/08/22/world-news/slain-ayatollah-wanted-peace-talks-with-us-iranian-president-says/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "“I was with the martyred Supreme Leader, and he publicly announced in his speeches that we must get out of this situation of neither war nor peace,” Iranian President Masoud Pezeshkian said."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F08%2Firanian-leader-press-office-handout-138227492.jpg?w%3D695",
+      "published": "Sat, 22 Aug 2026 15:24:14 -0700"
+    },
+    {
+      "title": "Close and Loving, or Oppressive? A Novelist Takes Aim at Italian Families.",
+      "link": "https://www.nytimes.com/2026/08/22/world/europe/italian-families-novel-anniversary-bajani.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Many Italians see themselves in Andrea Bajani’s latest novel, a portrayal of the family as a “little totalitarian system” shaped by psychological and physical violence."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/08/20/world/00int-italy-bajani-oooo/00int-italy-bajani-oooo-mediumSquareAt3X.jpg",
+      "published": "Sat, 22 Aug 2026 15:22:29 +0000"
+    },
+    {
+      "title": "Zelensky vows revenge for devastating Russian strikes that killed 16 in shopping center: ‘Animals’",
+      "link": "https://nypost.com/2026/08/22/world-news/zelensky-vows-revenge-for-devastating-russian-bombing-that-killed-16-in-shopping-center/",
+      "source": "New York Post World",
+      "all_sources": [
+        "BBC World",
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Center": 1,
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 50,
+        "right_pct": 50,
+        "total": 2
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Oleksandr Hanzha, the head of the Dnipropetrovsk Regional Military Administration, said that 22 children were wounded and two children are missing after the attack on the shopping center -- while 52 people, including 14 children, were still in hospitals as of Saturday."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa10/live/fa462fe0-9e1d-11f1-9834-b7317ffa53cf.png",
+      "published": "Sat, 22 Aug 2026 15:15:22 -0700"
+    },
+    {
+      "title": "How a Trump Envoy Uses Vodka and Dirty Jokes to Conduct U.S. Diplomacy",
+      "link": "https://www.nytimes.com/2026/08/22/world/europe/belarus-john-coale-lukashenko-trump.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The diplomat, John Coale, says his personalized approach gets results and matches the president’s style.",
+        "Critics contend he is giving up too much to an authoritarian leader."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/08/22/multimedia/22belarus-envoy-01-lfmg/22belarus-envoy-01-lfmg-mediumSquareAt3X.jpg",
+      "published": "Sat, 22 Aug 2026 14:38:44 +0000"
+    },
+    {
+      "title": "Father leaves 7-year-old son alone on Mount Fuji to continue hike",
+      "link": "https://www.bbc.co.uk/news/articles/c93403wg288o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "all_sources": [
         "BBC World"
@@ -968,18 +1173,41 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "They will not be working royals when they come back.",
-        "So what could they be doing instead?"
+        "The man had taken his two boys on the trip but is said to have left one behind when he got tired."
       ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e98/live/484d2360-9c8e-11f1-8d19-93d7082c5662.jpg",
-      "published": "Sat, 22 Aug 2026 00:03:10 GMT"
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b92b/live/3baa1370-9dfb-11f1-898b-91bf436c749f.jpg",
+      "published": "Sat, 22 Aug 2026 14:35:11 GMT"
     },
     {
-      "title": "Palestinians Stream Back to Northern Gaza on Foot",
-      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "source": "WSJ World News",
+      "title": "Traffic in Strait of Hormuz skyrockets nearly 400%, as analysts say Iran’s grip on critical waterway weakens",
+      "link": "https://nypost.com/2026/08/22/world-news/traffic-through-strait-of-hormuz-skyrockets-nearly-400-in-2-weeks/",
+      "source": "New York Post World",
       "all_sources": [
-        "WSJ World News"
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The US has been quietly shepherding oil tankers across Hormuz since May, using shadow fleet tactics like turning off their radars to sneak by undetected and navigating close to the coast of Oman."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F08%2Finfographic-titled-strait-hormuz-created-138197055.jpg?w%3D1024",
+      "published": "Sat, 22 Aug 2026 13:52:34 -0700"
+    },
+    {
+      "title": "Fourteen killed in strike on Myanmar monastery",
+      "link": "https://www.bbc.co.uk/news/articles/cqlxlvz01z1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World"
       ],
       "bias_breakdown": {
         "Center": 1
@@ -993,254 +1221,34 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Israel allowed displaced Gazans to begin crossing a military zone that bisects the enclave after a deadlock over hostage releases was broken."
+        "A rescue worker said the site had been struck twice as civilians gathered for a meditation retreat."
       ],
-      "image_url": null,
-      "published": "Mon, 27 Jan 2025 14:23:00 -0500"
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5bc/live/b7226f80-9e22-11f1-ac9e-fff6c50f95cd.jpg",
+      "published": "Sat, 22 Aug 2026 13:48:06 GMT"
     },
     {
-      "title": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
-      "link": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
-      "source": "WSJ World News",
+      "title": "News of the World: What you missed this week internationally",
+      "link": "https://nypost.com/2026/08/22/world-news/news-of-the-world-august-22-2026/",
+      "source": "New York Post World",
       "all_sources": [
-        "WSJ World News"
+        "New York Post World"
       ],
       "bias_breakdown": {
-        "Center": 1
+        "Lean Right": 1
       },
       "bias_bar": {
         "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
         "total": 1
       },
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in."
+        "\"Harry Potter\" fans diverted a power line in Wales, a 2,000-year-old bridge in Rome is unearthed, and more news from around the world."
       ],
-      "image_url": null,
-      "published": "Mon, 27 Jan 2025 12:32:00 -0500"
-    },
-    {
-      "title": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
-      "link": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
-      "source": "WSJ World News",
-      "all_sources": [
-        "WSJ World News"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said."
-      ],
-      "image_url": null,
-      "published": "Mon, 27 Jan 2025 12:12:00 -0500"
-    },
-    {
-      "title": "Suspected Sabotage of Deep-Sea Cable Triggers First NATO-Led Response",
-      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
-      "source": "WSJ World News",
-      "all_sources": [
-        "WSJ World News"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The alliance mounted its first coordinated response to a suspected sabotage campaign against critical infrastructure after another cable was severed in the Baltic Sea."
-      ],
-      "image_url": null,
-      "published": "Mon, 27 Jan 2025 11:22:00 -0500"
-    },
-    {
-      "title": "Rwanda-Backed Rebels Enter Congo's Safe-Haven City",
-      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
-      "source": "WSJ World News",
-      "all_sources": [
-        "WSJ World News"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Residents of Goma reported gunfire and shelling after rebels overran Congolese troops.",
-        "U.N.",
-        "officials estimated that more than one million displaced people were now inside the city."
-      ],
-      "image_url": null,
-      "published": "Mon, 27 Jan 2025 10:07:00 -0500"
-    },
-    {
-      "title": "Cocaine-Funded Gangs Shake Colombia Years After Peace Pact",
-      "link": "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da",
-      "source": "WSJ World News",
-      "all_sources": [
-        "WSJ World News"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Attacks by powerful militias against civilians reflect the state’s inaction eight years after a peace accord removed a powerful rebel group from the field."
-      ],
-      "image_url": null,
-      "published": "Mon, 27 Jan 2025 07:00:00 -0500"
-    },
-    {
-      "title": "Italy Supports Saudi Arabia Joining Fighter-Jet Program, PM Meloni Says",
-      "link": "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1",
-      "source": "WSJ World News",
-      "all_sources": [
-        "WSJ World News"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The U.K., Italy and Japan have already partnered on the Global Combat Air Programme, which aims to put a new stealth fighter with supersonic capability in the skies by 2035."
-      ],
-      "image_url": null,
-      "published": "Mon, 27 Jan 2025 05:34:00 -0500"
-    },
-    {
-      "title": "Shippers Wary of Red Sea Routes Despite Houthi Pledge to End Targeting",
-      "link": "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2",
-      "source": "WSJ World News",
-      "all_sources": [
-        "WSJ World News"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The world’s top three container operators said they fear instability in Gaza and broader regional tensions mean continued danger."
-      ],
-      "image_url": null,
-      "published": "Mon, 27 Jan 2025 01:05:00 -0500"
-    },
-    {
-      "title": "Kim Jong Un Is Doing Everything He Can to Keep North Korea's Youth in Line",
-      "link": "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de",
-      "source": "WSJ World News",
-      "all_sources": [
-        "WSJ World News"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The dictator, eager to shut out the influence of Hollywood and K-pop, has been exalting a “shock brigade” of 300,000 teens and 20-somethings drafted into flood reconstruction."
-      ],
-      "image_url": null,
-      "published": "Mon, 27 Jan 2025 01:05:00 -0500"
-    },
-    {
-      "title": "Why Trump ordered the Pentagon to slash joint exercises with South Korea",
-      "link": "https://www.csmonitor.com/World/Asia-Pacific/2026/0817/trump-north-korea-kim-jong-un-south-korea-military?icid=rss",
-      "source": "Christian Science Monitor World",
-      "all_sources": [
-        "Christian Science Monitor World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "President Donald Trump’s announcement that he is scaling back U.S.",
-        "participation in long-standing, joint military drills in South Korea shows Washington’s willingness to turn away from traditional allies."
-      ],
-      "image_url": null,
-      "published": "Mon, 17 Aug 2026 17:21:52 EDT"
-    },
-    {
-      "title": "With war slowing Saudi food imports, hydroponics provide a homegrown solution",
-      "link": "https://www.csmonitor.com/World/Middle-East/2026/0817/saudi-arabia-hydroponic-farms-food-security?icid=rss",
-      "source": "Christian Science Monitor World",
-      "all_sources": [
-        "Christian Science Monitor World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Hydroponic farms in import-reliant Saudi Arabia are good for business – and for national security as well.",
-        "With the arid kingdom facing blockades and disruptions on both its coasts, growing food in water, surprisingly, is providing a green line of defense."
-      ],
-      "image_url": null,
-      "published": "Mon, 17 Aug 2026 15:44:25 EDT"
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F08%2Fruins-ancient-roman-neronian-bridge-137944085.jpg?w%3D1024",
+      "published": "Sat, 22 Aug 2026 13:25:29 -0700"
     }
   ]
 }
