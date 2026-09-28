@@ -1,6 +1,6 @@
 {
-  "date": "2026-09-27",
-  "generated_at": "2026-09-27T13:32:24.124138",
+  "date": "2026-09-28",
+  "generated_at": "2026-09-28T16:28:16.938377",
   "stats": {
     "total": 50,
     "multi_source": 3,
@@ -9,34 +9,35 @@
   },
   "stories": [
     {
-      "title": "At least 27 dead after two mass shootings in South Africa, police say",
-      "link": "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
-      "source": "The Guardian World",
+      "title": "Five arrested near UK air base used by U.S. bombers in Iran war",
+      "link": "https://www.npr.org/2026/09/27/nx-s1-5982718/five-arrested-near-uk-air-base-used-by-u-s-bombers-in-iran-war",
+      "source": "NPR World",
       "all_sources": [
-        "BBC World",
-        "Deutsche Welle Top Stories",
+        "Christian Science Monitor World",
         "NYT World",
-        "The Guardian World"
+        "NPR World",
+        "NPR World",
+        "NPR World"
       ],
       "bias_breakdown": {
-        "Lean Left": 2,
-        "Center": 2
+        "Lean Left": 4,
+        "Center": 1
       },
       "bias_bar": {
-        "left_pct": 50,
-        "center_pct": 50,
+        "left_pct": 80,
+        "center_pct": 20,
         "right_pct": 0,
-        "total": 4
+        "total": 5
       },
       "is_blindspot": false,
       "is_trending": true,
       "bullet_points": [
-        "Seventeen people killed at bar near Johannesburg and 10 killed in separate incident at barbecue venue near Cape Town  Two separate mass shootings near South Africa’s two biggest cities killed at least 27 people, police have said.",
-        "The South African police service said on Sunday that 17 people were killed on Saturday night when eight suspects armed with AK-47 assault rifles and pistols opened fire at a bar in Wedela township, south-west of Johannesburg.",
-        "At least 15 other people sustained gunshot injuries in that attack, police said."
+        "U.K.",
+        "police say five men were arrested on suspicion of preparation of a terrorist act after three vehicles were spotted near an air base the U.S.",
+        "military has been using to launch attacks on Iran."
       ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccd0/live/83714c70-ba4b-11f1-952f-c5888b744c34.jpg",
-      "published": "Sun, 27 Sep 2026 08:19:24 GMT"
+      "image_url": "https://static01.nyt.com/images/2026/09/28/multimedia/28int-uk-airbase-wtk-gwzc/28int-uk-airbase-wtk-gwzc-mediumSquareAt3X.jpg",
+      "published": "Sun, 27 Sep 2026 17:14:44 -0400"
     },
     {
       "title": "‘I am sorry, I cannot answer that’: How China’s AI chatbots protect the ruling party",
@@ -88,31 +89,6 @@
       "published": "Wed, 23 Sep 2026 16:02:31 EDT"
     },
     {
-      "title": "Why older voters could decide Brazil’s presidential election",
-      "link": "https://www.csmonitor.com/World/Americas/2026/0923/brazil-lula-bolsonaro-elderly-vote?icid=rss",
-      "source": "Christian Science Monitor World",
-      "all_sources": [
-        "Christian Science Monitor World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "In elections past, Brazil focused on mobilizing its youth vote.",
-        "But the attention has shifted to voters older than age 70 this year."
-      ],
-      "image_url": null,
-      "published": "Wed, 23 Sep 2026 13:17:22 EDT"
-    },
-    {
       "title": "Indian billionaire’s payments firm plots biggest London flotation in years",
       "link": "https://www.theguardian.com/business/2026/sep/23/indian-billionaire-payments-firm-london-flotation-airtel-money",
       "source": "The Guardian World",
@@ -137,82 +113,6 @@
       ],
       "image_url": null,
       "published": "Wed, 23 Sep 2026 11:08:01 GMT"
-    },
-    {
-      "title": "Top South African police officer charged with raping woman, 18, and grooming 16-year-old girl",
-      "link": "https://www.theguardian.com/world/2026/sep/23/south-africa-top-police-officer-shadrack-sibiya-charged-rape-grooming",
-      "source": "The Guardian World",
-      "all_sources": [
-        "The Guardian World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Arrest of Shadrack Sibiya comes as country reels from cases of femicide and alleged police corruption and criminality  One of South Africa’s most senior police officers has been charged with raping an 18-year-old woman and grooming a 16-year-old girl, as the country’s police face allegations of corruption and failing to tackle violence against women and girls.",
-        "Shadrack Sibiya, who was already suspended from his role as deputy national police commissioner over allegations he interfered with political killings investigations, was arrested on Monday.",
-        "He is facing charges of rape, people trafficking, promoting the sexual grooming of a child and two counts of grooming a child."
-      ],
-      "image_url": null,
-      "published": "Wed, 23 Sep 2026 09:38:06 GMT"
-    },
-    {
-      "title": "Iranian president blames US for Middle East conflict while denying nuclear ambitions, offers to dilute uranium",
-      "link": "https://www.foxnews.com/world/iranian-president-blames-us-middle-east-conflict-denying-nuclear-ambitions-offers-dilute-uranium",
-      "source": "Fox News World",
-      "all_sources": [
-        "Fox News World"
-      ],
-      "bias_breakdown": {
-        "Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Iranian President Masoud Pezeshkian claims Tehran will submit its nuclear program to verification and dilute enriched uranium to ease tensions."
-      ],
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/pezeshkian-special-report.jpg?ve=1&tl=1",
-      "published": "Thu, 24 Sep 2026 20:25:36 -0400"
-    },
-    {
-      "title": "Reporter's Notebook: Call for a free Iran echoes at the United Nations",
-      "link": "https://www.foxnews.com/world/reporters-notebook-call-free-iran-echoes-united-nations",
-      "source": "Fox News World",
-      "all_sources": [
-        "Fox News World"
-      ],
-      "bias_breakdown": {
-        "Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Retired Gen.",
-        "Keith Kellogg and Ambassador Marc Ginsberg called for Iran sanctions at a rally outside the U.N.",
-        "General Assembly protesting the Iranian president."
-      ],
-      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/09/iran-president-protesters.gif",
-      "published": "Thu, 24 Sep 2026 18:32:45 -0400"
     },
     {
       "title": "‘We’re going to win,’ Netanyahu tells UN summit – and voters back home",
@@ -291,55 +191,7 @@
       "published": "Thu, 24 Sep 2026 15:29:42 GMT"
     },
     {
-      "title": "Swiss voters set to reject tighter neutrality rules in referendum",
-      "link": "https://www.aljazeera.com/news/2026/9/27/swiss-voters-set-to-reject-tighter-neutrality-rules-in-referendum?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "About 71 percent of voters oppose initiative to impose stricter limits on neutrality, projection suggests."
-      ],
-      "image_url": null,
-      "published": "Sun, 27 Sep 2026 12:45:42 +0000"
-    },
-    {
-      "title": "Ten climbers missing after avalanche hits Himalayan base camp",
-      "link": "https://www.bbc.co.uk/news/articles/cwjdvml9e897o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "all_sources": [
-        "BBC World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The Nepali team was preparing to take overseas climbers up the Himlung Himal peak."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b2f6/live/f8a40890-ba6c-11f1-a109-c7409015a263.jpg",
-      "published": "Sun, 27 Sep 2026 12:36:57 GMT"
-    },
-    {
-      "title": "Nor'easter brings flooding as New York and New Jersey declare emergency",
+      "title": "One dead as nor'easter storm pummels New York and New Jersey",
       "link": "https://www.bbc.co.uk/news/articles/ck1wxxzn5jndo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "all_sources": [
@@ -357,17 +209,17 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Tens of millions of people from Maine to Virginia are in the path of the powerful storm."
+        "Tens of millions of people from Maine to Virginia found themselves in the path of the powerful weather system."
       ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02b2/live/68ead9b0-b9ca-11f1-bc1f-3f186ca4140c.jpg",
-      "published": "Sun, 27 Sep 2026 12:34:26 GMT"
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b42f/live/3352b3b0-bb03-11f1-bd21-bdf910f2cec6.jpg",
+      "published": "Sun, 27 Sep 2026 23:37:26 GMT"
     },
     {
-      "title": "Political rallies fill Brazil’s streets a week before elections",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/political-rallies-fill-brazils-streets-a-week-before-elections?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "Mighty Sparrow, the Trinidad and Tobago singer known as the ‘calypso king of the world’, dies aged 91",
+      "link": "https://www.theguardian.com/music/2026/sep/28/mighty-sparrow-the-trinidad-and-tobago-singer-known-as-the-calypso-king-of-the-world-dies-aged-91",
+      "source": "The Guardian World",
       "all_sources": [
-        "Al Jazeera"
+        "The Guardian World"
       ],
       "bias_breakdown": {
         "Lean Left": 1
@@ -381,17 +233,19 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Rival political rallies have been held in Brazil as campaigns intensify with one week to go until election day."
+        "Slinger Francisco, who performed as the Mighty Sparrow, died on Sunday surrounded by family in New York  Slinger Francisco, known on stage as the Mighty Sparrow and dubbed the “calypso king of the world”, has died aged 91.",
+        "Francisco, who got his breakthrough in calypso music with his 1956 hit song Jean and Dinah, died peacefully surrounded by his family in New York on Sunday, his family said in a statement.",
+        "Continue reading..."
       ],
       "image_url": null,
-      "published": "Sun, 27 Sep 2026 12:34:13 +0000"
+      "published": "Sun, 27 Sep 2026 23:24:10 GMT"
     },
     {
-      "title": "Floods and landslides kill at least 56 people in India, 12 in Nepal",
-      "link": "https://www.aljazeera.com/news/2026/9/27/floods-and-landslides-kill-at-least-56-people-in-india-12-in-nepal?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "Hurricane Nolo still threatens Hawaii as Mexico’s Baja braces for Hurricane Polo",
+      "link": "https://www.theguardian.com/us-news/2026/sep/27/hurricane-nolo-hawaii-hurricane-polo-mexico",
+      "source": "The Guardian World",
       "all_sources": [
-        "Al Jazeera"
+        "The Guardian World"
       ],
       "bias_breakdown": {
         "Lean Left": 1
@@ -405,17 +259,19 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Authorities report increasing death toll over three days as rivers rise above danger levels in parts of both countries."
+        "Hurricane Nolo is moving away from Hawaiian islands but threat of heavy rain, flash floods and strong winds persists  Hurricane Nolo was moving away from the Hawaiian islands on Sunday, but the threat of heavy rain, flash flooding and strong winds persisted in areas of the island chain still recovering from previous storms.",
+        "Nolo was about 365 miles (585km) south-south-west of Honolulu and moving away from the Big Island at about 12mph (19km/h).",
+        "But the  Hawaii county civil defense agency  said a high wind warning, wind advisory and high surf advisory remained in effect for parts of the island through Sunday evening as Nolo’s maximum sustained winds rose to 115mph."
       ],
       "image_url": null,
-      "published": "Sun, 27 Sep 2026 12:02:50 +0000"
+      "published": "Sun, 27 Sep 2026 22:59:25 GMT"
     },
     {
-      "title": "‘No role for UNRWA in Gaza’: Does the Board of Peace toe Israeli lines?",
-      "link": "https://www.aljazeera.com/news/2026/9/27/no-role-for-unrwa-in-gaza-does-the-board-of-peace-toe-israeli-lines?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "A Transcript From The Times Interview with Prime Minister Mark Carney of Canada",
+      "link": "https://www.nytimes.com/2026/09/27/world/canada/mark-carney-interview-transcript.html",
+      "source": "NYT World",
       "all_sources": [
-        "Al Jazeera"
+        "NYT World"
       ],
       "bias_breakdown": {
         "Lean Left": 1
@@ -429,10 +285,212 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Board of Peace excludes UNRWA from Gaza, aligning with repeated Israeli calls to sideline the refugee aid agency."
+        "New York Times journalists pressed the Canadian prime minister about a range of topics in an hourlong interview last week.",
+        "Here’s a transcript of their conversation."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/09/27/multimedia/27int-canada-carney-transcript-photo-hglz/27int-canada-carney-transcript-photo-hglz-mediumSquareAt3X.jpg",
+      "published": "Sun, 27 Sep 2026 22:11:12 +0000"
+    },
+    {
+      "title": "Serbia’s Longtime President Aleksandar Vucic Resigns Post",
+      "link": "https://www.nytimes.com/2026/09/27/world/europe/serbia-president-aleksandar-vucicto-resigns.html",
+      "source": "NYT World",
+      "all_sources": [
+        "BBC World",
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1,
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 50,
+        "center_pct": 50,
+        "right_pct": 0,
+        "total": 2
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Aleksandar Vucic, one of Europe’s longest-serving leaders, resigned as president, paving the way for him to become prime minister after elections next month."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2059/live/af01bc20-baa6-11f1-96c0-052f341a8103.jpg",
+      "published": "Sun, 27 Sep 2026 21:22:29 +0000"
+    },
+    {
+      "title": "Inside Yemen's front-line city as Houthis battle for control",
+      "link": "https://www.bbc.co.uk/news/articles/cw98005ndz7no?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "In rare access to Yemen's conflict zone the BBC travels to the front line with pro-government soldiers."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b03e/live/dca633d0-bab6-11f1-aa85-8f10bc212c53.jpg",
+      "published": "Sun, 27 Sep 2026 21:16:31 GMT"
+    },
+    {
+      "title": "Foiled terror plot at bomber base signals wider threat to US military installations: expert",
+      "link": "https://www.foxnews.com/world/foiled-terror-plot-key-bomber-base-signals-wider-threat-us-military-installations-expert",
+      "source": "Fox News World",
+      "all_sources": [
+        "Fox News World"
+      ],
+      "bias_breakdown": {
+        "Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Five men arrested near RAF Fairford may have planned a complex, coordinated VBIED attack on U.S.",
+        "strategic bombers, a former intelligence official says."
+      ],
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/fairford-trump-split-1.jpg?ve=1&tl=1",
+      "published": "Sun, 27 Sep 2026 20:34:26 -0400"
+    },
+    {
+      "title": "5 Arrested on Suspicion of Terrorism Near RAF Fairford Air Base in UK",
+      "link": "https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-airbase-arrests.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The British counterterrorism police say the men were arrested after three suspicious vehicles appeared to be traveling toward R.A.F.",
+        "Fairford early on Sunday."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/09/27/multimedia/27int-uk-airbase-sub-wglm/27int-uk-airbase-sub-wglm-mediumSquareAt3X.jpg",
+      "published": "Sun, 27 Sep 2026 20:20:20 +0000"
+    },
+    {
+      "title": "After more than two decades, U.S. forces prepare to leave Iraq",
+      "link": "https://www.npr.org/2026/09/27/nx-s1-5981123/after-more-than-two-decades-u-s-forces-prepare-to-leave-iraq",
+      "source": "NPR World",
+      "all_sources": [
+        "NPR World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The U.S.",
+        "military formally ends a more than two-decade-long presence in Iraq this week."
       ],
       "image_url": null,
-      "published": "Sun, 27 Sep 2026 11:04:30 +0000"
+      "published": "Sun, 27 Sep 2026 17:14:43 -0400"
+    },
+    {
+      "title": "Supersonic Russian jets trigger joint scramble by NATO allies amid Putin 'clowns' jab",
+      "link": "https://www.foxnews.com/world/supersonic-russian-jets-trigger-joint-scramble-nato-allies-putin-clowns-jab",
+      "source": "Fox News World",
+      "all_sources": [
+        "Fox News World"
+      ],
+      "bias_breakdown": {
+        "Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Finnish F/A-18 Hornets and Swedish Gripens scrambled jointly for the first time to intercept supersonic Russian military jets over the Gulf of Finland."
+      ],
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/putin-fighter-jets-.jpg?ve=1&tl=1",
+      "published": "Sun, 27 Sep 2026 16:47:22 -0400"
+    },
+    {
+      "title": "Venezuela releases dozens of political prisoners as election calls grow",
+      "link": "https://www.bbc.co.uk/news/articles/c620lrw2xr12o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "A slew of dissidents being released from long-term detention comes days after the nation's interim leader met the US president."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/856d/live/3b0c2900-ba87-11f1-befc-25c189e9eebf.jpg",
+      "published": "Sun, 27 Sep 2026 15:56:25 GMT"
+    },
+    {
+      "title": "At least 27 dead after two mass shootings in South Africa, police say",
+      "link": "https://www.theguardian.com/world/2026/sep/27/mass-shootings-south-africa-johannesburg-cape-town",
+      "source": "The Guardian World",
+      "all_sources": [
+        "BBC World",
+        "The Guardian World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1,
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 50,
+        "center_pct": 50,
+        "right_pct": 0,
+        "total": 2
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Seventeen people killed near Johannesburg in suspected ‘illegal goldmining turf war’, as 10 killed in separate incident at barbecue venue near Cape Town  Two separate mass shootings near South Africa’s two biggest cities killed at least 27 people, as the country grapples with one of the world’s highest murder rates amid investigations into corruption and criminality within the police.",
+        "The South African police service said on Sunday that 17 people were killed on Saturday night when eight suspects armed with AK-47 assault rifles and pistols opened fire at a bar in Wedela township, about 50 miles south-west of central Johannesburg.",
+        "At least 15 other people sustained gunshot injuries in that attack, police said."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ccd0/live/83714c70-ba4b-11f1-952f-c5888b744c34.jpg",
+      "published": "Sun, 27 Sep 2026 13:46:49 GMT"
     },
     {
       "title": "‘It’s hard to sell a house when it’s covered in baboon faeces’: Cape Town divided over plan to remove its monkeys",
@@ -461,11 +519,11 @@
       "published": "Sun, 27 Sep 2026 11:00:03 GMT"
     },
     {
-      "title": "‘My hands are empty’: Displaced Palestinians struggle to survive",
-      "link": "https://www.aljazeera.com/features/2026/9/27/my-hands-are-empty-displaced-palestinians-struggle-to-survive?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "South Africa reels from spate of mass shootings that killed 38 people in a week",
+      "link": "https://www.npr.org/2026/09/27/nx-s1-5982488/south-africa-mass-shootings-killed-38-week",
+      "source": "NPR World",
       "all_sources": [
-        "Al Jazeera"
+        "NPR World"
       ],
       "bias_breakdown": {
         "Lean Left": 1
@@ -479,167 +537,20 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "In Tulkarem and other West Bank cities, displaced Palestinians are being forced deeper into debt and poverty."
+        "On Saturday night, there were separate mass shootings near South Africa's two largest cities."
       ],
       "image_url": null,
-      "published": "Sun, 27 Sep 2026 10:26:21 +0000"
-    },
-    {
-      "title": "Israeli minister Bezalel Smotrich calls for war in occupied West Bank",
-      "link": "https://www.aljazeera.com/news/2026/9/27/israeli-minister-bezalel-smotrich-calls-for-war-in-occupied-west-bank?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Comments come as Israeli authorities announce military closure across occupied West Bank, citing Jewish holiday Sukkot."
-      ],
-      "image_url": null,
-      "published": "Sun, 27 Sep 2026 10:01:33 +0000"
-    },
-    {
-      "title": "Yemen government forces widen attacks against Houthis: What we know",
-      "link": "https://www.aljazeera.com/news/2026/9/27/yemen-government-forces-widen-attacks-against-houthis-what-we-know?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Yemeni government forces claim multiple air and ground operations across Taiz in 24 hours."
-      ],
-      "image_url": null,
-      "published": "Sun, 27 Sep 2026 09:59:21 +0000"
-    },
-    {
-      "title": "Plane carrying DR Congo military delegation crashes",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/27/plane-carrying-dr-congo-military-delegation-crashes?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "A plane carrying a Congolese military delegation crashed in DR Congo, killing 17 people, including four civilians."
-      ],
-      "image_url": null,
-      "published": "Sun, 27 Sep 2026 09:44:00 +0000"
-    },
-    {
-      "title": "Malaysia’s Ng, Subramaniam book LA28 Olympics berth with Asian Games gold",
-      "link": "https://www.aljazeera.com/sports/2026/9/27/malaysias-ng-subramaniam-book-la28-olympics-berth-with-asian-games-gold?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The top seeds defend their Asian Games squash titles, becoming the first players to qualify for the Los Angeles Games."
-      ],
-      "image_url": null,
-      "published": "Sun, 27 Sep 2026 09:19:37 +0000"
-    },
-    {
-      "title": "The Raffles’ Singapore Sling Costs $40. There’s a Reason Tourists Still Love It.",
-      "link": "https://www.nytimes.com/2026/09/27/world/asia/singapore-sling-raffles-hotel-cocktail.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "You can still buy a Singapore Sling in the colonial-era hotel where it’s said to have been invented more than a century ago.",
-        "Custom versions have arisen nearby."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/09/17/multimedia/00int-singapore-sling-promo-zhpw/00int-singapore-sling-promo-zhpw-mediumSquareAt3X.jpg",
-      "published": "Sun, 27 Sep 2026 09:11:54 +0000"
+      "published": "Sun, 27 Sep 2026 09:01:27 -0400"
     },
     {
       "title": "Four American tourists among 6 killed after explosion levels building near Athens’ Acropolis",
       "link": "https://www.foxnews.com/world/four-american-tourists-among-6-killed-explosion-levels-building-near-athens-acropolis",
       "source": "Fox News World",
       "all_sources": [
-        "BBC World",
         "Fox News World"
       ],
       "bias_breakdown": {
-        "Center": 1,
         "Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 50,
-        "right_pct": 50,
-        "total": 2
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "A suspected gas leak caused an explosions that leveled a residential building in Athens&apos; Plaka district near the Acropolis, killing four American tourists and two residents."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8e5/live/83c97ed0-b9ac-11f1-8a1a-0176f978c211.png",
-      "published": "Sun, 27 Sep 2026 08:32:40 -0400"
-    },
-    {
-      "title": "Terror suspects stripped down after ‘planning van bombings’ at UK base used by US Air Force",
-      "link": "https://nypost.com/2026/09/27/world-news/raf-fairford-terror-suspects-stripped-down-after-uk-cops-foil-van-bomb-plot/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
       },
       "bias_bar": {
         "left_pct": 0,
@@ -650,10 +561,10 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "British cops on Sunday arrested five suspected terrorists accused of plotting a van bombing attack at a UK military base used by the US Air Force for its strikes on Iran."
+        "A suspected gas leak caused an explosions that leveled a residential building in Athens&apos; Plaka district near the Acropolis, killing four American tourists and two residents."
       ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F09%2Fseveral-men-arrested-gun-point-142736783.jpg",
-      "published": "Sun, 27 Sep 2026 08:16:43 -0400"
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/athens-explosion-plaka-district.jpg?ve=1&tl=1",
+      "published": "Sun, 27 Sep 2026 08:32:40 -0400"
     },
     {
       "title": "Amid changing dynamics in the Middle East, Turkey seeks to emerge as a leader",
@@ -704,7 +615,7 @@
       "published": "Sun, 27 Sep 2026 08:00:00 -0400"
     },
     {
-      "title": "Photos: These shepherds climb down a mountain to go to night school",
+      "title": "Photos: This may be the most inspirational night school on Earth",
       "link": "https://www.npr.org/2026/09/27/g-s1-143582/night-school-shepherds-lesotho",
       "source": "NPR World",
       "all_sources": [
@@ -727,30 +638,6 @@
       ],
       "image_url": null,
       "published": "Sun, 27 Sep 2026 07:53:42 -0400"
-    },
-    {
-      "title": "Iranian minister says only negotiation can end conflict after Trump rejects Hormuz deal",
-      "link": "https://www.bbc.co.uk/news/articles/cmvgyyw2jeego?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "all_sources": [
-        "BBC World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The foreign minister says Tehran is waiting for an official rejection of a deal, despite the US President's comments."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c2f6/live/86e0e040-ba15-11f1-851b-7de4b36a82e3.jpg",
-      "published": "Sun, 27 Sep 2026 07:44:11 GMT"
     },
     {
       "title": "UK police arrest 'explosive' suspects near US airbase, key to Iran war",
@@ -797,157 +684,8 @@
       "bullet_points": [
         "Finnish President Alexander Stubb credits Trump with pushing for Russia-Ukraine war peace and says Finland is fully prepared for any Moscow threat."
       ],
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/10/931/523/trump-stubb.png?ve=1&tl=1",
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/finland-nato-defense-president-stubb-trump-unga.jpg?ve=1&tl=1",
       "published": "Sun, 27 Sep 2026 06:00:14 -0400"
-    },
-    {
-      "title": "The Surprising Reasons China Is Skeptical of A.I. Safety Calls",
-      "link": "https://www.nytimes.com/2026/09/27/world/asia/china-us-ai-distrust.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "In China, A.I.",
-        "doomsday warnings can feel distinctly Western or like a ploy to stop Chinese A.I.",
-        "companies from trying to overtake their U.S."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/09/27/multimedia/27int-china-ai-safety-01-cphf/27int-china-ai-safety-01-cphf-mediumSquareAt3X.jpg",
-      "published": "Sun, 27 Sep 2026 04:01:24 +0000"
-    },
-    {
-      "title": "Recreational Aerial Craft Become Weapons in Myanmar’s War",
-      "link": "https://www.nytimes.com/2026/09/27/world/asia/myanmar-light-aircraft-war-weapons.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Years after a coup, the military is increasingly using motorized paragliders and gyrocopters to bomb towns and villages in rebel-held territory."
-      ],
-      "image_url": null,
-      "published": "Sun, 27 Sep 2026 04:01:20 +0000"
-    },
-    {
-      "title": "27 killed, dozens wounded in horror mass shootings by AK-47-wielding gangs in South Africa’s largest cities",
-      "link": "https://nypost.com/2026/09/27/world-news/south-africa-police-launch-manhunt-after-17-killed-in-tavern-shooting/",
-      "source": "New York Post World",
-      "all_sources": [
-        "NPR World",
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1,
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 50,
-        "center_pct": 0,
-        "right_pct": 50,
-        "total": 2
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "No arrests have been made yet and detectives are working to find the gunmen, police said in statements."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F09%2Fperson-reacts-site-shooting-lwandle-142719558.jpg?w%3D1024",
-      "published": "Sun, 27 Sep 2026 02:47:34 -0400"
-    },
-    {
-      "title": "Four killed in helicopter crash near Montreal",
-      "link": "https://www.bbc.co.uk/news/articles/c3grvv7p81lqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "all_sources": [
-        "BBC World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The victims of the crash have not yet been identified, Quebec provincial police told the BBC."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d390/live/1c1bd500-ba1d-11f1-9108-e745779fe632.jpg",
-      "published": "Sun, 27 Sep 2026 02:43:10 GMT"
-    },
-    {
-      "title": "A Tetris-Like Maze Blocks Protests in Pakistan’s Capital",
-      "link": "https://www.nytimes.com/2026/09/26/world/asia/pakistan-protest-islamabad-containers.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Pakistani authorities have barricaded Islamabad with more than 1,500 shipping containers to stop opposition protesters, choking off access to the capital."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/09/24/multimedia/00int-pakistan-containers-promo-wpzj/00int-pakistan-containers-promo-wpzj-mediumSquareAt3X.jpg",
-      "published": "Sun, 27 Sep 2026 02:08:32 +0000"
-    },
-    {
-      "title": "Russian Foreign Minister Vows Russia Will See Ukraine War Through",
-      "link": "https://www.nytimes.com/2026/09/26/world/europe/russia-germany-lavrov-ukraine-war.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Russia’s foreign minister met with his German counterpart during the U.N.",
-        "General Assembly but spent part of his address defending his country’s war on Ukraine."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/09/26/multimedia/26int-unga-lavrov-photo1-tjbz/26int-unga-lavrov-photo1-tjbz-mediumSquareAt3X.jpg",
-      "published": "Sun, 27 Sep 2026 00:49:11 +0000"
     },
     {
       "title": "Trump Says Colombia Will Accept Deportees, Ending Tariff Standoff",
@@ -974,30 +712,6 @@
       "published": "Sun, 26 Jan 2025 22:59:00 -0500"
     },
     {
-      "title": "Killer Christa Pike is to be executed within days but her defence say she's a victim too",
-      "link": "https://www.bbc.co.uk/news/articles/c6pwl9g9ne1lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "all_sources": [
-        "BBC World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Lawyers for Pike, who killed a fellow student in 1995, say she should get clemency and would not be sentenced to death if the crime happened today."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c63/live/9ec92970-b8de-11f1-b1d1-571ed4d7ff2c.jpg",
-      "published": "Sat, 26 Sep 2026 23:04:08 GMT"
-    },
-    {
       "title": "Israeli UN envoy's Starlink video reaches millions, with nearly 40% of Instagram viewers in Iran",
       "link": "https://www.foxnews.com/world/israeli-un-envoy-starlink-video-reaches-millions-nearly-40-percent-instagram-viewers-iran",
       "source": "Fox News World",
@@ -1020,79 +734,6 @@
       ],
       "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/danny-danon-unga-2026-starlink-display.jpg?ve=1&tl=1",
       "published": "Sat, 26 Sep 2026 22:04:33 -0400"
-    },
-    {
-      "title": "Helicopter crash in Quebec kills all four people aboard",
-      "link": "https://nypost.com/2026/09/26/world-news/helicopter-crash-in-quebec-kills-all-four-people-aboard/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The aircraft went down shortly after 2:30 p.m.",
-        "in the Rang des Écossais sector of Sainte-Brigide-d’Iberville after it had \"experienced difficulties.\""
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F09%2F142669706.jpg?quality%3D90%26",
-      "published": "Sat, 26 Sep 2026 21:55:40 -0400"
-    },
-    {
-      "title": "At Summit, Xi Sought to Tilt Trump’s Stance on America’s Place in Asia",
-      "link": "https://www.nytimes.com/2026/09/26/world/asia/summit-xi-trump-taiwan-japan.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "In his talks with President Trump, the Chinese leader used praise, warnings and wartime history to challenge American support for Taiwan and Japan."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/09/25/multimedia/25int-china-us-assess-01-kvlm/25int-china-us-assess-01-kvlm-mediumSquareAt3X.jpg",
-      "published": "Sat, 26 Sep 2026 21:31:57 +0000"
-    },
-    {
-      "title": "Republic of Ireland to wear black armbands for Israel game",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "all_sources": [
-        "BBC World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost in the [Gaza] conflict\" for match against Israel."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b748/live/e2ec7610-b9b6-11f1-929f-f1f9c2e672cb.jpg",
-      "published": "Sat, 26 Sep 2026 19:59:00 GMT"
     },
     {
       "title": "Pope Leo draws staggering 800,000 faithful to heart of Paris for massive outdoor Mass",
@@ -1119,83 +760,11 @@
       "published": "Sat, 26 Sep 2026 19:25:29 -0400"
     },
     {
-      "title": "1,600 baby teeth found at mass grave site in Mexico as officials deny knowledge",
-      "link": "https://nypost.com/2026/09/26/world-news/1600-baby-teeth-found-at-suspected-mass-grave-site-in-mexico/",
-      "source": "New York Post World",
+      "title": "US strikes on Ecuadorian fishing boats raise humanitarian concerns but Trump admin not wavering",
+      "link": "https://www.theguardian.com/world/2026/sep/26/us-airstrikes-ecuador-fishers",
+      "source": "The Guardian World",
       "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The grisly discovery has yet to be linked to specific victims or independently confirmed through forensic testing."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F09%2F600-baby-teeth-recovered-clandestine-142512480.jpg?w%3D1024",
-      "published": "Sat, 26 Sep 2026 18:15:31 -0400"
-    },
-    {
-      "title": "IDF kills Hamas platoon commander, additional terrorist in Gaza",
-      "link": "https://nypost.com/2026/09/26/world-news/idf-kills-hamas-platoon-commander-additional-terrorist-in-gaza/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The two men were targeted because they had been involved in attacks on IDF soldiers and Israeli civilians and operated to restore the terrorist organization’s capabilities, in systematic violation of the ceasefire, the army said."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F09%2F2026-day-arrested-man-suspected-141923189.jpg?w%3D1024",
-      "published": "Sat, 26 Sep 2026 18:09:35 -0400"
-    },
-    {
-      "title": "Ukraine weighing decriminalizing porn to generate tax revenue for war with Russia",
-      "link": "https://nypost.com/2026/09/26/world-news/ukraine-weighing-decriminalizing-porn-to-generate-tax-revenue-for-war-with-russia/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Ukraine is one of a small number of European countries where making or possessing any kind of porn is still a criminal offense -- punishable by up to seven years in prison -- along with Bulgaria, Iceland, Lithuania, Belarus and Russia."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F09%2Fonlyfans-com-angel-devil-c288-142658256.jpg?w%3D984",
-      "published": "Sat, 26 Sep 2026 18:06:35 -0400"
-    },
-    {
-      "title": "Trump gave Xi Jinping a warm welcome. What did the talks accomplish?",
-      "link": "https://www.npr.org/2026/09/26/nx-s1-5980066/trump-gave-xi-jinping-a-warm-welcome-what-did-the-talks-accomplish",
-      "source": "NPR World",
-      "all_sources": [
-        "NPR World"
+        "The Guardian World"
       ],
       "bias_breakdown": {
         "Lean Left": 1
@@ -1209,18 +778,19 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "From the National Archives to the state dinner, President Trump and Xi Jinping looked comfortable together in Washington.",
-        "Two former NPR China correspondents on what the visit did and didn't deliver."
+        "Attorney says fishers ‘losing their livelihoods’, but Marco Rubio maintains US still willing to ‘blow up ships if need be’  While the US secretary of state,  Marco Rubio , was being decorated in Quito by Ecuador’s president for “helping to promote peace in the region”, 10 Ecuadorian fishers whose boat had been blown up by US forces were adrift in the eastern Pacific.",
+        "On 8 September, a day before Rubio arrived, a US patrol vessel intercepted the fishing boat Don Rufo in international waters near Ecuador.",
+        "Continue reading..."
       ],
       "image_url": null,
-      "published": "Sat, 26 Sep 2026 17:13:54 -0400"
+      "published": "Sat, 26 Sep 2026 16:00:39 GMT"
     },
     {
-      "title": "Is Congo's Ebola outbreak coming under control?",
-      "link": "https://www.npr.org/2026/09/26/nx-s1-5976867/is-congos-ebola-outbreak-coming-under-control",
-      "source": "NPR World",
+      "title": "Lula bans fixed-odds sports betting a week before Brazilian elections",
+      "link": "https://www.theguardian.com/world/2026/sep/26/lula-bans-fixed-odds-sports-betting-a-week-before-brazilian-elections",
+      "source": "The Guardian World",
       "all_sources": [
-        "NPR World"
+        "The Guardian World"
       ],
       "bias_breakdown": {
         "Lean Left": 1
@@ -1234,11 +804,447 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Four months in, Congo's Ebola outbreak is one of the largest ever recorded.",
-        "Officials and outside experts can't agree on whether it's finally slowing down."
+        "President’s ‘hard, drastic and necessary measure’, likely to attract widespread public support, polls suggest  The Brazilian president, Luiz Inácio Lula da Silva, has signed an order banning fixed-odds sports betting just over a week before the first round of the presidential election, in a move he said was designed to tackle the pervasive problem of families falling into debt.",
+        "The decision ends the operation, offering, intermediation and advertising of betting.",
+        "Continue reading..."
       ],
       "image_url": null,
-      "published": "Sat, 26 Sep 2026 17:13:52 -0400"
+      "published": "Sat, 26 Sep 2026 07:58:05 GMT"
+    },
+    {
+      "title": "The US wants a Ukraine peace deal. Here’s why Russia isn’t biting.",
+      "link": "https://www.csmonitor.com/World/Europe/2026/0926/russia-ukraine-peace-talks-donbas-europe-trump?icid=rss",
+      "source": "Christian Science Monitor World",
+      "all_sources": [
+        "Christian Science Monitor World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The White House may be pushing for talks between Russia and Ukraine, but the Kremlin remains committed to “my way or the highway” negotiation tactics."
+      ],
+      "image_url": null,
+      "published": "Sat, 26 Sep 2026 05:00:11 EDT"
+    },
+    {
+      "title": "Remains of dozens of suspected kidnap victims found in Nigerian forests",
+      "link": "https://www.bbc.co.uk/news/articles/c6e30x757nx4o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Investigations are ongoing to establish the identities of at least 28 people whose remains were recovered by police."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/444d/live/327d7e30-bb57-11f1-8c88-2f74e91a6f0b.jpg",
+      "published": "Mon, 28 Sep 2026 16:25:00 GMT"
+    },
+    {
+      "title": "Fire, Smoke and Desperation After a Strike in the Heart of Kyiv",
+      "link": "https://www.nytimes.com/2026/09/28/world/europe/urkaine-drone-attack-kyiv-academy-sciences.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "A Russian jet-powered drone hit Ukraine’s National Academy of Sciences, the source of almost all of the country’s major scientific discoveries."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/09/28/multimedia/28ukraine-strike-01-fmzj/28ukraine-strike-01-fmzj-mediumSquareAt3X.jpg",
+      "published": "Mon, 28 Sep 2026 16:17:51 +0000"
+    },
+    {
+      "title": "LIVE: Belgium vs France – Nations League",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/9/28/live-belgium-vs-france-nations-league?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Follow updates from the Group A1 Nations League clash, including the build-up, analysis and live text commentary."
+      ],
+      "image_url": null,
+      "published": "Mon, 28 Sep 2026 16:00:25 +0000"
+    },
+    {
+      "title": "DRC politician beaten to death after radio appearance about Ebola outbreak",
+      "link": "https://www.theguardian.com/world/2026/sep/28/drc-politician-beaten-death-radio-appearance-ebola",
+      "source": "The Guardian World",
+      "all_sources": [
+        "The Guardian World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Marie-Celestin Karondwa was attacked on Sunday after promoting measures to prevent spread of disease, his party says    A senior member of the Democratic Republic of the Congo’s ruling party was beaten to death on Sunday after appearing on a radio programme to raise awareness about the Ebola outbreak, a party representative has said.",
+        "Marie-Celestin Karondwa, the acting president of the Union for Democracy and Social Progress (UDPS) party’s federal executive committee in Butembo, a new hotspot for the outbreak, was attacked after taking part in a ​radio show during which he ‌promoted prevention measures for the disease, ‌the UDPS federation in the city said in a statement, Reuters reported.",
+        "Continue reading..."
+      ],
+      "image_url": null,
+      "published": "Mon, 28 Sep 2026 15:54:25 GMT"
+    },
+    {
+      "title": "At least 33 killed after Myanmar military air strike hits market",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/28/at-least-33-killed-after-myanmar-military-air-strike-hits-market?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Dozens of people have been killed in a military air strike on an opposition-controlled area of Rakhine State, Myanmar."
+      ],
+      "image_url": null,
+      "published": "Mon, 28 Sep 2026 15:38:16 +0000"
+    },
+    {
+      "title": "UK pledges tougher stance on Israeli actions in Gaza, West Bank",
+      "link": "https://www.aljazeera.com/news/2026/9/28/uk-pledges-tougher-stance-on-israeli-actions-in-gaza-west-bank?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "British foreign minister vows to &#039;match word with action&#039; when it comes to defending Palestinian rights."
+      ],
+      "image_url": null,
+      "published": "Mon, 28 Sep 2026 15:35:21 +0000"
+    },
+    {
+      "title": "Iran denies link to attack on airbase as UK minister warns of ‘proxies’",
+      "link": "https://www.aljazeera.com/news/2026/9/28/iran-denies-link-to-attack-on-airbase-as-uk-minister-warns-of-proxies?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Tehran condemns &#039;unfounded and malicious speculation&#039;; British FM vows to &#039;act against the proxies of Iran&#039;."
+      ],
+      "image_url": null,
+      "published": "Mon, 28 Sep 2026 15:29:48 +0000"
+    },
+    {
+      "title": "Brazil’s Biggest Election Question?: Donald Trump’s Next Move",
+      "link": "https://www.nytimes.com/2026/09/28/world/americas/brazil-election-bolsonaro-president-trump.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "As Brazil prepares to hold elections next month, Latin America’s biggest nation is taking steps to shield its democracy from potential American meddling."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/09/28/multimedia/28int-brazil-us-election-lgjb/28int-brazil-us-election-lgjb-mediumSquareAt3X.jpg",
+      "published": "Mon, 28 Sep 2026 14:28:57 +0000"
+    },
+    {
+      "title": "Ben-Gvir joins hundreds of Israelis to storm Al-Aqsa Mosque compound",
+      "link": "https://www.aljazeera.com/news/2026/9/28/ben-gvir-joins-hundreds-of-israelis-to-storm-al-aqsa-mosque-compound?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Israeli national security minister declares &#039;we are the owners of the place in Al-Aqsa&#039; amid heavily guarded incursion."
+      ],
+      "image_url": null,
+      "published": "Mon, 28 Sep 2026 14:03:55 +0000"
+    },
+    {
+      "title": "Athletes criticise organisational, logistical mishaps at ‘sad’ Asian Games",
+      "link": "https://www.aljazeera.com/sports/2026/9/28/athletes-criticise-organisational-logistical-mishaps-at-sad-asian-games?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Athletes transported to the wrong venues, three matches in 18 hours and an accommodation crisis add to organisers&#039; woes."
+      ],
+      "image_url": null,
+      "published": "Mon, 28 Sep 2026 14:03:47 +0000"
+    },
+    {
+      "title": "Pope Leo Praises Europe’s Democracy, Diverging Once Again From Trump",
+      "link": "https://www.nytimes.com/2026/09/28/world/europe/pope-leo-trump-democracy-europe.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Speaking in France, the pontiff lauded postwar efforts to unify the continent.",
+        "Experts saw it as a critique of President Trump’s repeated berating of European leaders."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/09/28/multimedia/28pope-metz-qvhm/28pope-metz-qvhm-mediumSquareAt3X.jpg",
+      "published": "Mon, 28 Sep 2026 14:03:29 +0000"
+    },
+    {
+      "title": "Cattle to feed: Why a global meat crisis is looming",
+      "link": "https://www.aljazeera.com/news/2026/9/28/cattle-to-feed-why-a-global-meat-crisis-is-looming?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "World&#039;s top three beef producers witness a decline in cattle stocks because of rising input costs, droughts and biology."
+      ],
+      "image_url": null,
+      "published": "Mon, 28 Sep 2026 13:56:03 +0000"
+    },
+    {
+      "title": "Iraq looks for oil export alternatives to the troubled Strait of Hormuz",
+      "link": "https://www.aljazeera.com/economy/2026/9/28/iraq-looks-for-oil-export-alternatives-to-the-troubled-strait-of-hormuz?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The continued blockade of the Strait of Hormuz has forced Iraq to look for alternatives to export its oil."
+      ],
+      "image_url": null,
+      "published": "Mon, 28 Sep 2026 13:53:28 +0000"
+    },
+    {
+      "title": "Bandung: The Meeting That Terrified the Superpowers | Al Jazeera Originals",
+      "link": "https://www.aljazeera.com/video/al-jazeera-originals/2026/9/28/bandung-the-meeting-that-terrified-the-superpowers-al-jazeera-originals?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "How 29 newly independent nations challenged the imperial order and awakened the power of the Global South."
+      ],
+      "image_url": null,
+      "published": "Mon, 28 Sep 2026 13:41:07 +0000"
+    },
+    {
+      "title": "Trump Brought Venezuelan Gold to the U.S., but Refiners Won’t Touch It",
+      "link": "https://www.nytimes.com/2026/09/28/world/americas/venezuela-gold-trump.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The administration is brokering deals in a notoriously corrupt industry, including one with a company that the United States deems a security threat."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/09/24/multimedia/00int-venezuela-gold-lgjq/00int-venezuela-gold-lgjq-mediumSquareAt3X.jpg",
+      "published": "Mon, 28 Sep 2026 13:01:56 +0000"
+    },
+    {
+      "title": "Plan for controversial Sydney data centre scrapped after push-back",
+      "link": "https://www.bbc.co.uk/news/articles/c6n9wrqpj4yqo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Goodman Group, the property giant behind the Project Mars data centre, says the decision is due to changes to the \"policy and regulatory environment\"."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a81/live/9c696a80-bb2e-11f1-a9b8-670e5d9d8eee.png",
+      "published": "Mon, 28 Sep 2026 12:47:09 GMT"
+    },
+    {
+      "title": "Archaeologists risked their lives to save thousands of treasures from Islamic State terrorists",
+      "link": "https://nypost.com/2026/09/28/science/archaeologists-risked-their-lives-to-save-thousands-of-treasures-from-islamic-state/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Archaeologists risked their lives to rescue 30,000 historic artefacts from Syria's Deir ez-Zor Museum before ISIS captured the city."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F09%2Fdeir-ez-zor-capital-province-142715832.jpg?w%3D768",
+      "published": "Mon, 28 Sep 2026 12:18:37 -0400"
     }
   ]
 }
