@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-01",
-  "generated_at": "2026-10-01T15:06:34.542100",
+  "date": "2026-10-02",
+  "generated_at": "2026-10-02T14:27:58.272183",
   "stats": {
     "total": 50,
     "multi_source": 3,
@@ -39,18 +39,16 @@
       "link": "https://www.npr.org/2026/09/30/nx-s1-5981403/swiss-glaciers-climate-change",
       "source": "NPR World",
       "all_sources": [
-        "BBC World",
         "NPR World"
       ],
       "bias_breakdown": {
-        "Lean Left": 1,
-        "Center": 1
+        "Lean Left": 1
       },
       "bias_bar": {
-        "left_pct": 50,
-        "center_pct": 50,
+        "left_pct": 100,
+        "center_pct": 0,
         "right_pct": 0,
-        "total": 2
+        "total": 1
       },
       "is_blindspot": false,
       "is_trending": false,
@@ -58,7 +56,7 @@
         "Switzerland's glaciers are disappearing at a record pace.",
         "More than 5% of their ice has vanished this year alone — threatening water supplies, ecosystems and communities across Europe."
       ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4300/live/fc078410-bccb-11f1-9f83-d9975ff80416.jpg",
+      "image_url": null,
       "published": "Wed, 30 Sep 2026 19:00:00 -0400"
     },
     {
@@ -86,30 +84,6 @@
       ],
       "image_url": null,
       "published": "Wed, 30 Sep 2026 14:16:33 GMT"
-    },
-    {
-      "title": "Recounting cockpit struggle on FlyDubai flight, Israeli passengers return home",
-      "link": "https://www.csmonitor.com/World/Middle-East/2026/0930/flydubai-1073-israel-saudi-flight-uae?icid=rss",
-      "source": "Christian Science Monitor World",
-      "all_sources": [
-        "Christian Science Monitor World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Israeli passengers say one of the pilots on a FlyDubai flight carried out an attempted terrorist attack, and tell of a terrifying plummet."
-      ],
-      "image_url": null,
-      "published": "Wed, 30 Sep 2026 13:55:39 EDT"
     },
     {
       "title": "Greetings from Syria, where time seems to melt as a glassmaker braves scorching temps",
@@ -259,183 +233,6 @@
       "published": "Wed, 30 Sep 2026 11:04:09 EDT"
     },
     {
-      "title": "A midair stabbing on a flight to Israel is being investigated as possible terrorism",
-      "link": "https://www.npr.org/2026/09/30/nx-s1-5985806/flydubai-flight-dubai-tel-aviv-israel",
-      "source": "NPR World",
-      "all_sources": [
-        "NPR World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "flydubai airline said the motives behind the incident were unknown and remain subject to a formal investigation.",
-        "Israel's Prime Minister Netanyahu described it as \"a serious security incident.\""
-      ],
-      "image_url": null,
-      "published": "Wed, 30 Sep 2026 09:35:11 -0400"
-    },
-    {
-      "title": "Evangelical leader slams Palestinian official’s Bible claims as ‘contemptible’",
-      "link": "https://www.foxnews.com/world/evangelical-leader-slams-palestinian-officials-bible-claims-contemptible",
-      "source": "Fox News World",
-      "all_sources": [
-        "Fox News World"
-      ],
-      "bias_breakdown": {
-        "Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Influential Pastor John Hagee slams Palestinian Ambassador Husam Zomlot&apos;s claim that the Bible is a &quot;Palestinian book,&quot; calling it an attempt to erase Jewish history."
-      ],
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/hebrew-bible-torah.jpg?ve=1&tl=1",
-      "published": "Wed, 30 Sep 2026 07:59:21 -0400"
-    },
-    {
-      "title": "U.S. forces exit Iraq amid Iran war. And, SCOTUS revives Trump deportation policy",
-      "link": "https://www.npr.org/2026/09/30/g-s1-145604/up-first-newsletter-iraq-us-troops-scotus-deportations-trump-ai",
-      "source": "NPR World",
-      "all_sources": [
-        "NPR World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The U.S.",
-        "has withdrawn its final troops from Iraq, leaving its defense future uncertain.",
-        "And, the Supreme Court has sided for now with the Trump administration on third-country deportations."
-      ],
-      "image_url": null,
-      "published": "Wed, 30 Sep 2026 07:13:17 -0400"
-    },
-    {
-      "title": "Taiwan analysts say Trump-Xi summit produced no policy shift but real test lies ahead",
-      "link": "https://www.foxnews.com/world/taiwan-analysts-say-trump-xi-summit-produced-no-policy-shift-real-test-lies-ahead",
-      "source": "Fox News World",
-      "all_sources": [
-        "Fox News World"
-      ],
-      "bias_breakdown": {
-        "Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Taiwan analysts assess whether Xi Jinping secured private concessions from Trump, with arms sales and senior U.S.",
-        "official visits as key tests ahead."
-      ],
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/trump-xi-summit-1.jpg?ve=1&tl=1",
-      "published": "Wed, 30 Sep 2026 06:51:57 -0400"
-    },
-    {
-      "title": "FlyDubai passenger says co-pilot stabbed captain before terrifying plunge, emergency landing",
-      "link": "https://www.foxnews.com/world/flydubai-pilots-reportedly-fight-cockpit-triggering-hijacking-fears-israeli-fighter-jet-response",
-      "source": "Fox News World",
-      "all_sources": [
-        "Fox News World"
-      ],
-      "bias_breakdown": {
-        "Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "A passenger says a FlyDubai co-pilot stabbed the captain before the Israel-bound flight plunged, triggering hijacking fears and an emergency diversion."
-      ],
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/israeli-flight-cockpit-fight-diverted.jpg?ve=1&tl=1",
-      "published": "Wed, 30 Sep 2026 05:03:11 -0400"
-    },
-    {
-      "title": "The U.S. military withdraws from Iraq over 2 decades after its invasion",
-      "link": "https://www.npr.org/2026/09/30/nx-s1-5983426/u-s-withdraws-final-troops-from-iraq",
-      "source": "NPR World",
-      "all_sources": [
-        "NPR World",
-        "Fox News World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1,
-        "Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 50,
-        "center_pct": 0,
-        "right_pct": 50,
-        "total": 2
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "23 years after the United States military invaded Iraq, sparking an insurgency and a civil war, the U.S.",
-        "has withdrawn its forces, as the country still tries to combat Iranian influence."
-      ],
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/us-troops-iraq-kirkuk.jpg?ve=1&tl=1",
-      "published": "Wed, 30 Sep 2026 04:43:00 -0400"
-    },
-    {
-      "title": "Retired general who led troops in Iraq warns U.S. exit may give Iran, ISIS an opening",
-      "link": "https://www.npr.org/2026/09/30/nx-s1-5984953/mcmaster-us-troop-withdrawal-iraq-iran-isis",
-      "source": "NPR World",
-      "all_sources": [
-        "NPR World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Retired Lt.",
-        "Gen.",
-        "troops in Iraq, says the withdrawal could strengthen Iran and leave Iraq more vulnerable to ISIS."
-      ],
-      "image_url": null,
-      "published": "Wed, 30 Sep 2026 04:42:46 -0400"
-    },
-    {
       "title": "In Hungary, scaffolding rises for a democratic repair job",
       "link": "https://www.csmonitor.com/World/Europe/2026/0929/hungary-corruption-eu-tisza-viktor-orban-peter-magyar-reform?icid=rss",
       "source": "Christian Science Monitor World",
@@ -509,540 +306,8 @@
       "published": "Tue, 29 Sep 2026 13:31:44 EDT"
     },
     {
-      "title": "Motorcycle patrols swarm Iranian cities, checkpoints rise as regime braces for unrest",
-      "link": "https://www.foxnews.com/world/motorcycle-patrols-swarm-iranian-cities-checkpoints-rise-regime-braces-unrest",
-      "source": "Fox News World",
-      "all_sources": [
-        "Fox News World"
-      ],
-      "bias_breakdown": {
-        "Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Sources told Fox News Digital that IRGC, Basij and police have flooded Tehran with checkpoints and patrols as student protests over compulsory hijab grow."
-      ],
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/Motorcycles-Iran-Sep-2026.jpg?ve=1&tl=1",
-      "published": "Tue, 29 Sep 2026 12:44:03 -0400"
-    },
-    {
-      "title": "Hero cop stopped synagogue massacre in Canada as Jewish group calls for armed guards",
-      "link": "https://www.foxnews.com/world/hero-armed-cop-stopped-synagogue-massacre-canada-jewish-group-calls-armed-guards",
-      "source": "Fox News World",
-      "all_sources": [
-        "Fox News World"
-      ],
-      "bias_breakdown": {
-        "Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The Yom Kippur attack outside Sons of Jacob Synagogue in Belleville has intensified demands for armed security at Jewish institutions across Canada."
-      ],
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/bellville-synagogue-shooting-canada.jpg?ve=1&tl=1",
-      "published": "Tue, 29 Sep 2026 10:44:42 -0400"
-    },
-    {
-      "title": "At least 40 rescued, 2 dead as boat capsizes after machete fight near Puerto Rico",
-      "link": "https://www.foxnews.com/world/least-40-rescued-2-dead-boat-capsizes-machete-fight-near-puerto-rico",
-      "source": "Fox News World",
-      "all_sources": [
-        "Fox News World"
-      ],
-      "bias_breakdown": {
-        "Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "A machete fight aboard a makeshift migrant boat near Mona Island caused it to capsize, leaving survivors stranded in open waters for over 12 hours."
-      ],
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/Puerto-Rico-boat-capsized-people-rescued.png?ve=1&tl=1",
-      "published": "Tue, 29 Sep 2026 02:53:07 -0400"
-    },
-    {
-      "title": "Explosions heard in Ethiopia's capital after drone flights banned",
-      "link": "https://www.bbc.co.uk/news/articles/c3vgygpqky9zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "all_sources": [
-        "BBC World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "It comes a week after fighting erupted north of the capital between the army and a new alliance of armed groups."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59cc/live/2b8e6ec0-bd89-11f1-a64c-550be9e3c66b.jpg",
-      "published": "Thu, 01 Oct 2026 15:05:36 GMT"
-    },
-    {
-      "title": "Live Updates: Investigators Seek Motive in FlyDubai Attack",
-      "link": "https://www.nytimes.com/live/2026/10/01/world/flydubai-flight-israel-plane-pilots",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The United Arab Emirates said it would lead the investigation, including into possible links to terrorism.",
-        "Prime Minister Benjamin Netanyahu said the attacker had undergone “Islamist radical indoctrination,” though he did not elaborate."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/10/01/multimedia/01flydubai-promo-vwtf/01flydubai-promo-vwtf-mediumSquareAt3X.jpg",
-      "published": "Thu, 01 Oct 2026 15:04:14 +0000"
-    },
-    {
-      "title": "Finnish Lawmakers Report Suspicious Home Break-Ins",
-      "link": "https://www.nytimes.com/2026/10/01/world/europe/finland-lawmakers-break-ins.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The speaker of Parliament said there were a “considerable” number of mysterious entries in which perpetrators appeared to have taken nothing."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/10/01/multimedia/01INT-FINLAND-LAWMAKERS-pjfm/01INT-FINLAND-LAWMAKERS-pjfm-mediumSquareAt3X.jpg",
-      "published": "Thu, 01 Oct 2026 14:54:31 +0000"
-    },
-    {
-      "title": "Japan Raises Residency Fees 2,000 Percent Amid ‘Anxiety’ Over Foreigners",
-      "link": "https://www.nytimes.com/2026/10/01/world/asia/japan-raises-residency-fees-2000-percent-amid-anxiety-over-foreigners.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Prime Minister Sanae Takaichi is making it harder for immigrants to stay in the country.",
-        "Critics say she is hurting Japan’s ability to address labor shortages."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/10/01/multimedia/01int-japan-immigration-01-cwfp/01int-japan-immigration-01-cwfp-mediumSquareAt3X.jpg",
-      "published": "Thu, 01 Oct 2026 14:41:13 +0000"
-    },
-    {
-      "title": "Who Is Captain Smit Machchhar, the Pilot Hailed as a Hero After FlyDubai Cockpit Stabbing?",
-      "link": "https://www.nytimes.com/2026/10/01/world/asia/israel-flight-flydubai-pilot-captain-smit-machchhar.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Capt.",
-        "Smit Machchhar suffered stab wounds while fending off an attack from his co-pilot, saving the lives of around 170 people on board, officials said."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/10/01/multimedia/01INT-FLYDUBAI-PILOT-wkvm/01INT-FLYDUBAI-PILOT-wkvm-mediumSquareAt3X.jpg",
-      "published": "Thu, 01 Oct 2026 14:39:56 +0000"
-    },
-    {
-      "title": "Swiss Glaciers Vanished by Nearly a Fifth in Recent Years, Scientists Say",
-      "link": "https://www.nytimes.com/2026/10/01/world/europe/switzerland-glaciers-melting-climate.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "One researcher called it a “desperately needed warning sign” that countries need to tackle human-driven climate change."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/10/01/multimedia/01int-switzerland-glacier-lkfz/01int-switzerland-glacier-lkfz-mediumSquareAt3X.jpg",
-      "published": "Thu, 01 Oct 2026 14:34:46 +0000"
-    },
-    {
-      "title": "One Issue Hanging Over Brazil’s Presidential Election: Online Gambling and Record-High Debts",
-      "link": "https://www.nytimes.com/2026/10/01/world/americas/brazil-gambling-debts-elections.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Just days before Sunday’s election, President Luiz Inácio Lula da Silva banned online gambling.",
-        "But record-high debt is upending millions of lives."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/09/30/multimedia/00int-brazil-election-debt-zklt-promo/00int-brazil-election-debt-zklt-mediumSquareAt3X.jpg",
-      "published": "Thu, 01 Oct 2026 14:29:01 +0000"
-    },
-    {
-      "title": "HIV prevention drug hailed as breakthrough, but who gets access?",
-      "link": "https://www.aljazeera.com/news/2026/10/1/hiv-prevention-drug-hailed-as-breakthrough-but-who-gets-access?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Lenacapavir, a twice-a-year injection could transform HIV prevention, but it will not be available to all."
-      ],
-      "image_url": null,
-      "published": "Thu, 01 Oct 2026 13:54:50 +0000"
-    },
-    {
-      "title": "UK PM Burnham says Iran likely behind RAF base incident: Is there evidence?",
-      "link": "https://www.aljazeera.com/news/2026/10/1/uk-pm-burnham-says-iran-likely-behind-raf-base-incident-is-there-evidence?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "UK, US and Israeli officials point to Iranian involvement but remain tight-lipped on details."
-      ],
-      "image_url": null,
-      "published": "Thu, 01 Oct 2026 13:51:58 +0000"
-    },
-    {
-      "title": "Blasts heard in Addis Ababa as Ethiopia conflict widens in the north",
-      "link": "https://www.aljazeera.com/news/2026/10/1/blasts-heard-in-addis-ababa-as-ethiopia-conflict-widens-in-the-north?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Thousands flee Mekelle amid advancing troops and disrupted services as tensions rise in Ethiopia&#039;s northern territories."
-      ],
-      "image_url": null,
-      "published": "Thu, 01 Oct 2026 13:25:54 +0000"
-    },
-    {
-      "title": "Take a Historic Stroll Down Oxford Street, London’s Shopping Artery",
-      "link": "https://www.nytimes.com/2026/10/01/world/europe/oxford-street-history-photos.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "London is making a stretch of the street, long central to the city’s identity and sense of style, car free."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/09/29/multimedia/29uk-oxford-street-02-thzc/29uk-oxford-street-02-thzc-mediumSquareAt3X.jpg",
-      "published": "Thu, 01 Oct 2026 13:05:11 +0000"
-    },
-    {
-      "title": "Activists protest Indian police raid over kite-flying event for Palestine",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/30-09-sv-india-palestine-protesters-mumbai-in?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Pro-Palestinian activists protested in Mumbai after police raided the home of a volunteer who took part in Gaza event."
-      ],
-      "image_url": null,
-      "published": "Thu, 01 Oct 2026 13:04:34 +0000"
-    },
-    {
-      "title": "Botswana at 60 challenges the story of postcolonial African failure",
-      "link": "https://www.aljazeera.com/opinions/2026/10/1/botswana-at-60-challenges-the-story-of-postcolonial-african-failure?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Botswana showed that resource wealth need not condemn a country to corruption and underdevelopment."
-      ],
-      "image_url": null,
-      "published": "Thu, 01 Oct 2026 12:54:28 +0000"
-    },
-    {
-      "title": "What happened in failed execution of Christa Pike - and what next?",
-      "link": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "all_sources": [
-        "BBC World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The convicted killer is in hospital in Tennessee after surviving two lethal injections, in a case that has raised many questions."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf7e/live/8225e2d0-bd8f-11f1-bc2e-018d645d8d21.jpg",
-      "published": "Thu, 01 Oct 2026 12:51:14 GMT"
-    },
-    {
-      "title": "Nigeria charges man accused of faking government agency",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/1/nigeria-charges-man-accused-of-faking-government-agency?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "What if you could invent a government agency and get the government to fund it?"
-      ],
-      "image_url": null,
-      "published": "Thu, 01 Oct 2026 12:44:36 +0000"
-    },
-    {
-      "title": "Kanye West's Russia shows officially cancelled after weeks of uncertainty",
-      "link": "https://www.bbc.co.uk/news/articles/cm74k417wpjxo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "all_sources": [
-        "BBC World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Chaos has surrounded the St Petersburg shows since the stadium said it had not agreed to host the rapper."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ebe/live/a5822670-bd8b-11f1-b442-f3f672c979ff.jpg",
-      "published": "Thu, 01 Oct 2026 12:13:28 GMT"
-    },
-    {
-      "title": "Britain and France Give Up Landmark Migrant Agreement",
-      "link": "https://www.nytimes.com/2026/10/01/world/europe/uk-france-migrant-deal-cancelled.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The French government soured on a reciprocal deal that allowed the British authorities to return some migrants who crossed the English Channel illegally in small boats."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/10/01/multimedia/01france-britain-migrants-01-mqgt/01france-britain-migrants-01-mqgt-mediumSquareAt3X.jpg",
-      "published": "Thu, 01 Oct 2026 12:06:19 +0000"
-    },
-    {
-      "title": "How was the Flydubai pilot who attacked his co-pilot cleared to fly?",
-      "link": "https://www.aljazeera.com/news/2026/10/1/how-was-the-flydubai-pilot-who-attacked-his-co-pilot-cleared-to-fly?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The Flydubai scare has raised several questions for Israel and the civil aviation industry."
-      ],
-      "image_url": null,
-      "published": "Thu, 01 Oct 2026 11:50:25 +0000"
-    },
-    {
-      "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
-      "link": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "all_sources": [
-        "BBC World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ff7/live/977f2bf0-bd85-11f1-ab03-fd866f8788d0.jpg",
-      "published": "Thu, 01 Oct 2026 11:37:46 GMT"
-    },
-    {
-      "title": "Race against time to save crew after colossal, rarely seen deep sea beasts smash up yacht in Pacific",
-      "link": "https://nypost.com/2026/10/01/world-news/sperm-whales-sink-yacht-in-pacific-ocean-crew-rescued-18-hours-later/",
+      "title": "Sydney Airport suffers 4th near-miss in 2026 forcing plane to brake hard",
+      "link": "https://nypost.com/2026/10/01/lifestyle/sydney-airport-suffers-4th-near-miss-in-2026-forcing-plane-to-brake-hard/",
       "source": "New York Post World",
       "all_sources": [
         "New York Post World"
@@ -1059,40 +324,114 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "The rare deep-sea predators that inspired famed novel Moby Dick took a New Zealand yacht out of commission in the Pacific Ocean this past weekend — pushing its crew into survival mode."
+        "The Australian Transport Safety Bureau (ATSB) is investigating four runway near-misses at Sydney Airport in three months, raising concerns over air traffic control staffing."
       ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Frccnz-received-alert-epirb-51ft-143302266.png?w%3D676",
-      "published": "Thu, 01 Oct 2026 10:54:36 -0400"
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F2021-sydney-australia-fully-vaccinated-143380361.jpg?w%3D1024",
+      "published": "Thu, 01 Oct 2026 22:01:49 -0400"
     },
     {
-      "title": "Russian drone strikes Kyiv school as Moscow’s relentless aerial attacks against Ukraine continues",
-      "link": "https://nypost.com/2026/10/01/world-news/russian-drone-strikes-a-kyiv-school-as-moscows-aerial-campaign-against-ukraine-continues/",
+      "title": "DOE employee charged with trying to aid Iran-backed Houthis, feds say",
+      "link": "https://www.foxnews.com/world/doe-employee-charged-trying-aid-iran-backed-houthis-feds-say",
+      "source": "Fox News World",
+      "all_sources": [
+        "Fox News World"
+      ],
+      "bias_breakdown": {
+        "Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Ashton Hamed Ellaboudy allegedly used his electrical engineering expertise in an attempt to aid Houthi communications, drones and homemade explosives production."
+      ],
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/05/931/523/houthis-yemen.png?ve=1&tl=1",
+      "published": "Thu, 01 Oct 2026 20:33:56 -0400"
+    },
+    {
+      "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
+      "link": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The Russian leader insists Moscow is \"not threatening anyone\" and is merely responding to statements by Western leaders."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d348/live/42c7b520-bdc4-11f1-964e-45603b94c961.jpg",
+      "published": "Thu, 01 Oct 2026 19:38:30 GMT"
+    },
+    {
+      "title": "Brazil attorney general says meddling ‘cannot be tolerated’ after Trump funding plans revealed",
+      "link": "https://www.theguardian.com/world/2026/oct/01/brazil-attorney-general-election-meddling-trump-funding-plans",
+      "source": "The Guardian World",
+      "all_sources": [
+        "The Guardian World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Jorge Messias calls Guardian report ‘an important alert for Brazilian sovereignty’ as nation prepares to go to polls  Brazil’s attorney general has said foreign meddling in his country’s institutions and democracy “cannot be tolerated” after a  Guardian report revealed  how the Trump administration was pushing to direct funds to a campaign against the Brazilian supreme court.",
+        "Writing on X, Jorge Messias called the report “an important alert for Brazilian sovereignty”.",
+        "“The information is especially serious in light of Brazil’s electoral process and the recent episodes of external pressure on our institutions,” Messias added."
+      ],
+      "image_url": null,
+      "published": "Thu, 01 Oct 2026 18:34:10 GMT"
+    },
+    {
+      "title": "Saudi Arabia and Jordan denied flydubai flight clearance to land despite a terrifying mayday call",
+      "link": "https://nypost.com/2026/10/01/world-news/saudi-arabia-jordan-denied-flydubai-flight-clearance-despite-a-terrifying-mayday-call/",
       "source": "New York Post World",
       "all_sources": [
-        "Al Jazeera",
+        "Christian Science Monitor World",
         "New York Post World"
       ],
       "bias_breakdown": {
-        "Lean Left": 1,
+        "Center": 1,
         "Lean Right": 1
       },
       "bias_bar": {
-        "left_pct": 50,
-        "center_pct": 0,
+        "left_pct": 0,
+        "center_pct": 50,
         "right_pct": 50,
         "total": 2
       },
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Children and staff at the school were in shelters when the drone hit, Mayor Vitalii Klitschko said, and its warhead didn’t explode."
+        "Saudi Arabia and Jordan initially rejected clearance to land for the flydubai plane at the center of Wednesday's attempted terrorist attack despite a terrifying mayday call from the cabin, according to multiple reports."
       ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fpolice-bomb-squad-members-carry-143277231.jpg?w%3D1024",
-      "published": "Thu, 01 Oct 2026 10:39:45 -0400"
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F2026-still-image-obtained-social-143153685.jpg?w%3D904",
+      "published": "Thu, 01 Oct 2026 17:17:45 -0400"
     },
     {
-      "title": "Depraved teacher learns fate for sexually abusing boy she tied to marital bed — and called husband’s name",
-      "link": "https://nypost.com/2026/10/01/world-news/depraved-teacher-learns-fate-for-sexually-abusing-boy-10-she-tied-to-marital-bed/",
+      "title": "Ukraine debuts new self-made FP-7 ballistic missiles in strikes against Russia: Zelensky",
+      "link": "https://nypost.com/2026/10/01/world-news/ukraine-debuts-new-self-made-fp-7-ballistic-missiles-in-strikes-against-russia-zelensky/",
       "source": "New York Post World",
       "all_sources": [
         "New York Post World"
@@ -1109,14 +448,41 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "“I want to cry for the boy I was and the childhood I lost,” the victim said."
+        "\"Ukrainian tactical ballistic missile FP-7.",
+        "First combat ​use,\" Zelensky wrote on Telegram.",
+        "\"Thank you for ​the result."
       ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fthursday-1-october-non-recent-143294662.jpg?w%3D1024",
-      "published": "Thu, 01 Oct 2026 10:39:10 -0400"
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fphoto-handout-ukrainian-presidential-press-143153815.jpg?w%3D1024",
+      "published": "Thu, 01 Oct 2026 15:41:16 -0400"
     },
     {
-      "title": "Attackers douse teacher in gasoline as student protests rage across France",
-      "link": "https://nypost.com/2026/10/01/world-news/attackers-douse-teacher-in-petrol-as-student-protests-rage-across-france/",
+      "title": "Houthi militia now leads Iran’s ‘Axis.’ But how much can Tehran count on it?",
+      "link": "https://www.csmonitor.com/World/Middle-East/2026/1001/iran-axis-alliance-yemen-houthis-autonomy?icid=rss",
+      "source": "Christian Science Monitor World",
+      "all_sources": [
+        "Christian Science Monitor World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Iranian officials and pundits laud the militia group’s gains as their own.",
+        "At the same time, some media coverage appears designed to convince the Houthis to be better team players."
+      ],
+      "image_url": null,
+      "published": "Thu, 01 Oct 2026 14:54:26 EDT"
+    },
+    {
+      "title": "Trump sends third aircraft carrier to Middle East with 10K more troops — as he weighs post-midterm Iran assault",
+      "link": "https://nypost.com/2026/10/01/us-news/trump-sends-3rd-aircraft-carrier-to-middle-east-with-10k-more-troops-as-he-weighs-post-midterm-iran-assault/",
       "source": "New York Post World",
       "all_sources": [
         "New York Post World"
@@ -1133,10 +499,82 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Attackers doused a headteacher in gasoline and started fires in at least two schools on Thursday, officials said, as increasingly violent student protests raged across France."
+        "The Pentagon is dispatching a third aircraft carrier to the Middle East as Trump is reportedly weighing whether to ramp up the war against Iran after the midterms."
       ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fmasked-protester-throws-garbage-bin-143291642.jpg?w%3D1024",
-      "published": "Thu, 01 Oct 2026 10:16:33 -0400"
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fu-s-navy-sailors-line-140291493.jpg?w%3D1024",
+      "published": "Thu, 01 Oct 2026 14:38:35 -0400"
+    },
+    {
+      "title": "Why more young Indians are doubting the value of education",
+      "link": "https://www.csmonitor.com/World/Asia-South-Central/2026/1001/india-education-system-fairness-youth-employment?icid=rss",
+      "source": "Christian Science Monitor World",
+      "all_sources": [
+        "Christian Science Monitor World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "As competition for college seats and postgraduate jobs grows, young Indians are losing confidence in their ability to get ahead through hard work and talent."
+      ],
+      "image_url": null,
+      "published": "Thu, 01 Oct 2026 13:00:31 EDT"
+    },
+    {
+      "title": "EXCLUSIVE: Trump’s new security alliance faces first real-world test deep in South America as troops deploy",
+      "link": "https://www.foxnews.com/world/exclusive-trumps-new-security-alliance-faces-first-real-world-test-deep-south-america-troops-deploy",
+      "source": "Fox News World",
+      "all_sources": [
+        "Fox News World"
+      ],
+      "bias_breakdown": {
+        "Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Donald Trump&apos;s Shield of the Americas faces its first real test as Bolivia deploys forces to strategic routes amid renewed blockade and unrest fears."
+      ],
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/bolivia-protests-humberto-suarez-fox-news-001.jpeg?ve=1&tl=1",
+      "published": "Thu, 01 Oct 2026 12:16:43 -0400"
+    },
+    {
+      "title": "Hezbollah received $157M in weapons in 2024, mostly from 1 nation, report says",
+      "link": "https://www.foxnews.com/world/hezbollah-received-157m-weapons-2024-mostly-1-nation-report-says",
+      "source": "Fox News World",
+      "all_sources": [
+        "Fox News World"
+      ],
+      "bias_breakdown": {
+        "Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The Israeli Center for Research of Terror Financing found Iran gave Hezbollah $129 million in rockets, missiles, drones and anti-tank missiles in 2024."
+      ],
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/03/931/523/2025-03-28t105439z_2869375_rc2t5bajz4tp_rtrmadp_3_iran-nuclear-usa-scaled.jpg?ve=1&tl=1",
+      "published": "Thu, 01 Oct 2026 12:13:59 -0400"
     },
     {
       "title": "What a Pearly King taught me about Cockney rhyming slang and East London history",
@@ -1165,11 +603,189 @@
       "published": "Thu, 01 Oct 2026 10:13:38 -0400"
     },
     {
-      "title": "US death row inmate survives execution attempt after two lethal injections",
-      "link": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "title": "‘It’s utter surrealism’: Venezuela’s Chavistas lament government’s embrace of Trump",
+      "link": "https://www.theguardian.com/world/2026/oct/01/venezuela-hugo-chavez-supporters-critical-delcy-rodriguez-embrace-of-trump",
+      "source": "The Guardian World",
       "all_sources": [
-        "BBC World"
+        "The Guardian World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Diehard Hugo Chávez supporters struggle to comprehend ideological U-turn being executed by Delcy Rodríguez’s interim administration  He was one of the most passionate propagandists for Hugo Chávez’s Bolivarian revolution: a feisty leftist TV personality who spent more than two decades singing the movement’s praises on his state-funded show, The Razorblade.",
+        "Mario Silva’s devotion was such that he often hosted his programme with Chávez’s portrait behind him and he had El Comandante’s curly signature tattooed on to his left wrist.",
+        "Continue reading..."
+      ],
+      "image_url": null,
+      "published": "Thu, 01 Oct 2026 09:00:34 GMT"
+    },
+    {
+      "title": "Passengers recount chaos on Tel Aviv flight. And, FBI probes employee-data hack",
+      "link": "https://www.npr.org/2026/10/01/g-s1-145879/up-first-newsletter-tel-aviv-flight-passengers-fbi-employee-data-hack",
+      "source": "NPR World",
+      "all_sources": [
+        "NPR World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "What we know so far about the tense moments aboard a Tel Aviv-bound flight.",
+        "And, the FBI investigates a cyberattack involving sensitive employee data."
+      ],
+      "image_url": null,
+      "published": "Thu, 01 Oct 2026 07:37:10 -0400"
+    },
+    {
+      "title": "Israel's prime minister says a pilot tried to crash a plane traveling to Tel Aviv",
+      "link": "https://www.npr.org/2026/10/01/nx-s1-5986255/israels-pm-says-a-pilot-tried-to-crash-a-plane-traveling-to-tel-aviv",
+      "source": "NPR World",
+      "all_sources": [
+        "BBC World",
+        "NPR World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1,
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 50,
+        "center_pct": 50,
+        "right_pct": 0,
+        "total": 2
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "One pilot stabbed another pilot on a FlyDubai flight headed to Tel Aviv on Wednesday and may have tried to crash the plane before passengers and crew members subdued him, Israel's prime minister says."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/806d/live/8cf56f00-8950-11f1-aee1-9f17574ebbb3.jpg",
+      "published": "Thu, 01 Oct 2026 06:48:47 -0400"
+    },
+    {
+      "title": "Billion-dollar power link connecting Israel to Europe hits roadblock in bitter regional feud",
+      "link": "https://www.foxnews.com/world/billion-dollar-power-link-connecting-israel-europe-hits-roadblock-bitter-regional-feud",
+      "source": "Fox News World",
+      "all_sources": [
+        "Fox News World"
+      ],
+      "bias_breakdown": {
+        "Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Cyprus accuses Recep Tayyip Erdoğan of blocking the Great Sea Interconnector energy project linking Israel, Cyprus and Greece amid maritime disputes."
+      ],
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/Cyprus-FM.jpg?ve=1&tl=1",
+      "published": "Thu, 01 Oct 2026 06:00:40 -0400"
+    },
+    {
+      "title": "Picanha, prices and politics: What Brazil's favorite steak says about the election",
+      "link": "https://www.npr.org/2026/10/01/nx-s1-5986079/picanha-election-brazil-economy",
+      "source": "NPR World",
+      "all_sources": [
+        "NPR World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "President Lula promised Brazilians four years ago they'd be able to afford  picanha  again.",
+        "Now, as he seeks another term, the price of the country's favorite cut of beef is telling a different story."
+      ],
+      "image_url": null,
+      "published": "Thu, 01 Oct 2026 06:00:00 -0400"
+    },
+    {
+      "title": "What life under U.S. sanctions looks like for one ICC judge",
+      "link": "https://www.npr.org/2026/10/01/nx-s1-5977815/trump-icc-sanctions-kimberly-prost",
+      "source": "NPR World",
+      "all_sources": [
+        "NPR World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Kimberly Prost, a Canadian judge at the International Criminal Court, says U.S.",
+        "sanctions disrupted her daily life.",
+        "She is still hearing cases and challenging the sanctions in court."
+      ],
+      "image_url": null,
+      "published": "Thu, 01 Oct 2026 04:42:13 -0400"
+    },
+    {
+      "title": "Mighty Sparrow, the Trinidad and Tobago singer known as the ‘calypso king of the world’, dies aged 91",
+      "link": "https://www.theguardian.com/music/2026/sep/28/mighty-sparrow-the-trinidad-and-tobago-singer-known-as-the-calypso-king-of-the-world-dies-aged-91",
+      "source": "The Guardian World",
+      "all_sources": [
+        "The Guardian World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Slinger Francisco, who performed as the Mighty Sparrow, died on Sunday surrounded by family in New York  Slinger Francisco, known on stage as the Mighty Sparrow and dubbed the “calypso king of the world”, has died aged 91.",
+        "Francisco, who got his breakthrough in calypso music with his 1956 hit song Jean and Dinah, died peacefully surrounded by his family in New York on Sunday, his family said in a statement.",
+        "Continue reading..."
+      ],
+      "image_url": null,
+      "published": "Sun, 27 Sep 2026 23:24:10 GMT"
+    },
+    {
+      "title": "Trump Says Colombia Will Accept Deportees, Ending Tariff Standoff",
+      "link": "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497",
+      "source": "WSJ World News",
+      "all_sources": [
+        "WSJ World News"
       ],
       "bias_breakdown": {
         "Center": 1
@@ -1183,14 +799,331 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Killer Christa Pike's lawyer says she is being given \"life-saving measures\" in hospital after two syringes of pentobarbital."
+        "The president has made immigration an early priority to start second term, with ICE making more than 900 arrests Sunday."
       ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b6b/live/4ce5c930-bd5a-11f1-babe-4199b0e7ccea.jpg",
-      "published": "Thu, 01 Oct 2026 09:59:59 GMT"
+      "image_url": null,
+      "published": "Sun, 26 Jan 2025 22:59:00 -0500"
     },
     {
-      "title": "Hong Kong Journalist Arrested After Covering Gathering Linked to 2019 Protests",
-      "link": "https://www.nytimes.com/2026/10/01/world/asia/hong-kong-arrest-journalist-activist.html",
+      "title": "Spiking fuel costs add to burden as Syrians try to rebuild, sparking protests",
+      "link": "https://www.csmonitor.com/World/Middle-East/2026/0928/fuel-protests-syria-rebuilding-iran-war?icid=rss",
+      "source": "Christian Science Monitor World",
+      "all_sources": [
+        "Christian Science Monitor World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The Syrian government’s recent decision to raise fuel costs, after an earlier increase in electricity prices, led to protests that upset a string of government successes."
+      ],
+      "image_url": null,
+      "published": "Mon, 28 Sep 2026 16:13:24 EDT"
+    },
+    {
+      "title": "DRC politician beaten to death after radio appearance about Ebola outbreak",
+      "link": "https://www.theguardian.com/world/2026/sep/28/drc-politician-beaten-death-radio-appearance-ebola",
+      "source": "The Guardian World",
+      "all_sources": [
+        "The Guardian World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Marie-Celestin Karondwa was attacked on Sunday after promoting measures to prevent spread of disease, his party says    A senior member of the Democratic Republic of the Congo’s ruling party was beaten to death on Sunday after appearing on a radio programme to raise awareness about the Ebola outbreak, a party representative has said.",
+        "Marie-Celestin Karondwa, the acting president of the Union for Democracy and Social Progress (UDPS) party’s federal executive committee in Butembo, a new hotspot for the outbreak, was attacked after taking part in a ​radio show during which he ‌promoted prevention measures for the disease, ‌the UDPS federation in the city said in a statement, Reuters reported.",
+        "Continue reading..."
+      ],
+      "image_url": null,
+      "published": "Mon, 28 Sep 2026 15:54:25 GMT"
+    },
+    {
+      "title": "Why island nations are the real winners as UN wraps up",
+      "link": "https://www.csmonitor.com/World/2026/0928/un-sea-level-rise-tuvalu-fiji-declaration?icid=rss",
+      "source": "Christian Science Monitor World",
+      "all_sources": [
+        "Christian Science Monitor World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The U.N.",
+        "hears that a billion people are on the front line as sea levels rise due to climate change."
+      ],
+      "image_url": null,
+      "published": "Mon, 28 Sep 2026 14:25:26 EDT"
+    },
+    {
+      "title": "Our world: The week of Sept. 28, 2026",
+      "link": "https://www.csmonitor.com/World/2026/0928/our-world-0928?icid=rss",
+      "source": "Christian Science Monitor World",
+      "all_sources": [
+        "Christian Science Monitor World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Our World is a roundup from our weekly print edition of noteworthy happenings, from our global correspondents."
+      ],
+      "image_url": null,
+      "published": "Mon, 28 Sep 2026 05:00:11 EDT"
+    },
+    {
+      "title": "Palestinians Stream Back to Northern Gaza on Foot",
+      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
+      "source": "WSJ World News",
+      "all_sources": [
+        "WSJ World News"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Israel allowed displaced Gazans to begin crossing a military zone that bisects the enclave after a deadlock over hostage releases was broken."
+      ],
+      "image_url": null,
+      "published": "Mon, 27 Jan 2025 14:23:00 -0500"
+    },
+    {
+      "title": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
+      "link": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
+      "source": "WSJ World News",
+      "all_sources": [
+        "WSJ World News"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in."
+      ],
+      "image_url": null,
+      "published": "Mon, 27 Jan 2025 12:32:00 -0500"
+    },
+    {
+      "title": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
+      "link": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
+      "source": "WSJ World News",
+      "all_sources": [
+        "WSJ World News"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said."
+      ],
+      "image_url": null,
+      "published": "Mon, 27 Jan 2025 12:12:00 -0500"
+    },
+    {
+      "title": "Suspected Sabotage of Deep-Sea Cable Triggers First NATO-Led Response",
+      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
+      "source": "WSJ World News",
+      "all_sources": [
+        "WSJ World News"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The alliance mounted its first coordinated response to a suspected sabotage campaign against critical infrastructure after another cable was severed in the Baltic Sea."
+      ],
+      "image_url": null,
+      "published": "Mon, 27 Jan 2025 11:22:00 -0500"
+    },
+    {
+      "title": "Rwanda-Backed Rebels Enter Congo's Safe-Haven City",
+      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
+      "source": "WSJ World News",
+      "all_sources": [
+        "WSJ World News"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Residents of Goma reported gunfire and shelling after rebels overran Congolese troops.",
+        "U.N.",
+        "officials estimated that more than one million displaced people were now inside the city."
+      ],
+      "image_url": null,
+      "published": "Mon, 27 Jan 2025 10:07:00 -0500"
+    },
+    {
+      "title": "Cocaine-Funded Gangs Shake Colombia Years After Peace Pact",
+      "link": "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da",
+      "source": "WSJ World News",
+      "all_sources": [
+        "WSJ World News"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Attacks by powerful militias against civilians reflect the state’s inaction eight years after a peace accord removed a powerful rebel group from the field."
+      ],
+      "image_url": null,
+      "published": "Mon, 27 Jan 2025 07:00:00 -0500"
+    },
+    {
+      "title": "Italy Supports Saudi Arabia Joining Fighter-Jet Program, PM Meloni Says",
+      "link": "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1",
+      "source": "WSJ World News",
+      "all_sources": [
+        "WSJ World News"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The U.K., Italy and Japan have already partnered on the Global Combat Air Programme, which aims to put a new stealth fighter with supersonic capability in the skies by 2035."
+      ],
+      "image_url": null,
+      "published": "Mon, 27 Jan 2025 05:34:00 -0500"
+    },
+    {
+      "title": "Shippers Wary of Red Sea Routes Despite Houthi Pledge to End Targeting",
+      "link": "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2",
+      "source": "WSJ World News",
+      "all_sources": [
+        "WSJ World News"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The world’s top three container operators said they fear instability in Gaza and broader regional tensions mean continued danger."
+      ],
+      "image_url": null,
+      "published": "Mon, 27 Jan 2025 01:05:00 -0500"
+    },
+    {
+      "title": "Kim Jong Un Is Doing Everything He Can to Keep North Korea's Youth in Line",
+      "link": "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de",
+      "source": "WSJ World News",
+      "all_sources": [
+        "WSJ World News"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The dictator, eager to shut out the influence of Hollywood and K-pop, has been exalting a “shock brigade” of 300,000 teens and 20-somethings drafted into flood reconstruction."
+      ],
+      "image_url": null,
+      "published": "Mon, 27 Jan 2025 01:05:00 -0500"
+    },
+    {
+      "title": "Blockades, Fireworks and Tear Gas: Young Protesters Are Rattling France",
+      "link": "https://www.nytimes.com/2026/10/02/world/europe/france-schools-protests-unrest.html",
       "source": "NYT World",
       "all_sources": [
         "NYT World"
@@ -1207,34 +1140,108 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "The national security police detained Tang Ho-wing, founder of the independent outlet Boom News, according to local media and watchdog groups."
+        "Days of unrest have affected more than 1,000 schools across France as high school students push for better standards."
       ],
-      "image_url": "https://static01.nyt.com/images/2026/10/01/multimedia/01int-hk-journalist-arrest-hjqm/01int-hk-journalist-arrest-hjqm-mediumSquareAt3X.jpg",
-      "published": "Thu, 01 Oct 2026 09:54:14 +0000"
+      "image_url": "https://static01.nyt.com/images/2026/10/02/multimedia/02int-france-schools-04-bqlw/02int-france-schools-04-bqlw-mediumSquareAt3X.jpg",
+      "published": "Fri, 02 Oct 2026 14:22:41 +0000"
     },
     {
-      "title": "Israel-bound flydubai plane was likely just 40 seconds from catastrophe: Terrifying ‘stroke of luck’",
-      "link": "https://nypost.com/2026/10/01/world-news/israel-bound-flydubai-plane-was-likely-just-40-seconds-from-crashing-veteran-pilot/",
-      "source": "New York Post World",
+      "title": "I've seen nearly 500 executions - but never one like Christa Pike's",
+      "link": "https://www.bbc.co.uk/news/articles/c6d949gq47x9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "all_sources": [
-        "New York Post World"
+        "BBC World"
       ],
       "bias_breakdown": {
-        "Lean Right": 1
+        "Center": 1
       },
       "bias_bar": {
         "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
+        "center_pct": 100,
+        "right_pct": 0,
         "total": 1
       },
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "“If the plane lost half its altitude in 40 seconds, another 40 seconds would have seen it crash.\""
+        "Texas reporter Michael Graczyk has seen botched executions in his time, but not one in which an inmate survived."
       ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fpassengers-flydubai-aircraft-bound-israel-143177329.jpg?w%3D1024",
-      "published": "Thu, 01 Oct 2026 09:40:40 -0400"
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/283a/live/966b10b0-be31-11f1-babe-4199b0e7ccea.jpg",
+      "published": "Fri, 02 Oct 2026 14:01:09 GMT"
+    },
+    {
+      "title": "Ethiopia, Eritrea break ties: Does the conflict risk becoming regional war?",
+      "link": "https://www.aljazeera.com/news/2026/10/2/ethiopia-eritrea-break-ties-does-the-conflict-risk-becoming-regional-war?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "BBC World",
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1,
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 50,
+        "center_pct": 50,
+        "right_pct": 0,
+        "total": 2
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Analysts warn unrest is likely to spill into neighbouring states and could further destabilise war-torn Sudan."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dc3/live/316213c0-be23-11f1-bf88-854b5521eba9.jpg",
+      "published": "Fri, 02 Oct 2026 13:53:24 +0000"
+    },
+    {
+      "title": "Can India’s ‘cockroach’ movement oust Modi’s election chief?",
+      "link": "https://www.aljazeera.com/features/2026/10/2/can-indias-cockroach-movement-oust-modis-election-chief?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "India&#039;s youth protests return to streets, eyeing PM Modi&#039;s prized bureaucrat who oversees the world&#039;s biggest elections."
+      ],
+      "image_url": null,
+      "published": "Fri, 02 Oct 2026 13:50:06 +0000"
+    },
+    {
+      "title": "Airlines Set to Bring Israelis Back From U.A.E. After FlyDubai Cockpit Attack",
+      "link": "https://www.nytimes.com/2026/10/02/world/middleeast/israel-dubai-uae-flights.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The attack, on a flight from Dubai to Tel Aviv, halted the only direct service between the two cities since the war in Iran disrupted air traffic."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/10/02/multimedia/02israel-plane-cpmv/02israel-plane-cpmv-mediumSquareAt3X.jpg",
+      "published": "Fri, 02 Oct 2026 13:34:23 +0000"
     }
   ]
 }
