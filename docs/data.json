@@ -1,192 +1,435 @@
 {
-  "date": "2026-10-06",
-  "generated_at": "2026-10-06T14:45:20.372098",
+  "date": "2026-10-07",
+  "generated_at": "2026-10-07T15:05:35.945161",
   "stats": {
     "total": 50,
-    "multi_source": 7,
-    "trending": 5,
-    "blindspots": 1
+    "multi_source": 3,
+    "trending": 0,
+    "blindspots": 0
   },
   "stories": [
     {
-      "title": "A plague research employee in Russia died from an unknown cause. Here's what we know",
-      "link": "https://www.npr.org/2026/10/06/nx-s1-5991803/a-plague-research-employee-in-russia-died-from-an-unknown-cause-heres-what-we-know",
-      "source": "NPR World",
+      "title": "Zelensky condemns 'vile' large-scale Russian attacks that killed 24",
+      "link": "https://www.bbc.co.uk/news/articles/ckr5ym098vdeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "all_sources": [
-        "NPR World",
-        "Al Jazeera"
+        "BBC World"
       ],
       "bias_breakdown": {
-        "Lean Left": 2
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Rescue workers are continuing a search for residents after an apartment building in Pryluky was destroyed."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6db9/live/1690bf80-c23b-11f1-be2f-0fbd447d6e43.jpg",
+      "published": "Wed, 07 Oct 2026 14:53:43 GMT"
+    },
+    {
+      "title": "The Fight for Britain’s Right: Can Kemi Badenoch Reboot the Conservatives?",
+      "link": "https://www.nytimes.com/2026/10/07/world/europe/uk-conservatives-kemi-badenoch-right-farage.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
       },
       "bias_bar": {
         "left_pct": 100,
         "center_pct": 0,
         "right_pct": 0,
-        "total": 2
+        "total": 1
       },
-      "is_blindspot": true,
+      "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "There are more questions than answers regarding the death of a plague research lab employee last week in Siberia.",
-        "Here's what we do and don't know."
+        "Attendees at the party’s annual conference have been buoyed: both by leader Kemi Badenoch’s rising poll ratings and by a mock Bayeux Tapestry.",
+        "But the challenge from Reform U.K.",
+        "remains."
       ],
-      "image_url": null,
-      "published": "Tue, 06 Oct 2026 04:49:38 -0400"
+      "image_url": "https://static01.nyt.com/images/2026/10/07/multimedia/07int-uk-conservatives-ltjm/07int-uk-conservatives-ltjm-mediumSquareAt3X-v2.jpg",
+      "published": "Wed, 07 Oct 2026 14:21:55 +0000"
     },
     {
-      "title": "Kenya confirms first Ebola case as virus ‘surges’ in DR Congo province",
-      "link": "https://www.theguardian.com/world/2026/oct/06/kenya-first-ebola-case-death-drc",
+      "title": "‘Another coup d’état’: fears grow as Flávio Bolsonaro vows to ‘re-democratise’ Brazil",
+      "link": "https://www.theguardian.com/world/2026/oct/07/flavio-bolsonaro-vows-to-re-democratise-brazil-election",
       "source": "The Guardian World",
       "all_sources": [
-        "BBC World",
-        "Deutsche Welle Top Stories",
+        "The Guardian World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "After a surprise first-round victory, critics suggest son of disgraced ex-president could seek to continue his father’s authoritarian rule     Flávio’s surprise first-round win highlights rapid rise of Brazil’s House of Bolsonaro     Flávio Bolsonaro,  the far-right frontrunner to become Brazil’s next president , has vowed to “re-democratise” the South American country, fuelling fears over a move into authoritarian rule if he wins power.",
+        "Brazil was re-democratised in the 1980s after a brutal 21-year dictatorship that  Flávio’s father, the disgraced ex-president, Jair Bolsonaro, has long praised.",
+        "Continue reading..."
+      ],
+      "image_url": null,
+      "published": "Wed, 07 Oct 2026 14:06:42 GMT"
+    },
+    {
+      "title": "Rubio Stresses Need for U.S. Security Work With Greece on Migration and Terrorism",
+      "link": "https://www.nytimes.com/2026/10/07/us/politics/rubio-greece-defense-immigration.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Secretary of State Marco Rubio praised Greece for spending more on defense, while saying it needs to address “mass migration.”"
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/10/07/multimedia/07greece-rubio-lcvk/07greece-rubio-lcvk-mediumSquareAt3X.jpg",
+      "published": "Wed, 07 Oct 2026 14:04:38 +0000"
+    },
+    {
+      "title": "Millions of Pakistanis get government fuel relief but some miss out",
+      "link": "https://www.aljazeera.com/news/2026/10/7/millions-of-pakistanis-get-government-fuel-relief-but-some-miss-out?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Pakistan has subsidised petrol for millions, but some economists caution that those most needing help are left out."
+      ],
+      "image_url": null,
+      "published": "Wed, 07 Oct 2026 14:02:40 +0000"
+    },
+    {
+      "title": "Why Paramount-Warner merger has sparked fears about press freedom",
+      "link": "https://www.aljazeera.com/news/2026/10/7/why-paramount-warner-merger-has-sparked-fears-about-press-freedom?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Chairman&#039;s family ties to Trump and Israel raise questions over editorial independence at CNN and CBS."
+      ],
+      "image_url": null,
+      "published": "Wed, 07 Oct 2026 13:56:27 +0000"
+    },
+    {
+      "title": "South Korea signals military exemption cuts for athletes after Asian Games",
+      "link": "https://www.aljazeera.com/sports/2026/10/7/south-korea-signals-military-exemption-cuts-for-gold-medallists-after-backlash-at-athletes-asian-games-comments?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "South Korea signals cuts to military exemptions for gold medallists after backlash over athletes&#039; Asian Games comments."
+      ],
+      "image_url": null,
+      "published": "Wed, 07 Oct 2026 13:38:14 +0000"
+    },
+    {
+      "title": "Saudi Arabia beat UAE 2-0 to end 22-year wait for Arabian Gulf Cup crown",
+      "link": "https://www.aljazeera.com/sports/2026/10/7/saudi-arabia-beat-uae-2-0-to-end-22-year-wait-for-arabian-gulf-cup-crown?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Goals from Hammam Al-Hammami and Firas al-Buraikan give the hosts their fourth Arabian Gulf Cup trophy."
+      ],
+      "image_url": null,
+      "published": "Wed, 07 Oct 2026 13:30:40 +0000"
+    },
+    {
+      "title": "For Twin Brothers Abducted in the Oct. 7 Attacks, Adjusting to Freedom Is a New Challenge",
+      "link": "https://www.nytimes.com/2026/10/07/world/middleeast/israel-october-7-attacks-hostages-twins-berman.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Gali and Ziv Berman were taken hostage when their kibbutz was attacked on Oct.",
+        "7, 2023.",
+        "They were freed a year ago but are still adjusting to freedom and trying to rebuild their lives."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/09/02/multimedia/00int-israel-hostage-twins-02-vplw/00int-israel-hostage-twins-02-vplw-mediumSquareAt3X-v2.jpg",
+      "published": "Wed, 07 Oct 2026 13:29:26 +0000"
+    },
+    {
+      "title": "Case of U.S. Marine Accused of Murder in Japan Draws Outcry",
+      "link": "https://www.nytimes.com/2026/10/07/world/asia/us-marine-murder-okinawa-japan-takaichi.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Prime Minister Sanae Takaichi, a close Trump ally, is under pressure to strengthen oversight of the U.S.",
+        "military in Japan."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/10/07/multimedia/07int-japan-okinawa-tjfv/07int-japan-okinawa-tjfv-mediumSquareAt3X.jpg",
+      "published": "Wed, 07 Oct 2026 13:22:52 +0000"
+    },
+    {
+      "title": "The School Near Paris That Shows Why French Students Are Protesting",
+      "link": "https://www.nytimes.com/2026/10/07/world/europe/france-school-protest-paul-eluard.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Angered by poor classroom conditions, students at Paul Éluard High School in a suburb of the capital were among the first to blockade their campus during an ongoing round of unrest."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/10/07/multimedia/07int-france-school-01-mtzk/07int-france-school-01-mtzk-mediumSquareAt3X.jpg",
+      "published": "Wed, 07 Oct 2026 13:19:04 +0000"
+    },
+    {
+      "title": "Coco Gauff says online racist abuse was ‘draining’ after China Open exit",
+      "link": "https://www.aljazeera.com/sports/2026/10/7/coco-gauff-says-online-racist-abuse-was-draining-after-china-open-exit?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Coco Gauff admits the racism she suffered during China Open exhausted her after US tennis star missed out on quarters."
+      ],
+      "image_url": null,
+      "published": "Wed, 07 Oct 2026 12:53:11 +0000"
+    },
+    {
+      "title": "Israeli soldier assaults Palestinian woman in occupied West Bank",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/7/israeli-soldier-assaults-palestinian-woman-in-occupied-west-bank?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "An Israeli soldier was filmed assaulting a Palestinian woman during a raid on a family home in the occupied West Bank."
+      ],
+      "image_url": null,
+      "published": "Wed, 07 Oct 2026 12:39:07 +0000"
+    },
+    {
+      "title": "Palestinian killed, 16 wounded in Israeli pogrom in occupied West Bank",
+      "link": "https://www.aljazeera.com/news/2026/10/7/palestinian-killed-several-injured-in-israeli-pogrom-in-occupied-west-bank?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "A 44-year-old Palestinian man was killed during Israeli settler assaults on olive harvesters in the West Bank."
+      ],
+      "image_url": null,
+      "published": "Wed, 07 Oct 2026 12:38:31 +0000"
+    },
+    {
+      "title": "UK Greens are wrong – Zionism is not racism",
+      "link": "https://www.aljazeera.com/opinions/2026/10/7/the-uk-greens-are-wrong-zionism-is-not-racism?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The party’s new policy reflects ignorance of Zionism and does nothing to advance Palestinian self-determination."
+      ],
+      "image_url": null,
+      "published": "Wed, 07 Oct 2026 12:37:22 +0000"
+    },
+    {
+      "title": "Japan beer giants raided over alleged price-fixing cartel",
+      "link": "https://www.bbc.co.uk/news/articles/cm5yn3592xk9o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Asahi, Kirin and Suntory confirmed their premises were searched by Japanese competition authorities."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/adce/live/8f5568b0-c21f-11f1-b7d8-6f930589c871.jpg",
+      "published": "Wed, 07 Oct 2026 12:09:59 GMT"
+    },
+    {
+      "title": "Flávio Bolsonaro’s advance in Brazil’s election is grim jolt for climate campaigners",
+      "link": "https://www.theguardian.com/world/2026/oct/07/flavio-bolsonaro-advance-brazil-election-jolt-climate-campaigners",
+      "source": "The Guardian World",
+      "all_sources": [
+        "Christian Science Monitor World",
         "The Guardian World"
       ],
       "bias_breakdown": {
         "Lean Left": 1,
-        "Center": 2
-      },
-      "bias_bar": {
-        "left_pct": 33,
-        "center_pct": 67,
-        "right_pct": 0,
-        "total": 3
-      },
-      "is_blindspot": false,
-      "is_trending": true,
-      "bullet_points": [
-        "Health minister says 28 contacts identified after death of citizen who arrived from DRC on Saturday  Kenya has reported its first-ever Ebola death, the health minister announced on Tuesday, as the disease continues to spread rapidly through the north-east of the Democratic Republic of Congo (DRC), where the outbreak was announced in May.",
-        "This is the 17th outbreak of the highly infectious, often deadly disease in the DRC.",
-        "As of 2 October, 4,082 people had died out of 8,463 confirmed cases in the country  since the emergence  of the Bundibugyo strain of the Ebola virus, for which there is still no vaccine nor specific treatment."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/535c/live/9ad923b0-c167-11f1-bc2e-018d645d8d21.jpg",
-      "published": "Tue, 06 Oct 2026 12:46:56 GMT"
-    },
-    {
-      "title": "Flávio’s surprise first-round election win highlights rapid rise of Brazil’s House of Bolsonaro",
-      "link": "https://www.theguardian.com/world/2026/oct/06/keeping-up-with-the-bolsonaros-flavios-surprise-first-round-election-win-heralds-rise-of-a-political-dynasty",
-      "source": "The Guardian World",
-      "all_sources": [
-        "Christian Science Monitor World",
-        "The Guardian World",
-        "The Guardian World",
-        "The Guardian World",
-        "Fox News World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 3,
-        "Center": 1,
-        "Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 60,
-        "center_pct": 20,
-        "right_pct": 20,
-        "total": 5
-      },
-      "is_blindspot": false,
-      "is_trending": true,
-      "bullet_points": [
-        "Four members of disgraced ex-president Jair Bolsonaro’s family have been elected to office, most notably his wife and son Flávio, who won the first round of voting to be Brazil’s new president  The weekend’s elections in Brazil not only put Jair Bolsonaro’s eldest son, Flávio Bolsonaro, in the lead in the  presidential race , but also underscored how far the former president has come in building a political dynasty.",
-        "As his far-right senator son heads into a runoff against the leftist incumbent, Luiz Inácio Lula da Silva, a  sweeping far-right victory  in congressional races also secured seats for Jair Bolsonaro’s wife, two of his sons and one of his brothers.",
-        "Continue reading..."
-      ],
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/flavio-bolsonaro.jpg?ve=1&tl=1",
-      "published": "Tue, 06 Oct 2026 07:00:05 GMT"
-    },
-    {
-      "title": "Francis Halzen wins Nobel Prize in physics for work on high-energy neutrinos from space",
-      "link": "https://www.npr.org/2026/10/06/g-s1-146622/nobel-prize-physics",
-      "source": "NPR World",
-      "all_sources": [
-        "BBC World",
-        "NPR World",
-        "Al Jazeera",
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 2,
-        "Center": 1,
-        "Lean Right": 1
+        "Center": 1
       },
       "bias_bar": {
         "left_pct": 50,
-        "center_pct": 25,
-        "right_pct": 25,
-        "total": 4
-      },
-      "is_blindspot": false,
-      "is_trending": true,
-      "bullet_points": [
-        "The 82-year-old scientist, originally from Belgium, is affiliated with the University of Wisconsin–Madison.",
-        "His research into capturing neutrinos at the South Pole dates back to the 1980s."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73fd/live/3d7299c0-c16e-11f1-a003-8be783290413.jpg",
-      "published": "Tue, 06 Oct 2026 06:16:28 -0400"
-    },
-    {
-      "title": "Tigray rebel groups ‘forcibly recruiting boys as young as 15’ as fighting spreads",
-      "link": "https://www.theguardian.com/global-development/2026/oct/06/ethiopia-tigray-conflict-tplf-rebels-forcibly-recruit-boys-war-crimes",
-      "source": "The Guardian World",
-      "all_sources": [
-        "Christian Science Monitor World",
-        "The Guardian World",
-        "The Guardian World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 2,
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 67,
-        "center_pct": 33,
+        "center_pct": 50,
         "right_pct": 0,
-        "total": 3
+        "total": 2
       },
       "is_blindspot": false,
-      "is_trending": true,
+      "is_trending": false,
       "bullet_points": [
-        "Civilians try to flee as men and boys rounded up on streets by new alliance as Ethiopia conflict erupts again  As renewed fighting has threatened a fresh humanitarian crisis in the northern region of Ethiopia, reports are emerging that a new alliance of armed groups in Tigray has been forcibly recruiting men and boys to its ranks.",
-        "Renewed conflict erupted on 23 September between Ethiopia’s federal government and the Tigray People’s Liberation Front (TPLF), which rules the region, shattering the fragile  Pretoria peace agreement  signed between the two sides in November 2022.",
-        "Continue reading..."
+        "Inquest under way into why President Lula’s success in curbing Amazon deforestation has not lead to success at polls  More fire, more ash, more crime, more death.",
+        "And a globally important ecosystem driven ever more rapidly towards a point of no return.",
+        "This appears to be of far more concern to the outside world than to voters in Latin America’s biggest, richest and most biodiverse nation."
       ],
       "image_url": null,
-      "published": "Tue, 06 Oct 2026 05:00:02 GMT"
+      "published": "Wed, 07 Oct 2026 12:03:52 GMT"
     },
     {
-      "title": "Germany’s ex-spy chief arrested  on suspicion of trading state secrets, treason",
-      "link": "https://nypost.com/2026/10/06/world-news/ex-spy-chief-august-hanning-is-arrested-in-germany-on-suspicion-of-trading-state-secrets-and-treason/",
-      "source": "New York Post World",
-      "all_sources": [
-        "BBC World",
-        "NYT World",
-        "NPR World",
-        "Al Jazeera",
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 3,
-        "Center": 1,
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 60,
-        "center_pct": 20,
-        "right_pct": 20,
-        "total": 5
-      },
-      "is_blindspot": false,
-      "is_trending": true,
-      "bullet_points": [
-        "A former head of Germany's foreign intelligence service was arrested Tuesday on suspicion that he passed state secrets to a foreign intelligence service, the federal prosecutor's office said."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ff2/live/9164de70-c174-11f1-babe-4199b0e7ccea.jpg",
-      "published": "Tue, 06 Oct 2026 04:27:16 -0700"
-    },
-    {
-      "title": "Live Updates: Protests Spread Across France as Unions Join Student Demonstrations",
-      "link": "https://www.nytimes.com/live/2026/10/06/world/france-protests-students-schools",
+      "title": "Ukraine Claws Back Land in the Donbas, Thwarting a Russian Push",
+      "link": "https://www.nytimes.com/2026/10/07/world/europe/ukraine-battlefield-operation-vivaldi.html",
       "source": "NYT World",
       "all_sources": [
         "NYT World"
@@ -203,14 +446,15 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "The rallies are a test of the strength of the student-led protest movement that has closed hundreds of French high schools since late September."
+        "Moscow says its capture of the region is inevitable.",
+        "But Kyiv has so far stymied Russian efforts to encircle Ukrainian “fortress belt” cities."
       ],
-      "image_url": "https://static01.nyt.com/images/2026/10/06/multimedia/06int-france-protests-pvbl/06int-france-protests-pvbl-mediumSquareAt3X.jpg",
-      "published": "Tue, 06 Oct 2026 14:40:11 +0000"
+      "image_url": "https://static01.nyt.com/images/2026/10/07/multimedia/2026-09-03-ukraine-frontline-maps-index/2026-09-03-ukraine-frontline-maps-index-mediumSquareAt3X-v3.png",
+      "published": "Wed, 07 Oct 2026 12:02:09 +0000"
     },
     {
-      "title": "Man Arrested in Connection With Incident at UK Air Base RAF Fairford",
-      "link": "https://www.nytimes.com/2026/10/06/world/europe/arrest-raf-fairford-air-base-incident-uk.html",
+      "title": "How a Shadow Economy in Asia Is Keeping Iranian Oil Flowing",
+      "link": "https://www.nytimes.com/2026/10/07/world/asia/iran-shadow-fleet-asia.html",
       "source": "NYT World",
       "all_sources": [
         "NYT World"
@@ -227,63 +471,14 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "A 22-year-old from London was the seventh person to be arrested by the counterterrorism police investigating an incident at R.A.F.",
-        "Fairford last month."
+        "Companies continue to service a “dark fleet” of Iranian tankers in waters off Malaysia in spite of Washington’s threat to target them."
       ],
-      "image_url": "https://static01.nyt.com/images/2026/10/06/multimedia/06uk-airbase-arrest-wjfz/06uk-airbase-arrest-wjfz-mediumSquareAt3X.jpg",
-      "published": "Tue, 06 Oct 2026 14:28:21 +0000"
+      "image_url": "https://static01.nyt.com/images/2026/10/05/multimedia/00int-malaysia-dark-fleet-01-kmgv/00int-malaysia-dark-fleet-01-kmgv-mediumSquareAt3X.jpg",
+      "published": "Wed, 07 Oct 2026 11:58:37 +0000"
     },
     {
-      "title": "Hormuz ship attacks surge: Are increased oil exports sustainable?",
-      "link": "https://www.aljazeera.com/news/2026/10/6/hormuz-ship-attacks-surge-are-increased-oil-exports-sustainable?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Gulf oil flows surge despite escalating ship attacks in the critical Strait of Hormuz energy corridor."
-      ],
-      "image_url": null,
-      "published": "Tue, 06 Oct 2026 14:15:09 +0000"
-    },
-    {
-      "title": "‘Cockroach stir stripped Modi’s carefully confected image’: Arundhati Roy",
-      "link": "https://www.aljazeera.com/news/2026/10/6/cockroach-stir-stripped-modis-carefully-confected-image-arundhati-roy?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Acclaimed Indian author talks to Al Jazeera on the Gen Z-led protests and allegations of vote theft by Modi government."
-      ],
-      "image_url": null,
-      "published": "Tue, 06 Oct 2026 14:13:55 +0000"
-    },
-    {
-      "title": "Drones Hit Ships Off Bulgaria’s Black Sea Coast, Prime Minister Says",
-      "link": "https://www.nytimes.com/2026/10/06/world/europe/bulgaria-drones-black-sea.html",
+      "title": "U.S. Formally Seeks Information From Russia About Possible Plague Death",
+      "link": "https://www.nytimes.com/2026/10/07/world/europe/russia-plague-us-trump-state-department.html",
       "source": "NYT World",
       "all_sources": [
         "NYT World"
@@ -300,209 +495,15 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "A rescue effort was underway, Prime Minister Rumen Radev said, after one of the two ships sank.",
-        "It was not immediately clear where the drones originated."
+        "The lack of details from the Russian authorities has unnerved U.S.",
+        "officials and others around the world."
       ],
-      "image_url": "https://static01.nyt.com/images/2026/10/06/multimedia/06int-bulgaria-drones-wqcb/06int-bulgaria-drones-wqcb-mediumSquareAt3X.jpg",
-      "published": "Tue, 06 Oct 2026 13:57:13 +0000"
+      "image_url": "https://static01.nyt.com/images/2026/10/07/multimedia/07int-russia-plague-tmqh/07int-russia-plague-tmqh-mediumSquareAt3X.jpg",
+      "published": "Wed, 07 Oct 2026 11:17:09 +0000"
     },
     {
-      "title": "Lawyer for one of Cornell 7 calls for special prosecutor to be removed over previous comments",
-      "link": "https://www.bbc.co.uk/news/articles/c9p8gxygvpg6o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "all_sources": [
-        "BBC World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "New York Attorney General Letitia James is investigating the rape allegations, but the lawyer says comments she made on the case should disqualify her."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6613/live/f2cf53b0-c189-11f1-83c7-97e75190a976.jpg",
-      "published": "Tue, 06 Oct 2026 13:36:46 GMT"
-    },
-    {
-      "title": "Demonstrators clash with riot police in France as education protests mount",
-      "link": "https://www.aljazeera.com/news/2026/10/6/demonstrators-clash-with-riot-police-in-france-as-education-protests-mount?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "School blockades and clashes intensify in France as frustration rises over government education policy."
-      ],
-      "image_url": null,
-      "published": "Tue, 06 Oct 2026 13:28:54 +0000"
-    },
-    {
-      "title": "Ukraine launches major drone attack on Russia’s Moscow region, killing two",
-      "link": "https://www.aljazeera.com/news/2026/10/6/ukraine-launches-major-drone-attack-on-russias-moscow-region-killing-two?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Russia says 290 drones targeted Moscow and nearby regions in the overnight Ukrainian assault."
-      ],
-      "image_url": null,
-      "published": "Tue, 06 Oct 2026 12:42:19 +0000"
-    },
-    {
-      "title": "Mapping where US bombers are based globally",
-      "link": "https://www.aljazeera.com/news/2026/10/6/mapping-where-us-bombers-are-based-around-the-world?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The US has pulled its B-1 bombers from RAF Fairford amid Iran fears.",
-        "Here&#039;s where else they can fly from."
-      ],
-      "image_url": null,
-      "published": "Tue, 06 Oct 2026 12:22:54 +0000"
-    },
-    {
-      "title": "Pakistan, Turkiye and Saudi deterrence against Houthis: What that means",
-      "link": "https://www.aljazeera.com/news/2026/10/6/pakistan-turkiye-join-saudi-deterrence-against-houthis-what-that-means?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Islamabad says its role is defensive, but Riyadh&#039;s offensive in Yemen tests how long it can stay out of the fight."
-      ],
-      "image_url": null,
-      "published": "Tue, 06 Oct 2026 12:22:46 +0000"
-    },
-    {
-      "title": "An 87-Year-Old’s Eviction Dragged Down Spain’s Leader. Will It Also Save Him?",
-      "link": "https://www.nytimes.com/2026/10/06/world/europe/pedro-sanchez-spain-housing-election.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The eviction of the woman in Madrid last month helped unravel Pedro Sánchez’s government.",
-        "It also gave him an election platform."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/10/06/multimedia/06int-spain-assess-1-hmqc/06int-spain-assess-1-hmqc-mediumSquareAt3X.jpg",
-      "published": "Tue, 06 Oct 2026 12:08:04 +0000"
-    },
-    {
-      "title": "Seven arrested for using Ghanaian banknotes to make 'money bouquets'",
-      "link": "https://www.bbc.co.uk/news/articles/c65yn3g53dkqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "all_sources": [
-        "BBC World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The arrests are part of the country's efforts to curb the misuse and abuse of the national currency."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6676/live/7c94e330-c176-11f1-bed0-05ebd781c53c.jpg",
-      "published": "Tue, 06 Oct 2026 12:00:10 GMT"
-    },
-    {
-      "title": "Ship sinks and crew missing after Black Sea drone attack",
-      "link": "https://www.bbc.co.uk/news/articles/c8ly0v5r602eo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "all_sources": [
-        "BBC World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "It is not clear who is behind the attacks which come as Russia intensifies strikes in the Black Sea as part of its war against Ukraine."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ac4/live/33a7d8a0-c192-11f1-babe-4199b0e7ccea.jpg",
-      "published": "Tue, 06 Oct 2026 11:53:21 GMT"
-    },
-    {
-      "title": "Argentina will stop Falklands exploiting offshore oilfields, foreign minister says",
-      "link": "https://www.theguardian.com/uk-news/2026/oct/06/argentina-to-stop-falkland-islands-exploiting-offshore-oilfields-sovereignty",
+      "title": "Separatists win in Quebec – but does that bring separation from Canada any closer?",
+      "link": "https://www.theguardian.com/world/2026/oct/07/quebec-election-canada-separatists-analysis",
       "source": "The Guardian World",
       "all_sources": [
         "The Guardian World"
@@ -519,40 +520,16 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Pablo Quirno says move is part of Argentinian government’s strategy to peacefully assert sovereignty over the islands  Argentina’s foreign minister has told an audience that included the British ambassador that his government would stop the Falkland Islands from exploiting its offshore oilfields as part of a strategy to take sovereignty.",
-        "During a speech at a thinktank event in the Argentinian capital, Pablo Quirno condemned the British government for failing to open negotiations over the islands and facilitating a significant offshore oil project in its waters.",
-        "Continue reading..."
+        "Lack of majority for Parti Québécois puts any referendum in doubt, especially amid bruising trade war with Trump  The victory of the Parti Québécois in Monday’s election in Quebec might seem to bring its signature goal, of separating the French-speaking province from Canada, much closer – but Canadian unity may not be nearly as threatened as may first seem.",
+        "The PQ’s victory was both impressive and disappointing.",
+        "Crucially, however, it was left five seats short of a majority, making its promise to hold a referendum after Donald Trump leaves office in 2028 nearly impossible."
       ],
       "image_url": null,
-      "published": "Tue, 06 Oct 2026 11:40:03 GMT"
+      "published": "Wed, 07 Oct 2026 11:00:08 GMT"
     },
     {
-      "title": "Kenya Records Ebola Case for First Time",
-      "link": "https://www.nytimes.com/2026/10/06/world/africa/kenya-case-ebola-outbreak.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The authorities said that the virus had been diagnosed in a man arriving from the Democratic Republic of Congo and that they were taking measures to prevent any spread."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/10/06/multimedia/06int-kenya-ebola-kfqz/06int-kenya-ebola-kfqz-mediumSquareAt3X.jpg",
-      "published": "Tue, 06 Oct 2026 11:18:41 +0000"
-    },
-    {
-      "title": "Indian opposition MPs detained in protest against election chief",
-      "link": "https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss",
+      "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
+      "link": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "all_sources": [
         "BBC World"
@@ -569,39 +546,14 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Opposition leaders have alleged that CEC Gyanesh Kumar manipulated voter rolls to favour Prime Minister Narendra Modi's party during elections."
+        "A medical expert advising her legal team says the murderer of Colleen Slemmer is communicating in a \"basic way\"."
       ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e0e/live/d31f47a0-c16b-11f1-a003-8be783290413.jpg",
-      "published": "Tue, 06 Oct 2026 10:05:22 GMT"
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b33f/live/56311ac0-c210-11f1-bc2e-018d645d8d21.jpg",
+      "published": "Wed, 07 Oct 2026 10:12:36 GMT"
     },
     {
-      "title": "U.S. Sends Reaper Drones to Colombia and Ecuador to Hunt Cartels",
-      "link": "https://www.nytimes.com/2026/10/06/world/americas/us-reaper-drones-colombia-ecuador-cartels.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "MQ-9 Reaper drones — known for high-profile deadly strikes — have been shifted from Africa to Colombia and Ecuador, U.S.",
-        "officials said."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/10/05/multimedia/05int-reaper-drones-latin-america-twpl/05int-reaper-drones-latin-america-twpl-mediumSquareAt3X.jpg",
-      "published": "Tue, 06 Oct 2026 09:03:34 +0000"
-    },
-    {
-      "title": "What to know about nationwide protests in India over voter list changes",
-      "link": "https://www.npr.org/2026/10/06/g-s1-146636/what-to-know-about-nationwide-protests-in-india-over-voter-list-changes",
+      "title": "Greetings from Lahore, Pakistan, whose high court offers an oasis for chatter and chai",
+      "link": "https://www.npr.org/2026/10/07/nx-s1-5992681/lahore-pakistan-high-court-square",
       "source": "NPR World",
       "all_sources": [
         "NPR World"
@@ -618,14 +570,14 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "The campaign is led in part by India's \"Cockroach\" youth movement, which previously forced the education minister to resign."
+        "The Lahore High Court is a near-perfect specimen of British South Asian colonial architecture and its main square is a pleasant spot shaded by banyan trees."
       ],
       "image_url": null,
-      "published": "Tue, 06 Oct 2026 07:44:06 -0400"
+      "published": "Wed, 07 Oct 2026 09:53:54 -0400"
     },
     {
-      "title": "Yemeni military says it has 'secured' Red Sea waterway",
-      "link": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
+      "title": "Sri Lanka's ex-first lady arrested over alleged misuse of children's hospital donations",
+      "link": "https://www.bbc.co.uk/news/articles/ck0e0n3xzvp4o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "all_sources": [
         "BBC World"
@@ -642,14 +594,14 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Saudi-backed forces gave conflicting reports of whether they had also seized the port city of Mokha, near the Bab al-Mandab Strait."
+        "The 73-year-old has been arrested over allegations that a charity she is linked to misused donations."
       ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e58c/live/3aa7d380-c0ca-11f1-a5b0-6f550c662e91.jpg",
-      "published": "Tue, 06 Oct 2026 07:43:07 GMT"
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd24/live/cf2b2a00-c22f-11f1-bc2e-018d645d8d21.jpg",
+      "published": "Wed, 07 Oct 2026 09:49:31 GMT"
     },
     {
-      "title": "Vietnamese police arrest 12 suspected of prowling city streets at night, snatching cats for meat",
-      "link": "https://www.npr.org/2026/10/06/g-s1-146634/vietnamese-police-arrest-12-suspected-of-prowling-city-streets-at-night-snatching-cats-for-meat",
+      "title": "DIY fertilizer is a blessing as farmers face steep prices due to the Iran war",
+      "link": "https://www.npr.org/2026/10/07/g-s1-146541/fertilizer-diy-farmers-iran-war",
       "source": "NPR World",
       "all_sources": [
         "NPR World"
@@ -666,14 +618,64 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "State media cited investigators who said the network recruited people to ride motorcycles through neighborhoods at night, trapping up to 10 cats a night."
+        "It's hard enough being a small-scale farmer.",
+        "Then the Iran war drove up fertilizer prices.",
+        "So farmers are using a traditional Asian recipe to make their own."
       ],
       "image_url": null,
-      "published": "Tue, 06 Oct 2026 07:38:48 -0400"
+      "published": "Wed, 07 Oct 2026 09:32:37 -0400"
     },
     {
-      "title": "'UNRWA is Hamas,' Israeli attorney warns as explosive Oct 7 lawsuit rocks UN agency",
-      "link": "https://www.foxnews.com/world/unrwa-hamas-israeli-attorney-warns-explosive-oct-7-lawsuit-rocks-un-agency",
+      "title": "Europe’s Trade Tensions With China Are Coming to a Head",
+      "link": "https://www.nytimes.com/2026/10/07/business/china-europe-trade-issues.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The European Union is weighing tougher trade measures as negotiators prepare to meet Chinese officials in Beijing, with surging exports from China pressuring key industries in Europe."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/10/07/multimedia/07Biz-China-Europe-Trade-01-pjzt/07Biz-China-Europe-Trade-01-pjzt-mediumSquareAt3X-v2.jpg",
+      "published": "Wed, 07 Oct 2026 09:06:15 +0000"
+    },
+    {
+      "title": "Mass Trials Put Hundreds in One Dock in El Salvador",
+      "link": "https://www.nytimes.com/2026/10/07/world/americas/el-salvador-mass-trials-bukele.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Lawyers warn that the mass trials of people imprisoned during President Nayib Bukele’s gang crackdown are marred by vague evidence and restrictions on a proper defense."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/10/07/world/07int-elsalvador-trials-top/07int-elsalvador-trials-top-mediumSquareAt3X.jpg",
+      "published": "Wed, 07 Oct 2026 09:02:10 +0000"
+    },
+    {
+      "title": "French school riots deepen as experts point to far-left alliance fueling ‘broader confrontation’",
+      "link": "https://www.foxnews.com/world/french-school-riots-deepen-experts-point-far-left-alliance-fueling-broader-confrontation",
       "source": "Fox News World",
       "all_sources": [
         "Fox News World"
@@ -690,15 +692,38 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "The family of Yonatan Samerano, killed fleeing the Nova music festival on Oct.",
-        "7, is suing UNRWA after the Knesset stripped its diplomatic immunity."
+        "French student protests over school conditions spiral into violent unrest, as experts warn a red-green alliance is fueling a broader revolt,"
       ],
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Jonathan_Samerano_UNRWA.jpg?ve=1&tl=1",
-      "published": "Tue, 06 Oct 2026 07:26:51 -0400"
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/protests-france.jpg?ve=1&tl=1",
+      "published": "Wed, 07 Oct 2026 07:40:59 -0400"
     },
     {
-      "title": "Dems have edge in midterms, poll shows. And, Paramount-Warner Bros. merger to close",
-      "link": "https://www.npr.org/2026/10/06/g-s1-146626/up-first-newsletter-election-day-skydance-christa-pike-russia-plague-scare",
+      "title": "Oscar-winning actress Eva Marie Saint dies aged 102",
+      "link": "https://www.bbc.co.uk/news/articles/cqze43ky1xgdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "She starred opposite Marlon Brando in On the Waterfront, then alongside Cary Grant in Hitchcock's North by Northwest."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98d6/live/7a402d70-c229-11f1-babe-4199b0e7ccea.jpg",
+      "published": "Wed, 07 Oct 2026 07:37:16 GMT"
+    },
+    {
+      "title": "U.S. moves long-range bombers from U.K. And, Israel allegedly warned before Oct. 7",
+      "link": "https://www.npr.org/2026/10/07/g-s1-146853/up-first-newsletter-long-range-bombers-france-high-school-protest-germany-august-hanning-oct-7-memorial-day",
       "source": "NPR World",
       "all_sources": [
         "NPR World"
@@ -715,16 +740,41 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Polls are showing that Democrats have a clear advantage heading into the midterms, but that doesn't tell the whole story.",
-        "And, today, a mega merger between Paramount and Warner Bros.",
-        "is set to close."
+        "A possible Iranian threat led the U.S.",
+        "to remove long-range bombers from a U.K.",
+        "base."
       ],
       "image_url": null,
-      "published": "Tue, 06 Oct 2026 07:19:25 -0400"
+      "published": "Wed, 07 Oct 2026 06:52:58 -0400"
     },
     {
-      "title": "Mom influencer kills her family in murder-suicide hours after ominous final post",
-      "link": "https://nypost.com/2026/10/06/world-news/mom-influencer-kills-her-family-in-murder-suicide-hours-after-ominous-final-post/",
+      "title": "Investigation continues into whether U.K. air base incident is linked to Iran",
+      "link": "https://www.npr.org/2026/10/07/nx-s1-5992704/investigation-continues-into-whether-u-k-air-base-incident-is-linked-to-iran",
+      "source": "NPR World",
+      "all_sources": [
+        "NPR World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Questions continue to swirl around a U.K.",
+        "military base and potential Iran-backed attacks."
+      ],
+      "image_url": null,
+      "published": "Wed, 07 Oct 2026 06:45:38 -0400"
+    },
+    {
+      "title": "Marco Rubio to call for the West to return to civilizational roots, restore founding democratic values",
+      "link": "https://nypost.com/2026/10/07/world-news/rubio-in-greece-set-to-call-for-the-west-to-return-to-civilizational-roots-restore-founding-democratic-values/",
       "source": "New York Post World",
       "all_sources": [
         "New York Post World"
@@ -741,14 +791,287 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "A wannabe influencer gunned down her family before taking her life in a suspected murder-suicide – hours after sharing chilling posts about her “nasty side.”"
+        "Rubio intends to remind listeners of qualities he says were born in Greece and later defined the West, such as curiosity, courage, ambition and a restless spirit of exploration and discovery of the unknown."
       ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fmexican-tiktok-influencer-cindy-tamez-143976430.jpg?w%3D632",
-      "published": "Tue, 06 Oct 2026 07:09:58 -0700"
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fu-s-secretary-state-marco-144087249.jpg?w%3D1024",
+      "published": "Wed, 07 Oct 2026 06:40:25 -0700"
     },
     {
-      "title": "Terror suspect arrested charges in probe into alleged Iran-linked plot at UK airbase",
-      "link": "https://nypost.com/2026/10/06/world-news/uk-police-make-further-arrest-over-suspected-fairford-airbase-plot/",
+      "title": "Henri B. Kagan and Kenso Soai win Nobel Prize in chemistry",
+      "link": "https://www.npr.org/2026/10/07/g-s1-146849/nobel-prize-chemistry",
+      "source": "NPR World",
+      "all_sources": [
+        "NPR World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Henri B.",
+        "Kagan and Kenso Soai won the Nobel Prize in chemistry Wednesday for their discovery of non-linear effects and autocatalysis in asymmetric organic synthesis."
+      ],
+      "image_url": null,
+      "published": "Wed, 07 Oct 2026 06:05:54 -0400"
+    },
+    {
+      "title": "Residents of kibbutz destroyed in 7 October Hamas-led attacks grapple with how to rebuild",
+      "link": "https://www.bbc.co.uk/news/articles/cqrmyz4mdn94o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Three years on from the attack on Nir Oz, in which 47 people were killed and 76 taken hostage, some survivors have returned to live there."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e00e/live/bb88aa50-c1c5-11f1-babe-4199b0e7ccea.jpg",
+      "published": "Wed, 07 Oct 2026 05:02:18 GMT"
+    },
+    {
+      "title": "After 3 years of war, looking for calm in a murky Gaza swimming pool",
+      "link": "https://www.csmonitor.com/World/Middle-East/2026/1007/Gaza-swimming-lessons-ceasefire-life?icid=rss",
+      "source": "Christian Science Monitor World",
+      "all_sources": [
+        "Christian Science Monitor World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Before Israel’s invasion of Gaza on Oct.",
+        "7, 2023, Ghada Abdulfattah loved to swim at her local pool.",
+        "Now, she is tentatively returning to the water."
+      ],
+      "image_url": null,
+      "published": "Wed, 07 Oct 2026 05:00:17 EDT"
+    },
+    {
+      "title": "3 years on, Israelis grapple with reports Netanyahu was warned before Oct. 7 attacks",
+      "link": "https://www.npr.org/2026/10/07/g-s1-146776/israel-gaza-oct-7-attack-netanyahu-warning",
+      "source": "NPR World",
+      "all_sources": [
+        "NPR World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "On the three-year mark since the Hamas-led deadly attack, Israelis are grappling with reports that Prime Minister Benjamin Netanyahu was repeatedly warned by regional allies ahead of time."
+      ],
+      "image_url": null,
+      "published": "Wed, 07 Oct 2026 05:00:00 -0400"
+    },
+    {
+      "title": "Queen Camilla’s doctor murdered —allegedly by husband — while hosting a sleepover for her 3 kids",
+      "link": "https://nypost.com/2026/10/07/world-news/queen-camillas-doctor-murdered-while-hosting-a-sleepover-for-her-3-kids/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "A mom of three who was a doctor for members of the UK royal family was killed while hosting a kids&#8217; sleepover – and her husband has been charged with her murder.",
+        "Hannah Cain, 45, suffered a “blunt force injury to the right side of her head” and had an injury “that could be suggestive..."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fhannah-terry-husband-mark-doctor-144094386.jpg",
+      "published": "Wed, 07 Oct 2026 04:50:32 -0700"
+    },
+    {
+      "title": "Vladimir Putin celebrates 74th birthday with deadly strikes on Kyiv, leaving at least 19 dead",
+      "link": "https://nypost.com/2026/10/07/world-news/russian-strikes-on-ukrainian-cities-kill-at-least-19-in-a-major-attack-that-kyiv-saw-coming/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Russian missile and drone strikes on Kyiv and other Ukrainian cities have killed at least 19 civilians, including four children, and wounded 60."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fpeople-carry-casualty-emergency-services-144093966.jpg?w%3D1024",
+      "published": "Wed, 07 Oct 2026 04:22:47 -0700"
+    },
+    {
+      "title": "Israeli Oct. 7 hostage shares how she survived 50 days in Hamas captivity after massacre: ‘I demanded that they respect us’",
+      "link": "https://nypost.com/2026/10/07/world-news/how-israeli-oct-7-hostage-survived-50-days-in-hamas-captivity/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "“I understood that I could not show any weakness.\""
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F10-06-26-shoshan-haran-143974472.jpg?w%3D1024",
+      "published": "Wed, 07 Oct 2026 04:00:00 -0700"
+    },
+    {
+      "title": "How some Oct. 7 hostages found their voice and new strength after being freed: ‘Post-traumatic growth’",
+      "link": "https://nypost.com/2026/10/07/world-news/how-some-oct-7-hostages-found-their-post-traumatic-growth-after-being-freed/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Former hostages Eli Sharabi, Noa Argamani, Keith and Aviva Siegel and Andrey Kozlov share how they've moved forward with their lives three years after the Oct.",
+        "7, 2023, terrorist attack in Israel."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Freunited-brother-sharon-sisters-osnat-98163673.jpg?w%3D1024",
+      "published": "Wed, 07 Oct 2026 03:30:00 -0700"
+    },
+    {
+      "title": "Mother, son among six identified after Boston-bound medevac jet vanishes off Nantucket",
+      "link": "https://nypost.com/2026/10/07/world-news/bermuda-boston-medical-jet-passengers-identified-after-plane-vanished-over-atlantic-ocean/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The six people aboard a Boston-bound medical jet that disappeared over the Atlantic have been identified as a Bermudian mother and son and a four-person Canadian flight and medical crew."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fmarilyn-lavonne-bean-sergio-wayne-143990464.jpg?w%3D1024",
+      "published": "Wed, 07 Oct 2026 02:13:22 -0700"
+    },
+    {
+      "title": "Israelis mourn on the anniversary of the Oct. 7 as Palestinians grapple with war it sparked",
+      "link": "https://www.npr.org/2026/10/07/nx-s1-5993459/israelis-oct-7-palestinians-war",
+      "source": "NPR World",
+      "all_sources": [
+        "NPR World",
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1,
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 50,
+        "center_pct": 0,
+        "right_pct": 50,
+        "total": 2
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Israelis are gathering Wednesday to commemorate the Oct.",
+        "7, 2023, attack that killed 1,200 people, and sparked a devastating war in Gaza that Palestinians still grapple with."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F2023-hamas-terror-attack-israel-79038542_237f96.jpg?w%3D668",
+      "published": "Wed, 07 Oct 2026 02:02:57 -0400"
+    },
+    {
+      "title": "Trauma for Oct. 7 survivors and their families endures: ‘It’s never going to go back to normal — for anybody’",
+      "link": "https://nypost.com/2026/10/07/world-news/oct-7-survivors-struggling-with-joblessness-and-ptsd/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "\"People are dealing with a lot of stress and emotions, fear and trauma,\" said one widow.",
+        "“It’s not over.\""
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnova-music-festival-survivor-still-143886215.jpg?w%3D1024",
+      "published": "Wed, 07 Oct 2026 02:00:00 -0700"
+    },
+    {
+      "title": "Alleged killing by Marine prompts US military to restrict off-base liberty in Okinawa",
+      "link": "https://nypost.com/2026/10/07/world-news/japan-alleged-marine-killer-sparks-okinawa-off-base-restriction/",
       "source": "New York Post World",
       "all_sources": [
         "Al Jazeera",
@@ -767,86 +1090,14 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Six men in their 20s, arrested previously in connection with the investigation, including a dual British-Iranian national arrested on October 1, remain on police bail."
+        "The US military in Okinawa, Japan, is beginning an operational pause for 48 hours, prohibiting off-base liberty and ordering training after a Marine was arrested on suspicion of killing and robbing a woman."
       ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Farmed-police-officers-stand-guard-143779254.jpg?w%3D1024",
-      "published": "Tue, 06 Oct 2026 07:09:24 -0700"
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fus-marine-lance-corporal-devin-143832670_5c2841.jpg?w%3D755",
+      "published": "Wed, 07 Oct 2026 01:47:38 -0700"
     },
     {
-      "title": "India Cut 130 Million From Voter Roll, Fueling Protests Against Modi",
-      "link": "https://www.nytimes.com/2026/10/06/world/asia/india-protests-voter-list-changes.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Public anger is growing over an exercise that critics say undermines the world’s largest democracy, particularly disenfranchising Muslims under the Hindu nationalist government."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/10/06/multimedia/06int-india-voters-gwqk/06int-india-voters-gwqk-mediumSquareAt3X.jpg",
-      "published": "Tue, 06 Oct 2026 07:02:29 +0000"
-    },
-    {
-      "title": "What voters in 6 key states could tell us about the 2026 midterms",
-      "link": "https://www.npr.org/2026/10/06/g-s1-146559/morning-edition-2026-midterms-election-voters-states",
-      "source": "NPR World",
-      "all_sources": [
-        "NPR World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Morning Edition  is heading to Maine, Texas, North Carolina, Georgia, Ohio and Michigan to hear what voters say is shaping their choices ahead of the midterm elections."
-      ],
-      "image_url": null,
-      "published": "Tue, 06 Oct 2026 07:00:00 -0400"
-    },
-    {
-      "title": "Tate brothers used ‘lover boy’ model to exploit women, British officials says",
-      "link": "https://nypost.com/2026/10/06/world-news/tate-brothers-used-lover-boy-model-to-exploit-women-british-officials-says/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The brothers have also been under investigation since 2022 in Romania on charges including human trafficking."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fandrew-tate-right-brother-tristan-140319842.jpg?w%3D1024",
-      "published": "Tue, 06 Oct 2026 06:56:29 -0700"
-    },
-    {
-      "title": "Iran turns citizens into informants as chilling crackdown spreads beyond its borders",
-      "link": "https://www.foxnews.com/world/iran-turns-citizens-informants-chilling-crackdown-spreads-beyond-its-borders",
+      "title": "French PM rejects police brutality claims after teens severely injured in protests: 'Accidents happen'",
+      "link": "https://www.foxnews.com/world/french-pm-rejects-police-brutality-claims-teens-severely-injured-protests-accidents-happen",
       "source": "Fox News World",
       "all_sources": [
         "Fox News World"
@@ -863,17 +1114,42 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Iran&apos;s Alaj platform crowdsources diaspora surveillance via Telegram, with an official source confirming the system to Fox News Digital."
+        "French Prime Minister Sébastien Lecornu defended the police response after a teen lost his hand and another was blinded amid student protests."
       ],
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/09/931/523/FREE-IRAN-PROTESTS-3.jpg?ve=1&tl=1",
-      "published": "Tue, 06 Oct 2026 06:00:37 -0400"
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/france-protests-2.jpg?ve=1&tl=1",
+      "published": "Wed, 07 Oct 2026 01:09:27 -0400"
     },
     {
-      "title": "Strikes, Barricades and Fiscal Turmoil: An Autumn of Discontent Grips France",
-      "link": "https://www.nytimes.com/2026/10/06/world/europe/france-crisis-autumn-discontent.html",
-      "source": "NYT World",
+      "title": "Alleged killing by Marine prompts US military to restrict off-base liberty in Okinawa",
+      "link": "https://www.foxnews.com/world/alleged-killing-marine-prompts-us-military-restrict-off-base-liberty-okinawa",
+      "source": "Fox News World",
       "all_sources": [
-        "NYT World"
+        "Fox News World"
+      ],
+      "bias_breakdown": {
+        "Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The U.S.",
+        "military in Okinawa banned troops from leaving base after a Marine was arrested for allegedly killing a woman at a Naha hotel on Saturday."
+      ],
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/mv-22-osprey-marine-corps-futenma-scaled.jpg?ve=1&tl=1",
+      "published": "Tue, 06 Oct 2026 22:15:36 -0400"
+    },
+    {
+      "title": "US man arrested as second suspect in Canada mass school shooting planned with ChatGPT",
+      "link": "https://www.theguardian.com/world/2026/oct/06/tumbler-ridge-shooting-arrest-washington",
+      "source": "The Guardian World",
+      "all_sources": [
+        "The Guardian World"
       ],
       "bias_breakdown": {
         "Lean Left": 1
@@ -887,17 +1163,43 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Chaos in schools, on the streets and in the markets is rooted in France’s struggles to fund its social welfare state, with a presidential election approaching."
+        "Justice department detained James Codey Bryant and allege he offered ‘technical advice’ to primary suspect  A surprise suspected accomplice has been arrested in connection with a mass school shooting in Canada that was made notorious after an 18-year-old allegedly killed six children after discussing it with the AI chatbot ChatGPT.",
+        "The US Department of Justice said on Tuesday it had detained James Codey Bryant, 30, a resident of western Washington state, on a charge of conspiracy to murder persons in a foreign country.",
+        "Continue reading..."
       ],
-      "image_url": "https://static01.nyt.com/images/2026/10/06/multimedia/06int-france-assess-1-cpvh/06int-france-assess-1-cpvh-mediumSquareAt3X.jpg",
-      "published": "Tue, 06 Oct 2026 04:01:14 +0000"
+      "image_url": null,
+      "published": "Tue, 06 Oct 2026 22:06:04 GMT"
     },
     {
-      "title": "As Japan’s Population Shrinks, a City Is Accused of Padding Census Numbers",
-      "link": "https://www.nytimes.com/2026/10/06/world/asia/japan-population-falsified-census.html",
-      "source": "NYT World",
+      "title": "Drone strike sinks ship in NATO waters as Zelenskyy warns of looming ‘massive strike’",
+      "link": "https://www.foxnews.com/world/drone-strike-sinks-ship-nato-waters-zelenskyy-warns-looming-massive-strike",
+      "source": "Fox News World",
       "all_sources": [
-        "NYT World"
+        "Fox News World"
+      ],
+      "bias_breakdown": {
+        "Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "A cargo ship sank and a second vessel caught fire in a combined aerial and maritime drone attack inside Bulgaria&apos;s exclusive economic zone in the Black Sea."
+      ],
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2022/06/931/523/AP22150604325227-e1654173564328.jpg?ve=1&tl=1",
+      "published": "Tue, 06 Oct 2026 19:42:27 -0400"
+    },
+    {
+      "title": "The questions swirling around a U.K. base and possible Iranian-backed attacks",
+      "link": "https://www.npr.org/2026/10/06/nx-s1-5992853/the-questions-swirling-around-a-u-k-base-and-possible-iranian-backed-attacks",
+      "source": "NPR World",
+      "all_sources": [
+        "NPR World"
       ],
       "bias_breakdown": {
         "Lean Left": 1
@@ -911,349 +1213,37 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "The police are investigating how about 3,000 nonexistent residents were added to official data for Toyama."
+        "British police said they had made a seventh arrest in a murky plot that may have targeted a U.K.",
+        "airbase."
       ],
-      "image_url": "https://static01.nyt.com/images/2026/10/05/multimedia/05int-japan-census-mvgl/05int-japan-census-mvgl-mediumSquareAt3X.jpg",
-      "published": "Tue, 06 Oct 2026 04:01:05 +0000"
+      "image_url": null,
+      "published": "Tue, 06 Oct 2026 16:53:46 -0400"
     },
     {
-      "title": "Fort Hood shooter to be executed by firing squad - a first for US military since World War Two",
-      "link": "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "title": "Outcry in Trinidad and Tobago after passing of police bill that could threaten press freedom",
+      "link": "https://www.theguardian.com/world/2026/oct/06/outcry-in-trinidad-and-tobago-after-passing-of-police-bill-that-could-threaten-press-freedom",
+      "source": "The Guardian World",
       "all_sources": [
-        "BBC World"
+        "The Guardian World"
       ],
       "bias_breakdown": {
-        "Center": 1
+        "Lean Left": 1
       },
       "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Nidal Malik Hasan killed 13 unarmed soldiers and injured another 32 in the deadliest ever non-combat attack on an American military base."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae19/live/2431ba60-c171-11f1-a64c-550be9e3c66b.jpg",
-      "published": "Tue, 06 Oct 2026 02:22:24 GMT"
-    },
-    {
-      "title": "Anger in Japan grows after US Marine is arrested over the killing of woman on Okinawa",
-      "link": "https://nypost.com/2026/10/06/world-news/anger-in-japan-grows-after-us-marine-devin-ballard-is-arrested-over-the-killing-of-a-woman-on-okinawa/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
+        "left_pct": 100,
         "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "US Marine Devin Jacob Ballard was arrested for the murder of Anna Yagi on Okinawa, sparking fierce protests against the American military presence."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fus-marine-lance-corporal-devin-143832670_5e1942.jpg?w%3D755",
-      "published": "Tue, 06 Oct 2026 01:26:09 -0700"
-    },
-    {
-      "title": "Rubio begins three-nation NATO tour in Iceland, which is wary of Trump’s Arctic intentions",
-      "link": "https://nypost.com/2026/10/06/world-news/rubio-begins-nato-tour-in-iceland-which-is-wary-of-trumps-arctic-intentions/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Secretary of State Marco Rubio has arrived in Iceland to kick off a three-nation NATO tour aimed at easing allies' concerns over the Arctic."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fu-s-secretary-state-marco-143883206.jpg?w%3D1024",
-      "published": "Tue, 06 Oct 2026 00:05:02 -0700"
-    },
-    {
-      "title": "Houthi militia now leads Iran’s ‘Axis.’ But how much can Tehran count on it?",
-      "link": "https://www.csmonitor.com/World/Middle-East/2026/1001/iran-axis-alliance-yemen-houthis-autonomy?icid=rss",
-      "source": "Christian Science Monitor World",
-      "all_sources": [
-        "Christian Science Monitor World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
         "right_pct": 0,
         "total": 1
       },
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Iranian officials and pundits laud the militia group’s gains as their own.",
-        "At the same time, some media coverage appears designed to convince the Houthis to be better team players."
+        "Journalists call for urgent amendment to special operations bill, which increases police search and seizure powers  Journalists in Trinidad and Tobago have called for an urgent amendment to a sweeping new bill that increases police powers of search and seizure, which they argue threatens the country’s much-vaunted freedom of the press.",
+        "The government says the  special operations bill 2026 , passed on 24 September, is designed to tackle alarmingly high crime and murder rates in the Caribbean nation.",
+        "Continue reading..."
       ],
       "image_url": null,
-      "published": "Thu, 01 Oct 2026 14:54:26 EDT"
-    },
-    {
-      "title": "Trump Says Colombia Will Accept Deportees, Ending Tariff Standoff",
-      "link": "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497",
-      "source": "WSJ World News",
-      "all_sources": [
-        "WSJ World News"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The president has made immigration an early priority to start second term, with ICE making more than 900 arrests Sunday."
-      ],
-      "image_url": null,
-      "published": "Sun, 26 Jan 2025 22:59:00 -0500"
-    },
-    {
-      "title": "Brazil's Flavio Bolsonaro beats polls in presidential vote, faces Lula in runoff",
-      "link": "https://www.csmonitor.com/World/2026/1004/Brazil-s-Flavio-Bolsonaro-beats-polls-in-presidential-vote-faces-Lula-in-runoff?icid=rss",
-      "source": "Christian Science Monitor World",
-      "all_sources": [
-        "Christian Science Monitor World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Senator Flavio Bolsonaro wants to return a right-wing movement to power in Brazil, while leftist President Luiz Inacio Lula da Silva is seeking a fourth term."
-      ],
-      "image_url": null,
-      "published": "Sun, 04 Oct 2026 19:49:31 EDT"
-    },
-    {
-      "title": "The American Sign Museum is an illuminating trip through time",
-      "link": "https://www.csmonitor.com/World/2026/1004/american-sign-museum-cincinnati?icid=rss",
-      "source": "Christian Science Monitor World",
-      "all_sources": [
-        "Christian Science Monitor World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Founded in 1999, the American Sign Museum in Cincinnati pays homage to the artistry of the signs that have long attracted customers to businesses."
-      ],
-      "image_url": null,
-      "published": "Sun, 04 Oct 2026 05:00:17 EDT"
-    },
-    {
-      "title": "Brazil is regulating AI use in elections. Here’s why it’s been a challenge.",
-      "link": "https://www.csmonitor.com/World/Americas/2026/1003/ai-brazil-election-lula-bolsonaro?icid=rss",
-      "source": "Christian Science Monitor World",
-      "all_sources": [
-        "Christian Science Monitor World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Brazil’s polarized political landscape is rife with disinformation – a challenge that can be turbocharged by artificial intelligence."
-      ],
-      "image_url": null,
-      "published": "Sat, 03 Oct 2026 05:00:11 EDT"
-    },
-    {
-      "title": "Palestinians Stream Back to Northern Gaza on Foot",
-      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "source": "WSJ World News",
-      "all_sources": [
-        "WSJ World News"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Israel allowed displaced Gazans to begin crossing a military zone that bisects the enclave after a deadlock over hostage releases was broken."
-      ],
-      "image_url": null,
-      "published": "Mon, 27 Jan 2025 14:23:00 -0500"
-    },
-    {
-      "title": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
-      "link": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
-      "source": "WSJ World News",
-      "all_sources": [
-        "WSJ World News"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in."
-      ],
-      "image_url": null,
-      "published": "Mon, 27 Jan 2025 12:32:00 -0500"
-    },
-    {
-      "title": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
-      "link": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
-      "source": "WSJ World News",
-      "all_sources": [
-        "WSJ World News"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said."
-      ],
-      "image_url": null,
-      "published": "Mon, 27 Jan 2025 12:12:00 -0500"
-    },
-    {
-      "title": "Suspected Sabotage of Deep-Sea Cable Triggers First NATO-Led Response",
-      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
-      "source": "WSJ World News",
-      "all_sources": [
-        "WSJ World News"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The alliance mounted its first coordinated response to a suspected sabotage campaign against critical infrastructure after another cable was severed in the Baltic Sea."
-      ],
-      "image_url": null,
-      "published": "Mon, 27 Jan 2025 11:22:00 -0500"
-    },
-    {
-      "title": "Rwanda-Backed Rebels Enter Congo's Safe-Haven City",
-      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
-      "source": "WSJ World News",
-      "all_sources": [
-        "WSJ World News"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Residents of Goma reported gunfire and shelling after rebels overran Congolese troops.",
-        "U.N.",
-        "officials estimated that more than one million displaced people were now inside the city."
-      ],
-      "image_url": null,
-      "published": "Mon, 27 Jan 2025 10:07:00 -0500"
-    },
-    {
-      "title": "Cocaine-Funded Gangs Shake Colombia Years After Peace Pact",
-      "link": "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da",
-      "source": "WSJ World News",
-      "all_sources": [
-        "WSJ World News"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Attacks by powerful militias against civilians reflect the state’s inaction eight years after a peace accord removed a powerful rebel group from the field."
-      ],
-      "image_url": null,
-      "published": "Mon, 27 Jan 2025 07:00:00 -0500"
+      "published": "Tue, 06 Oct 2026 16:53:21 GMT"
     }
   ]
 }
