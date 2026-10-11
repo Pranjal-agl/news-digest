@@ -1,20 +1,46 @@
 {
-  "date": "2026-10-10",
-  "generated_at": "2026-10-10T14:14:34.889657",
+  "date": "2026-10-11",
+  "generated_at": "2026-10-11T14:39:31.391025",
   "stats": {
     "total": 50,
-    "multi_source": 7,
-    "trending": 1,
+    "multi_source": 5,
+    "trending": 4,
     "blindspots": 2
   },
   "stories": [
     {
-      "title": "A year of ceasefire in Gaza through the lens of NPR's reporter",
-      "link": "https://www.npr.org/sections/the-picture-show/2026/10/10/nx-s1-5991619/gaza-ceasefire-israel-life",
+      "title": "India’s ‘Cockroach’ Leaders Released as Small Protests Go On in Delhi",
+      "link": "https://www.nytimes.com/2026/10/11/world/asia/india-cockroach-dipke-new-delhi-protests.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World",
+        "Al Jazeera",
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 3
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 3
+      },
+      "is_blindspot": true,
+      "is_trending": true,
+      "bullet_points": [
+        "The leaders of the Cockroach Janta Party, an Indian youth movement, had been detained by the police on Saturday before they could lead protests over voting rights."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/10/11/multimedia/11int-india-protests-hjkb/11int-india-protests-hjkb-mediumSquareAt3X.jpg",
+      "published": "Sun, 11 Oct 2026 13:03:01 +0000"
+    },
+    {
+      "title": "Protests against voter roll revisions rock capital of world's largest democracy",
+      "link": "https://www.npr.org/2026/10/10/nx-s1-5995118/protests-against-voter-roll-revisions-rock-capital-of-worlds-largest-democracy",
       "source": "NPR World",
       "all_sources": [
-        "NPR World",
-        "Al Jazeera"
+        "NYT World",
+        "NPR World"
       ],
       "bias_breakdown": {
         "Lean Left": 2
@@ -28,64 +54,103 @@
       "is_blindspot": true,
       "is_trending": false,
       "bullet_points": [
-        "It has been one year since Hamas released the remaining Israeli hostages and President Trump promised an end to the war, but Palestinians say the past 12 months have been a ceasefire in name only."
+        "Parts of the capital city of India, the world's largest democracy, are on lockdown.",
+        "Protests over sweeping revisions to the voter rolls were met with a massive police crackdown."
       ],
-      "image_url": null,
-      "published": "Sat, 10 Oct 2026 05:00:00 -0400"
+      "image_url": "https://static01.nyt.com/images/2026/11/10/multimedia/10india-protests-What-We-Know-qhcm/10india-protests-What-We-Know-qhcm-mediumSquareAt3X.jpg",
+      "published": "Sat, 10 Oct 2026 17:19:57 -0400"
     },
     {
-      "title": "India cracks down on youth protests as anger grows against Modi and election chief",
-      "link": "https://www.npr.org/2026/10/10/g-s1-147603/india-cracks-down-on-youth-protests-as-anger-grows-against-modi-and-election-chief",
-      "source": "NPR World",
-      "all_sources": [
-        "NPR World",
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 2
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 2
-      },
-      "is_blindspot": true,
-      "is_trending": false,
-      "bullet_points": [
-        "Indian authorities have launched a major security crackdown in New Delhi, detaining thousands of protesters who intended to hold a mass demonstration against Prime Minister Narendra Modi's government."
-      ],
-      "image_url": null,
-      "published": "Sat, 10 Oct 2026 04:31:28 -0400"
-    },
-    {
-      "title": "Three men found guilty of murders of Australian surfer brothers and US friend in Mexico",
-      "link": "https://www.theguardian.com/world/2026/oct/10/jake-callum-robinson-australian-surfers-carter-rhoad-mexico-murder-guilty-verdict-ntwnfb",
-      "source": "The Guardian World",
+      "title": "Pope Leo XIV will undergo surgery to remove a lump on his lung",
+      "link": "https://nypost.com/2026/10/11/world-news/pope-leo-xiv-will-undergo-surgery-to-remove-a-nodule-on-his-lung/",
+      "source": "New York Post World",
       "all_sources": [
         "BBC World",
         "Deutsche Welle Top Stories",
-        "The Guardian World"
+        "NYT World",
+        "NPR World",
+        "New York Post World",
+        "Fox News World"
       ],
       "bias_breakdown": {
-        "Lean Left": 1,
-        "Center": 2
+        "Lean Left": 2,
+        "Center": 2,
+        "Lean Right": 1,
+        "Right": 1
       },
       "bias_bar": {
         "left_pct": 33,
-        "center_pct": 67,
-        "right_pct": 0,
+        "center_pct": 33,
+        "right_pct": 33,
+        "total": 6
+      },
+      "is_blindspot": false,
+      "is_trending": true,
+      "bullet_points": [
+        "Pope Leo XIV, 71, will undergo surgery in Rome to remove a small, early-stage nodule on his lung, with an expected recovery time of one week."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13bb/live/c2ac8480-c569-11f1-bd33-db1f7eaf2b30.jpg",
+      "published": "Sun, 11 Oct 2026 08:17:32 -0400"
+    },
+    {
+      "title": "Attack on Riyadh airport killed 12 people and wounded over 300 more, Saudi authorities say",
+      "link": "https://www.npr.org/2026/10/10/g-s1-147682/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say",
+      "source": "NPR World",
+      "all_sources": [
+        "Deutsche Welle Top Stories",
+        "NPR World",
+        "Al Jazeera",
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 2,
+        "Center": 1,
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 50,
+        "center_pct": 25,
+        "right_pct": 25,
+        "total": 4
+      },
+      "is_blindspot": false,
+      "is_trending": true,
+      "bullet_points": [
+        "Saudi authorities say the latest attack on the international airport in the capital, Riyadh, has killed 12 people and injured over 300.",
+        "It said some of those injured were in critical condition.",
+        "The attack — the latest of several in the past week on King Khalid International Airport — is expected to increase Saudi pressure on allies including the United States to provide military support for the kingdom."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fimage-video-obtained-verified-ap-144622554.jpg?w%3D665",
+      "published": "Sat, 10 Oct 2026 19:44:15 -0400"
+    },
+    {
+      "title": "U.S. and Russia tout diesel deal to ease sanctions and reopen fuel flows",
+      "link": "https://www.npr.org/2026/10/10/nx-s1-5996938/u-s-and-russia-tout-diesel-deal-to-ease-sanctions-and-reopen-fuel-flows",
+      "source": "NPR World",
+      "all_sources": [
+        "Deutsche Welle Top Stories",
+        "NPR World",
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1,
+        "Center": 1,
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 33,
+        "center_pct": 33,
+        "right_pct": 33,
         "total": 3
       },
       "is_blindspot": false,
       "is_trending": true,
       "bullet_points": [
-        "Australian brothers Jake and Callum Robinson, 30 and 33, and friend Carter Rhoad, 30, were killed on a surfing trip in 2024    Get our  breaking news email ,  free app  or  daily news podcast     The parents of Australian surfing brothers murdered in Mexico have said “no outcome can ever undo this tragedy” after three men were convicted of the 2024 killings.",
-        "Australian brothers Jake and Callum Robinson, aged 30 and 33 respectively, and their friend Carter Rhoad, 30, were on a surfing trip to Mexico’s Pacific coast when they were shot dead in Baja California state in a suspected robbery.",
-        "Continue reading..."
+        "Moscow and Washington tout a diesel deal to ease sanctions and reopen fuel flows, but few details leave questions on price impacts and U.S.",
+        "policy, sparking anger from Ukraine and allies."
       ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ab9/live/138578c0-c453-11f1-bc2e-018d645d8d21.jpg",
-      "published": "Sat, 10 Oct 2026 00:50:52 GMT"
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fpresident-donald-j-trump-impersonates-144562808.jpg?w%3D794",
+      "published": "Sat, 10 Oct 2026 07:40:53 -0400"
     },
     {
       "title": "Who built Saudi Arabia’s ‘Stonehenge’ and why? ‘The men’ aren’t saying.",
@@ -188,30 +253,6 @@
       "published": "Tue, 06 Oct 2026 14:27:27 EDT"
     },
     {
-      "title": "2 foreign nationals breach UK base housing key US, NATO intel hub amid $556M expansion",
-      "link": "https://www.foxnews.com/world/foreign-nationals-breach-us-nato-intel-hub-uk-military-base-556m-expansion",
-      "source": "Fox News World",
-      "all_sources": [
-        "Fox News World"
-      ],
-      "bias_breakdown": {
-        "Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The Latvian men were arrested under the National Security Act 2023 after breaching a fence at RAF Molesworth, prompting a major counterterrorism investigation."
-      ],
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/molesworth-us-air-force.jpg?ve=1&tl=1",
-      "published": "Thu, 08 Oct 2026 21:35:44 -0400"
-    },
-    {
       "title": "Scientists discover 180,000 giant tortoises on one Seychelles island",
       "link": "https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles",
       "source": "The Guardian World",
@@ -238,81 +279,6 @@
       "published": "Thu, 08 Oct 2026 20:20:31 GMT"
     },
     {
-      "title": "The long-deployed USS Lincoln returns home to San Diego Bay",
-      "link": "https://www.npr.org/2026/10/08/nx-s1-5995911/the-long-deployed-uss-lincoln-returns-home-to-san-diego-bay",
-      "source": "NPR World",
-      "all_sources": [
-        "NPR World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The USS Abraham Lincoln aircraft carrier has returned home after a record-setting uninterrupted time at sea supporting the Iran war.",
-        "The extended deployment drew attention following reports of crew stress and supply shortages."
-      ],
-      "image_url": null,
-      "published": "Thu, 08 Oct 2026 20:05:48 -0400"
-    },
-    {
-      "title": "Woman, 87, dies after being carried from home of 70 years on stretcher during eviction in Spain",
-      "link": "https://www.foxnews.com/world/woman-87-dies-carried-home-70-years-stretcher-eviction-spain",
-      "source": "Fox News World",
-      "all_sources": [
-        "Al Jazeera",
-        "Fox News World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1,
-        "Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 50,
-        "center_pct": 0,
-        "right_pct": 50,
-        "total": 2
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Maricarmen Abascal&apos;s eviction from her Madrid apartment of 70 years sparked massive protests, and her death has deepened Spain&apos;s housing crisis."
-      ],
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/maricarmen-death-madrid-spain-eviction-memorial.jpg?ve=1&tl=1",
-      "published": "Thu, 08 Oct 2026 19:20:16 -0400"
-    },
-    {
-      "title": "Iranian protester hanged hours after marrying his imprisoned fiancée over jail phone line",
-      "link": "https://www.foxnews.com/world/iranian-protester-hanged-hours-after-marrying-imprisoned-fiancee-jail-phone-line",
-      "source": "Fox News World",
-      "all_sources": [
-        "Fox News World"
-      ],
-      "bias_breakdown": {
-        "Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Alireza Sepahi married his imprisoned fiancée over a prison phone line hours before his execution at Isfahan Central Prison for anti-government protest."
-      ],
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/iran-protests-alireza-sepahi.jpg?ve=1&tl=1",
-      "published": "Thu, 08 Oct 2026 18:33:52 -0400"
-    },
-    {
       "title": "In England, efforts to save a vanishing heritage – 9 strings at a time",
       "link": "https://www.csmonitor.com/World/Europe/2026/1008/puppets-marionettes-britain-little-angel-theatre?icid=rss",
       "source": "Christian Science Monitor World",
@@ -335,31 +301,6 @@
       ],
       "image_url": null,
       "published": "Thu, 08 Oct 2026 13:19:48 EDT"
-    },
-    {
-      "title": "New U.S. indictment charges former Venezuelan President Nicolás Maduro with torture",
-      "link": "https://www.npr.org/2026/10/08/nx-s1-5995360/venezuela-nicolas-maduro-torture-charges",
-      "source": "NPR World",
-      "all_sources": [
-        "NPR World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "U.S.",
-        "authorities added new torture charges to their case against former Venezuelan President Nicolás Maduro, ramping up pressure on the ousted authoritarian leader already fighting drug trafficking allegations."
-      ],
-      "image_url": null,
-      "published": "Thu, 08 Oct 2026 12:05:37 -0400"
     },
     {
       "title": "Trump Says Colombia Will Accept Deportees, Ending Tariff Standoff",
@@ -386,32 +327,32 @@
       "published": "Sun, 26 Jan 2025 22:59:00 -0500"
     },
     {
-      "title": "When streets become a workplace: Gaza workers convert tents into offices",
-      "link": "https://www.aljazeera.com/features/2026/10/10/when-streets-become-a-workplace-gaza-workers-convert-tents-into-offices?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "Ukraine strikes Yandex data centre in third attack on Russian tech giant",
+      "link": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
       "all_sources": [
-        "Al Jazeera"
+        "BBC World"
       ],
       "bias_breakdown": {
-        "Lean Left": 1
+        "Center": 1
       },
       "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
+        "left_pct": 0,
+        "center_pct": 100,
         "right_pct": 0,
         "total": 1
       },
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "A real estate crisis in Gaza has forced professionals to use tents as surgeries and offices."
+        "It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations."
       ],
-      "image_url": null,
-      "published": "Sat, 10 Oct 2026 13:50:05 +0000"
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92b1/live/fca86430-c56c-11f1-a64c-550be9e3c66b.jpg",
+      "published": "Sun, 11 Oct 2026 14:38:10 GMT"
     },
     {
-      "title": "Inside Erik Prince’s Mercenary Deal in Congo",
-      "link": "https://www.nytimes.com/2026/10/09/world/africa/erik-prince-congo-mercenary-kennedy-vectus-contract.html",
+      "title": "Ukraine Shrugs Off Trump Call to Ditch Zelensky for Energy Strikes",
+      "link": "https://www.nytimes.com/2026/10/11/world/europe/trump-zelensky-diesel-energy-russia-.html",
       "source": "NYT World",
       "all_sources": [
         "NYT World"
@@ -428,14 +369,16 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "The injury of a former Green Beret and death of an elite soldier from New Zealand have highlighted the Blackwater founder’s growing role in one of Africa’s most intractable conflicts."
+        "President Trump lashed out at President Volodymyr Zelensky for striking Russian oil refineries.",
+        "Mr.",
+        "Zelensky said he’ll stop — if Russia does too."
       ],
-      "image_url": "https://static01.nyt.com/images/2026/10/09/multimedia/00int-congo-erik-congo-1-pgfk/00int-congo-erik-congo-1-pgfk-mediumSquareAt3X.jpg",
-      "published": "Sat, 10 Oct 2026 13:35:59 +0000"
+      "image_url": "https://static01.nyt.com/images/2026/10/11/multimedia/11int-ukraine-zelensky-qvtm/11int-ukraine-zelensky-qvtm-mediumSquareAt3X.jpg",
+      "published": "Sun, 11 Oct 2026 14:19:44 +0000"
     },
     {
-      "title": "High silver prices threaten Lucknow’s famed bridal nagra craft",
-      "link": "https://www.aljazeera.com/features/longform/2026/10/10/high-silver-prices-threaten-lucknows-famed-bridal-nagra-craft?traffic_source=rss",
+      "title": "Ethiopia, Eritrea ramp up rhetoric: Are they inching towards war?",
+      "link": "https://www.aljazeera.com/news/2026/10/11/ethiopia-eritrea-ramp-up-rhetoric-are-they-inching-towards-war?traffic_source=rss",
       "source": "Al Jazeera",
       "all_sources": [
         "Al Jazeera"
@@ -452,14 +395,14 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "War-driven prices for silver are threatening nagra makers in northern India."
+        "Allegations of Eritrean troop incursions into Tigray deepen the rift with Ethiopia, threatening fragile peace in the region."
       ],
       "image_url": null,
-      "published": "Sat, 10 Oct 2026 13:25:35 +0000"
+      "published": "Sun, 11 Oct 2026 14:09:12 +0000"
     },
     {
-      "title": "New Delhi police crack down on protesters ahead of anti-gov’t march",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/10/new-delhi-police-crack-down-on-protesters-ahead-of-anti-govt-march?traffic_source=rss",
+      "title": "The Mafia Football Murders | True Crime Reports",
+      "link": "https://www.aljazeera.com/video/true-crime-reports/2026/10/11/true-crime-reports-the-mafia-football-murders?traffic_source=rss",
       "source": "Al Jazeera",
       "all_sources": [
         "Al Jazeera"
@@ -476,14 +419,14 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "India’s police have detained dozens of protesters, including ‘Cockroach’ party leaders ahead of an anti-gov&#039;t march."
+        "A lifelong Inter Milan fan shot in Milan exposes a shocking alliance between football&#039;s ultras and the mafia."
       ],
       "image_url": null,
-      "published": "Sat, 10 Oct 2026 13:23:42 +0000"
+      "published": "Sun, 11 Oct 2026 14:05:14 +0000"
     },
     {
-      "title": "‘Anachronism’: Rubio’s civilisational rhetoric prompts pushback from Iran",
-      "link": "https://www.aljazeera.com/news-analysis/2026/10/10/anachronism-rubios-civilisational-rhetoric-prompts-pushback-from-iran?traffic_source=rss",
+      "title": "Hormuz attacks intensify as efforts to end war on Iran stall",
+      "link": "https://www.aljazeera.com/news/2026/10/11/hormuz-attacks-intensify-as-efforts-to-end-war-on-iran-stall?traffic_source=rss",
       "source": "Al Jazeera",
       "all_sources": [
         "Al Jazeera"
@@ -500,14 +443,14 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Rubio says threats to Western civilisation today &#039;every bit as real as they were on the dramatic stage of antiquity&#039;."
+        "IRGC warns against ignoring waterway&#039;s &#039;security and rules&#039; as CENTCOM says US disabled vessel trying to run blockade."
       ],
       "image_url": null,
-      "published": "Sat, 10 Oct 2026 13:09:09 +0000"
+      "published": "Sun, 11 Oct 2026 14:04:32 +0000"
     },
     {
-      "title": "Verstappen wins chaotic Singapore GP F1 sprint after Russell crashes",
-      "link": "https://www.aljazeera.com/sports/2026/10/10/verstappen-singapore-gp-sprint-rain-russell-hamilton-leclerc?traffic_source=rss",
+      "title": "Creating a ghost town: Lives in limbo behind Israeli gates and checkpoints",
+      "link": "https://www.aljazeera.com/features/2026/10/11/creating-a-ghost-town-lives-in-limbo-behind-israeli-gates-and-checkpoints?traffic_source=rss",
       "source": "Al Jazeera",
       "all_sources": [
         "Al Jazeera"
@@ -524,14 +467,38 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Max Verstappen&#039;s sprint race win was ​Dutchman&#039;s first of any kind in Singapore as he finished ahead of Lewis Hamilton."
+        "Israeli restrictions in Hebron have made life for Palestinians from the city a daily ordeal."
       ],
       "image_url": null,
-      "published": "Sat, 10 Oct 2026 13:08:35 +0000"
+      "published": "Sun, 11 Oct 2026 13:41:57 +0000"
     },
     {
-      "title": "England international Cole Palmer signs new Chelsea deal until 2034",
-      "link": "https://www.aljazeera.com/sports/2026/10/10/england-international-cole-palmer-signs-new-chelsea-deal-until-2034?traffic_source=rss",
+      "title": "Saudi Arabia Has Few Options as Houthis Aim at Heart of Its Ambitions",
+      "link": "https://www.nytimes.com/2026/10/11/world/middleeast/saudi-arabia-options-houthis.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Three deadly attacks by the Iran-backed Houthis in Yemen on an airport in the Saudi capital underscored the asymmetrical nature of their conflict with the kingdom."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/10/11/multimedia/11int-saudi-assess-bvtm/11int-saudi-assess-bvtm-mediumSquareAt3X.jpg",
+      "published": "Sun, 11 Oct 2026 13:23:37 +0000"
+    },
+    {
+      "title": "Ceuta migrants allege beatings as camps cleared ahead of royal visit",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/ceuta-migrants-allege-beatings-as-camps-cleared-ahead-of-royal-visit?traffic_source=rss",
       "source": "Al Jazeera",
       "all_sources": [
         "Al Jazeera"
@@ -548,10 +515,642 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Attacking midfielder Palmer has become a key figure in Chelsea&#039;s squad since his arrival from Man City in 2023."
+        "People in Ceuta allege they were mistreated by Spanish soldiers after authorities cleared migrant camps."
       ],
       "image_url": null,
-      "published": "Sat, 10 Oct 2026 12:37:14 +0000"
+      "published": "Sun, 11 Oct 2026 12:40:35 +0000"
+    },
+    {
+      "title": "Meet the man helping India’s detained protesters get home",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/11/meet-the-man-helping-indias-detained-protesters-get-home?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Al Jazeera spoke to the 25-year-old man who built an AI-powered app to help India’s detained protesters get home safely."
+      ],
+      "image_url": null,
+      "published": "Sun, 11 Oct 2026 12:36:35 +0000"
+    },
+    {
+      "title": "Sweet protein brazzein shows promise in reducing blood sugar spikes: Study",
+      "link": "https://www.aljazeera.com/news/2026/10/11/sweet-protein-brazzein-shows-promise-in-reducing-blood-sugar-spikes-study?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Russian research reveals that the protein brazzein could help reduce blood sugar spikes."
+      ],
+      "image_url": null,
+      "published": "Sun, 11 Oct 2026 12:23:37 +0000"
+    },
+    {
+      "title": "Homes and bridges swept away as fresh floods hit Nepal",
+      "link": "https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Nepal is still trying to recover from catastrophic floods that hit less than two months ago, leaving thousands dead and missing."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cf2/live/9cbf47b0-c56b-11f1-9a39-31b474234113.jpg",
+      "published": "Sun, 11 Oct 2026 12:03:52 GMT"
+    },
+    {
+      "title": "Wringing Hope From the Rubble of Gaza",
+      "link": "https://www.nytimes.com/2026/10/11/world/middleeast/wringing-hope-from-the-rubble-of-gaza.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The cease-fire last October ostensibly brought an end to Israel’s war in Gaza after the Hamas-led attacks on Oct.",
+        "7, 2023.",
+        "A year later, however, Israeli strikes, though less frequent, haven’t stopped."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/09/22/multimedia/22Gaza-ceasefire-anniversary-05-hjvz/22Gaza-ceasefire-anniversary-05-hjvz-mediumSquareAt3X.jpg",
+      "published": "Sun, 11 Oct 2026 11:25:54 +0000"
+    },
+    {
+      "title": "Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on",
+      "link": "https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Hundreds of people who came out on the streets despite the police's restrictions were detained on Sunday."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e56a/live/17da0620-c561-11f1-9cae-455625013d45.jpg",
+      "published": "Sun, 11 Oct 2026 11:11:42 GMT"
+    },
+    {
+      "title": "Fate of tiger that fatally mauled visitor at UK wildlife park revealed",
+      "link": "https://nypost.com/2026/10/11/world-news/fate-of-tiger-that-fatally-mauled-visitor-at-uk-wildlife-park-revealed/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Altai, a young male Siberian tiger, was filmed biting and clawing at the parkgoer's back after the man climbed into the big cat's enclosure at Yorkshire Wildlife Park in northern England on Saturday afternoon."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fno-reports-survived-apart-gun-144525635_721010.jpg?w%3D952",
+      "published": "Sun, 11 Oct 2026 10:38:01 -0400"
+    },
+    {
+      "title": "In Canada’s Arctic, a New Generation of Inuit Creatives Are Using Identity to Fuel Their Art",
+      "link": "https://www.nytimes.com/2026/10/11/world/canada/inuit-inuk-indigenous-people-identity-iqaluit.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "In Iqaluit, the only city in Canada’s Arctic, a new generation of Inuit writers and artists is turning questions of language, land and identity into books, films and even tattoos."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/08/24/multimedia/00int-canada-iqaluit-promo/00int-canada-iqaluit-ktbq-mediumSquareAt3X.jpg",
+      "published": "Sun, 11 Oct 2026 09:00:31 +0000"
+    },
+    {
+      "title": "A Russian Spy’s Lone Regret: ‘I Got Caught’",
+      "link": "https://www.nytimes.com/2026/10/11/world/europe/russia-spy-ukraine.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Though born in Ukraine, Alexsander supports the Russian cause.",
+        "He wishes he had deleted one photo from his phone."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/09/16/world/00int-ukraine-spy-tnao/00int-ukraine-spy-tnao-mediumSquareAt3X.jpg",
+      "published": "Sun, 11 Oct 2026 09:00:28 +0000"
+    },
+    {
+      "title": "A Reporter Returns to China to Find it Richer, but Also Highly Paranoid.",
+      "link": "https://www.nytimes.com/2026/10/11/world/asia/china-essay-higgins-surveillance.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Returning to China after decades away, a correspondent finds bullet trains, dazzling skylines — and a surveillance state more paranoid and pervasive than ever."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/10/05/multimedia/00int-china-higgins-01-jqkp/00int-china-higgins-01-jqkp-mediumSquareAt3X.jpg",
+      "published": "Sun, 11 Oct 2026 09:00:12 +0000"
+    },
+    {
+      "title": "Abbas delays Palestinian elections again, making more than two decades without vote",
+      "link": "https://www.foxnews.com/world/abbas-delays-palestinian-elections-again-making-more-than-two-decades-without-vote",
+      "source": "Fox News World",
+      "all_sources": [
+        "Fox News World"
+      ],
+      "bias_breakdown": {
+        "Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Palestinian Authority President Mahmoud Abbas delayed elections to 2027, extending a nearly 20-year wait as Israel and Hamas clash over the blame."
+      ],
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/mahmoud-abbas-innovation-excellence-compound.jpg?ve=1&tl=1",
+      "published": "Sun, 11 Oct 2026 08:22:06 -0400"
+    },
+    {
+      "title": "Look inside the roadside bomb shelters on Israel’s ‘Death Road’ that have been transformed into memorials for October 7’s victims",
+      "link": "https://nypost.com/2026/10/11/world-news/inside-israels-bomb-shelters-turned-memorials-on-death-road/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Gilad Karplus survived a bullet to the head and is helping others heal."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fnewspress-collage-sk7f2q5bo-1791552870188.jpg?1791538544%26",
+      "published": "Sun, 11 Oct 2026 08:00:00 -0400"
+    },
+    {
+      "title": "Man mauled to death by tiger was happily dancing, posing for pics with the animal before he jumped into UK wildlife enclosure",
+      "link": "https://nypost.com/2026/10/11/world-news/man-mauled-to-death-by-tiger-was-happily-dancing-posing-for-pics-with-the-animal-before-he-jumped-into-uk-wildlife-enclosure/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "\"I honestly do think he just wanted to play with the tiger.\""
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fno-reports-survived-apart-gun-144525635_721010.jpg?w%3D952",
+      "published": "Sun, 11 Oct 2026 07:31:16 -0400"
+    },
+    {
+      "title": "A heroic, 7-day bike ride made this teen a global star. Where is she now?",
+      "link": "https://www.npr.org/2026/10/11/g-s1-147267/bicycle-teenager-india-pandemic",
+      "source": "NPR World",
+      "all_sources": [
+        "NPR World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Her epic ride — carrying her injured dad on her $20 hot pink bicycle — made headlines.",
+        "Promises were made — financial help, training for a cycling career, even a movie deal.",
+        "Were any of them kept?"
+      ],
+      "image_url": null,
+      "published": "Sun, 11 Oct 2026 07:28:15 -0400"
+    },
+    {
+      "title": "‘It was a terrible thing’: Panama declares state of emergency as quake aftershocks rattle communities",
+      "link": "https://www.theguardian.com/world/2026/oct/11/panama-eathquake-state-of-emergency",
+      "source": "The Guardian World",
+      "all_sources": [
+        "The Guardian World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "More than 100 aftershocks as high as magnitude-5.8 recorded after two quakes toppled buildings and prompted evacuations  Panama’s government has declared a state of emergency on Saturday as the aftershocks of two powerful earthquakes that roiled the country shook communities for hours.",
+        "Officials did not attribute any deaths to Friday’s 7.7- and 6.6-magnitude earthquakes, but reported damages in all 10 of Panama’s provinces and two Indigenous territories.",
+        "Continue reading..."
+      ],
+      "image_url": null,
+      "published": "Sun, 11 Oct 2026 06:56:08 GMT"
+    },
+    {
+      "title": "Inside Israel's plot to kill Hezbollah chief as Netanyahu warned Biden aide would 'jump out of his skin'",
+      "link": "https://www.foxnews.com/world/inside-israels-plot-kill-hezbollah-chief-netanyahu-warned-biden-aide-would-jump-out-his-skin",
+      "source": "Fox News World",
+      "all_sources": [
+        "Fox News World"
+      ],
+      "bias_breakdown": {
+        "Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Benjamin Netanyahu warned that Jake Sullivan would &quot;jump out of his skin&quot; over Israel&apos;s secret plan to assassinate Hassan Nasrallah in Beirut."
+      ],
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/06/idf-lebanon-strikes.gif",
+      "published": "Sun, 11 Oct 2026 06:00:18 -0400"
+    },
+    {
+      "title": "Nepal urges villagers to evacuate after flood triggered by landslide",
+      "link": "https://nypost.com/2026/10/11/world-news/nepal-urges-villagers-to-evacuate-after-flood-triggered-by-landslide/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "About a dozen houses and two suspension bridges had been swept away."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fphoto-provided-nepal-army-budhi-144605068_ae4871.jpg?w%3D768",
+      "published": "Sun, 11 Oct 2026 05:41:56 -0400"
+    },
+    {
+      "title": "US justice department investigates TV networks over Trump pool coverage",
+      "link": "https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1dbb/live/9bb34c30-c53a-11f1-ae34-756aa0b18b99.jpg",
+      "published": "Sun, 11 Oct 2026 05:05:43 GMT"
+    },
+    {
+      "title": "Pope Leo declares death penalty ‘inadmissible’ as US plans to livestream execution",
+      "link": "https://nypost.com/2026/10/11/world-news/pope-leo-declares-death-penalty-inadmissible-as-his-us-schedules-fort-hood-killer-firing-squad-execution/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Pope Leo XIV on Saturday declared capital punishment ''inadmissible” as he marked the World Day Against the Death Penalty and his native United States announced plans to livestream an execution by firing squad."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fpope-leo-xiv-presides-mass-144362649.jpg?w%3D1024",
+      "published": "Sun, 11 Oct 2026 03:25:16 -0400"
+    },
+    {
+      "title": "Chaos at Melbourne Marathon as stolen car allegedly hits woman, almost breaks onto course",
+      "link": "https://nypost.com/2026/10/11/world-news/melbourne-marathon-disrupted-after-stolen-car-allegedly-hits-woman-nearly-crashes-onto-course/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "A young boy was “about [30 feet] away” from driving into the crowd at the event, one witness said."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fchaos-melbourne-marathon-stolen-car-144604157.png?w%3D1024",
+      "published": "Sun, 11 Oct 2026 02:52:02 -0400"
+    },
+    {
+      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 20 people",
+      "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its \"thanks\" for a US diesel deal."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98ce/live/569e8e50-c49c-11f1-869c-8f95c437952a.jpg",
+      "published": "Sat, 10 Oct 2026 20:51:12 GMT"
+    },
+    {
+      "title": "Expedition hopes to find aviator Amelia Earhart's plane on remote island",
+      "link": "https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The team en route to the suspected crash site aim finally to solve the mystery of her 1937 disappearance."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c416/live/81c8f6c0-c4d7-11f1-9a39-31b474234113.png",
+      "published": "Sat, 10 Oct 2026 18:22:29 GMT"
+    },
+    {
+      "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
+      "link": "https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Pike's lawyers say she is \"grateful\" to the medical team who cared for her after she survived two lethal injections last month."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05ed/live/df926130-c4d0-11f1-bc2e-018d645d8d21.jpg",
+      "published": "Sat, 10 Oct 2026 17:44:26 GMT"
+    },
+    {
+      "title": "Bayeux Tapestry's London tour spurs enthusiasts to Battle of Hastings reenactment",
+      "link": "https://www.npr.org/2026/10/10/nx-s1-5993847/bayeux-tapestrys-london-tour-spurs-enthusiasts-to-battle-of-hastings-re-enactment",
+      "source": "NPR World",
+      "all_sources": [
+        "NPR World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "A reenactment of the Battle of Hastings, which took place almost a millennium ago, is drawing crowds of enthusiasts in the UK."
+      ],
+      "image_url": null,
+      "published": "Sat, 10 Oct 2026 17:40:58 -0400"
+    },
+    {
+      "title": "Trump weighs joining the fight against Houthis after Riyadh airport attack",
+      "link": "https://www.npr.org/2026/10/10/nx-s1-5997512/saudi-arabia-riyadh-airport-bombing-attack",
+      "source": "NPR World",
+      "all_sources": [
+        "NPR World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The surge in attacks, including against other Saudi airports, military facilities and oil infrastructure, has come in the week since a Saudi-led coalition launched a major military offensive against the Houthis."
+      ],
+      "image_url": null,
+      "published": "Sat, 10 Oct 2026 17:32:53 -0400"
+    },
+    {
+      "title": "A Week Later, Russia Hasn’t Said What Pathogen Killed Plague Researcher",
+      "link": "https://www.nytimes.com/2026/10/10/world/europe/russia-plague.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Experts said they believed that with modern testing technology, the Russian authorities should know the answer by now."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/10/10/multimedia/10int-russia-plague-lfjz/10int-russia-plague-lfjz-mediumSquareAt3X.jpg",
+      "published": "Sat, 10 Oct 2026 17:09:17 +0000"
+    },
+    {
+      "title": "Israeli combat medicine slashes IDF deaths after Oct 7, draws US military interest",
+      "link": "https://www.foxnews.com/world/israeli-combat-medicine-slashes-idf-deaths-after-oct-7-draws-us-military-interest",
+      "source": "Fox News World",
+      "all_sources": [
+        "Fox News World"
+      ],
+      "bias_breakdown": {
+        "Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "IDF battlefield medicine cut combat mortality rates from 15% to 7.1%, with advances in casualty evacuation and trauma care now benefiting the U.S.",
+        "Army."
+      ],
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/10/idf-battlefield-medicine-02.gif",
+      "published": "Sat, 10 Oct 2026 13:00:45 -0400"
     },
     {
       "title": "Headmaster detained after BBC investigation into alleged sexual abuse of students",
@@ -604,156 +1203,6 @@
       "published": "Sat, 10 Oct 2026 12:00:10 GMT"
     },
     {
-      "title": "Russian glide bomb attack on Zaporizhzhia kills at least 15 people",
-      "link": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "all_sources": [
-        "BBC World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Children are among the victims, authorities say, and more victims could still be buried in the rubble of a large apartment block that was destroyed."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/98ce/live/569e8e50-c49c-11f1-869c-8f95c437952a.jpg",
-      "published": "Sat, 10 Oct 2026 11:17:15 GMT"
-    },
-    {
-      "title": "What to Know About the Delhi Protests",
-      "link": "https://www.nytimes.com/2026/10/09/world/asia/what-to-know-about-the-delhi-protests.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Protesters opposed to sweeping revisions to India’s voter rolls are trying to rally in New Delhi.",
-        "The police have come out in force."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/10/10/multimedia/10india-protests-What-We-Know-bqth/10india-protests-What-We-Know-bqth-mediumSquareAt3X.jpg",
-      "published": "Sat, 10 Oct 2026 11:07:00 +0000"
-    },
-    {
-      "title": "A Week Later, Russia Hasn’t Said What Pathogen Killed Plague Researcher",
-      "link": "https://www.nytimes.com/2026/10/10/world/europe/russia-plague.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Experts said they believed that with modern testing technology, the Russian authorities should know the answer by now."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/10/10/multimedia/10int-russia-plague-lfjz/10int-russia-plague-lfjz-mediumSquareAt3X.jpg",
-      "published": "Sat, 10 Oct 2026 11:00:14 +0000"
-    },
-    {
-      "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
-      "link": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "all_sources": [
-        "BBC World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect and report the breach."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d64/live/61119c60-c483-11f1-9323-b15f40d5009a.jpg",
-      "published": "Sat, 10 Oct 2026 10:06:23 GMT"
-    },
-    {
-      "title": "U.S. and Russia tout diesel deal to ease sanctions and reopen fuel flows",
-      "link": "https://www.npr.org/2026/10/10/nx-s1-5996938/u-s-and-russia-tout-diesel-deal-to-ease-sanctions-and-reopen-fuel-flows",
-      "source": "NPR World",
-      "all_sources": [
-        "Deutsche Welle Top Stories",
-        "NPR World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1,
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 50,
-        "center_pct": 50,
-        "right_pct": 0,
-        "total": 2
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Moscow and Washington tout a diesel deal to ease sanctions and reopen fuel flows, but few details leave questions on price impacts and U.S.",
-        "policy, sparking anger from Ukraine and allies."
-      ],
-      "image_url": null,
-      "published": "Sat, 10 Oct 2026 07:40:53 -0400"
-    },
-    {
-      "title": "Israeli mom whose son was murdered on Oct. 7 nearly lost daughter in hijacked flydubai terrorist attack",
-      "link": "https://nypost.com/2026/10/10/world-news/israeli-mom-whose-son-was-murdered-on-oct-7-nearly-lost-daughter-in-hijacked-flydubai-terrorist-attack/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "An Israeli mom who lost her son in the Oct.",
-        "7 Hamas massacre nearly buried another child when her daughter survived an attempted hijacking aboard a flydubai flight Sept.",
-        "30 -- just days before the third anniversary of the attack."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fmiriam-ohayon-survived-terrifying-attempted-144119507.jpg?w%3D1024",
-      "published": "Sat, 10 Oct 2026 07:24:25 -0400"
-    },
-    {
       "title": "Inside the protest playbook to vilify Israel on 'global day of action'",
       "link": "https://www.foxnews.com/world/inside-global-anti-israel-protests-organizers-activate-digital-playbook-street-demands-vilify-israel",
       "source": "Fox News World",
@@ -796,456 +1245,10 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "France student protests over crumbling schools expose deep tensions as Jean-Luc Mélenchon&apos;s La France Insoumise allegedly exploits the growing unrest."
+        "Student protests in France over crumbling schools expose deep tensions as Jean-Luc Mélenchon&apos;s La France Insoumise allegedly exploits the growing unrest."
       ],
       "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Macron-Protesters.jpg?ve=1&tl=1",
       "published": "Sat, 10 Oct 2026 06:00:42 -0400"
-    },
-    {
-      "title": "‘Like a drill going into my eye’: why the mystery over Havana syndrome refuses to die",
-      "link": "https://www.theguardian.com/us-news/ng-interactive/2026/oct/10/havana-syndrome-mystery-cia-russia",
-      "source": "The Guardian World",
-      "all_sources": [
-        "The Guardian World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Shortly after 1am one night in April 2019, a CIA officer on a work trip to London was jolted awake in his hotel room by the most intense head pain he had ever experienced.",
-        "His body was soaked with sweat and he felt like his eyes were spinning in their sockets.",
-        "He manoeuvred his way out of bed, hoping to make it to the bathroom to vomit, but found his sense of balance had deserted him."
-      ],
-      "image_url": null,
-      "published": "Sat, 10 Oct 2026 05:00:48 GMT"
-    },
-    {
-      "title": "Thieves pull off Italy’s biggest-ever wine heist, stealing 30,000 bottles worth $5.8M",
-      "link": "https://nypost.com/2026/10/10/world-news/italy-hit-by-biggest-ever-wine-heist-as-thieves-steal-30000-bottles-worth-5-8m/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Using the company’s forklifts, they loaded the vehicles with wine and fled during the night."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fview-shows-vineyards-exterior-marchesi-144348247.jpg?w%3D1024",
-      "published": "Sat, 10 Oct 2026 03:47:01 -0400"
-    },
-    {
-      "title": "US country music star Ella Langley cancels show due to 'security threat'",
-      "link": "https://www.bbc.co.uk/news/articles/cm79pdlywqd4o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "all_sources": [
-        "BBC World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Police say they checked the concert venue in Tulsa, Oklahoma but \"could not find any threat\"."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab10/live/c3d14350-b6a0-11f1-bc1f-3f186ca4140c.jpg",
-      "published": "Sat, 10 Oct 2026 02:02:54 GMT"
-    },
-    {
-      "title": "Man killed by police after holding 13 kids hostage at knifepoint in Brazilian school",
-      "link": "https://nypost.com/2026/10/10/world-news/man-killed-by-police-after-holding-13-kids-hostage-at-knifepoint-in-brazilian-school/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "An armed man was killed in Brazil after holding 13 kids at school hostage for several hours on Friday."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F000-officers-military-police-brazil-144455088.jpg?w%3D1024",
-      "published": "Sat, 10 Oct 2026 00:14:03 -0400"
-    },
-    {
-      "title": "Powerful 7.7-magnitude earthquake strikes Panama and triggers panic in capital",
-      "link": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake",
-      "source": "The Guardian World",
-      "all_sources": [
-        "The Guardian World",
-        "Fox News World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1,
-        "Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 50,
-        "center_pct": 0,
-        "right_pct": 50,
-        "total": 2
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The quake caused buildings and roads to collapse but the country appeared to escape widespread destruction or deaths  A magnitude 7.7 earthquake struck southern Panama on Friday, damaging buildings and sending thousands into the streets, but the country appeared to escape widespread destruction or deaths.",
-        "The US Geological Survey (USGS) said the ⁠earthquake hit at a depth of ⁠12.6km (7.8 miles), with an ​epicenter in a sparsely populated area about 200km (124 miles) from the capital, Panama City.",
-        "It lasted about a minute."
-      ],
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/panama-earthquake.png?ve=1&tl=1",
-      "published": "Sat, 10 Oct 2026 00:13:15 GMT"
-    },
-    {
-      "title": "Attacker in FlyDubai Flight Meant to Crash Into Israeli Airport, Emiratis Say",
-      "link": "https://www.nytimes.com/2026/10/09/world/middleeast/flydubai-pilot-attack.html",
-      "source": "NYT World",
-      "all_sources": [
-        "BBC World",
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1,
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 50,
-        "center_pct": 50,
-        "right_pct": 0,
-        "total": 2
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The attorney general of the United Arab Emirates said that the co-pilot had been inspired by the Sept.",
-        "11 attacks after  years of developing extreme Islamist views."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8092/live/6ab37a20-bfbc-11f1-a64c-550be9e3c66b.png",
-      "published": "Sat, 10 Oct 2026 00:10:22 +0000"
-    },
-    {
-      "title": "Palestinians Stream Back to Northern Gaza on Foot",
-      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "source": "WSJ World News",
-      "all_sources": [
-        "WSJ World News"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Israel allowed displaced Gazans to begin crossing a military zone that bisects the enclave after a deadlock over hostage releases was broken."
-      ],
-      "image_url": null,
-      "published": "Mon, 27 Jan 2025 14:23:00 -0500"
-    },
-    {
-      "title": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
-      "link": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
-      "source": "WSJ World News",
-      "all_sources": [
-        "WSJ World News"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in."
-      ],
-      "image_url": null,
-      "published": "Mon, 27 Jan 2025 12:32:00 -0500"
-    },
-    {
-      "title": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
-      "link": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
-      "source": "WSJ World News",
-      "all_sources": [
-        "WSJ World News"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said."
-      ],
-      "image_url": null,
-      "published": "Mon, 27 Jan 2025 12:12:00 -0500"
-    },
-    {
-      "title": "Suspected Sabotage of Deep-Sea Cable Triggers First NATO-Led Response",
-      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
-      "source": "WSJ World News",
-      "all_sources": [
-        "WSJ World News"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The alliance mounted its first coordinated response to a suspected sabotage campaign against critical infrastructure after another cable was severed in the Baltic Sea."
-      ],
-      "image_url": null,
-      "published": "Mon, 27 Jan 2025 11:22:00 -0500"
-    },
-    {
-      "title": "Rwanda-Backed Rebels Enter Congo's Safe-Haven City",
-      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
-      "source": "WSJ World News",
-      "all_sources": [
-        "WSJ World News"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Residents of Goma reported gunfire and shelling after rebels overran Congolese troops.",
-        "U.N.",
-        "officials estimated that more than one million displaced people were now inside the city."
-      ],
-      "image_url": null,
-      "published": "Mon, 27 Jan 2025 10:07:00 -0500"
-    },
-    {
-      "title": "Cocaine-Funded Gangs Shake Colombia Years After Peace Pact",
-      "link": "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da",
-      "source": "WSJ World News",
-      "all_sources": [
-        "WSJ World News"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Attacks by powerful militias against civilians reflect the state’s inaction eight years after a peace accord removed a powerful rebel group from the field."
-      ],
-      "image_url": null,
-      "published": "Mon, 27 Jan 2025 07:00:00 -0500"
-    },
-    {
-      "title": "Italy Supports Saudi Arabia Joining Fighter-Jet Program, PM Meloni Says",
-      "link": "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1",
-      "source": "WSJ World News",
-      "all_sources": [
-        "WSJ World News"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The U.K., Italy and Japan have already partnered on the Global Combat Air Programme, which aims to put a new stealth fighter with supersonic capability in the skies by 2035."
-      ],
-      "image_url": null,
-      "published": "Mon, 27 Jan 2025 05:34:00 -0500"
-    },
-    {
-      "title": "Shippers Wary of Red Sea Routes Despite Houthi Pledge to End Targeting",
-      "link": "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2",
-      "source": "WSJ World News",
-      "all_sources": [
-        "WSJ World News"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The world’s top three container operators said they fear instability in Gaza and broader regional tensions mean continued danger."
-      ],
-      "image_url": null,
-      "published": "Mon, 27 Jan 2025 01:05:00 -0500"
-    },
-    {
-      "title": "Kim Jong Un Is Doing Everything He Can to Keep North Korea's Youth in Line",
-      "link": "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de",
-      "source": "WSJ World News",
-      "all_sources": [
-        "WSJ World News"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The dictator, eager to shut out the influence of Hollywood and K-pop, has been exalting a “shock brigade” of 300,000 teens and 20-somethings drafted into flood reconstruction."
-      ],
-      "image_url": null,
-      "published": "Mon, 27 Jan 2025 01:05:00 -0500"
-    },
-    {
-      "title": "What Bolsonaro vs. Lula says about democracy in Brazil",
-      "link": "https://www.csmonitor.com/World/Americas/2026/1005/brazil-president-election-lula-bolsonaro?icid=rss",
-      "source": "Christian Science Monitor World",
-      "all_sources": [
-        "Christian Science Monitor World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "President Luiz Inácio Lula da Silva and Sen.",
-        "Flávio Bolsonaro head to a runoff vote in Brazil’s presidential election."
-      ],
-      "image_url": null,
-      "published": "Mon, 05 Oct 2026 12:04:51 EDT"
-    },
-    {
-      "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-      "link": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "all_sources": [
-        "BBC World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/200a/live/11ffab00-c472-11f1-9fee-49b2288eef07.jpg",
-      "published": "Fri, 09 Oct 2026 22:30:22 GMT"
-    },
-    {
-      "title": "As Putin Wages Shadow War, Europe Looks for a Way to Hit Back",
-      "link": "https://www.nytimes.com/2026/10/09/world/europe/putin-russia-ukraine-war-europe-nato.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Moscow has used tactics of fear and ambiguity to try to divide NATO and limit support for Ukraine.",
-        "But how should Europe retaliate?",
-        "And how hard?"
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/10/08/multimedia/08europe-hybrid-01-jwfg/08europe-hybrid-01-jwfg-mediumSquareAt3X.jpg",
-      "published": "Fri, 09 Oct 2026 22:07:24 +0000"
     }
   ]
 }

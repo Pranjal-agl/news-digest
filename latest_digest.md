@@ -1,32 +1,33 @@
-# News Digest - 2026-10-10
+# News Digest - 2026-10-11
 
-**50 stories** · 7 with multi-source coverage · 2 blindspots
+**50 stories** · 5 with multi-source coverage · 2 blindspots
 
 ---
 
-## 1. 🔍 A year of ceasefire in Gaza through the lens of NPR's reporter
+## 1. 🔍 India’s ‘Cockroach’ Leaders Released as Small Protests Go On in Delhi
 
-**Source:** [NPR World](https://www.npr.org/sections/the-picture-show/2026/10/10/nx-s1-5991619/gaza-ceasefire-israel-life)
+**Source:** [NYT World](https://www.nytimes.com/2026/10/11/world/asia/india-cockroach-dipke-new-delhi-protests.html)
 
-**Also covered by:** Al Jazeera
+**Also covered by:** Al Jazeera, Al Jazeera
+
+**Bias breakdown:** Lean Left: 3
+
+**Blindspot:** all covering sources lean the same direction
+
+- The leaders of the Cockroach Janta Party, an Indian youth movement, had been detained by the police on Saturday before they could lead protests over voting rights.
+
+## 2. 🔍 Protests against voter roll revisions rock capital of world's largest democracy
+
+**Source:** [NPR World](https://www.npr.org/2026/10/10/nx-s1-5995118/protests-against-voter-roll-revisions-rock-capital-of-worlds-largest-democracy)
+
+**Also covered by:** NYT World
 
 **Bias breakdown:** Lean Left: 2
 
 **Blindspot:** all covering sources lean the same direction
 
-- It has been one year since Hamas released the remaining Israeli hostages and President Trump promised an end to the war, but Palestinians say the past 12 months have been a ceasefire in name only.
-
-## 2. 🔍 India cracks down on youth protests as anger grows against Modi and election chief
-
-**Source:** [NPR World](https://www.npr.org/2026/10/10/g-s1-147603/india-cracks-down-on-youth-protests-as-anger-grows-against-modi-and-election-chief)
-
-**Also covered by:** Al Jazeera
-
-**Bias breakdown:** Lean Left: 2
-
-**Blindspot:** all covering sources lean the same direction
-
-- Indian authorities have launched a major security crackdown in New Delhi, detaining thousands of protesters who intended to hold a mass demonstration against Prime Minister Narendra Modi's government.
+- Parts of the capital city of India, the world's largest democracy, are on lockdown.
+- Protests over sweeping revisions to the voter rolls were met with a massive police crackdown.
 
 ## 3. Who built Saudi Arabia’s ‘Stonehenge’ and why? ‘The men’ aren’t saying.
 
@@ -64,15 +65,7 @@
 
 - Deepening ties between Iran and Russia are paying off for both powers, especially on the battlefield.
 
-## 7. 2 foreign nationals breach UK base housing key US, NATO intel hub amid $556M expansion
-
-**Source:** [Fox News World](https://www.foxnews.com/world/foreign-nationals-breach-us-nato-intel-hub-uk-military-base-556m-expansion)
-
-**Bias breakdown:** Right: 1
-
-- The Latvian men were arrested under the National Security Act 2023 after breaching a fence at RAF Molesworth, prompting a major counterterrorism investigation.
-
-## 8. Scientists discover 180,000 giant tortoises on one Seychelles island
+## 7. Scientists discover 180,000 giant tortoises on one Seychelles island
 
 **Source:** [The Guardian World](https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles)
 
@@ -82,34 +75,7 @@
 - A population of Aldabra giant tortoises lives on an island in Seychelles called Aldabra Atoll.
 - Continue reading...
 
-## 9. The long-deployed USS Lincoln returns home to San Diego Bay
-
-**Source:** [NPR World](https://www.npr.org/2026/10/08/nx-s1-5995911/the-long-deployed-uss-lincoln-returns-home-to-san-diego-bay)
-
-**Bias breakdown:** Lean Left: 1
-
-- The USS Abraham Lincoln aircraft carrier has returned home after a record-setting uninterrupted time at sea supporting the Iran war.
-- The extended deployment drew attention following reports of crew stress and supply shortages.
-
-## 10. Woman, 87, dies after being carried from home of 70 years on stretcher during eviction in Spain
-
-**Source:** [Fox News World](https://www.foxnews.com/world/woman-87-dies-carried-home-70-years-stretcher-eviction-spain)
-
-**Also covered by:** Al Jazeera
-
-**Bias breakdown:** Lean Left: 1 · Right: 1
-
-- Maricarmen Abascal's eviction from her Madrid apartment of 70 years sparked massive protests, and her death has deepened Spain's housing crisis.
-
-## 11. Iranian protester hanged hours after marrying his imprisoned fiancée over jail phone line
-
-**Source:** [Fox News World](https://www.foxnews.com/world/iranian-protester-hanged-hours-after-marrying-imprisoned-fiancee-jail-phone-line)
-
-**Bias breakdown:** Right: 1
-
-- Alireza Sepahi married his imprisoned fiancée over a prison phone line hours before his execution at Isfahan Central Prison for anti-government protest.
-
-## 12. In England, efforts to save a vanishing heritage – 9 strings at a time
+## 8. In England, efforts to save a vanishing heritage – 9 strings at a time
 
 **Source:** [Christian Science Monitor World](https://www.csmonitor.com/World/Europe/2026/1008/puppets-marionettes-britain-little-angel-theatre?icid=rss)
 
@@ -117,16 +83,7 @@
 
 - Fans of puppet shows are trying to save the traditional art of marionette-making in the United Kingdom before the skills are lost.
 
-## 13. New U.S. indictment charges former Venezuelan President Nicolás Maduro with torture
-
-**Source:** [NPR World](https://www.npr.org/2026/10/08/nx-s1-5995360/venezuela-nicolas-maduro-torture-charges)
-
-**Bias breakdown:** Lean Left: 1
-
-- U.S.
-- authorities added new torture charges to their case against former Venezuelan President Nicolás Maduro, ramping up pressure on the ousted authoritarian leader already fighting drug trafficking allegations.
-
-## 14. Trump Says Colombia Will Accept Deportees, Ending Tariff Standoff
+## 9. Trump Says Colombia Will Accept Deportees, Ending Tariff Standoff
 
 **Source:** [WSJ World News](https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497)
 
@@ -134,63 +91,311 @@
 
 - The president has made immigration an early priority to start second term, with ICE making more than 900 arrests Sunday.
 
-## 15. When streets become a workplace: Gaza workers convert tents into offices
+## 10. Ukraine strikes Yandex data centre in third attack on Russian tech giant
 
-**Source:** [Al Jazeera](https://www.aljazeera.com/features/2026/10/10/when-streets-become-a-workplace-gaza-workers-convert-tents-into-offices?traffic_source=rss)
+**Source:** [BBC World](https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss)
 
-**Bias breakdown:** Lean Left: 1
+**Bias breakdown:** Center: 1
 
-- A real estate crisis in Gaza has forced professionals to use tents as surgeries and offices.
+- It is the third time this week that Ukraine has targeted Russian tech giant Yandex, forcing the company to suspend its operations.
 
-## 16. Inside Erik Prince’s Mercenary Deal in Congo
+## 11. Ukraine Shrugs Off Trump Call to Ditch Zelensky for Energy Strikes
 
-**Source:** [NYT World](https://www.nytimes.com/2026/10/09/world/africa/erik-prince-congo-mercenary-kennedy-vectus-contract.html)
-
-**Bias breakdown:** Lean Left: 1
-
-- The injury of a former Green Beret and death of an elite soldier from New Zealand have highlighted the Blackwater founder’s growing role in one of Africa’s most intractable conflicts.
-
-## 17. High silver prices threaten Lucknow’s famed bridal nagra craft
-
-**Source:** [Al Jazeera](https://www.aljazeera.com/features/longform/2026/10/10/high-silver-prices-threaten-lucknows-famed-bridal-nagra-craft?traffic_source=rss)
+**Source:** [NYT World](https://www.nytimes.com/2026/10/11/world/europe/trump-zelensky-diesel-energy-russia-.html)
 
 **Bias breakdown:** Lean Left: 1
 
-- War-driven prices for silver are threatening nagra makers in northern India.
+- President Trump lashed out at President Volodymyr Zelensky for striking Russian oil refineries.
+- Mr.
+- Zelensky said he’ll stop — if Russia does too.
 
-## 18. New Delhi police crack down on protesters ahead of anti-gov’t march
+## 12. Ethiopia, Eritrea ramp up rhetoric: Are they inching towards war?
 
-**Source:** [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/10/10/new-delhi-police-crack-down-on-protesters-ahead-of-anti-govt-march?traffic_source=rss)
-
-**Bias breakdown:** Lean Left: 1
-
-- India’s police have detained dozens of protesters, including ‘Cockroach’ party leaders ahead of an anti-gov't march.
-
-## 19. ‘Anachronism’: Rubio’s civilisational rhetoric prompts pushback from Iran
-
-**Source:** [Al Jazeera](https://www.aljazeera.com/news-analysis/2026/10/10/anachronism-rubios-civilisational-rhetoric-prompts-pushback-from-iran?traffic_source=rss)
+**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/11/ethiopia-eritrea-ramp-up-rhetoric-are-they-inching-towards-war?traffic_source=rss)
 
 **Bias breakdown:** Lean Left: 1
 
-- Rubio says threats to Western civilisation today 'every bit as real as they were on the dramatic stage of antiquity'.
+- Allegations of Eritrean troop incursions into Tigray deepen the rift with Ethiopia, threatening fragile peace in the region.
 
-## 20. Verstappen wins chaotic Singapore GP F1 sprint after Russell crashes
+## 13. The Mafia Football Murders | True Crime Reports
 
-**Source:** [Al Jazeera](https://www.aljazeera.com/sports/2026/10/10/verstappen-singapore-gp-sprint-rain-russell-hamilton-leclerc?traffic_source=rss)
-
-**Bias breakdown:** Lean Left: 1
-
-- Max Verstappen's sprint race win was ​Dutchman's first of any kind in Singapore as he finished ahead of Lewis Hamilton.
-
-## 21. England international Cole Palmer signs new Chelsea deal until 2034
-
-**Source:** [Al Jazeera](https://www.aljazeera.com/sports/2026/10/10/england-international-cole-palmer-signs-new-chelsea-deal-until-2034?traffic_source=rss)
+**Source:** [Al Jazeera](https://www.aljazeera.com/video/true-crime-reports/2026/10/11/true-crime-reports-the-mafia-football-murders?traffic_source=rss)
 
 **Bias breakdown:** Lean Left: 1
 
-- Attacking midfielder Palmer has become a key figure in Chelsea's squad since his arrival from Man City in 2023.
+- A lifelong Inter Milan fan shot in Milan exposes a shocking alliance between football's ultras and the mafia.
 
-## 22. Headmaster detained after BBC investigation into alleged sexual abuse of students
+## 14. Hormuz attacks intensify as efforts to end war on Iran stall
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/11/hormuz-attacks-intensify-as-efforts-to-end-war-on-iran-stall?traffic_source=rss)
+
+**Bias breakdown:** Lean Left: 1
+
+- IRGC warns against ignoring waterway's 'security and rules' as CENTCOM says US disabled vessel trying to run blockade.
+
+## 15. Creating a ghost town: Lives in limbo behind Israeli gates and checkpoints
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/features/2026/10/11/creating-a-ghost-town-lives-in-limbo-behind-israeli-gates-and-checkpoints?traffic_source=rss)
+
+**Bias breakdown:** Lean Left: 1
+
+- Israeli restrictions in Hebron have made life for Palestinians from the city a daily ordeal.
+
+## 16. Saudi Arabia Has Few Options as Houthis Aim at Heart of Its Ambitions
+
+**Source:** [NYT World](https://www.nytimes.com/2026/10/11/world/middleeast/saudi-arabia-options-houthis.html)
+
+**Bias breakdown:** Lean Left: 1
+
+- Three deadly attacks by the Iran-backed Houthis in Yemen on an airport in the Saudi capital underscored the asymmetrical nature of their conflict with the kingdom.
+
+## 17. Ceuta migrants allege beatings as camps cleared ahead of royal visit
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/10/11/ceuta-migrants-allege-beatings-as-camps-cleared-ahead-of-royal-visit?traffic_source=rss)
+
+**Bias breakdown:** Lean Left: 1
+
+- People in Ceuta allege they were mistreated by Spanish soldiers after authorities cleared migrant camps.
+
+## 18. Meet the man helping India’s detained protesters get home
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/10/11/meet-the-man-helping-indias-detained-protesters-get-home?traffic_source=rss)
+
+**Bias breakdown:** Lean Left: 1
+
+- Al Jazeera spoke to the 25-year-old man who built an AI-powered app to help India’s detained protesters get home safely.
+
+## 19. Sweet protein brazzein shows promise in reducing blood sugar spikes: Study
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/11/sweet-protein-brazzein-shows-promise-in-reducing-blood-sugar-spikes-study?traffic_source=rss)
+
+**Bias breakdown:** Lean Left: 1
+
+- Russian research reveals that the protein brazzein could help reduce blood sugar spikes.
+
+## 20. Homes and bridges swept away as fresh floods hit Nepal
+
+**Source:** [BBC World](https://www.bbc.co.uk/news/articles/ck86zppejjw3o?at_medium=RSS&at_campaign=rss)
+
+**Bias breakdown:** Center: 1
+
+- Nepal is still trying to recover from catastrophic floods that hit less than two months ago, leaving thousands dead and missing.
+
+## 21. Wringing Hope From the Rubble of Gaza
+
+**Source:** [NYT World](https://www.nytimes.com/2026/10/11/world/middleeast/wringing-hope-from-the-rubble-of-gaza.html)
+
+**Bias breakdown:** Lean Left: 1
+
+- The cease-fire last October ostensibly brought an end to Israel’s war in Gaza after the Hamas-led attacks on Oct.
+- 7, 2023.
+- A year later, however, Israeli strikes, though less frequent, haven’t stopped.
+
+## 22. Delhi sees more protests as freed 'cockroach' group's leaders vow to fight on
+
+**Source:** [BBC World](https://www.bbc.co.uk/news/articles/c84g179n2393o?at_medium=RSS&at_campaign=rss)
+
+**Bias breakdown:** Center: 1
+
+- Hundreds of people who came out on the streets despite the police's restrictions were detained on Sunday.
+
+## 23. Fate of tiger that fatally mauled visitor at UK wildlife park revealed
+
+**Source:** [New York Post World](https://nypost.com/2026/10/11/world-news/fate-of-tiger-that-fatally-mauled-visitor-at-uk-wildlife-park-revealed/)
+
+**Bias breakdown:** Lean Right: 1
+
+- Altai, a young male Siberian tiger, was filmed biting and clawing at the parkgoer's back after the man climbed into the big cat's enclosure at Yorkshire Wildlife Park in northern England on Saturday afternoon.
+
+## 24. In Canada’s Arctic, a New Generation of Inuit Creatives Are Using Identity to Fuel Their Art
+
+**Source:** [NYT World](https://www.nytimes.com/2026/10/11/world/canada/inuit-inuk-indigenous-people-identity-iqaluit.html)
+
+**Bias breakdown:** Lean Left: 1
+
+- In Iqaluit, the only city in Canada’s Arctic, a new generation of Inuit writers and artists is turning questions of language, land and identity into books, films and even tattoos.
+
+## 25. A Russian Spy’s Lone Regret: ‘I Got Caught’
+
+**Source:** [NYT World](https://www.nytimes.com/2026/10/11/world/europe/russia-spy-ukraine.html)
+
+**Bias breakdown:** Lean Left: 1
+
+- Though born in Ukraine, Alexsander supports the Russian cause.
+- He wishes he had deleted one photo from his phone.
+
+## 26. A Reporter Returns to China to Find it Richer, but Also Highly Paranoid.
+
+**Source:** [NYT World](https://www.nytimes.com/2026/10/11/world/asia/china-essay-higgins-surveillance.html)
+
+**Bias breakdown:** Lean Left: 1
+
+- Returning to China after decades away, a correspondent finds bullet trains, dazzling skylines — and a surveillance state more paranoid and pervasive than ever.
+
+## 27. Abbas delays Palestinian elections again, making more than two decades without vote
+
+**Source:** [Fox News World](https://www.foxnews.com/world/abbas-delays-palestinian-elections-again-making-more-than-two-decades-without-vote)
+
+**Bias breakdown:** Right: 1
+
+- Palestinian Authority President Mahmoud Abbas delayed elections to 2027, extending a nearly 20-year wait as Israel and Hamas clash over the blame.
+
+## 28. Pope Leo XIV will undergo surgery to remove a lump on his lung
+
+**Source:** [New York Post World](https://nypost.com/2026/10/11/world-news/pope-leo-xiv-will-undergo-surgery-to-remove-a-nodule-on-his-lung/)
+
+**Also covered by:** BBC World, Deutsche Welle Top Stories, NYT World, NPR World, Fox News World
+
+**Bias breakdown:** Lean Left: 2 · Center: 2 · Lean Right: 1 · Right: 1
+
+- Pope Leo XIV, 71, will undergo surgery in Rome to remove a small, early-stage nodule on his lung, with an expected recovery time of one week.
+
+## 29. Look inside the roadside bomb shelters on Israel’s ‘Death Road’ that have been transformed into memorials for October 7’s victims
+
+**Source:** [New York Post World](https://nypost.com/2026/10/11/world-news/inside-israels-bomb-shelters-turned-memorials-on-death-road/)
+
+**Bias breakdown:** Lean Right: 1
+
+- Gilad Karplus survived a bullet to the head and is helping others heal.
+
+## 30. Man mauled to death by tiger was happily dancing, posing for pics with the animal before he jumped into UK wildlife enclosure
+
+**Source:** [New York Post World](https://nypost.com/2026/10/11/world-news/man-mauled-to-death-by-tiger-was-happily-dancing-posing-for-pics-with-the-animal-before-he-jumped-into-uk-wildlife-enclosure/)
+
+**Bias breakdown:** Lean Right: 1
+
+- "I honestly do think he just wanted to play with the tiger."
+
+## 31. A heroic, 7-day bike ride made this teen a global star. Where is she now?
+
+**Source:** [NPR World](https://www.npr.org/2026/10/11/g-s1-147267/bicycle-teenager-india-pandemic)
+
+**Bias breakdown:** Lean Left: 1
+
+- Her epic ride — carrying her injured dad on her $20 hot pink bicycle — made headlines.
+- Promises were made — financial help, training for a cycling career, even a movie deal.
+- Were any of them kept?
+
+## 32. ‘It was a terrible thing’: Panama declares state of emergency as quake aftershocks rattle communities
+
+**Source:** [The Guardian World](https://www.theguardian.com/world/2026/oct/11/panama-eathquake-state-of-emergency)
+
+**Bias breakdown:** Lean Left: 1
+
+- More than 100 aftershocks as high as magnitude-5.8 recorded after two quakes toppled buildings and prompted evacuations  Panama’s government has declared a state of emergency on Saturday as the aftershocks of two powerful earthquakes that roiled the country shook communities for hours.
+- Officials did not attribute any deaths to Friday’s 7.7- and 6.6-magnitude earthquakes, but reported damages in all 10 of Panama’s provinces and two Indigenous territories.
+- Continue reading...
+
+## 33. Inside Israel's plot to kill Hezbollah chief as Netanyahu warned Biden aide would 'jump out of his skin'
+
+**Source:** [Fox News World](https://www.foxnews.com/world/inside-israels-plot-kill-hezbollah-chief-netanyahu-warned-biden-aide-would-jump-out-his-skin)
+
+**Bias breakdown:** Right: 1
+
+- Benjamin Netanyahu warned that Jake Sullivan would "jump out of his skin" over Israel's secret plan to assassinate Hassan Nasrallah in Beirut.
+
+## 34. Nepal urges villagers to evacuate after flood triggered by landslide
+
+**Source:** [New York Post World](https://nypost.com/2026/10/11/world-news/nepal-urges-villagers-to-evacuate-after-flood-triggered-by-landslide/)
+
+**Bias breakdown:** Lean Right: 1
+
+- About a dozen houses and two suspension bridges had been swept away.
+
+## 35. US justice department investigates TV networks over Trump pool coverage
+
+**Source:** [BBC World](https://www.bbc.co.uk/news/articles/c9vgregzk6gro?at_medium=RSS&at_campaign=rss)
+
+**Bias breakdown:** Center: 1
+
+- The White House had blocked access for CNN, MS Now and Politico, leading them to restrict pool coverage.
+
+## 36. Pope Leo declares death penalty ‘inadmissible’ as US plans to livestream execution
+
+**Source:** [New York Post World](https://nypost.com/2026/10/11/world-news/pope-leo-declares-death-penalty-inadmissible-as-his-us-schedules-fort-hood-killer-firing-squad-execution/)
+
+**Bias breakdown:** Lean Right: 1
+
+- Pope Leo XIV on Saturday declared capital punishment ''inadmissible” as he marked the World Day Against the Death Penalty and his native United States announced plans to livestream an execution by firing squad.
+
+## 37. Chaos at Melbourne Marathon as stolen car allegedly hits woman, almost breaks onto course
+
+**Source:** [New York Post World](https://nypost.com/2026/10/11/world-news/melbourne-marathon-disrupted-after-stolen-car-allegedly-hits-woman-nearly-crashes-onto-course/)
+
+**Bias breakdown:** Lean Right: 1
+
+- A young boy was “about [30 feet] away” from driving into the crowd at the event, one witness said.
+
+## 38. Russian glide bomb attack on Zaporizhzhia kills at least 20 people
+
+**Source:** [BBC World](https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss)
+
+**Bias breakdown:** Center: 1
+
+- Volodymyr Zelensky says the attack, which left children dead, was Russia expressing its "thanks" for a US diesel deal.
+
+## 39. Attack on Riyadh airport killed 12 people and wounded over 300 more, Saudi authorities say
+
+**Source:** [NPR World](https://www.npr.org/2026/10/10/g-s1-147682/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say)
+
+**Also covered by:** Deutsche Welle Top Stories, Al Jazeera, New York Post World
+
+**Bias breakdown:** Lean Left: 2 · Center: 1 · Lean Right: 1
+
+- Saudi authorities say the latest attack on the international airport in the capital, Riyadh, has killed 12 people and injured over 300.
+- It said some of those injured were in critical condition.
+- The attack — the latest of several in the past week on King Khalid International Airport — is expected to increase Saudi pressure on allies including the United States to provide military support for the kingdom.
+
+## 40. Expedition hopes to find aviator Amelia Earhart's plane on remote island
+
+**Source:** [BBC World](https://www.bbc.co.uk/news/articles/c3y0e871rk4vo?at_medium=RSS&at_campaign=rss)
+
+**Bias breakdown:** Center: 1
+
+- The team en route to the suspected crash site aim finally to solve the mystery of her 1937 disappearance.
+
+## 41. US murderer Christa Pike discharged from hospital 10 days after failed execution
+
+**Source:** [BBC World](https://www.bbc.co.uk/news/articles/cmlyle97pqd7o?at_medium=RSS&at_campaign=rss)
+
+**Bias breakdown:** Center: 1
+
+- Pike's lawyers say she is "grateful" to the medical team who cared for her after she survived two lethal injections last month.
+
+## 42. Bayeux Tapestry's London tour spurs enthusiasts to Battle of Hastings reenactment
+
+**Source:** [NPR World](https://www.npr.org/2026/10/10/nx-s1-5993847/bayeux-tapestrys-london-tour-spurs-enthusiasts-to-battle-of-hastings-re-enactment)
+
+**Bias breakdown:** Lean Left: 1
+
+- A reenactment of the Battle of Hastings, which took place almost a millennium ago, is drawing crowds of enthusiasts in the UK.
+
+## 43. Trump weighs joining the fight against Houthis after Riyadh airport attack
+
+**Source:** [NPR World](https://www.npr.org/2026/10/10/nx-s1-5997512/saudi-arabia-riyadh-airport-bombing-attack)
+
+**Bias breakdown:** Lean Left: 1
+
+- The surge in attacks, including against other Saudi airports, military facilities and oil infrastructure, has come in the week since a Saudi-led coalition launched a major military offensive against the Houthis.
+
+## 44. A Week Later, Russia Hasn’t Said What Pathogen Killed Plague Researcher
+
+**Source:** [NYT World](https://www.nytimes.com/2026/10/10/world/europe/russia-plague.html)
+
+**Bias breakdown:** Lean Left: 1
+
+- Experts said they believed that with modern testing technology, the Russian authorities should know the answer by now.
+
+## 45. Israeli combat medicine slashes IDF deaths after Oct 7, draws US military interest
+
+**Source:** [Fox News World](https://www.foxnews.com/world/israeli-combat-medicine-slashes-idf-deaths-after-oct-7-draws-us-military-interest)
+
+**Bias breakdown:** Right: 1
+
+- IDF battlefield medicine cut combat mortality rates from 15% to 7.1%, with advances in casualty evacuation and trauma care now benefiting the U.S.
+- Army.
+
+## 46. Headmaster detained after BBC investigation into alleged sexual abuse of students
 
 **Source:** [BBC World](https://www.bbc.co.uk/news/articles/cwy8lx1r2vrro?at_medium=RSS&at_campaign=rss)
 
@@ -198,7 +403,7 @@
 
 - Former students launched their own investigation, spending years collecting evidence and testimonies from others who say they were abused by the headteacher.
 
-## 23. Candidate named Hitler Mussolini elected mayor in Peru
+## 47. Candidate named Hitler Mussolini elected mayor in Peru
 
 **Source:** [The Guardian World](https://www.theguardian.com/world/2026/oct/10/peru-election-hitler-mussolini-simeon-flores-mayor)
 
@@ -208,61 +413,18 @@
 - The 45-year-old, who shares two of his names with the notorious European dictators, won the race for mayor of Queropalca, in Peru’s central Huánuco region, and will take office on 1 January.
 - Continue reading...
 
-## 24. Russian glide bomb attack on Zaporizhzhia kills at least 15 people
-
-**Source:** [BBC World](https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss)
-
-**Bias breakdown:** Center: 1
-
-- Children are among the victims, authorities say, and more victims could still be buried in the rubble of a large apartment block that was destroyed.
-
-## 25. What to Know About the Delhi Protests
-
-**Source:** [NYT World](https://www.nytimes.com/2026/10/09/world/asia/what-to-know-about-the-delhi-protests.html)
-
-**Bias breakdown:** Lean Left: 1
-
-- Protesters opposed to sweeping revisions to India’s voter rolls are trying to rally in New Delhi.
-- The police have come out in force.
-
-## 26. A Week Later, Russia Hasn’t Said What Pathogen Killed Plague Researcher
-
-**Source:** [NYT World](https://www.nytimes.com/2026/10/10/world/europe/russia-plague.html)
-
-**Bias breakdown:** Lean Left: 1
-
-- Experts said they believed that with modern testing technology, the Russian authorities should know the answer by now.
-
-## 27. Rogue Anthropic AI agent gave police fake tip in unsolved murder case
-
-**Source:** [BBC World](https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss)
-
-**Bias breakdown:** Center: 1
-
-- Philadelphia police said the tip was "flagged as spam", but criticised the tech company for taking more than two months to detect and report the breach.
-
-## 28. U.S. and Russia tout diesel deal to ease sanctions and reopen fuel flows
+## 48. U.S. and Russia tout diesel deal to ease sanctions and reopen fuel flows
 
 **Source:** [NPR World](https://www.npr.org/2026/10/10/nx-s1-5996938/u-s-and-russia-tout-diesel-deal-to-ease-sanctions-and-reopen-fuel-flows)
 
-**Also covered by:** Deutsche Welle Top Stories
+**Also covered by:** Deutsche Welle Top Stories, New York Post World
 
-**Bias breakdown:** Lean Left: 1 · Center: 1
+**Bias breakdown:** Lean Left: 1 · Center: 1 · Lean Right: 1
 
 - Moscow and Washington tout a diesel deal to ease sanctions and reopen fuel flows, but few details leave questions on price impacts and U.S.
 - policy, sparking anger from Ukraine and allies.
 
-## 29. Israeli mom whose son was murdered on Oct. 7 nearly lost daughter in hijacked flydubai terrorist attack
-
-**Source:** [New York Post World](https://nypost.com/2026/10/10/world-news/israeli-mom-whose-son-was-murdered-on-oct-7-nearly-lost-daughter-in-hijacked-flydubai-terrorist-attack/)
-
-**Bias breakdown:** Lean Right: 1
-
-- An Israeli mom who lost her son in the Oct.
-- 7 Hamas massacre nearly buried another child when her daughter survived an attempted hijacking aboard a flydubai flight Sept.
-- 30 -- just days before the third anniversary of the attack.
-
-## 30. Inside the protest playbook to vilify Israel on 'global day of action'
+## 49. Inside the protest playbook to vilify Israel on 'global day of action'
 
 **Source:** [Fox News World](https://www.foxnews.com/world/inside-global-anti-israel-protests-organizers-activate-digital-playbook-street-demands-vilify-israel)
 
@@ -270,181 +432,11 @@
 
 - Global Alliance for Palestine distributed a detailed playbook urging groups to shut down city squares and blockade corporate hubs across continents.
 
-## 31. France is devouring itself as school riots reveal a crisis far bigger than broken classrooms
+## 50. France is devouring itself as school riots reveal a crisis far bigger than broken classrooms
 
 **Source:** [Fox News World](https://www.foxnews.com/world/france-devouring-itself-school-riots-reveal-crisis-far-bigger-than-broken-classrooms)
 
 **Bias breakdown:** Right: 1
 
-- France student protests over crumbling schools expose deep tensions as Jean-Luc Mélenchon's La France Insoumise allegedly exploits the growing unrest.
-
-## 32. ‘Like a drill going into my eye’: why the mystery over Havana syndrome refuses to die
-
-**Source:** [The Guardian World](https://www.theguardian.com/us-news/ng-interactive/2026/oct/10/havana-syndrome-mystery-cia-russia)
-
-**Bias breakdown:** Lean Left: 1
-
-- Shortly after 1am one night in April 2019, a CIA officer on a work trip to London was jolted awake in his hotel room by the most intense head pain he had ever experienced.
-- His body was soaked with sweat and he felt like his eyes were spinning in their sockets.
-- He manoeuvred his way out of bed, hoping to make it to the bathroom to vomit, but found his sense of balance had deserted him.
-
-## 33. Thieves pull off Italy’s biggest-ever wine heist, stealing 30,000 bottles worth $5.8M
-
-**Source:** [New York Post World](https://nypost.com/2026/10/10/world-news/italy-hit-by-biggest-ever-wine-heist-as-thieves-steal-30000-bottles-worth-5-8m/)
-
-**Bias breakdown:** Lean Right: 1
-
-- Using the company’s forklifts, they loaded the vehicles with wine and fled during the night.
-
-## 34. US country music star Ella Langley cancels show due to 'security threat'
-
-**Source:** [BBC World](https://www.bbc.co.uk/news/articles/cm79pdlywqd4o?at_medium=RSS&at_campaign=rss)
-
-**Bias breakdown:** Center: 1
-
-- Police say they checked the concert venue in Tulsa, Oklahoma but "could not find any threat".
-
-## 35. Three men found guilty of murders of Australian surfer brothers and US friend in Mexico
-
-**Source:** [The Guardian World](https://www.theguardian.com/world/2026/oct/10/jake-callum-robinson-australian-surfers-carter-rhoad-mexico-murder-guilty-verdict-ntwnfb)
-
-**Also covered by:** BBC World, Deutsche Welle Top Stories
-
-**Bias breakdown:** Lean Left: 1 · Center: 2
-
-- Australian brothers Jake and Callum Robinson, 30 and 33, and friend Carter Rhoad, 30, were killed on a surfing trip in 2024    Get our  breaking news email ,  free app  or  daily news podcast     The parents of Australian surfing brothers murdered in Mexico have said “no outcome can ever undo this tragedy” after three men were convicted of the 2024 killings.
-- Australian brothers Jake and Callum Robinson, aged 30 and 33 respectively, and their friend Carter Rhoad, 30, were on a surfing trip to Mexico’s Pacific coast when they were shot dead in Baja California state in a suspected robbery.
-- Continue reading...
-
-## 36. Man killed by police after holding 13 kids hostage at knifepoint in Brazilian school
-
-**Source:** [New York Post World](https://nypost.com/2026/10/10/world-news/man-killed-by-police-after-holding-13-kids-hostage-at-knifepoint-in-brazilian-school/)
-
-**Bias breakdown:** Lean Right: 1
-
-- An armed man was killed in Brazil after holding 13 kids at school hostage for several hours on Friday.
-
-## 37. Powerful 7.7-magnitude earthquake strikes Panama and triggers panic in capital
-
-**Source:** [The Guardian World](https://www.theguardian.com/world/2026/oct/09/panama-earthquake)
-
-**Also covered by:** Fox News World
-
-**Bias breakdown:** Lean Left: 1 · Right: 1
-
-- The quake caused buildings and roads to collapse but the country appeared to escape widespread destruction or deaths  A magnitude 7.7 earthquake struck southern Panama on Friday, damaging buildings and sending thousands into the streets, but the country appeared to escape widespread destruction or deaths.
-- The US Geological Survey (USGS) said the ⁠earthquake hit at a depth of ⁠12.6km (7.8 miles), with an ​epicenter in a sparsely populated area about 200km (124 miles) from the capital, Panama City.
-- It lasted about a minute.
-
-## 38. Attacker in FlyDubai Flight Meant to Crash Into Israeli Airport, Emiratis Say
-
-**Source:** [NYT World](https://www.nytimes.com/2026/10/09/world/middleeast/flydubai-pilot-attack.html)
-
-**Also covered by:** BBC World
-
-**Bias breakdown:** Lean Left: 1 · Center: 1
-
-- The attorney general of the United Arab Emirates said that the co-pilot had been inspired by the Sept.
-- 11 attacks after  years of developing extreme Islamist views.
-
-## 39. Palestinians Stream Back to Northern Gaza on Foot
-
-**Source:** [WSJ World News](https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db)
-
-**Bias breakdown:** Center: 1
-
-- Israel allowed displaced Gazans to begin crossing a military zone that bisects the enclave after a deadlock over hostage releases was broken.
-
-## 40. Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes
-
-**Source:** [WSJ World News](https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863)
-
-**Bias breakdown:** Center: 1
-
-- Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.
-
-## 41. Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack
-
-**Source:** [WSJ World News](https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e)
-
-**Bias breakdown:** Center: 1
-
-- Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.
-
-## 42. Suspected Sabotage of Deep-Sea Cable Triggers First NATO-Led Response
-
-**Source:** [WSJ World News](https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba)
-
-**Bias breakdown:** Center: 1
-
-- The alliance mounted its first coordinated response to a suspected sabotage campaign against critical infrastructure after another cable was severed in the Baltic Sea.
-
-## 43. Rwanda-Backed Rebels Enter Congo's Safe-Haven City
-
-**Source:** [WSJ World News](https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8)
-
-**Bias breakdown:** Center: 1
-
-- Residents of Goma reported gunfire and shelling after rebels overran Congolese troops.
-- U.N.
-- officials estimated that more than one million displaced people were now inside the city.
-
-## 44. Cocaine-Funded Gangs Shake Colombia Years After Peace Pact
-
-**Source:** [WSJ World News](https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da)
-
-**Bias breakdown:** Center: 1
-
-- Attacks by powerful militias against civilians reflect the state’s inaction eight years after a peace accord removed a powerful rebel group from the field.
-
-## 45. Italy Supports Saudi Arabia Joining Fighter-Jet Program, PM Meloni Says
-
-**Source:** [WSJ World News](https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1)
-
-**Bias breakdown:** Center: 1
-
-- The U.K., Italy and Japan have already partnered on the Global Combat Air Programme, which aims to put a new stealth fighter with supersonic capability in the skies by 2035.
-
-## 46. Shippers Wary of Red Sea Routes Despite Houthi Pledge to End Targeting
-
-**Source:** [WSJ World News](https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2)
-
-**Bias breakdown:** Center: 1
-
-- The world’s top three container operators said they fear instability in Gaza and broader regional tensions mean continued danger.
-
-## 47. Kim Jong Un Is Doing Everything He Can to Keep North Korea's Youth in Line
-
-**Source:** [WSJ World News](https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de)
-
-**Bias breakdown:** Center: 1
-
-- The dictator, eager to shut out the influence of Hollywood and K-pop, has been exalting a “shock brigade” of 300,000 teens and 20-somethings drafted into flood reconstruction.
-
-## 48. What Bolsonaro vs. Lula says about democracy in Brazil
-
-**Source:** [Christian Science Monitor World](https://www.csmonitor.com/World/Americas/2026/1005/brazil-president-election-lula-bolsonaro?icid=rss)
-
-**Bias breakdown:** Center: 1
-
-- President Luiz Inácio Lula da Silva and Sen.
-- Flávio Bolsonaro head to a runoff vote in Brazil’s presidential election.
-
-## 49. Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices
-
-**Source:** [BBC World](https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss)
-
-**Bias breakdown:** Center: 1
-
-- The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent.
-
-## 50. As Putin Wages Shadow War, Europe Looks for a Way to Hit Back
-
-**Source:** [NYT World](https://www.nytimes.com/2026/10/09/world/europe/putin-russia-ukraine-war-europe-nato.html)
-
-**Bias breakdown:** Lean Left: 1
-
-- Moscow has used tactics of fear and ambiguity to try to divide NATO and limit support for Ukraine.
-- But how should Europe retaliate?
-- And how hard?
+- Student protests in France over crumbling schools expose deep tensions as Jean-Luc Mélenchon's La France Insoumise allegedly exploits the growing unrest.
 
