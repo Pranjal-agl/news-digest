@@ -1,10 +1,22 @@
-# News Digest - 2026-10-12
+# News Digest - 2026-10-13
 
-**50 stories** · 1 with multi-source coverage · 0 blindspots
+**50 stories** · 4 with multi-source coverage · 1 blindspot
 
 ---
 
-## 1. Who built Saudi Arabia’s ‘Stonehenge’ and why? ‘The men’ aren’t saying.
+## 1. 🔍 Saudi Arabia and Yemen’s Houthis Trade Threats Targeting Oil Facilities
+
+**Source:** [NYT World](https://www.nytimes.com/2026/10/13/world/middleeast/saudi-arabia-yemen-houthis-aramco-threat.html)
+
+**Also covered by:** Al Jazeera
+
+**Bias breakdown:** Lean Left: 2
+
+**Blindspot:** all covering sources lean the same direction
+
+- The Iran-backed militia threatened to attack the Saudi energy giant Aramco, which it has done before, after the Saudi authorities issued an evacuation notice to an oil facility in the Yemeni capital.
+
+## 2. Who built Saudi Arabia’s ‘Stonehenge’ and why? ‘The men’ aren’t saying.
 
 **Source:** [Christian Science Monitor World](https://www.csmonitor.com/World/Middle-East/2026/1007/saudi-stonehenge-ancient-mystery-rajajil?icid=rss)
 
@@ -13,7 +25,7 @@
 - Long ignored by Saudi Arabia, the ancient columns of Al-Rajajil are embraced as part of the area’s rich pre-Islamic history.
 - But much remains unknown about the stones, and a visit to the site leaves one with more questions than answers.
 
-## 2. In Ukraine, holding on to childhood in a time of war
+## 3. In Ukraine, holding on to childhood in a time of war
 
 **Source:** [Christian Science Monitor World](https://www.csmonitor.com/World/Europe/2026/1007/ukraine-russia-war-putin-children-invasion?icid=rss)
 
@@ -22,17 +34,352 @@
 - As war in Ukraine continues into its fifth year, some children have only known war.
 - The Monitor revisits three young families striving to live full lives amid Russia’s military invasion.
 
-## 3. After 3 years of war, looking for calm in a murky Gaza swimming pool
+## 4. Horrified witnesses recount fatal rollercoaster incident at Six Flags
 
-**Source:** [Christian Science Monitor World](https://www.csmonitor.com/World/Middle-East/2026/1007/Gaza-swimming-lessons-ceasefire-life?icid=rss)
+**Source:** [BBC World](https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss)
 
 **Bias breakdown:** Center: 1
 
-- Before Israel’s invasion of Gaza on Oct.
-- 7, 2023, Ghada Abdulfattah loved to swim at her local pool.
-- Now, she is tentatively returning to the water.
+- One person is dead and others were injured after an incident at the amusement park in the US state of Georgia.
 
-## 4. Scientists discover 180,000 giant tortoises on one Seychelles island
+## 5. Trump’s ambassador to Greece asked to resign amid misconduct allegations
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/13/trumps-ambassador-to-greece-asked-to-resign-amid-misconduct-allegations?traffic_source=rss)
+
+**Also covered by:** Deutsche Welle Top Stories
+
+**Bias breakdown:** Lean Left: 1 · Center: 1
+
+- Kimberly Guilfoyle has faced mounting allegations, including offering access to Trump officials in exchange for money.
+
+## 6. Trump Hands Victories to Putin, Who Offers More War in Return
+
+**Source:** [NYT World](https://www.nytimes.com/2026/10/13/world/europe/russia-putin-trump-diesel-ukraine.html)
+
+**Bias breakdown:** Lean Left: 1
+
+- Russia has reaped a diesel deal and an increase in U.S.
+- pressure on Ukraine as President Trump’s political needs align with his longstanding inclinations toward Russia.
+
+## 7. Atletico Madrid vs Manchester United LIVE: Champions League
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/sports/liveblog/2026/10/13/atletico-madrid-vs-manchester-united-live-champions-league?traffic_source=rss)
+
+**Bias breakdown:** Lean Left: 1
+
+- Follow updates from the league stage clash, including the build-up, analysis and live text commentary of the game.
+
+## 8. Bulgaria summons Russian ambassador after ship sinks in Black Sea drone attack
+
+**Source:** [BBC World](https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss)
+
+**Bias breakdown:** Center: 1
+
+- Six crew members are rescued but 10 are missing after a merchant ship was sunk overnight, Bulgaria says.
+
+## 9. Cyberattack Hits Hundreds of Supermarket Refrigeration Systems in France
+
+**Source:** [NYT World](https://www.nytimes.com/2026/10/13/world/europe/france-cyberattack-supermarkets-refrigeration.html)
+
+**Bias breakdown:** Lean Left: 1
+
+- The attack targeted a Danish software system in more than 400 supermarkets, forcing some shops to throw out frozen produce.
+- The attackers have not been identified.
+
+## 10. Spain’s King Felipe makes first visit to Ceuta amid migrant crisis
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/10/13/spains-king-felipe-makes-first-visit-to-ceuta-amid-migrant-crisis?traffic_source=rss)
+
+**Bias breakdown:** Lean Left: 1
+
+- Spain’s King Felipe is visiting Ceuta for the first time in his reign, amid an ongoing migration crisis there.
+
+## 11. Why has search of Ilhan Omar’s home before US midterms caused controversy?
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/13/why-has-search-of-ilhan-omars-home-before-us-midterms-caused-controversy?traffic_source=rss)
+
+**Bias breakdown:** Lean Left: 1
+
+- Federal agents searched Omar's home in what she described as an attempt to 'weaponise federal law enforcement'.
+
+## 12. U.K. and Europe Recoil From Trump’s Diesel Deal With Putin
+
+**Source:** [NYT World](https://www.nytimes.com/2026/10/13/world/europe/trump-putin-diesel-uk-europe-gift.html)
+
+**Bias breakdown:** Lean Left: 1
+
+- Shocked by the U.S.
+- agreement with Russia, which Ukraine has called “a gift” to President Putin, officials in Europe have coalesced around a cautious diplomatic message.
+
+## 13. MI5 Chief Warns of Escalating Hybrid Threats From Iran and Russia on British Soil
+
+**Source:** [NYT World](https://www.nytimes.com/2026/10/13/world/europe/mi5-uk-threat-iran-russia.html)
+
+**Bias breakdown:** Lean Left: 1
+
+- The head of Britain’s domestic security agency accused Tehran and Moscow of escalating their hybrid campaigns in the U.K., and called Iran-led attacks on Jewish communities “sickening.”
+
+## 14. Zelensky Comment Raises Fear That U.S. Is Cutting Intelligence Sharing
+
+**Source:** [NYT World](https://www.nytimes.com/2026/10/13/world/europe/ukraine-trump-intelligence.html)
+
+**Bias breakdown:** Lean Left: 1
+
+- The Ukrainian leader said Kyiv had no early warning from its Western partners before a Russian ballistic missile attack.
+- But some such attacks do go undetected.
+
+## 15. Palestinians dream of returning home after Israel raids West Bank camps
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/features/2026/10/13/palestinians-dream-of-returning-home-after-israel-raids-west-bank-camps?traffic_source=rss)
+
+**Bias breakdown:** Lean Left: 1
+
+- Palestinians have been displaced from their homes in Tulkarem refugee camp and dream of returning home.
+
+## 16. Yemeni government launches air strikes on Houthi positions
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/13/yemeni-government-launches-air-strikes-on-houthi-positions?traffic_source=rss)
+
+**Bias breakdown:** Lean Left: 1
+
+- Yemeni rights group accuses the Houthis of killing five civilians and injuring more than a dozen others.
+
+## 17. Ex-president named leader of new DR Congo rebel coalition
+
+**Source:** [BBC World](https://www.bbc.co.uk/news/articles/c8y56re7ldqyo?at_medium=RSS&at_campaign=rss)
+
+**Bias breakdown:** Center: 1
+
+- Joseph Kabila had previously denied having links to the M23 rebels, which control much of eastern DR Congo.
+
+## 18. Hungarian MPs scrap Orbán's anti-LGBTQ measures
+
+**Source:** [BBC World](https://www.bbc.co.uk/news/articles/c6vg9nj4l322o?at_medium=RSS&at_campaign=rss)
+
+**Bias breakdown:** Center: 1
+
+- LGBTQ and human rights activists warmly welcomed the move, but call for changes to other Orbán-era laws.
+
+## 19. A Father’s Mission Is to Show the World ‘What Russia Did to My Family’
+
+**Source:** [NYT World](https://www.nytimes.com/2026/10/13/world/europe/ukraine-war-soldier-sumy-family.html)
+
+**Bias breakdown:** Lean Left: 1
+
+- After a glide bomb killed his wife and younger daughter, Yevhen Ovcharov was determined to prevent other Ukrainians from dying the same way.
+
+## 20. French fridge fright: Why supermarkets have become target for hackers
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/economy/2026/10/13/french-fridge-fright-why-supermarkets-have-become-target-for-hackers?traffic_source=rss)
+
+**Bias breakdown:** Lean Left: 1
+
+- More than 500 shops across France were hit in a major cyberattack on freezers, which caused tonnes of food to perish.
+
+## 21. Watch: Emergency calls from botched Christa Pike execution released
+
+**Source:** [BBC World](https://www.bbc.co.uk/news/videos/cqpvgrkp0xpyo?at_medium=RSS&at_campaign=rss)
+
+**Bias breakdown:** Center: 1
+
+- A series of calls, obtained by the Associated Press, reveal emergency services were delayed in reaching Pike.
+
+## 22. Newly released video filmed by tiger mauling victim shows him calmly approaching beast moments before he’s killed
+
+**Source:** [New York Post World](https://nypost.com/2026/10/13/world-news/newly-released-video-filmed-by-tiger-mauling-victim-shows-him-calmly-approaching-beast-moments-before-hes-killed/)
+
+**Bias breakdown:** Lean Right: 1
+
+- William Chapman was tragically pronounced dead at the scene.
+
+## 23. Super El Niño sets another record as it strengthens to 'unprecedented levels'
+
+**Source:** [BBC World](https://www.bbc.co.uk/weather/articles/cmlye0d7q7zno?at_medium=RSS&at_campaign=rss)
+
+**Bias breakdown:** Center: 1
+
+- El Niño has continued to strengthen, with several key measures now in record territory.
+- Simon King explores how it compares to previous events.
+
+## 24. The Oct. 7 Attack Changed Israel, but Not Its Politics
+
+**Source:** [NYT World](https://www.nytimes.com/2026/10/13/world/middleeast/israel-october-7-attacks-elections.html)
+
+**Also covered by:** Fox News World
+
+**Bias breakdown:** Lean Left: 1 · Right: 1
+
+- As Israelis prepare to vote for the first time since the Hamas-led assault, they remain divided over whether to hold Prime Minister Benjamin Netanyahu responsible for negligence or fault the “treason” of his generals.
+
+## 25. UK asks Interpol to reject Argentina’s ‘politically motivated’ requests for Falklands oil arrests
+
+**Source:** [The Guardian World](https://www.theguardian.com/uk-news/2026/oct/13/britain-interpol-reject-argentina-falkland-islands-arrests)
+
+**Bias breakdown:** Lean Left: 1
+
+- Exclusive: Caution urged over Javier Milei government’s ‘red notice’ requests for arrest of individuals linked to oil project  Britain has appealed to Interpol to reject Argentina’s requests for the arrest of individuals involved in a large oil project off the Falkland Islands.
+- With tensions over the sovereignty of the British overseas territory reaching levels not seen since the war with Argentina in 1982, UK officials have sought urgent assurances from the international organisation.
+- Continue reading...
+
+## 26. How a scandal engulfing Brazil’s top court could return the Bolsonaros to power
+
+**Source:** [The Guardian World](https://www.theguardian.com/world/2026/oct/13/scandal-brazil-court-jair-flavio-bolsonaro-power-election-moraes-lula)
+
+**Bias breakdown:** Lean Left: 1
+
+- The judge who helped convict Jair Bolsonaro is caught up in a crisis that could benefit his son and damage Lula     Marina Silva on Flávio Bolsonaro: He will try to finish his father’s ‘perverse project’ to destroy the Amazon     Thundering to a crowd of thousands of far-right supporters in São Paulo on 7 September, Brazil’s Independence Day, the senator Flávio Bolsonaro focused less on his opponent in the  presidential election , the leftist president Luiz Inácio Lula da Silva, than on someone who is not running at all.
+- “Whoever votes for Lula is voting for  Alexandre de Moraes ,” Bolsonaro shouted, referring to the shaven-headed supreme court justice once  described as “Voldemort”  by Elon Musk.
+- Continue reading...
+
+## 27. Pope Leo arrives at hospital for surgery to remove lung nodule
+
+**Source:** [Fox News World](https://www.foxnews.com/world/pope-leo-arrives-hospital-surgery-remove-lung-nodule)
+
+**Also covered by:** NYT World, New York Post World
+
+**Bias breakdown:** Lean Left: 1 · Lean Right: 1 · Right: 1
+
+- Pope Leo XIV arrived at Gemelli Hospital in Rome for lung nodule removal after doctors said the growth was identified at a "very early stage."
+
+## 28. First picture of man mauled to death by tiger revealed as shocking details of last moments emerge
+
+**Source:** [New York Post World](https://nypost.com/2026/10/13/world-news/vulnerable-man-mauled-to-death-by-tiger-after-filming-himself-climbing-into-enclosure-is-idd/)
+
+**Bias breakdown:** Lean Right: 1
+
+- The young man who was mauled to death by a tiger at a British wildlife park was identified Tuesday -- as it emerged he filmed his own footage as he climbed into the big cat's enclosure.
+
+## 29. Breaking Bad actor RJ Mitte dies aged 34
+
+**Source:** [BBC World](https://www.bbc.co.uk/news/articles/cmn045en7d88o?at_medium=RSS&at_campaign=rss)
+
+**Bias breakdown:** Center: 1
+
+- Mitte, who lived with cerebral palsy, starred as Walter White Jr in the Emmy-winning drama series.
+
+## 30. India 'cockroach' leaders detained after entering barricaded protest site
+
+**Source:** [BBC World](https://www.bbc.co.uk/news/articles/cqz0v11n2vj5o?at_medium=RSS&at_campaign=rss)
+
+**Bias breakdown:** Center: 1
+
+- Protesters climbed over barricades in central Delhi to demand the election chief resign over revised voter lists.
+
+## 31. Government spent millions on Trump ads. And, federal agents raid Ilhan Omar's home
+
+**Source:** [NPR World](https://www.npr.org/2026/10/13/g-s1-147822/up-first-newsletter-trump-ads-funding-campaign-rallies-ilhan-omar)
+
+**Bias breakdown:** Lean Left: 1
+
+- The government is using millions of taxpayers' dollars on pro-Trump ads, even after the president said this would not happen.
+- And, federal agents search Rep.
+- Ilhan Omar's D.C.
+
+## 32. Latin American organised crime ‘may operate in 16 European countries’
+
+**Source:** [The Guardian World](https://www.theguardian.com/global-development/2026/oct/13/latin-america-organised-crime-cartels-drugs-cocaine-europe)
+
+**Bias breakdown:** Lean Left: 1
+
+- Cocaine seizures in Europe are up more than fivefold in 10 years as a host of cartels take root.
+- A four-month Guardian investigation reveals the true scale of a continent-wide shift  A four-month investigation by the Guardian has revealed that the surge in cocaine trafficking to Europe is directly linked to the expanding presence of Latin American criminal networks in Europe, where they have forged close ties with local mafia organisations.
+- Between 2014 and 2024, there was a  471% rise in the quantity of cocaine seized  and more local laboratories processing cocaine derivatives were dismantled.
+
+## 33. Pakistan imposes emergency rule in former prime minister's stronghold
+
+**Source:** [NPR World](https://www.npr.org/2026/10/13/nx-s1-5998798/pakistan-imposes-emergency-rule-in-former-prime-ministers-stronghold)
+
+**Bias breakdown:** Lean Left: 1
+
+- Pakistan has imposed emergency rule in the province governed by the political party of imprisoned former prime minister Imran Khan.
+
+## 34. Teen wakes up in coffin at her own funeral, shocking mourners
+
+**Source:** [New York Post World](https://nypost.com/2026/10/13/world-news/guatemala-teen-wakes-up-in-coffin-at-her-own-funeral-shocking-mourners/)
+
+**Bias breakdown:** Lean Right: 1
+
+- A viral video has captured the shocking moment a 15-year-old girl – believed to be dead – suddenly woke up inside a coffin at her funeral in Guatemala.
+
+## 35. Knifeman with blades strapped to both hands stabs 8 in South Korea shopping mall: reports
+
+**Source:** [New York Post World](https://nypost.com/2026/10/13/world-news/eight-people-stabbed-in-south-korea-shopping-mall/)
+
+**Bias breakdown:** Lean Right: 1
+
+- A man stabbed at least eight people at a shopping mall in the South Korean city of Incheon, police and fire officials said Tuesday.
+
+## 36. Russia's offensive ability is broken, Kyiv's former top general tells BBC
+
+**Source:** [BBC World](https://www.bbc.co.uk/news/articles/c9y7lgg2vdggo?at_medium=RSS&at_campaign=rss)
+
+**Bias breakdown:** Center: 1
+
+- In his first interview since being forced from his post, Gen Syrskyi speaks about Ukraine's future in the war.
+
+## 37. Out of Orbán’s shadow, Hungary tries to reset how the public gets its news
+
+**Source:** [Christian Science Monitor World](https://www.csmonitor.com/World/Europe/2026/1013/hungary-public-media-orban-criticism-journalism?icid=rss)
+
+**Bias breakdown:** Center: 1
+
+- Under Prime Minister Viktor Orbán, Hungary hollowed out many public media outlets.
+- Journalists are now rebuilding to restore scrutiny of government.
+
+## 38. Trump's diesel deal with Putin angers Europe
+
+**Source:** [NPR World](https://www.npr.org/2026/10/13/nx-s1-5998764/trumps-diesel-deal-with-putin-angers-europe)
+
+**Bias breakdown:** Lean Left: 1
+
+- President Trump's diesel deal with Russia sparks European fury, as Ukraine's President Zelenskyy questions Washington's motives and allies vow to keep pressure on Moscow.
+
+## 39. How NATO plans to combat potential attacks on the alliance from Russia
+
+**Source:** [NPR World](https://www.npr.org/2026/10/13/nx-s1-5998721/how-nato-plans-to-combat-potential-attacks-on-the-alliance-from-russia)
+
+**Bias breakdown:** Lean Left: 1
+
+- NPR's Steve Inskeep speaks with former U.S.
+- Assistant Secretary for European Affairs Dan Hamilton about NATO's detailed plans to counter any possible Russian attack on the alliance.
+
+## 40. Hurricane Simon and Tropical Storm Rachel kill five people on Mexico’s Pacific coast
+
+**Source:** [The Guardian World](https://www.theguardian.com/world/2026/oct/13/mexico-hurricane-simon-tropical-storm-rachel-kill-five-pacific-coast)
+
+**Bias breakdown:** Lean Left: 1
+
+- Security forces use helicopters to rescue dozens of people as the two storms damage infrastructure and cause flash flooding  At least five people have died after Hurricane Simon and Tropical Storm Rachel pummelled Mexico’s Pacific coast, causing flooding that downed trees and electricity poles, blocked roads and inundated homes.
+- Simon claimed the life of a 71-year-old man who died when a wall collapsed in Chilpancingo in the southern state of Guerrero, governor Evelyn Salgado said at a press conference.
+- Continue reading...
+
+## 41. FIFA Pays Millions for Trump Tower Office Said to Be Rarely Used
+
+**Source:** [NYT World](https://www.nytimes.com/2026/10/13/world/europe/fifa-trump-tower-infantino.html)
+
+**Bias breakdown:** Lean Left: 1
+
+- The deal is another sign of how Gianni Infantino, the leader of soccer’s global governing body, has sought closer ties to President Trump.
+
+## 42. Argentina temporarily closes Iguazu Falls after El Niño-fuelled surge in water levels
+
+**Source:** [The Guardian World](https://www.theguardian.com/world/2026/oct/13/argentina-iguazu-falls-temporarily-closed-el-nino-water-levels)
+
+**Bias breakdown:** Lean Left: 1
+
+- National park officials took the precautionary measure to limit tourist access after heavy rain caused the Iguazu River to flow at six times the normal rate  Heavy rainfall fuelled by a  supersized El Niño weather pattern  briefly forced Argentinian authorities to close tourist access to the famed Iguazu Falls, amid fears that rapidly rising water levels would cause the river to burst its banks.
+- National park officials took the precautionary measure on Monday when the Iguazu River’s flow exceeded 12,000 cubic metres per second – more than six times its average rate.
+- Continue reading...
+
+## 43. DNA and vehicle-tracking help French investigators recover stolen Renoirs
+
+**Source:** [NPR World](https://www.npr.org/2026/10/13/g-s1-147818/france-stolen-renoirs-recovered)
+
+**Bias breakdown:** Lean Left: 1
+
+- DNA left on a protective painting cover helped investigators recover two stolen Renoirs and uncover what they suspected were preparations for another art heist, a French prosecutor said Monday.
+
+## 44. Scientists discover 180,000 giant tortoises on one Seychelles island
 
 **Source:** [The Guardian World](https://www.theguardian.com/environment/2026/oct/08/researchers-find-180000-giant-tortoises-living-on-island-in-seychelles)
 
@@ -42,7 +389,7 @@
 - A population of Aldabra giant tortoises lives on an island in Seychelles called Aldabra Atoll.
 - Continue reading...
 
-## 5. In England, efforts to save a vanishing heritage – 9 strings at a time
+## 45. In England, efforts to save a vanishing heritage – 9 strings at a time
 
 **Source:** [Christian Science Monitor World](https://www.csmonitor.com/World/Europe/2026/1008/puppets-marionettes-britain-little-angel-theatre?icid=rss)
 
@@ -50,7 +397,7 @@
 
 - Fans of puppet shows are trying to save the traditional art of marionette-making in the United Kingdom before the skills are lost.
 
-## 6. Trump Says Colombia Will Accept Deportees, Ending Tariff Standoff
+## 46. Trump Says Colombia Will Accept Deportees, Ending Tariff Standoff
 
 **Source:** [WSJ World News](https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497)
 
@@ -58,15 +405,7 @@
 
 - The president has made immigration an early priority to start second term, with ICE making more than 900 arrests Sunday.
 
-## 7. Trump faces growing backlash over plans to import diesel from Russia
-
-**Source:** [BBC World](https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss)
-
-**Bias breakdown:** Center: 1
-
-- Both Republican and Democratic lawmakers have criticised the deal, which was announced weeks before the US midterm elections.
-
-## 8. At least 139 migrants dead, 84 missing after overcrowded boat capsizes off Djibouti
+## 47. At least 139 migrants dead, 84 missing after overcrowded boat capsizes off Djibouti
 
 **Source:** [Fox News World](https://www.foxnews.com/world/at-least-139-migrants-dead-84-missing-overcrowded-boat-capsizes-djibouti)
 
@@ -74,7 +413,7 @@
 
 - More than 80 people survived the deadly crossing from Djibouti toward Yemen, while at least 84 remained missing as authorities worked to verify additional victims.
 
-## 9. Houthis kill 14 at Saudi airport as expert warns of 'rapid targets' amid Middle East war
+## 48. Houthis kill 14 at Saudi airport as expert warns of 'rapid targets' amid Middle East war
 
 **Source:** [Fox News World](https://www.foxnews.com/world/houthis-kill-14-saudi-airport-expert-warns-rapid-targets-amid-middle-east-war)
 
@@ -82,31 +421,15 @@
 
 - Iran-backed Houthis struck Saudi Arabian airports in Riyadh and Dammam, killing at least 14 and injuring over 300 as experts warn of wider war.
 
-## 10. Seafarer's union official says crews offered big money to transit Strait of Hormuz
+## 49. Trump Russia deal could fuel Putin's war, ex-NATO commander warns as Zelenskyy says 'nyet'
 
-**Source:** [NPR World](https://www.npr.org/2026/10/11/nx-s1-5995186/seafarers-union-official-says-crews-offered-big-money-to-transit-strait-of-hormuz)
+**Source:** [Fox News World](https://www.foxnews.com/world/trump-russia-deal-could-fuel-putins-war-ex-nato-commander-warns-zelenskyy-says-nyet)
 
-**Bias breakdown:** Lean Left: 1
+**Bias breakdown:** Right: 1
 
-- As attacks continue to mount on shipping vessels transiting the Strait of Hormuz, a seafarer's union official says some crews are being offered big rewards for making the crossing.
+- Donald Trump's energy ceasefire could hand Vladimir Putin fresh revenue to fuel Russia's war in Ukraine, former NATO commander Breedlove warns.
 
-## 11. Harrowing accounts of violence and sex abuse in women's prison told in new podcast
-
-**Source:** [NPR World](https://www.npr.org/2026/10/11/nx-s1-5994363/harrowing-accounts-of-violence-and-sex-abuse-in-womens-prison-told-in-new-podcast)
-
-**Bias breakdown:** Lean Left: 1
-
-- Madi Bolanos and Anna Sussman's new podcast  We Are Jane Doe,  by KQED and Snap Studios, investigates rampant sex abuse at the Central California Women's Facility in Chowchilla, Ca.
-
-## 12. Ukrainian MP calls U.S.-Russia diesel deal a 'betrayal'
-
-**Source:** [NPR World](https://www.npr.org/2026/10/11/nx-s1-5997466/ukrainian-mp-calls-u-s-russia-diesel-deal-a-betrayal)
-
-**Bias breakdown:** Lean Left: 1
-
-- NPR's Joel Rose speaks with Ukrainian Minister of Parliament, Oleksandr Merezhko, about the U.S.'s diesel deal with Russia will impact Ukraine.
-
-## 13. Mojtaba Khamenei defies ‘malicious’ attacks as US Army zeroes in on Iran’s 350,000 troops
+## 50. Mojtaba Khamenei defies ‘malicious’ attacks as US Army zeroes in on Iran’s 350,000 troops
 
 **Source:** [Fox News World](https://www.foxnews.com/world/mojtaba-khamenei-defies-malicious-attacks-us-army-zeroes-irans-350000-troops)
 
@@ -115,313 +438,4 @@
 - Iranian Supreme Leader Mojtaba Khamenei claimed U.S.
 - and Israeli strikes failed to weaken Iran's military, as the U.S.
 - Army released a new threat guide.
-
-## 14. India’s ‘Cockroach’ Leaders Released as Small Protests Go On in Delhi
-
-**Source:** [NYT World](https://www.nytimes.com/2026/10/11/world/asia/india-cockroach-dipke-new-delhi-protests.html)
-
-**Bias breakdown:** Lean Left: 1
-
-- The leaders of the Cockroach Janta Party, an Indian youth movement, had been detained by the police on Saturday before they could lead protests over voting rights.
-
-## 15. Thousands without power in Florida and Alabama as Isaias moves north
-
-**Source:** [The Guardian World](https://www.theguardian.com/world/2026/oct/11/isaias-florida-alabama-power-outages)
-
-**Bias breakdown:** Lean Left: 1
-
-- Heavy rainfall associated with the storm could bring isolated flash flooding and strong wind gusts and remain a threat across the south-eastern US, especially near the southern Appalachians, according to the National Weather Service (NWS).
-- That could bring scattered power outages and downed trees and power lines.
-- Continue reading...
-
-## 16. Houthis, Saudis exchange strikes on airports as Mideast conflict intensifies
-
-**Source:** [Christian Science Monitor World](https://www.csmonitor.com/World/Middle-East/2026/1011/houthis-saudi-arabia-yemen-airport-attack-iran?icid=rss)
-
-**Also covered by:** NYT World
-
-**Bias breakdown:** Lean Left: 1 · Center: 1
-
-- The Iran-backed Houthis in Yemen accuse Saudi Arabia of striking the rebel-held airport in Sanaa.
-- This accusation comes amid escalating clashes between the Houthis and Saudi-backed forces.
-
-## 17. Abbas delays Palestinian elections again, making more than two decades without vote
-
-**Source:** [Fox News World](https://www.foxnews.com/world/abbas-delays-palestinian-elections-again-making-more-than-two-decades-without-vote)
-
-**Bias breakdown:** Right: 1
-
-- Palestinian Authority President Mahmoud Abbas delayed elections to 2027, extending a nearly 20-year wait as Israel and Hamas clash over the blame.
-
-## 18. Missing Australian hiker Jordan Yap last seen on remote trail found dead in Peru
-
-**Source:** [The Guardian World](https://www.theguardian.com/australia-news/2026/oct/11/missing-australian-hiker-jordan-yap-last-seen-on-remote-trail-found-dead-in-peru)
-
-**Bias breakdown:** Lean Left: 1
-
-- Family and friends say Melbourne man should be remembered for ‘immense joy he brought to so many people’s lives’     Follow our Australia politics live blog for latest updates     Get our  breaking news email ,  free app  or  daily news podcast     An Australian trekker who was last seen on a remote South American hiking trail has been found dead, his family have said.
-- Jordan Yap, 30, last made contact with friends and family on 14 September ahead of a planned 10-day solo trek along Peru’s Huayhuash mountain range, 400km north-east of Lima.
-- Continue reading...
-
-## 19. She was a global star: Teen bikes 700 miles carrying injured dad. Where is she now?
-
-**Source:** [NPR World](https://www.npr.org/2026/10/11/g-s1-147267/bicycle-teenager-india-pandemic)
-
-**Bias breakdown:** Lean Left: 1
-
-- Her epic ride — carrying her injured dad on her $20 hot pink bicycle — made headlines.
-- Promises were made — financial help, training for a cycling career, even a movie deal.
-- Were any of them kept?
-
-## 20. Pope Leo announces tumor on lung, surgery planned in 'next few days'
-
-**Source:** [Fox News World](https://www.foxnews.com/world/pope-leo-announces-tumor-lung-surgery-planned-next-few-days)
-
-**Bias breakdown:** Right: 1
-
-- Pope Leo XIV announced doctors found a lung nodule at a "very early stage," with surgery scheduled in coming days.
-
-## 21. ‘It was a terrible thing’: Panama declares state of emergency as quake aftershocks rattle communities
-
-**Source:** [The Guardian World](https://www.theguardian.com/world/2026/oct/11/panama-eathquake-state-of-emergency)
-
-**Bias breakdown:** Lean Left: 1
-
-- More than 100 aftershocks as high as magnitude-5.8 recorded after two quakes toppled buildings and prompted evacuations  Panama’s government has declared a state of emergency on Saturday as the aftershocks of two powerful earthquakes that roiled the country shook communities for hours.
-- Officials did not attribute any deaths to Friday’s 7.7- and 6.6-magnitude earthquakes, but reported damages in all 10 of Panama’s provinces and two Indigenous territories.
-- Continue reading...
-
-## 22. Italy’s school veil ban exposes Europe’s assimilation fight as expert warns US could be next
-
-**Source:** [Fox News World](https://www.foxnews.com/world/italys-school-veil-ban-exposes-europes-assimilation-fight-expert-warns-us-could-next)
-
-**Bias breakdown:** Right: 1
-
-- The Italian "Schools Decree" caps foreign-born pupils at 30% and bans face coverings, but experts question whether forced assimilation works.
-
-## 23. Inside Israel's plot to kill Hezbollah chief as Netanyahu warned Biden aide would 'jump out of his skin'
-
-**Source:** [Fox News World](https://www.foxnews.com/world/inside-israels-plot-kill-hezbollah-chief-netanyahu-warned-biden-aide-would-jump-out-his-skin)
-
-**Bias breakdown:** Right: 1
-
-- Benjamin Netanyahu warned that Jake Sullivan would "jump out of his skin" over Israel's secret plan to assassinate Hassan Nasrallah in Beirut.
-
-## 24. Saudi airport passenger terminal is struck again, a day after 12 were killed
-
-**Source:** [NPR World](https://www.npr.org/2026/10/10/g-s1-147682/attack-on-riyadh-airport-killed-12-people-and-wounded-over-300-more-saudi-authorities-say)
-
-**Bias breakdown:** Lean Left: 1
-
-- A projectile struck a passenger terminal at the international airport in Riyadh on Sunday, a day after a missile hit the same terminal and killed 12 people, officials said.
-
-## 25. Bayeux Tapestry's London tour spurs enthusiasts to Battle of Hastings reenactment
-
-**Source:** [NPR World](https://www.npr.org/2026/10/10/nx-s1-5993847/bayeux-tapestrys-london-tour-spurs-enthusiasts-to-battle-of-hastings-re-enactment)
-
-**Bias breakdown:** Lean Left: 1
-
-- A reenactment of the Battle of Hastings, which took place almost a millennium ago, is drawing crowds of enthusiasts in the UK.
-
-## 26. Palestinians Stream Back to Northern Gaza on Foot
-
-**Source:** [WSJ World News](https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db)
-
-**Bias breakdown:** Center: 1
-
-- Israel allowed displaced Gazans to begin crossing a military zone that bisects the enclave after a deadlock over hostage releases was broken.
-
-## 27. Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes
-
-**Source:** [WSJ World News](https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863)
-
-**Bias breakdown:** Center: 1
-
-- Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.
-
-## 28. Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack
-
-**Source:** [WSJ World News](https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e)
-
-**Bias breakdown:** Center: 1
-
-- Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.
-
-## 29. Suspected Sabotage of Deep-Sea Cable Triggers First NATO-Led Response
-
-**Source:** [WSJ World News](https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba)
-
-**Bias breakdown:** Center: 1
-
-- The alliance mounted its first coordinated response to a suspected sabotage campaign against critical infrastructure after another cable was severed in the Baltic Sea.
-
-## 30. Rwanda-Backed Rebels Enter Congo's Safe-Haven City
-
-**Source:** [WSJ World News](https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8)
-
-**Bias breakdown:** Center: 1
-
-- Residents of Goma reported gunfire and shelling after rebels overran Congolese troops.
-- U.N.
-- officials estimated that more than one million displaced people were now inside the city.
-
-## 31. Cocaine-Funded Gangs Shake Colombia Years After Peace Pact
-
-**Source:** [WSJ World News](https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da)
-
-**Bias breakdown:** Center: 1
-
-- Attacks by powerful militias against civilians reflect the state’s inaction eight years after a peace accord removed a powerful rebel group from the field.
-
-## 32. Italy Supports Saudi Arabia Joining Fighter-Jet Program, PM Meloni Says
-
-**Source:** [WSJ World News](https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1)
-
-**Bias breakdown:** Center: 1
-
-- The U.K., Italy and Japan have already partnered on the Global Combat Air Programme, which aims to put a new stealth fighter with supersonic capability in the skies by 2035.
-
-## 33. Shippers Wary of Red Sea Routes Despite Houthi Pledge to End Targeting
-
-**Source:** [WSJ World News](https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2)
-
-**Bias breakdown:** Center: 1
-
-- The world’s top three container operators said they fear instability in Gaza and broader regional tensions mean continued danger.
-
-## 34. Kim Jong Un Is Doing Everything He Can to Keep North Korea's Youth in Line
-
-**Source:** [WSJ World News](https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de)
-
-**Bias breakdown:** Center: 1
-
-- The dictator, eager to shut out the influence of Hollywood and K-pop, has been exalting a “shock brigade” of 300,000 teens and 20-somethings drafted into flood reconstruction.
-
-## 35. NATO Details Plan to Shield Ukraine’s European Allies from Russia
-
-**Source:** [NYT World](https://www.nytimes.com/2026/10/12/world/europe/nato-strategy-russia-europe.html)
-
-**Bias breakdown:** Lean Left: 1
-
-- With the Russians intensifying sabotage, arson and cyberattacks against European nations supporting Ukraine, NATO divulged a blueprint, in case of war, to deter the Kremlin.
-
-## 36. South Africa's deputy police chief resigns after being charged with sexual offences
-
-**Source:** [BBC World](https://www.bbc.co.uk/news/articles/c8wy9d940pyko?at_medium=RSS&at_campaign=rss)
-
-**Bias breakdown:** Center: 1
-
-- Shadrack Sibiya had denied grooming a 16-year-old and raping an 18-year-old.
-
-## 37. Blast kills teenager, injures dozens in northern Israel
-
-**Source:** [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/10/12/blast-kills-teenager-injures-dozens-in-northern-israel?traffic_source=rss)
-
-**Bias breakdown:** Lean Left: 1
-
-- A 15-year-old was killed and around 20 people injured when unexploded ordnance detonated in northern Israel.
-
-## 38. Trump Gives Putin a Hand in Russia’s Economic War With Ukraine
-
-**Source:** [NYT World](https://www.nytimes.com/2026/10/12/world/europe/russia-diesel-trump.html)
-
-**Bias breakdown:** Lean Left: 1
-
-- President Trump is moving to buy Russian diesel while also pressuring Ukraine to halt attacks on refineries, a lifeblood of Moscow’s war machine.
-
-## 39. Fridges in French supermarkets hit by cyber attack
-
-**Source:** [BBC World](https://www.bbc.co.uk/news/articles/crq5nzxv9q4yo?at_medium=RSS&at_campaign=rss)
-
-**Bias breakdown:** Center: 1
-
-- Hundreds of stores were targeted by the overnight hack, which spoiled fresh and frozen food estimated to be worth millions of euros.
-
-## 40. After Lockdown, Sea of Protesters Flows Through India’s Capital
-
-**Source:** [NYT World](https://www.nytimes.com/2026/10/12/world/asia/india-protests-congress-rahul-gandhi.html)
-
-**Bias breakdown:** Lean Left: 1
-
-- The raucous demonstrations by opposition groups on Monday followed days of an effective lockdown and mass detentions of young protesters by security forces.
-
-## 41. The Taliban Are Using Europe’s Fear of Migrants to Their Advantage
-
-**Source:** [NYT World](https://www.nytimes.com/2026/10/12/world/asia/europe-taliban-deportations-migrants.html)
-
-**Bias breakdown:** Lean Left: 1
-
-- European nations that condemn the Taliban government for its human rights record are seeking its help to deport refugees back to Afghanistan.
-
-## 42. UK PM Andy Burnham vows to renegotiate post-Brexit trade deal with EU
-
-**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/12/uk-pm-andy-burnham-vows-to-renegotiate-post-brexit-trade-deal-with-eu?traffic_source=rss)
-
-**Bias breakdown:** Lean Left: 1
-
-- PM Burnham confirms talks in Brussels next month, insisting the British public will be 'the boss' of the reset.
-
-## 43. France school shooting: Police detain pupil after two injured
-
-**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/12/france-school-shooting-police-detain-pupil-after-two-injured?traffic_source=rss)
-
-**Bias breakdown:** Lean Left: 1
-
-- Officials say a staff member disarmed the suspect, who hid a hunting shotgun in a guitar case, before police arrived.
-
-## 44. The ICJ’s Rohingya ruling will test the OIC’s promises
-
-**Source:** [Al Jazeera](https://www.aljazeera.com/opinions/2026/10/12/the-icjs-rohingya-ruling-will-test-the-oics-promises?traffic_source=rss)
-
-**Bias breakdown:** Lean Left: 1
-
-- Backing the genocide case against Myanmar must be followed by concrete action to protect the Rohingya.
-
-## 45. Saudi Arabia Faces More Attacks as It Reels From Airport Strikes
-
-**Source:** [NYT World](https://www.nytimes.com/2026/10/12/world/middleeast/iran-houthis-saudi-arabia.html)
-
-**Bias breakdown:** Lean Left: 1
-
-- The Saudi authorities said they were fending off drone and missile attacks after a weekend of confrontation with the Houthi militia in Yemen, whose patrons Iran offered to mediate.
-
-## 46. Deadly gold mine air strikes highlight Egypt-Sudan border insecurity
-
-**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/12/deadly-gold-mine-air-strikes-highlight-egypt-sudan-border-insecurity?traffic_source=rss)
-
-**Bias breakdown:** Lean Left: 1
-
-- Deadly air raids on gold miners in Sudan expose deepening border lawlessness and regional instability.
-
-## 47. Oil tanker reportedly attacked in Strait of Hormuz region
-
-**Source:** [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/10/12/oil-tanker-reportedly-attacked-in-strait-of-hormuz-region?traffic_source=rss)
-
-**Bias breakdown:** Lean Left: 1
-
-- Plumes of black smoke rise from a Petro Dolphin oil tanker by a drone attack off the coast of Oman.
-
-## 48. Thousands march to Indian Supreme Court to demand election chief resign
-
-**Source:** [BBC World](https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo?at_medium=RSS&at_campaign=rss)
-
-**Bias breakdown:** Center: 1
-
-- The march follows a chaotic weekend in Delhi which saw thousands of protesters detained by police.
-
-## 49. Will Ukraine survive the winter?
-
-**Source:** [Al Jazeera](https://www.aljazeera.com/opinions/2026/10/12/will-ukraine-survive-the-winter?traffic_source=rss)
-
-**Bias breakdown:** Lean Left: 1
-
-- Washington's position on Ukraine remains ambivalent while losses mount and an energy crisis deepens.
-
-## 50. Tom Cruise film Digger forecast to become one of Hollywood's biggest flops
-
-**Source:** [BBC World](https://www.bbc.co.uk/news/articles/cke8re5v1pgmo?at_medium=RSS&at_campaign=rss)
-
-**Bias breakdown:** Center: 1
-
-- The film dropped by around 60% in its second weekend, and could become one of Hollywood's biggest flops.
 
