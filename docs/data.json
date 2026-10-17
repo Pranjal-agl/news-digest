@@ -1,10 +1,10 @@
 {
-  "date": "2026-10-16",
-  "generated_at": "2026-10-16T13:01:23.511766",
+  "date": "2026-10-17",
+  "generated_at": "2026-10-17T11:58:55.993783",
   "stats": {
     "total": 50,
-    "multi_source": 3,
-    "trending": 0,
+    "multi_source": 4,
+    "trending": 2,
     "blindspots": 0
   },
   "stories": [
@@ -13,24 +13,61 @@
       "link": "https://www.foxnews.com/world/trump-wishes-pope-leo-speedy-recovery-after-lung-cancer-diagnosis-speaks-highly-pontiffs-brother",
       "source": "Fox News World",
       "all_sources": [
+        "NYT World",
+        "New York Post World",
+        "Fox News World",
+        "Fox News World",
         "Fox News World"
       ],
       "bias_breakdown": {
-        "Right": 1
+        "Lean Left": 1,
+        "Lean Right": 1,
+        "Right": 3
       },
       "bias_bar": {
-        "left_pct": 0,
+        "left_pct": 20,
         "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
+        "right_pct": 80,
+        "total": 5
       },
       "is_blindspot": false,
-      "is_trending": false,
+      "is_trending": true,
       "bullet_points": [
         "President Donald Trump revealed Pope Leo XIV&apos;s brother is a friend and avid MAGA supporter with memorabilia &quot;all over&quot; his house while wishing the pontiff well."
       ],
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/04/931/523/president-donald-trump-pope-leo-xiv-fox-news.jpeg?ve=1&tl=1",
+      "image_url": "https://static01.nyt.com/images/2026/10/16/multimedia/00int-pope-discharged-photo-blch/00int-pope-discharged-photo-blch-mediumSquareAt3X.jpg",
       "published": "Wed, 14 Oct 2026 23:38:47 -0400"
+    },
+    {
+      "title": "Mexican judge sentences three men to 158 years in prison for murders of Australian and US surfers​",
+      "link": "https://www.theguardian.com/australia-news/2026/oct/17/mexican-judge-sentences-three-men-to-158-years-in-prison-for-murders-of-australian-and-us-surfers-ntwnfb",
+      "source": "The Guardian World",
+      "all_sources": [
+        "BBC World",
+        "Deutsche Welle Top Stories",
+        "The Guardian World",
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1,
+        "Center": 2,
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 25,
+        "center_pct": 50,
+        "right_pct": 25,
+        "total": 4
+      },
+      "is_blindspot": false,
+      "is_trending": true,
+      "bullet_points": [
+        "Australian ​brothers Jake ​and Callum Robinson, and ​their ‌American friend Carter Rhoad, were killed while on a surf trip in Baja California in 2024    Get our  breaking news email ,  free app  or  daily news podcast     A Mexican ⁠judge ⁠has sentenced ​three men to 158 years ⁠and nine months in prison each for ⁠the murder of ​two Australian ‌brothers ‌and their American friend during ‌a 2024 surf trip to the state of Baja California.",
+        "The ‌defendants  were declared guilty a week ​ago  of homicide, aggravated robbery, robbery with violence and vehicle theft ⁠with violence, crimes committed against ​Australian ​brothers Jake ​and Callum Robinson, and ​their ‌American friend ​Carter Rhoad.",
+        "Continue reading..."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ab9/live/138578c0-c453-11f1-bc2e-018d645d8d21.jpg",
+      "published": "Sat, 17 Oct 2026 02:52:59 GMT"
     },
     {
       "title": "Zimbabwean author Simbarashe Kundizeza denies using AI to write prize-winning story",
@@ -84,80 +121,6 @@
       "published": "Wed, 14 Oct 2026 17:21:49 EDT"
     },
     {
-      "title": "Woman found floating in sea after going overboard from Royal Caribbean ship",
-      "link": "https://www.foxnews.com/world/woman-found-floating-sea-going-overboard-royal-caribbean-ship",
-      "source": "Fox News World",
-      "all_sources": [
-        "Fox News World"
-      ],
-      "bias_breakdown": {
-        "Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "A 44-year-old woman clung to a lifebuoy for 20 hours in the Ionian Sea after reportedly jumping from Royal Caribbean&apos;s Odyssey of the Seas near Zakynthos."
-      ],
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/cruise-ship-split.png?ve=1&tl=1",
-      "published": "Wed, 14 Oct 2026 16:44:29 -0400"
-    },
-    {
-      "title": "Cartels use drones to scout border agents and map smuggling routes, expert warns",
-      "link": "https://www.foxnews.com/world/cartels-use-drones-scout-border-agents-map-smuggling-routes-expert-warns",
-      "source": "Fox News World",
-      "all_sources": [
-        "Fox News World"
-      ],
-      "bias_breakdown": {
-        "Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The U.S.",
-        "military detected 378 cartel drone incursions along the Mexico border in 30 days, and experts warn cartels will continue to innovate."
-      ],
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/05/931/523/arizona-drone-law-southern-border_03.jpg?ve=1&tl=1",
-      "published": "Wed, 14 Oct 2026 15:51:45 -0400"
-    },
-    {
-      "title": "Aboard an icebreaker, a writer got a closer look at the Arctic's 'Sea Change'",
-      "link": "https://www.npr.org/2026/10/14/nx-s1-6001592/arctic-sea-change-rana-foroohar",
-      "source": "NPR World",
-      "all_sources": [
-        "NPR World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "As polar ice melts in the Arctic, shipping lanes are opening up, making the region a new zone of superpower competition.",
-        "Writer Rana Foroohar explains the stakes in  Sea Change."
-      ],
-      "image_url": null,
-      "published": "Wed, 14 Oct 2026 15:42:03 -0400"
-    },
-    {
       "title": "How does a country defend itself without a military?",
       "link": "https://www.csmonitor.com/World/Europe/2026/1014/iceland-military-us-arctic-trump-denmark-greenland?icid=rss",
       "source": "Christian Science Monitor World",
@@ -182,30 +145,6 @@
       ],
       "image_url": null,
       "published": "Wed, 14 Oct 2026 14:10:45 EDT"
-    },
-    {
-      "title": "Pope Leo undergoes blood tests, X-ray following cancer surgery, Vatican says",
-      "link": "https://www.foxnews.com/world/pope-leo-undergoes-blood-tests-x-ray-following-cancer-surgery-vatican-says",
-      "source": "Fox News World",
-      "all_sources": [
-        "Fox News World"
-      ],
-      "bias_breakdown": {
-        "Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Pope Leo XIV began walking and resumed eating after thoracic surgery at Rome&apos;s Gemelli Hospital, with blood tests and an X-ray being part of his recovery."
-      ],
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/pope-leo-xiv-agostino-gemelli-polyclinic.jpg?ve=1&tl=1",
-      "published": "Wed, 14 Oct 2026 13:29:03 -0400"
     },
     {
       "title": "Guinea-Bissau denies it has approved controversial vaccine trial in newborns",
@@ -234,32 +173,6 @@
       "published": "Wed, 14 Oct 2026 13:16:30 GMT"
     },
     {
-      "title": "Joni Mitchell becomes US citizen: ‘A journey that began 62 years ago’",
-      "link": "https://www.theguardian.com/music/2026/oct/14/joni-mitchell-becomes-us-citizen-a-journey-that-began-62-years-ago",
-      "source": "The Guardian World",
-      "all_sources": [
-        "The Guardian World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Canada-born singer-songwriter, 82, posts footage of citizenship ceremony to Instagram  Joni Mitchell has become a US citizen, after first moving to the country in the mid-1960s.",
-        "The Canada-born singer-songwriter, 82, posted footage of her citizenship ceremony on her Instagram account, along with a photo of her next to an American flag, accompanied by the caption: “A journey that began 62 years ago.”  It means that Mitchell can now vote in US elections, something that she had complained she wasn’t able to do.",
-        "Continue reading..."
-      ],
-      "image_url": null,
-      "published": "Wed, 14 Oct 2026 08:39:00 GMT"
-    },
-    {
       "title": "As Houthi attacks undermine Saudi security, a cautious kingdom recalibrates",
       "link": "https://www.csmonitor.com/World/Middle-East/2026/1013/saudi-security-houthi-airport-attacks-iran-yemen?icid=rss",
       "source": "Christian Science Monitor World",
@@ -283,127 +196,6 @@
       ],
       "image_url": null,
       "published": "Tue, 13 Oct 2026 18:16:44 EDT"
-    },
-    {
-      "title": "In France, student protests bring echoes of the past",
-      "link": "https://www.csmonitor.com/World/Europe/2026/1013/students-protest-france-politics-1968?icid=rss",
-      "source": "Christian Science Monitor World",
-      "all_sources": [
-        "Christian Science Monitor World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Demonstrations about the country’s education system are drawing parallels with the country’s pivotal May 1968 student revolution."
-      ],
-      "image_url": null,
-      "published": "Tue, 13 Oct 2026 17:41:01 EDT"
-    },
-    {
-      "title": "As Canada pivots from the US, a city reclaims its past",
-      "link": "https://www.csmonitor.com/World/Americas/2026/1013/canada-u.s.-carney-trump-eu-diversify?icid=rss",
-      "source": "Christian Science Monitor World",
-      "all_sources": [
-        "Christian Science Monitor World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Once an economic hinge connecting eastern and western Canada, Thunder Bay is again emerging as a symbol of the country’s drive to strengthen its economic independence."
-      ],
-      "image_url": null,
-      "published": "Tue, 13 Oct 2026 12:43:49 EDT"
-    },
-    {
-      "title": "Out of Orbán’s shadow, Hungary tries to reset how the public gets its news",
-      "link": "https://www.csmonitor.com/World/Europe/2026/1013/hungary-public-media-orban-criticism-journalism?icid=rss",
-      "source": "Christian Science Monitor World",
-      "all_sources": [
-        "Christian Science Monitor World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Under Prime Minister Viktor Orbán, Hungary hollowed out many public media outlets.",
-        "Journalists are now rebuilding to restore scrutiny of government."
-      ],
-      "image_url": null,
-      "published": "Tue, 13 Oct 2026 05:00:17 EDT"
-    },
-    {
-      "title": "Tip-off foiled US teen suspect's plot to attack Hindu temple, police say",
-      "link": "https://www.bbc.co.uk/news/articles/cqgm0j4kjvevo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "all_sources": [
-        "BBC World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The alleged plot only failed because the 19-year-old suspect's gun jammed outside the place of worship, say police."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/316e/live/9caab030-c88a-11f1-a2e8-f71844f8002e.jpg",
-      "published": "Thu, 15 Oct 2026 23:27:21 GMT"
-    },
-    {
-      "title": "Violent Protests in Albania",
-      "link": "https://www.nytimes.com/2026/10/15/world/europe/albania-student-protests-violence.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Opposition to a luxury resort project linked to Jared Kushner has collided with rising discontent over corruption and the cost of living."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/10/15/multimedia/15int-albania-protests-tczw/15int-albania-protests-tczw-mediumSquareAt3X.jpg",
-      "published": "Thu, 15 Oct 2026 21:40:24 +0000"
     },
     {
       "title": "Autistic teen lured to fake Snapchat meetup, brutally beaten by group of teens: report",
@@ -454,61 +246,11 @@
       "published": "Thu, 15 Oct 2026 18:25:57 -0400"
     },
     {
-      "title": "Dublin Hotel Accused of Revoking Bookings for an Event to Combat Antisemitism",
-      "link": "https://www.nytimes.com/2026/10/15/world/europe/ireland-dublin-hotel-antisemitism.html",
-      "source": "NYT World",
+      "title": "Three years on, Israel still bars foreign journalists from entering Gaza",
+      "link": "https://www.npr.org/2026/10/15/nx-s1-6000378/three-years-on-israel-still-bars-foreign-journalists-from-entering-gaza",
+      "source": "NPR World",
       "all_sources": [
-        "NYT World",
-        "Fox News World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1,
-        "Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 50,
-        "center_pct": 0,
-        "right_pct": 50,
-        "total": 2
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "A leader of the Jewish community in Ireland said a hotel canceled a deal for 70 rooms when it learned they were reserved for guests attending the international forum."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/10/15/world/15int-Ireland-Hotel-top/15int-Ireland-Hotel-top-mediumSquareAt3X.jpg",
-      "published": "Thu, 15 Oct 2026 18:18:46 +0000"
-    },
-    {
-      "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
-      "link": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "all_sources": [
-        "BBC World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81e4/live/8ba6bbd0-c8b2-11f1-ba4a-9b4af5820384.jpg",
-      "published": "Thu, 15 Oct 2026 17:47:22 GMT"
-    },
-    {
-      "title": "Second Ebola Infection Announced in Kenya",
-      "link": "https://www.nytimes.com/2026/10/15/world/africa/kenya-ebola-infections.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
+        "NPR World"
       ],
       "bias_breakdown": {
         "Lean Left": 1
@@ -522,36 +264,10 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "The case is likely to raise alarms in the country and increase scrutiny of the government’s surveillance measures."
+        "More than a year into a declared ceasefire in Gaza — and three years into the war — Israel still hasn't allowed foreign media independent access to Gaza."
       ],
-      "image_url": "https://static01.nyt.com/images/2026/10/15/multimedia/15int-kenya-ebola-1-qgth/15int-kenya-ebola-1-qgth-mediumSquareAt3X.jpg",
-      "published": "Thu, 15 Oct 2026 17:38:52 +0000"
-    },
-    {
-      "title": "Ukraine’s Starshield access is being restored — but it wasn’t Trump who ordered it throttled",
-      "link": "https://nypost.com/2026/10/15/world-news/ukraines-starshield-access-is-being-restored-but-blame-game-rages-over-who-throttled-it/",
-      "source": "New York Post World",
-      "all_sources": [
-        "NPR World",
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1,
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 50,
-        "center_pct": 0,
-        "right_pct": 50,
-        "total": 2
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Ukraine's access to Starshield was restored by Thursday after the US military satellite network was suddenly throttled, with no answers yet as to why the system failed during a massive Russian drone barrage."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Ffirefighters-attempt-extinguish-fire-site-145116851.jpg?w%3D1024",
-      "published": "Thu, 15 Oct 2026 17:06:53 -0400"
+      "image_url": null,
+      "published": "Thu, 15 Oct 2026 17:01:50 -0400"
     },
     {
       "title": "US intel pause, Starlink outages leave Ukraine vulnerable to Russian attack",
@@ -606,80 +322,6 @@
       "published": "Thu, 15 Oct 2026 16:38:32 GMT"
     },
     {
-      "title": "Milei adviser claims UK being ‘colonised by Islam’ as Falklands row grows",
-      "link": "https://www.theguardian.com/uk-news/2026/oct/15/falklands-javier-milei-adviser-santiago-caputo-uk-islam-argentina",
-      "source": "The Guardian World",
-      "all_sources": [
-        "The Guardian World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Santiago Caputo cites election of Sagal Abdi-Wali as MP and calls UK a threat to the west in post shared by Argentina’s president  The chief adviser to Argentina’s president, Javier Milei, has cited the election of Sagal Abdi-Wali to the UK parliament as evidence of the Islamisation of Britain and further reason for Argentina to take sovereignty over the Falkland Islands.",
-        "In a post on social media, Santiago Caputo, who is reportedly taking a key role in Argentina’s strategy over the Falklands, suggested that the taking of the south Atlantic islands was necessary to prevent the “interference of an Islamic state” in the region.",
-        "Continue reading..."
-      ],
-      "image_url": null,
-      "published": "Thu, 15 Oct 2026 15:00:23 GMT"
-    },
-    {
-      "title": "Drunk ‘Architect of the Year’ attacks flight attendant who asked her be quiet for sleeping baby",
-      "link": "https://nypost.com/2026/10/15/world-news/drunk-architect-of-the-year-attacked-flight-attendant-who-asked-her-to-keep-quiet-for-sleeping-baby/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "“I’m an architect and you’re just a f—king air hostess,” Simone de Gale fumed, according to prosecutors in court who described her as “really aggressive.”"
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fre-f-ing-dumb-air-145155608.jpg?w%3D768",
-      "published": "Thu, 15 Oct 2026 14:59:18 -0400"
-    },
-    {
-      "title": "Oil flow through Strait of Hormuz hits 12M barrels a day — defying increasing attacks from Iran",
-      "link": "https://nypost.com/2026/10/15/world-news/hormuz-oil-flow-hits-12-million-barrels-a-day-defying-increasing-attacks-from-iran/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "More than 12 million barrels of oil are crossing through the Strait of Hormuz every day in October, higher than last month's average — despite the surge in attacks coming from Iran, analysts said."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fvessels-strait-hormuz-seen-musandam-144816348.jpg?w%3D1024",
-      "published": "Thu, 15 Oct 2026 13:48:07 -0400"
-    },
-    {
       "title": "Transactional politics once defined Mexican elections. It still creeps into governance.",
       "link": "https://www.csmonitor.com/World/Americas/2026/1015/midterms-clientelism-transactions-mexico-us-politics?icid=rss",
       "source": "Christian Science Monitor World",
@@ -706,80 +348,6 @@
       "published": "Thu, 15 Oct 2026 13:41:19 EDT"
     },
     {
-      "title": "How the former child actor killed by tiger managed to get into enclosure where he was viciously mauled",
-      "link": "https://nypost.com/2026/10/15/world-news/how-william-chapman-got-into-tiger-enclosure-before-being-mauled/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "William Chapman, who reportedly suffered from schizophrenia, was savaged by a tiger in front of parkgoers at Yorkshire Wildlife Park on Saturday."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fno-reports-survived-apart-gun-144525635_ea5081.jpg?w%3D952",
-      "published": "Thu, 15 Oct 2026 12:02:36 -0400"
-    },
-    {
-      "title": "Volodymyr Zelensky openly defies Trump’s ban on Russian oil refinery strikes, Ukraine will resume attacks: ‘We’re done’",
-      "link": "https://nypost.com/2026/10/15/world-news/volodymyr-zelensky-defies-trumps-ban-on-russian-oil-refinery-strikes-ukraine-will-resume-attacks-were-done/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "“The block is out.",
-        "We’re done,” Zelensky told the Financial Times during a London visit."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fus-president-donald-trump-walks-144948073.jpg?w%3D1024",
-      "published": "Thu, 15 Oct 2026 10:29:26 -0400"
-    },
-    {
-      "title": "Bodybuilding mom dead weeks after competing in Mr. Olympia",
-      "link": "https://nypost.com/2026/10/15/world-news/bodybuilding-mom-dead-weeks-after-competing-in-mr-olympia/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "A bodybuilder mom who competed in the female division of this year's Mr.",
-        "Olympia has died at the age of 40 -- just days after thanking her boyfriend for his support in a now-heartbreaking social media post as she celebrated the end of the season."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fmarianne-von-gierke-40-poses-145134061.jpg?w%3D768",
-      "published": "Thu, 15 Oct 2026 09:46:13 -0400"
-    },
-    {
       "title": "Albania rioters clash with police for Socialist government as European unrest spreads",
       "link": "https://www.foxnews.com/world/albania-rioters-clash-police-socialist-government-european-unrest-spreads",
       "source": "Fox News World",
@@ -802,6 +370,30 @@
       ],
       "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/riot-police-detain-protester-tirana-albania.jpg?ve=1&tl=1",
       "published": "Thu, 15 Oct 2026 09:44:31 -0400"
+    },
+    {
+      "title": "'Not wanted': Irish hotel reportedly cancels 70 rooms reserved for antisemitism conference attendees",
+      "link": "https://www.foxnews.com/world/not-wanted-irish-hotel-reportedly-cancels-70-rooms-reserved-antisemitism-conference-attendees",
+      "source": "Fox News World",
+      "all_sources": [
+        "Fox News World"
+      ],
+      "bias_breakdown": {
+        "Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Jewish Representative Council of Ireland chairman Maurice Cohen says a Dublin hotel rejected an antisemitism conference after its manager questioned IDF involvement."
+      ],
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/07/931/523/dublin-pro-palestinian-presser.jpg?ve=1&tl=1",
+      "published": "Thu, 15 Oct 2026 09:30:16 -0400"
     },
     {
       "title": "UN inquiry member says some genocide claims against Israel unverified as Gaza reports population growth",
@@ -879,54 +471,6 @@
       "published": "Thu, 15 Oct 2026 07:31:25 -0400"
     },
     {
-      "title": "Harrowing new details emerge as cause of death given for former child actor mauled by tiger",
-      "link": "https://nypost.com/2026/10/15/world-news/harrowing-new-details-emerge-as-cause-of-death-given-for-former-child-actor-mauled-by-tiger/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "William Chapman, 24, had been diagnosed with \"schizophrenia\" and suffered \"previous bouts of psychosis\" before being mauled to death in front of fellow parkgoers."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fno-reports-survived-apart-gun-144525635_9eaaeb.jpg?w%3D952",
-      "published": "Thu, 15 Oct 2026 07:19:33 -0400"
-    },
-    {
-      "title": "Two ships ablaze in Romanian Black Sea waters, 7 sailors missing",
-      "link": "https://nypost.com/2026/10/15/world-news/two-ships-ablaze-in-romanian-black-sea-waters-7-sailors-missing/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Rescuers are searching for seven missing sailors after two chemical tankers caught fire in Romanian waters near the mouth of the Danube River."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F2026-romanian-interior-ministry-handout-145120170.jpg?w%3D1024",
-      "published": "Thu, 15 Oct 2026 06:11:14 -0400"
-    },
-    {
       "title": "Ukraine resumes attacks on Russian oil refineries, officials say, after brief truce",
       "link": "https://www.npr.org/2026/10/15/g-s1-148194/russia-ukraine-war",
       "source": "NPR World",
@@ -949,54 +493,6 @@
       ],
       "image_url": null,
       "published": "Thu, 15 Oct 2026 06:05:58 -0400"
-    },
-    {
-      "title": "Greetings from Mexico City, where a bullfighting ban doesn't stop this matador training",
-      "link": "https://www.npr.org/2026/10/15/nx-s1-6001550/mexico-city-bullfighting-ban-matador-training",
-      "source": "NPR World",
-      "all_sources": [
-        "NPR World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "One plays the bull, the other the bullfighter, as a pair practices a dance of death in a sport that's prohibited in the Mexican capital city."
-      ],
-      "image_url": null,
-      "published": "Thu, 15 Oct 2026 06:00:00 -0400"
-    },
-    {
-      "title": "North Korea holds first underwater-launched missile tests in nearly 3 years",
-      "link": "https://nypost.com/2026/10/15/world-news/north-korea-holds-first-underwater-launched-missile-tests-in-nearly-3-years/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "North Korea tested two strategic cruise missiles from a submarine, likely mobilizing the Hero Kim Kun Ok vessel for its first public test."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fphoto-handout-kcna-afp-via-144826358.jpg?w%3D1024",
-      "published": "Thu, 15 Oct 2026 05:30:44 -0400"
     },
     {
       "title": "Adding fuel to the fire: Trump’s diesel deal stokes European concerns",
@@ -1023,57 +519,6 @@
       "published": "Thu, 15 Oct 2026 05:00:11 EDT"
     },
     {
-      "title": "Rep. Mike Quigley, D-Ill., on reports Ukraine's Starshield access was restricted",
-      "link": "https://www.npr.org/2026/10/15/nx-s1-6001653/rep-mike-quigley-d-ill-on-reports-ukraines-starshield-access-was-restricted",
-      "source": "NPR World",
-      "all_sources": [
-        "NPR World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "NPR's Michel Martin speaks with Democratic Rep.",
-        "Mike Quigley of Illinois about reports that SpaceX temporarily restricted access to its Starshield in Ukraine, affecting the country's war efforts."
-      ],
-      "image_url": null,
-      "published": "Thu, 15 Oct 2026 04:46:05 -0400"
-    },
-    {
-      "title": "School roof collapse kills at least 29, injures more than 3 dozen in Pakistan",
-      "link": "https://www.npr.org/2026/10/15/nx-s1-6003437/school-roof-collapse-pakistan",
-      "source": "NPR World",
-      "all_sources": [
-        "BBC World",
-        "NPR World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1,
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 50,
-        "center_pct": 50,
-        "right_pct": 0,
-        "total": 2
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The roof of a private school collapsed in northwestern Pakistan on Thursday, killing at least 28 children and a female teacher and injuring more than 50 other people."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c260/live/a3e37d00-c880-11f1-a2e8-f71844f8002e.jpg",
-      "published": "Thu, 15 Oct 2026 04:22:07 -0400"
-    },
-    {
       "title": "El Salvador's Bukele announces plan to free up to half of prisoners jailed in gang crackdown",
       "link": "https://www.foxnews.com/world/el-salvador-bukele-announces-plan-free-half-prisoners-jailed-gang-crackdown",
       "source": "Fox News World",
@@ -1098,32 +543,6 @@
       "published": "Thu, 15 Oct 2026 03:01:59 -0400"
     },
     {
-      "title": "Brazil cuts work week to 40 hours in win for Lula ahead of runoff",
-      "link": "https://www.theguardian.com/world/2026/oct/15/brazil-cuts-work-week-to-40-hours-lula-bolsonaro-election-runoff",
-      "source": "The Guardian World",
-      "all_sources": [
-        "The Guardian World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Congress approves constitutional amendment that bans six-day workweeks, which could affect up to 30 million  Brazil’s congress has approved a constitutional amendment to shorten the working week to a maximum of 40 hours, a move that could affect 30 million workers and that will hand a political victory to the leftist president Luiz Inácio Lula da Silva ahead of the  presidential runoff  in under two weeks.",
-        "In an attempt to overturn the  first-round lead  secured by his opponent, far-right senator Flávio Bolsonaro, Lula has strongly championed the amendment, which will give some workers an extra day off each week.",
-        "Continue reading..."
-      ],
-      "image_url": null,
-      "published": "Thu, 15 Oct 2026 02:45:42 GMT"
-    },
-    {
       "title": "Trump Says Colombia Will Accept Deportees, Ending Tariff Standoff",
       "link": "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497",
       "source": "WSJ World News",
@@ -1146,6 +565,637 @@
       ],
       "image_url": null,
       "published": "Sun, 26 Jan 2025 22:59:00 -0500"
+    },
+    {
+      "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+      "link": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World",
+        "Deutsche Welle Top Stories"
+      ],
+      "bias_breakdown": {
+        "Center": 2
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 2
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c147/live/f608c860-c9cf-11f1-84c1-fd3c3266bb86.jpg",
+      "published": "Sat, 17 Oct 2026 11:56:06 GMT"
+    },
+    {
+      "title": "Russian strikes kill civilians, injure dozens across Ukraine",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/russian-strikes-kill-civilians-injure-dozens-across-ukraine?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "At least eight people have been killed and nearly 60 injured in the latest wave of Russian strikes across Ukraine."
+      ],
+      "image_url": null,
+      "published": "Sat, 17 Oct 2026 11:22:41 +0000"
+    },
+    {
+      "title": "Protests spread across France as ‘yellow vests’ set to join",
+      "link": "https://www.aljazeera.com/news/2026/10/17/france-braces-for-nationwide-protests-with-yellow-vest-members-set-to-join?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Demonstrations began in mid-September at schools and have expanded, tapping into wider grievances."
+      ],
+      "image_url": null,
+      "published": "Sat, 17 Oct 2026 11:21:32 +0000"
+    },
+    {
+      "title": "Trump eases Russia oil sanctions, but is Europe still buying Moscow’s gas?",
+      "link": "https://www.aljazeera.com/news/2026/10/17/trump-eases-russia-oil-sanctions-but-is-europe-still-buying-moscows-gas?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Analysts say Russia will benefit most from US sanctions waiver."
+      ],
+      "image_url": null,
+      "published": "Sat, 17 Oct 2026 11:10:22 +0000"
+    },
+    {
+      "title": "Sally Rooney’s books pulled from UK over Palestine Action support",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/17/sally-rooneys-books-pulled-from-uk-over-palestine-action-support-2?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "We asked students what they think."
+      ],
+      "image_url": null,
+      "published": "Sat, 17 Oct 2026 10:50:39 +0000"
+    },
+    {
+      "title": "Rare pink diamond goes on display in France 100 years after amateur heist",
+      "link": "https://www.bbc.co.uk/news/articles/c61m4zkx47vlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The French royal jewel will be on public display for the first time since it was found hidden in an apple after a 1926 theft."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37cc/live/14013ec0-ca01-11f1-bc2e-018d645d8d21.jpg",
+      "published": "Sat, 17 Oct 2026 10:46:41 GMT"
+    },
+    {
+      "title": "Solar power booms in Philippines as war on Iran spikes energy costs",
+      "link": "https://www.aljazeera.com/news/2026/10/17/solar-power-booms-in-philippines-as-war-on-iran-spikes-energy-costs?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "With Southeast Asia&#039;s largest electricity bills rising even higher, Filipinos invest in rooftop panels."
+      ],
+      "image_url": null,
+      "published": "Sat, 17 Oct 2026 10:12:01 +0000"
+    },
+    {
+      "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+      "link": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c80/live/72894110-c9b4-11f1-9409-01a8c77950d7.jpg",
+      "published": "Sat, 17 Oct 2026 09:58:17 GMT"
+    },
+    {
+      "title": "LIVE: India vs West Indies – fifth T20 International",
+      "link": "https://www.aljazeera.com/sports/liveblog/2026/10/17/live-india-vs-west-indies-fifth-t20-international?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Follow updates, including toss and team news, from our live text commentary stream of the series decider."
+      ],
+      "image_url": null,
+      "published": "Sat, 17 Oct 2026 09:54:49 +0000"
+    },
+    {
+      "title": "As Israel blocks PA funding, the West Bank’s healthcare system is failing",
+      "link": "https://www.aljazeera.com/news/2026/10/17/as-israel-blocks-pa-funding-the-west-banks-healthcare-system-is-failing?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Hospitals across the occupied West Bank have been hit by a funding shortage."
+      ],
+      "image_url": null,
+      "published": "Sat, 17 Oct 2026 09:47:55 +0000"
+    },
+    {
+      "title": "Sudan’s army claims dozens of RSF fighters killed in Nyala attack",
+      "link": "https://www.aljazeera.com/news/2026/10/17/2550?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Rapid Support Forces accuse army of killing 30 civilians in attack on Nyala&#039;s busy livestock market."
+      ],
+      "image_url": null,
+      "published": "Sat, 17 Oct 2026 09:44:47 +0000"
+    },
+    {
+      "title": "IMF urges support for poorer nations facing high inflation, war spillovers",
+      "link": "https://www.aljazeera.com/economy/2026/10/17/war-spillovers-debt-threaten-low-income-nations-imf-chief-warns?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Low-income countries spend up to 14 percent of their revenue on debt repayments, IMF chief says."
+      ],
+      "image_url": null,
+      "published": "Sat, 17 Oct 2026 09:31:47 +0000"
+    },
+    {
+      "title": "Houthis strike Yemen’s Aden: What that means",
+      "link": "https://www.aljazeera.com/news/2026/10/17/iran-backed-houthis-strike-yemens-aden-what-that-means?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "What we know about the Houthi strikes on Aden’s presidential palace and airport, and why they matter."
+      ],
+      "image_url": null,
+      "published": "Sat, 17 Oct 2026 09:16:48 +0000"
+    },
+    {
+      "title": "Katie Zacharia leaving White House role less than five days into job",
+      "link": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Her public debut as press secretary ended with a flurry of media criticism about her credentials and preparedness."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8455/live/c34abe60-c99d-11f1-8844-b58b162b44d4.jpg",
+      "published": "Sat, 17 Oct 2026 09:14:10 GMT"
+    },
+    {
+      "title": "Uncertainty Over Pope’s Health Fuels Familiar Debate Over Vatican’s Candor",
+      "link": "https://www.nytimes.com/2026/10/17/world/europe/pope-leo-vatican-transparency-cancer.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "By announcing his lung condition himself, Leo has been more forthcoming than many popes.",
+        "But mysteries remain, prompting scrutiny of papal statements for hidden meaning."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/10/17/multimedia/17int-pope-tea-leaves-mjtq/17int-pope-tea-leaves-mjtq-mediumSquareAt3X.jpg",
+      "published": "Sat, 17 Oct 2026 08:18:15 +0000"
+    },
+    {
+      "title": "Why Are France’s Students Protesting?",
+      "link": "https://www.nytimes.com/2026/10/17/world/europe/france-student-protests-why.html",
+      "source": "NYT World",
+      "all_sources": [
+        "Christian Science Monitor World",
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1,
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 50,
+        "center_pct": 50,
+        "right_pct": 0,
+        "total": 2
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Student demonstrations for a better-funded education system are converging with a broader protest movement against rising living costs."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/10/13/multimedia/13int-france-schools-wtk-02-lqbw/13int-france-schools-wtk-02-lqbw-mediumSquareAt3X.jpg",
+      "published": "Sat, 17 Oct 2026 08:09:16 +0000"
+    },
+    {
+      "title": "How Bally Bagayoko, a 53-Year-Old Mayor, Became the Face of France’s Youth Protests",
+      "link": "https://www.nytimes.com/2026/10/17/france-protests-mayor-bally-bagayoko.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Bally Bagayoko, the mayor of a working-class suburb near Paris, has been a regular presence at student demonstrations, prompting both applause and condemnation."
+      ],
+      "image_url": null,
+      "published": "Sat, 17 Oct 2026 08:09:06 +0000"
+    },
+    {
+      "title": "Decades after apartheid, South Africans seek justice for crimes of the past",
+      "link": "https://www.npr.org/2026/10/17/nx-s1-5987671/south-africa-justice-sharpeville-apartheid",
+      "source": "NPR World",
+      "all_sources": [
+        "NPR World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "More than three decades after the end of apartheid, families of victims of some of the worst crimes of South Africa's past are still fighting for justice.",
+        "As survivors and perpetrators grow older, a new wave of legal efforts is seeking truth, accountability and reparations before it's too late."
+      ],
+      "image_url": null,
+      "published": "Sat, 17 Oct 2026 07:00:00 -0400"
+    },
+    {
+      "title": "ChinaAid raises alarm over imprisoned Chinese pastor's health as family seeks answers",
+      "link": "https://www.foxnews.com/world/chinaaid-raises-alarm-imprisoned-chinese-pastor-health-family-seeks-answers",
+      "source": "Fox News World",
+      "all_sources": [
+        "Fox News World"
+      ],
+      "bias_breakdown": {
+        "Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "ChinaAid founder Bob Fu says reports of Pastor Wang Yi&apos;s advanced liver cancer in a Chinese prison are credible but cannot be independently verified."
+      ],
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Pastor-Wang-Yi-And-Wife-Photo-1.jpg?ve=1&tl=1",
+      "published": "Sat, 17 Oct 2026 06:00:44 -0400"
+    },
+    {
+      "title": "Pope's health should not be taken 'for granted', says top Vatican diplomat",
+      "link": "https://www.bbc.co.uk/news/articles/c6kg53zrexdeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Archbishop Paul Gallagher tells the BBC there was no sign of the Pope's ill health prior to his operation this week."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e95/live/6651a140-c96d-11f1-a6e6-417671ef62cb.jpg",
+      "published": "Sat, 17 Oct 2026 05:01:40 GMT"
+    },
+    {
+      "title": "Sidewalk sleepers: They have nowhere else to stay while a loved one is in the hospital",
+      "link": "https://www.npr.org/2026/10/17/g-s1-147874/hospital-diagnosis-patients-india-sidewalk",
+      "source": "NPR World",
+      "all_sources": [
+        "NPR World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Patients travel miles to be treated at public hospitals in Delhi.",
+        "Those in need get financial aid for their care.",
+        "But for overnight accommodations, families are often on their own — and on the street."
+      ],
+      "image_url": null,
+      "published": "Sat, 17 Oct 2026 05:00:00 -0400"
+    },
+    {
+      "title": "Norwegian teen hitman sentenced to 20 years in prison for plotting murder in UK for Iran-linked gang",
+      "link": "https://nypost.com/2026/10/17/world-news/norwegian-teen-hitman-johannes-natland-sentenced-for-plotting-murder-in-uk-for-iran-linked-gang/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Johannes Kongsnes Natland, 19, was found guilty in July of conspiracy to murder for agreeing to shoot an unknown target for 25,000 euros (21,500 pounds or $28,000) last year."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F2026-shows-selfie-image-norwegian-145289393.jpg?w%3D571",
+      "published": "Sat, 17 Oct 2026 04:13:14 -0400"
+    },
+    {
+      "title": "Japan’s ‘Dancing Salaryman’ Can’t Stop Grooving",
+      "link": "https://www.nytimes.com/2026/10/17/world/asia/japan-dancing-salaryman.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Toru Utsumi, 60, works as a management consultant, but on his days off, he has become a global internet star — despite some local disapproval."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/10/17/multimedia/17int-japan-salaryman-01-fgqk/17int-japan-salaryman-01-fgqk-mediumSquareAt3X.jpg",
+      "published": "Sat, 17 Oct 2026 04:01:11 +0000"
+    },
+    {
+      "title": "UK ambulance staff viewed medical records of ex-child actor fatally mauled by tiger without ‘legitimate reason’: report",
+      "link": "https://nypost.com/2026/10/17/world-news/william-chapmans-medical-records-viewed-by-uk-ambulance-staff-after-fatal-tiger-mauling-report/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The Yorkshire Ambulance Trust confirmed the potential breach and notified the man's family about the investigation."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fmr-william-chapman-24-died-145006278_80bbbc.jpg",
+      "published": "Sat, 17 Oct 2026 03:45:17 -0400"
+    },
+    {
+      "title": "A Wayward Shark Becomes a Celebrity in South Korea",
+      "link": "https://www.nytimes.com/2026/10/16/world/asia/south-korea-busan-shark.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Stranded in a port waterway for weeks, the 10-foot fish has attracted more than a million spectators, while officials try to guide her back to open sea."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/10/17/multimedia/17int-skorea-shark-01-qwgb/17int-skorea-shark-01-qwgb-mediumSquareAt3X.jpg",
+      "published": "Sat, 17 Oct 2026 02:44:10 +0000"
+    },
+    {
+      "title": "Actress Selma Blair says she 'did not intend to harm anyone' in plane altercation",
+      "link": "https://www.bbc.co.uk/news/articles/cwly3zd1r45ro?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "A publicist for the actress said the incident stemmed from a \"medical emergency\" and said she has a neurological disorder that can cause out-of-control responses."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e65/live/90ff56a0-ca0b-11f1-bc2e-018d645d8d21.jpg",
+      "published": "Sat, 17 Oct 2026 01:55:45 GMT"
     },
     {
       "title": "Palestinians Stream Back to Northern Gaza on Foot",
@@ -1194,54 +1244,6 @@
       ],
       "image_url": null,
       "published": "Mon, 27 Jan 2025 12:32:00 -0500"
-    },
-    {
-      "title": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
-      "link": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
-      "source": "WSJ World News",
-      "all_sources": [
-        "WSJ World News"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said."
-      ],
-      "image_url": null,
-      "published": "Mon, 27 Jan 2025 12:12:00 -0500"
-    },
-    {
-      "title": "Suspected Sabotage of Deep-Sea Cable Triggers First NATO-Led Response",
-      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
-      "source": "WSJ World News",
-      "all_sources": [
-        "WSJ World News"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The alliance mounted its first coordinated response to a suspected sabotage campaign against critical infrastructure after another cable was severed in the Baltic Sea."
-      ],
-      "image_url": null,
-      "published": "Mon, 27 Jan 2025 11:22:00 -0500"
     }
   ]
 }

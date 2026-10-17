@@ -1,6 +1,6 @@
-# News Digest - 2026-10-16
+# News Digest - 2026-10-17
 
-**50 stories** · 3 with multi-source coverage · 0 blindspots
+**50 stories** · 4 with multi-source coverage · 0 blindspots
 
 ---
 
@@ -8,7 +8,9 @@
 
 **Source:** [Fox News World](https://www.foxnews.com/world/trump-wishes-pope-leo-speedy-recovery-after-lung-cancer-diagnosis-speaks-highly-pontiffs-brother)
 
-**Bias breakdown:** Right: 1
+**Also covered by:** NYT World, New York Post World
+
+**Bias breakdown:** Lean Left: 1 · Lean Right: 1 · Right: 3
 
 - President Donald Trump revealed Pope Leo XIV's brother is a friend and avid MAGA supporter with memorabilia "all over" his house while wishing the pontiff well.
 
@@ -31,33 +33,7 @@
 - A delicate understanding at the Temple Mount/Al-Aqsa Mosque compound has held for decades.
 - But now, that’s changing.
 
-## 4. Woman found floating in sea after going overboard from Royal Caribbean ship
-
-**Source:** [Fox News World](https://www.foxnews.com/world/woman-found-floating-sea-going-overboard-royal-caribbean-ship)
-
-**Bias breakdown:** Right: 1
-
-- A 44-year-old woman clung to a lifebuoy for 20 hours in the Ionian Sea after reportedly jumping from Royal Caribbean's Odyssey of the Seas near Zakynthos.
-
-## 5. Cartels use drones to scout border agents and map smuggling routes, expert warns
-
-**Source:** [Fox News World](https://www.foxnews.com/world/cartels-use-drones-scout-border-agents-map-smuggling-routes-expert-warns)
-
-**Bias breakdown:** Right: 1
-
-- The U.S.
-- military detected 378 cartel drone incursions along the Mexico border in 30 days, and experts warn cartels will continue to innovate.
-
-## 6. Aboard an icebreaker, a writer got a closer look at the Arctic's 'Sea Change'
-
-**Source:** [NPR World](https://www.npr.org/2026/10/14/nx-s1-6001592/arctic-sea-change-rana-foroohar)
-
-**Bias breakdown:** Lean Left: 1
-
-- As polar ice melts in the Arctic, shipping lanes are opening up, making the region a new zone of superpower competition.
-- Writer Rana Foroohar explains the stakes in  Sea Change.
-
-## 7. How does a country defend itself without a military?
+## 4. How does a country defend itself without a military?
 
 **Source:** [Christian Science Monitor World](https://www.csmonitor.com/World/Europe/2026/1014/iceland-military-us-arctic-trump-denmark-greenland?icid=rss)
 
@@ -67,15 +43,7 @@
 - But it relies wholly on allies like the U.S.
 - for its security.
 
-## 8. Pope Leo undergoes blood tests, X-ray following cancer surgery, Vatican says
-
-**Source:** [Fox News World](https://www.foxnews.com/world/pope-leo-undergoes-blood-tests-x-ray-following-cancer-surgery-vatican-says)
-
-**Bias breakdown:** Right: 1
-
-- Pope Leo XIV began walking and resumed eating after thoracic surgery at Rome's Gemelli Hospital, with blood tests and an X-ray being part of his recovery.
-
-## 9. Guinea-Bissau denies it has approved controversial vaccine trial in newborns
+## 5. Guinea-Bissau denies it has approved controversial vaccine trial in newborns
 
 **Source:** [The Guardian World](https://www.theguardian.com/world/2026/oct/14/guinea-bissau-vaccine-hepatitis-b-trial-denial)
 
@@ -85,17 +53,7 @@
 - The study, which would not investigate the safety or effectiveness of vaccines but would instead track “nonspecific” health outcomes like overall mortality or neurodevelopmental conditions, has been championed by Robert F Kennedy Jr, secretary of the US Department of Health and Human Services (HHS) and a longtime anti-vaccine activist.
 - Continue reading...
 
-## 10. Joni Mitchell becomes US citizen: ‘A journey that began 62 years ago’
-
-**Source:** [The Guardian World](https://www.theguardian.com/music/2026/oct/14/joni-mitchell-becomes-us-citizen-a-journey-that-began-62-years-ago)
-
-**Bias breakdown:** Lean Left: 1
-
-- Canada-born singer-songwriter, 82, posts footage of citizenship ceremony to Instagram  Joni Mitchell has become a US citizen, after first moving to the country in the mid-1960s.
-- The Canada-born singer-songwriter, 82, posted footage of her citizenship ceremony on her Instagram account, along with a photo of her next to an American flag, accompanied by the caption: “A journey that began 62 years ago.”  It means that Mitchell can now vote in US elections, something that she had complained she wasn’t able to do.
-- Continue reading...
-
-## 11. As Houthi attacks undermine Saudi security, a cautious kingdom recalibrates
+## 6. As Houthi attacks undermine Saudi security, a cautious kingdom recalibrates
 
 **Source:** [Christian Science Monitor World](https://www.csmonitor.com/World/Middle-East/2026/1013/saudi-security-houthi-airport-attacks-iran-yemen?icid=rss)
 
@@ -104,48 +62,7 @@
 - Weekend attacks by Yemen’s Houthi militia have largely cut Saudi Arabia off from the world.
 - The normally cautious kingdom is accepting defensive assistance from its allies as it intensifies strikes against the Houthis.
 
-## 12. In France, student protests bring echoes of the past
-
-**Source:** [Christian Science Monitor World](https://www.csmonitor.com/World/Europe/2026/1013/students-protest-france-politics-1968?icid=rss)
-
-**Bias breakdown:** Center: 1
-
-- Demonstrations about the country’s education system are drawing parallels with the country’s pivotal May 1968 student revolution.
-
-## 13. As Canada pivots from the US, a city reclaims its past
-
-**Source:** [Christian Science Monitor World](https://www.csmonitor.com/World/Americas/2026/1013/canada-u.s.-carney-trump-eu-diversify?icid=rss)
-
-**Bias breakdown:** Center: 1
-
-- Once an economic hinge connecting eastern and western Canada, Thunder Bay is again emerging as a symbol of the country’s drive to strengthen its economic independence.
-
-## 14. Out of Orbán’s shadow, Hungary tries to reset how the public gets its news
-
-**Source:** [Christian Science Monitor World](https://www.csmonitor.com/World/Europe/2026/1013/hungary-public-media-orban-criticism-journalism?icid=rss)
-
-**Bias breakdown:** Center: 1
-
-- Under Prime Minister Viktor Orbán, Hungary hollowed out many public media outlets.
-- Journalists are now rebuilding to restore scrutiny of government.
-
-## 15. Tip-off foiled US teen suspect's plot to attack Hindu temple, police say
-
-**Source:** [BBC World](https://www.bbc.co.uk/news/articles/cqgm0j4kjvevo?at_medium=RSS&at_campaign=rss)
-
-**Bias breakdown:** Center: 1
-
-- The alleged plot only failed because the 19-year-old suspect's gun jammed outside the place of worship, say police.
-
-## 16. Violent Protests in Albania
-
-**Source:** [NYT World](https://www.nytimes.com/2026/10/15/world/europe/albania-student-protests-violence.html)
-
-**Bias breakdown:** Lean Left: 1
-
-- Opposition to a luxury resort project linked to Jared Kushner has collided with rising discontent over corruption and the cost of living.
-
-## 17. Autistic teen lured to fake Snapchat meetup, brutally beaten by group of teens: report
+## 7. Autistic teen lured to fake Snapchat meetup, brutally beaten by group of teens: report
 
 **Source:** [Fox News World](https://www.foxnews.com/world/autistic-teen-lured-fake-snapchat-meetup-brutally-beaten-group-teens-report)
 
@@ -153,7 +70,7 @@
 
 - Video captured the violent beating of a 15-year-old boy with autism near a Stawell train station after he was lured through a Snapchat meetup.
 
-## 18. Houthis emerge as global threat beyond Iran control amid Saudi strikes, former envoy warns
+## 8. Houthis emerge as global threat beyond Iran control amid Saudi strikes, former envoy warns
 
 **Source:** [Fox News World](https://www.foxnews.com/world/houthis-emerge-global-threat-iran-control-saudi-attacks-says-former-envoy)
 
@@ -161,43 +78,15 @@
 
 - Tim Lenderking warns Houthi rebels are building homegrown weapons capabilities independent of Iran, turning Yemen's conflict into a global threat.
 
-## 19. Dublin Hotel Accused of Revoking Bookings for an Event to Combat Antisemitism
+## 9. Three years on, Israel still bars foreign journalists from entering Gaza
 
-**Source:** [NYT World](https://www.nytimes.com/2026/10/15/world/europe/ireland-dublin-hotel-antisemitism.html)
-
-**Also covered by:** Fox News World
-
-**Bias breakdown:** Lean Left: 1 · Right: 1
-
-- A leader of the Jewish community in Ireland said a hotel canceled a deal for 70 rooms when it learned they were reserved for guests attending the international forum.
-
-## 20. Trump calls off livestream of Fort Hood attacker's execution by firing squad
-
-**Source:** [BBC World](https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss)
-
-**Bias breakdown:** Center: 1
-
-- Trump said some would "rather not watch" the killing of Nidal Hasan, the first military execution in over 60 years.
-
-## 21. Second Ebola Infection Announced in Kenya
-
-**Source:** [NYT World](https://www.nytimes.com/2026/10/15/world/africa/kenya-ebola-infections.html)
+**Source:** [NPR World](https://www.npr.org/2026/10/15/nx-s1-6000378/three-years-on-israel-still-bars-foreign-journalists-from-entering-gaza)
 
 **Bias breakdown:** Lean Left: 1
 
-- The case is likely to raise alarms in the country and increase scrutiny of the government’s surveillance measures.
+- More than a year into a declared ceasefire in Gaza — and three years into the war — Israel still hasn't allowed foreign media independent access to Gaza.
 
-## 22. Ukraine’s Starshield access is being restored — but it wasn’t Trump who ordered it throttled
-
-**Source:** [New York Post World](https://nypost.com/2026/10/15/world-news/ukraines-starshield-access-is-being-restored-but-blame-game-rages-over-who-throttled-it/)
-
-**Also covered by:** NPR World
-
-**Bias breakdown:** Lean Left: 1 · Lean Right: 1
-
-- Ukraine's access to Starshield was restored by Thursday after the US military satellite network was suddenly throttled, with no answers yet as to why the system failed during a massive Russian drone barrage.
-
-## 23. US intel pause, Starlink outages leave Ukraine vulnerable to Russian attack
+## 10. US intel pause, Starlink outages leave Ukraine vulnerable to Russian attack
 
 **Source:** [Christian Science Monitor World](https://www.csmonitor.com/World/Europe/2026/1015/ukraine-starlink-russia-energy-truce-trump-drone-interceptors?icid=rss)
 
@@ -207,7 +96,7 @@
 - warnings and Starlink support shut off this week, Ukraine was left exposed to Russian drones.
 - Kyiv has few alternatives available.
 
-## 24. Nicolás Maduro tells New York court new torture allegations are ‘false’
+## 11. Nicolás Maduro tells New York court new torture allegations are ‘false’
 
 **Source:** [The Guardian World](https://www.theguardian.com/world/2026/oct/15/nicolas-maduro-torture-allegations-cilia-flores)
 
@@ -217,33 +106,7 @@
 - Maduro, shackled at the ankles, was brought to court to face the new charges accusing the couple of leading a state-sponsored campaign of repression that tortured scores of victims, including three Americans.
 - Continue reading...
 
-## 25. Milei adviser claims UK being ‘colonised by Islam’ as Falklands row grows
-
-**Source:** [The Guardian World](https://www.theguardian.com/uk-news/2026/oct/15/falklands-javier-milei-adviser-santiago-caputo-uk-islam-argentina)
-
-**Bias breakdown:** Lean Left: 1
-
-- Santiago Caputo cites election of Sagal Abdi-Wali as MP and calls UK a threat to the west in post shared by Argentina’s president  The chief adviser to Argentina’s president, Javier Milei, has cited the election of Sagal Abdi-Wali to the UK parliament as evidence of the Islamisation of Britain and further reason for Argentina to take sovereignty over the Falkland Islands.
-- In a post on social media, Santiago Caputo, who is reportedly taking a key role in Argentina’s strategy over the Falklands, suggested that the taking of the south Atlantic islands was necessary to prevent the “interference of an Islamic state” in the region.
-- Continue reading...
-
-## 26. Drunk ‘Architect of the Year’ attacks flight attendant who asked her be quiet for sleeping baby
-
-**Source:** [New York Post World](https://nypost.com/2026/10/15/world-news/drunk-architect-of-the-year-attacked-flight-attendant-who-asked-her-to-keep-quiet-for-sleeping-baby/)
-
-**Bias breakdown:** Lean Right: 1
-
-- “I’m an architect and you’re just a f—king air hostess,” Simone de Gale fumed, according to prosecutors in court who described her as “really aggressive.”
-
-## 27. Oil flow through Strait of Hormuz hits 12M barrels a day — defying increasing attacks from Iran
-
-**Source:** [New York Post World](https://nypost.com/2026/10/15/world-news/hormuz-oil-flow-hits-12-million-barrels-a-day-defying-increasing-attacks-from-iran/)
-
-**Bias breakdown:** Lean Right: 1
-
-- More than 12 million barrels of oil are crossing through the Strait of Hormuz every day in October, higher than last month's average — despite the surge in attacks coming from Iran, analysts said.
-
-## 28. Transactional politics once defined Mexican elections. It still creeps into governance.
+## 12. Transactional politics once defined Mexican elections. It still creeps into governance.
 
 **Source:** [Christian Science Monitor World](https://www.csmonitor.com/World/Americas/2026/1015/midterms-clientelism-transactions-mexico-us-politics?icid=rss)
 
@@ -253,33 +116,7 @@
 - leaders become increasingly open about patronage-style politics, Mexico is trying to shed its longtime system of clientelism.
 - It’s not easy.
 
-## 29. How the former child actor killed by tiger managed to get into enclosure where he was viciously mauled
-
-**Source:** [New York Post World](https://nypost.com/2026/10/15/world-news/how-william-chapman-got-into-tiger-enclosure-before-being-mauled/)
-
-**Bias breakdown:** Lean Right: 1
-
-- William Chapman, who reportedly suffered from schizophrenia, was savaged by a tiger in front of parkgoers at Yorkshire Wildlife Park on Saturday.
-
-## 30. Volodymyr Zelensky openly defies Trump’s ban on Russian oil refinery strikes, Ukraine will resume attacks: ‘We’re done’
-
-**Source:** [New York Post World](https://nypost.com/2026/10/15/world-news/volodymyr-zelensky-defies-trumps-ban-on-russian-oil-refinery-strikes-ukraine-will-resume-attacks-were-done/)
-
-**Bias breakdown:** Lean Right: 1
-
-- “The block is out.
-- We’re done,” Zelensky told the Financial Times during a London visit.
-
-## 31. Bodybuilding mom dead weeks after competing in Mr. Olympia
-
-**Source:** [New York Post World](https://nypost.com/2026/10/15/world-news/bodybuilding-mom-dead-weeks-after-competing-in-mr-olympia/)
-
-**Bias breakdown:** Lean Right: 1
-
-- A bodybuilder mom who competed in the female division of this year's Mr.
-- Olympia has died at the age of 40 -- just days after thanking her boyfriend for his support in a now-heartbreaking social media post as she celebrated the end of the season.
-
-## 32. Albania rioters clash with police for Socialist government as European unrest spreads
+## 13. Albania rioters clash with police for Socialist government as European unrest spreads
 
 **Source:** [Fox News World](https://www.foxnews.com/world/albania-rioters-clash-police-socialist-government-european-unrest-spreads)
 
@@ -287,7 +124,15 @@
 
 - Albanian Prime Minister Edi Rama vowed not to resign as protests in Tirana erupted for a third day, with police deploying tear gas and water cannons.
 
-## 33. UN inquiry member says some genocide claims against Israel unverified as Gaza reports population growth
+## 14. 'Not wanted': Irish hotel reportedly cancels 70 rooms reserved for antisemitism conference attendees
+
+**Source:** [Fox News World](https://www.foxnews.com/world/not-wanted-irish-hotel-reportedly-cancels-70-rooms-reserved-antisemitism-conference-attendees)
+
+**Bias breakdown:** Right: 1
+
+- Jewish Representative Council of Ireland chairman Maurice Cohen says a Dublin hotel rejected an antisemitism conference after its manager questioned IDF involvement.
+
+## 15. UN inquiry member says some genocide claims against Israel unverified as Gaza reports population growth
 
 **Source:** [Fox News World](https://www.foxnews.com/world/un-inquiry-member-says-some-genocide-claims-against-israel-unverified-gaza-reports-population-growth)
 
@@ -295,7 +140,7 @@
 
 - Experts say Palestinian Ministry of Health mortality figures contradict famine declarations and genocide allegations as Gaza's population grew in 2025.
 
-## 34. LGBTQ+ people go into hiding in Senegal as hundreds are arrested
+## 16. LGBTQ+ people go into hiding in Senegal as hundreds are arrested
 
 **Source:** [The Guardian World](https://www.theguardian.com/global-development/2026/oct/15/senegal-homosexuality-criminalised-anti-lgbtq-arrests-hiv-testing-human-rights-watch)
 
@@ -305,7 +150,7 @@
 - More than 320 individuals have been arrested and detained on allegations of “acts against nature” since February,  according to HIV Justice Network , an organisation quoted in the Human Rights Watch (HRW) report.
 - Among these, at least 84 were charged with “voluntary HIV transmission”, solely on the basis of their HIV status.
 
-## 35. Social Security benefits to get a boost. And, Hasan Piker defends his rhetoric
+## 17. Social Security benefits to get a boost. And, Hasan Piker defends his rhetoric
 
 **Source:** [NPR World](https://www.npr.org/2026/10/15/g-s1-148199/up-first-newsletter-inflation-social-security-ukraine-russia-yemen-saudi-arabia)
 
@@ -314,23 +159,7 @@
 - Social Security benefits are set to get a boost to offset rising consumer prices.
 - And, streamer Hasan Piker says the GOP's "guilt-by-association politics" won't drag Democrats down in the midterms.
 
-## 36. Harrowing new details emerge as cause of death given for former child actor mauled by tiger
-
-**Source:** [New York Post World](https://nypost.com/2026/10/15/world-news/harrowing-new-details-emerge-as-cause-of-death-given-for-former-child-actor-mauled-by-tiger/)
-
-**Bias breakdown:** Lean Right: 1
-
-- William Chapman, 24, had been diagnosed with "schizophrenia" and suffered "previous bouts of psychosis" before being mauled to death in front of fellow parkgoers.
-
-## 37. Two ships ablaze in Romanian Black Sea waters, 7 sailors missing
-
-**Source:** [New York Post World](https://nypost.com/2026/10/15/world-news/two-ships-ablaze-in-romanian-black-sea-waters-7-sailors-missing/)
-
-**Bias breakdown:** Lean Right: 1
-
-- Rescuers are searching for seven missing sailors after two chemical tankers caught fire in Romanian waters near the mouth of the Danube River.
-
-## 38. Ukraine resumes attacks on Russian oil refineries, officials say, after brief truce
+## 18. Ukraine resumes attacks on Russian oil refineries, officials say, after brief truce
 
 **Source:** [NPR World](https://www.npr.org/2026/10/15/g-s1-148194/russia-ukraine-war)
 
@@ -338,23 +167,7 @@
 
 - Ukrainian drones attacked a refinery in Russia's Ryazan region early Thursday, hours after Ukrainian President Volodymyr Zelenskyy said that a brief truce spurned by Moscow was over.
 
-## 39. Greetings from Mexico City, where a bullfighting ban doesn't stop this matador training
-
-**Source:** [NPR World](https://www.npr.org/2026/10/15/nx-s1-6001550/mexico-city-bullfighting-ban-matador-training)
-
-**Bias breakdown:** Lean Left: 1
-
-- One plays the bull, the other the bullfighter, as a pair practices a dance of death in a sport that's prohibited in the Mexican capital city.
-
-## 40. North Korea holds first underwater-launched missile tests in nearly 3 years
-
-**Source:** [New York Post World](https://nypost.com/2026/10/15/world-news/north-korea-holds-first-underwater-launched-missile-tests-in-nearly-3-years/)
-
-**Bias breakdown:** Lean Right: 1
-
-- North Korea tested two strategic cruise missiles from a submarine, likely mobilizing the Hero Kim Kun Ok vessel for its first public test.
-
-## 41. Adding fuel to the fire: Trump’s diesel deal stokes European concerns
+## 19. Adding fuel to the fire: Trump’s diesel deal stokes European concerns
 
 **Source:** [Christian Science Monitor World](https://www.csmonitor.com/Perspectives/Essays/2026/1015/russia-us-ukraine-diesel-deal-europe-peace?icid=rss)
 
@@ -362,26 +175,7 @@
 
 - The U.S.-Russia agreement is leading to deepening worries for Europe about the long-term future of its partnership with America.
 
-## 42. Rep. Mike Quigley, D-Ill., on reports Ukraine's Starshield access was restricted
-
-**Source:** [NPR World](https://www.npr.org/2026/10/15/nx-s1-6001653/rep-mike-quigley-d-ill-on-reports-ukraines-starshield-access-was-restricted)
-
-**Bias breakdown:** Lean Left: 1
-
-- NPR's Michel Martin speaks with Democratic Rep.
-- Mike Quigley of Illinois about reports that SpaceX temporarily restricted access to its Starshield in Ukraine, affecting the country's war efforts.
-
-## 43. School roof collapse kills at least 29, injures more than 3 dozen in Pakistan
-
-**Source:** [NPR World](https://www.npr.org/2026/10/15/nx-s1-6003437/school-roof-collapse-pakistan)
-
-**Also covered by:** BBC World
-
-**Bias breakdown:** Lean Left: 1 · Center: 1
-
-- The roof of a private school collapsed in northwestern Pakistan on Thursday, killing at least 28 children and a female teacher and injuring more than 50 other people.
-
-## 44. El Salvador's Bukele announces plan to free up to half of prisoners jailed in gang crackdown
+## 20. El Salvador's Bukele announces plan to free up to half of prisoners jailed in gang crackdown
 
 **Source:** [Fox News World](https://www.foxnews.com/world/el-salvador-bukele-announces-plan-free-half-prisoners-jailed-gang-crackdown)
 
@@ -389,17 +183,7 @@
 
 - Salvadoran President Nayib Bukele unveiled a plan to free up to half of 90,000 detainees arrested under the state of emergency targeting gangs.
 
-## 45. Brazil cuts work week to 40 hours in win for Lula ahead of runoff
-
-**Source:** [The Guardian World](https://www.theguardian.com/world/2026/oct/15/brazil-cuts-work-week-to-40-hours-lula-bolsonaro-election-runoff)
-
-**Bias breakdown:** Lean Left: 1
-
-- Congress approves constitutional amendment that bans six-day workweeks, which could affect up to 30 million  Brazil’s congress has approved a constitutional amendment to shorten the working week to a maximum of 40 hours, a move that could affect 30 million workers and that will hand a political victory to the leftist president Luiz Inácio Lula da Silva ahead of the  presidential runoff  in under two weeks.
-- In an attempt to overturn the  first-round lead  secured by his opponent, far-right senator Flávio Bolsonaro, Lula has strongly championed the amendment, which will give some workers an extra day off each week.
-- Continue reading...
-
-## 46. Trump Says Colombia Will Accept Deportees, Ending Tariff Standoff
+## 21. Trump Says Colombia Will Accept Deportees, Ending Tariff Standoff
 
 **Source:** [WSJ World News](https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497)
 
@@ -407,7 +191,235 @@
 
 - The president has made immigration an early priority to start second term, with ICE making more than 900 arrests Sunday.
 
-## 47. Palestinians Stream Back to Northern Gaza on Foot
+## 22. Trump waives several Russia sanctions as row with Zelensky intensifies
+
+**Source:** [BBC World](https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss)
+
+**Also covered by:** Deutsche Welle Top Stories
+
+**Bias breakdown:** Center: 2
+
+- The US president temporarily ends many restrictions on Moscow recently passed by Congress over "national security" concerns.
+
+## 23. Russian strikes kill civilians, injure dozens across Ukraine
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/10/17/russian-strikes-kill-civilians-injure-dozens-across-ukraine?traffic_source=rss)
+
+**Bias breakdown:** Lean Left: 1
+
+- At least eight people have been killed and nearly 60 injured in the latest wave of Russian strikes across Ukraine.
+
+## 24. Protests spread across France as ‘yellow vests’ set to join
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/17/france-braces-for-nationwide-protests-with-yellow-vest-members-set-to-join?traffic_source=rss)
+
+**Bias breakdown:** Lean Left: 1
+
+- Demonstrations began in mid-September at schools and have expanded, tapping into wider grievances.
+
+## 25. Trump eases Russia oil sanctions, but is Europe still buying Moscow’s gas?
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/17/trump-eases-russia-oil-sanctions-but-is-europe-still-buying-moscows-gas?traffic_source=rss)
+
+**Bias breakdown:** Lean Left: 1
+
+- Analysts say Russia will benefit most from US sanctions waiver.
+
+## 26. Sally Rooney’s books pulled from UK over Palestine Action support
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/10/17/sally-rooneys-books-pulled-from-uk-over-palestine-action-support-2?traffic_source=rss)
+
+**Bias breakdown:** Lean Left: 1
+
+- We asked students what they think.
+
+## 27. Rare pink diamond goes on display in France 100 years after amateur heist
+
+**Source:** [BBC World](https://www.bbc.co.uk/news/articles/c61m4zkx47vlo?at_medium=RSS&at_campaign=rss)
+
+**Bias breakdown:** Center: 1
+
+- The French royal jewel will be on public display for the first time since it was found hidden in an apple after a 1926 theft.
+
+## 28. Solar power booms in Philippines as war on Iran spikes energy costs
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/17/solar-power-booms-in-philippines-as-war-on-iran-spikes-energy-costs?traffic_source=rss)
+
+**Bias breakdown:** Lean Left: 1
+
+- With Southeast Asia's largest electricity bills rising even higher, Filipinos invest in rooftop panels.
+
+## 29. Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'
+
+**Source:** [BBC World](https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss)
+
+**Bias breakdown:** Center: 1
+
+- The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.
+
+## 30. LIVE: India vs West Indies – fifth T20 International
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/sports/liveblog/2026/10/17/live-india-vs-west-indies-fifth-t20-international?traffic_source=rss)
+
+**Bias breakdown:** Lean Left: 1
+
+- Follow updates, including toss and team news, from our live text commentary stream of the series decider.
+
+## 31. As Israel blocks PA funding, the West Bank’s healthcare system is failing
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/17/as-israel-blocks-pa-funding-the-west-banks-healthcare-system-is-failing?traffic_source=rss)
+
+**Bias breakdown:** Lean Left: 1
+
+- Hospitals across the occupied West Bank have been hit by a funding shortage.
+
+## 32. Sudan’s army claims dozens of RSF fighters killed in Nyala attack
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/17/2550?traffic_source=rss)
+
+**Bias breakdown:** Lean Left: 1
+
+- Rapid Support Forces accuse army of killing 30 civilians in attack on Nyala's busy livestock market.
+
+## 33. IMF urges support for poorer nations facing high inflation, war spillovers
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/economy/2026/10/17/war-spillovers-debt-threaten-low-income-nations-imf-chief-warns?traffic_source=rss)
+
+**Bias breakdown:** Lean Left: 1
+
+- Low-income countries spend up to 14 percent of their revenue on debt repayments, IMF chief says.
+
+## 34. Houthis strike Yemen’s Aden: What that means
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/17/iran-backed-houthis-strike-yemens-aden-what-that-means?traffic_source=rss)
+
+**Bias breakdown:** Lean Left: 1
+
+- What we know about the Houthi strikes on Aden’s presidential palace and airport, and why they matter.
+
+## 35. Katie Zacharia leaving White House role less than five days into job
+
+**Source:** [BBC World](https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss)
+
+**Bias breakdown:** Center: 1
+
+- Her public debut as press secretary ended with a flurry of media criticism about her credentials and preparedness.
+
+## 36. Uncertainty Over Pope’s Health Fuels Familiar Debate Over Vatican’s Candor
+
+**Source:** [NYT World](https://www.nytimes.com/2026/10/17/world/europe/pope-leo-vatican-transparency-cancer.html)
+
+**Bias breakdown:** Lean Left: 1
+
+- By announcing his lung condition himself, Leo has been more forthcoming than many popes.
+- But mysteries remain, prompting scrutiny of papal statements for hidden meaning.
+
+## 37. Why Are France’s Students Protesting?
+
+**Source:** [NYT World](https://www.nytimes.com/2026/10/17/world/europe/france-student-protests-why.html)
+
+**Also covered by:** Christian Science Monitor World
+
+**Bias breakdown:** Lean Left: 1 · Center: 1
+
+- Student demonstrations for a better-funded education system are converging with a broader protest movement against rising living costs.
+
+## 38. How Bally Bagayoko, a 53-Year-Old Mayor, Became the Face of France’s Youth Protests
+
+**Source:** [NYT World](https://www.nytimes.com/2026/10/17/france-protests-mayor-bally-bagayoko.html)
+
+**Bias breakdown:** Lean Left: 1
+
+- Bally Bagayoko, the mayor of a working-class suburb near Paris, has been a regular presence at student demonstrations, prompting both applause and condemnation.
+
+## 39. Decades after apartheid, South Africans seek justice for crimes of the past
+
+**Source:** [NPR World](https://www.npr.org/2026/10/17/nx-s1-5987671/south-africa-justice-sharpeville-apartheid)
+
+**Bias breakdown:** Lean Left: 1
+
+- More than three decades after the end of apartheid, families of victims of some of the worst crimes of South Africa's past are still fighting for justice.
+- As survivors and perpetrators grow older, a new wave of legal efforts is seeking truth, accountability and reparations before it's too late.
+
+## 40. ChinaAid raises alarm over imprisoned Chinese pastor's health as family seeks answers
+
+**Source:** [Fox News World](https://www.foxnews.com/world/chinaaid-raises-alarm-imprisoned-chinese-pastor-health-family-seeks-answers)
+
+**Bias breakdown:** Right: 1
+
+- ChinaAid founder Bob Fu says reports of Pastor Wang Yi's advanced liver cancer in a Chinese prison are credible but cannot be independently verified.
+
+## 41. Pope's health should not be taken 'for granted', says top Vatican diplomat
+
+**Source:** [BBC World](https://www.bbc.co.uk/news/articles/c6kg53zrexdeo?at_medium=RSS&at_campaign=rss)
+
+**Bias breakdown:** Center: 1
+
+- Archbishop Paul Gallagher tells the BBC there was no sign of the Pope's ill health prior to his operation this week.
+
+## 42. Sidewalk sleepers: They have nowhere else to stay while a loved one is in the hospital
+
+**Source:** [NPR World](https://www.npr.org/2026/10/17/g-s1-147874/hospital-diagnosis-patients-india-sidewalk)
+
+**Bias breakdown:** Lean Left: 1
+
+- Patients travel miles to be treated at public hospitals in Delhi.
+- Those in need get financial aid for their care.
+- But for overnight accommodations, families are often on their own — and on the street.
+
+## 43. Norwegian teen hitman sentenced to 20 years in prison for plotting murder in UK for Iran-linked gang
+
+**Source:** [New York Post World](https://nypost.com/2026/10/17/world-news/norwegian-teen-hitman-johannes-natland-sentenced-for-plotting-murder-in-uk-for-iran-linked-gang/)
+
+**Bias breakdown:** Lean Right: 1
+
+- Johannes Kongsnes Natland, 19, was found guilty in July of conspiracy to murder for agreeing to shoot an unknown target for 25,000 euros (21,500 pounds or $28,000) last year.
+
+## 44. Japan’s ‘Dancing Salaryman’ Can’t Stop Grooving
+
+**Source:** [NYT World](https://www.nytimes.com/2026/10/17/world/asia/japan-dancing-salaryman.html)
+
+**Bias breakdown:** Lean Left: 1
+
+- Toru Utsumi, 60, works as a management consultant, but on his days off, he has become a global internet star — despite some local disapproval.
+
+## 45. UK ambulance staff viewed medical records of ex-child actor fatally mauled by tiger without ‘legitimate reason’: report
+
+**Source:** [New York Post World](https://nypost.com/2026/10/17/world-news/william-chapmans-medical-records-viewed-by-uk-ambulance-staff-after-fatal-tiger-mauling-report/)
+
+**Bias breakdown:** Lean Right: 1
+
+- The Yorkshire Ambulance Trust confirmed the potential breach and notified the man's family about the investigation.
+
+## 46. Mexican judge sentences three men to 158 years in prison for murders of Australian and US surfers​
+
+**Source:** [The Guardian World](https://www.theguardian.com/australia-news/2026/oct/17/mexican-judge-sentences-three-men-to-158-years-in-prison-for-murders-of-australian-and-us-surfers-ntwnfb)
+
+**Also covered by:** BBC World, Deutsche Welle Top Stories, New York Post World
+
+**Bias breakdown:** Lean Left: 1 · Center: 2 · Lean Right: 1
+
+- Australian ​brothers Jake ​and Callum Robinson, and ​their ‌American friend Carter Rhoad, were killed while on a surf trip in Baja California in 2024    Get our  breaking news email ,  free app  or  daily news podcast     A Mexican ⁠judge ⁠has sentenced ​three men to 158 years ⁠and nine months in prison each for ⁠the murder of ​two Australian ‌brothers ‌and their American friend during ‌a 2024 surf trip to the state of Baja California.
+- The ‌defendants  were declared guilty a week ​ago  of homicide, aggravated robbery, robbery with violence and vehicle theft ⁠with violence, crimes committed against ​Australian ​brothers Jake ​and Callum Robinson, and ​their ‌American friend ​Carter Rhoad.
+- Continue reading...
+
+## 47. A Wayward Shark Becomes a Celebrity in South Korea
+
+**Source:** [NYT World](https://www.nytimes.com/2026/10/16/world/asia/south-korea-busan-shark.html)
+
+**Bias breakdown:** Lean Left: 1
+
+- Stranded in a port waterway for weeks, the 10-foot fish has attracted more than a million spectators, while officials try to guide her back to open sea.
+
+## 48. Actress Selma Blair says she 'did not intend to harm anyone' in plane altercation
+
+**Source:** [BBC World](https://www.bbc.co.uk/news/articles/cwly3zd1r45ro?at_medium=RSS&at_campaign=rss)
+
+**Bias breakdown:** Center: 1
+
+- A publicist for the actress said the incident stemmed from a "medical emergency" and said she has a neurological disorder that can cause out-of-control responses.
+
+## 49. Palestinians Stream Back to Northern Gaza on Foot
 
 **Source:** [WSJ World News](https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db)
 
@@ -415,27 +427,11 @@
 
 - Israel allowed displaced Gazans to begin crossing a military zone that bisects the enclave after a deadlock over hostage releases was broken.
 
-## 48. Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes
+## 50. Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes
 
 **Source:** [WSJ World News](https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863)
 
 **Bias breakdown:** Center: 1
 
 - Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.
-
-## 49. Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack
-
-**Source:** [WSJ World News](https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e)
-
-**Bias breakdown:** Center: 1
-
-- Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.
-
-## 50. Suspected Sabotage of Deep-Sea Cable Triggers First NATO-Led Response
-
-**Source:** [WSJ World News](https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba)
-
-**Bias breakdown:** Center: 1
-
-- The alliance mounted its first coordinated response to a suspected sabotage campaign against critical infrastructure after another cable was severed in the Baltic Sea.
 
