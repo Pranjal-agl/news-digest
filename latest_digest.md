@@ -1,43 +1,410 @@
-# News Digest - 2026-10-20
+# News Digest - 2026-10-21
 
-**50 stories** · 3 with multi-source coverage · 0 blindspots
+**50 stories** · 5 with multi-source coverage · 3 blindspots
 
 ---
 
-## 1. Yemeni City of Taiz Running Out of Essentials as Houthis Close in
+## 1. 🔍 Nigeria confirms Ebola case as outbreak spreads into western Africa
 
-**Source:** [NYT World](https://www.nytimes.com/2026/10/20/world/middleeast/yemen-taiz-houthi-siege.html)
+**Source:** [The Guardian World](https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest)
+
+**Also covered by:** NYT World
+
+**Bias breakdown:** Lean Left: 2
+
+**Blindspot:** all covering sources lean the same direction
+
+- Case in Africa’s most populous country was detected in a woman who had travelled from Uganda  Nigeria has confirmed an Ebola case in its capital, Abuja, after a woman who arrived from Uganda tested positive for the virus, the health ministry said.
+- The woman began showing symptoms on 7 October and was admitted to a hospital in Abuja four days later, where she was later diagnosed with Ebola.
+- It is unclear when she arrived in Nigeria, Africa’s most populous country.
+
+## 2. 🔍 Student Protesters in France Have a Strange New Slogan. What Does It Mean?
+
+**Source:** [NYT World](https://www.nytimes.com/2026/10/20/world/europe/france-student-protests-slogan.html)
+
+**Also covered by:** Al Jazeera
+
+**Bias breakdown:** Lean Left: 2
+
+**Blindspot:** all covering sources lean the same direction
+
+- “Bismillah, c’est les ténèbres” has appeared on signs at recent demonstrations.
+- It doesn’t make much sense (it means, “In the name of God, it’s the darkness”) but is seen as shorthand for a generational divide.
+
+## 3. 🔍 Alberta voters overwhelmingly reject plan to leave Canada in referendum
+
+**Source:** [The Guardian World](https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum)
+
+**Also covered by:** NYT World
+
+**Bias breakdown:** Lean Left: 2
+
+**Blindspot:** all covering sources lean the same direction
+
+- Result is a victory for prime minister Mark Carney and supporters of Canadian unity  Voters in Canada’s Alberta have overwhelmingly rejected a proposal to begin the process of independence, delivering a decisive victory for supporters of Canadian unity and deepening divisions within the separatist movement.
+- With nearly 1.9m votes counted, roughly 76% people supported remaining in Canada, while 24% backed beginning a process toward separation, according to unofficial results from Elections Alberta.
+- Continue reading...
+
+## 4. A.I. Election Videos Are Flooding Brazil. Could They Sway the Vote?
+
+**Source:** [NYT World](https://www.nytimes.com/2026/10/21/world/americas/ai-election-videos-brazil.html)
 
 **Bias breakdown:** Lean Left: 1
 
-- The Iranian-backed Houthi militia has cut road access to Taiz, one of Yemen’s largest cities, besieging it.
-- Officials there warn of an impending humanitarian disaster.
+- Brazil spent years targeting electoral lies on the internet.
+- Now, artificial intelligence is stumping the election authorities and reshaping a high-stakes race.
 
-## 2. Rubio Travels to India for Trade Talks Amid Strained U.S. Relations
+## 5. Palestinians Hope Israeli Election Will Oust Netanyahu
 
-**Source:** [NYT World](https://www.nytimes.com/2026/10/20/world/asia/marco-rubio-india-us-trade-deal.html)
-
-**Bias breakdown:** Lean Left: 1
-
-- The secretary of state will meet with Asia’s richest men as Washington continues negotiations over a trade deal with India.
-
-## 3. More than 250,000 displaced in Yemen since fighting escalated: UNHCR
-
-**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/20/more-than-250000-displaced-in-yemen-since-fighting-escalated-unhcr?traffic_source=rss)
+**Source:** [NYT World](https://www.nytimes.com/2026/10/21/world/middleeast/stakes-for-palestinians-of-israel-election.html)
 
 **Bias breakdown:** Lean Left: 1
 
-- UNICEF says escalating fighting in Taiz is threatening its water systems, serving an estimated three million people.
+- Many in Gaza and the West Bank are desperate to avoid more years of Prime Minister Benjamin Netanyahu’s right-wing government, which has made life close to unbearable.
 
-## 4. Israeli attacks kill at least four Palestinians in Gaza
+## 6. Pakistani authorities arrest man accused in $126m US postage fraud
 
-**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/20/israeli-forces-kill-at-least-four-palestinians-in-gaza-strikes?traffic_source=rss)
+**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/21/pakistani-authorities-arrest-man-accused-in-126m-us-postage-fraud?traffic_source=rss)
+
+**Also covered by:** BBC World
+
+**Bias breakdown:** Lean Left: 1 · Center: 1
+
+- Faheem Akram has been charged with several offences including conspiracy to defraud the United States.
+
+## 7. France’s Macron says protesters won’t be allowed to ‘cause chaos’
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/21/frances-macron-says-protesters-wont-be-allowed-to-cause-chaos?traffic_source=rss)
 
 **Bias breakdown:** Lean Left: 1
 
-- A couple and a 17-year-old are among those killed by Israeli air attacks and gunfire in the Gaza Strip.
+- French president criticises comments by 'foreign leaders' trying to exploit disorder for their own political agenda.
 
-## 5. France Protests Show Europe’s Shift Away From Centrist Politics
+## 8. ‘They try to break us’: Pro-Palestine activists in Czech custody
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/21/they-try-to-break-us-pro-palestine-activists-in-czech-custody?traffic_source=rss)
+
+**Bias breakdown:** Lean Left: 1
+
+- As a group is accused of an attack on a weapons factory, activists allege growing crackdown on the solidarity movement.
+
+## 9. Iran’s enriched uranium re-emerges as point of contention in US talks
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/21/irans-enriched-uranium-re-emerges-as-point-of-contention-in-us-talks?traffic_source=rss)
+
+**Bias breakdown:** Lean Left: 1
+
+- Iran's nuclear enrichment has emerged as a major point of contention amid diplomatic push to end the war.
+
+## 10. UK to Headphone Dodgers on Trains: Shush
+
+**Source:** [NYT World](https://www.nytimes.com/2026/10/21/world/europe/uk-underground-headphones-commuters.html)
+
+**Bias breakdown:** Lean Left: 1
+
+- Prime Minister Andy Burnham announced a campaign against listening to music or videos without headphones on public transportation.
+- We asked London commuters to weigh in.
+
+## 11. Australian Politicians Were Already on Edge Before One of Their Own Was Attacked
+
+**Source:** [NYT World](https://www.nytimes.com/2026/10/21/world/asia/helen-haines-attack-australian-politicians.html)
+
+**Bias breakdown:** Lean Left: 1
+
+- Much remains unclear about why a driver ran a car into Helen Haines, a lawmaker.
+- Even so, fellow representatives, especially women, spoke of feeling threatened in a polarized atmosphere.
+
+## 12. Cost of living protests aren’t just happening in Europe
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/10/21/cost-of-living-protests-arent-just-happening-in-europe?traffic_source=rss)
+
+**Bias breakdown:** Lean Left: 1
+
+- Cost of living protests aren’t just happening in Europe
+
+## 13. Kvaratskhelia, Dembele and Marquinhos out injured after PSG’s win
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/sports/2026/10/21/kvaratskhelia-dembele-and-marquinhos-out-injured-after-psgs-win?traffic_source=rss)
+
+**Bias breakdown:** Lean Left: 1
+
+- Kvaratskhelia out for months with a torn ACL in his right knee, while Dembele and Marquinhos suffer thigh muscle tears.
+
+## 14. China Moves to Tighten Its Grip Over Exports of Top A.I. Models
+
+**Source:** [NYT World](https://www.nytimes.com/2026/10/21/world/asia/china-exports-ai-controls.html)
+
+**Bias breakdown:** Lean Left: 1
+
+- Draft rules on the export of artificial intelligence technology show how China is trying to balance national security risks with its desire to outpace the United States.
+
+## 15. Ukraine’s Zelensky says he’d accept peace deal with Russia that ‘freezes’ front lines: ‘Real way to end war’
+
+**Source:** [New York Post World](https://nypost.com/2026/10/21/world-news/ukraines-volodymyr-zelensky-would-accept-russian-peace-deal-that-freezes-front-lines/)
+
+**Bias breakdown:** Lean Right: 1
+
+- Zelensky said he would be willing to stop the fighting immediately — even as Russian troops have been struggling mightily on the battlefield.
+
+## 16. Gambia to pay victims of Yahya Jammeh's rule from proceeds of his seized US mansion
+
+**Source:** [BBC World](https://www.bbc.co.uk/news/articles/cmn8wx75l2n8o?at_medium=RSS&at_campaign=rss)
+
+**Bias breakdown:** Center: 1
+
+- The Gambia has confirmed receiving $2.5m from the sale of the house in Maryland.
+
+## 17. Newlywed bodybuilder dies after collapsing on stage at competition final day before 34th birthday
+
+**Source:** [New York Post World](https://nypost.com/2026/10/21/world-news/newlywed-bodybuilder-dies-after-collapsing-on-stage-at-competition-final-day-before-34th-birthday/)
+
+**Bias breakdown:** Lean Right: 1
+
+- Mateusz Chmura, 33, was competing in just his second event when he collapsed during his routine at Sunday's PCA British Finals in Telford, England.
+
+## 18. DOJ's noncitizen voter list is unreliable, officials say. And, U.S. pollution rises
+
+**Source:** [NPR World](https://www.npr.org/2026/10/21/g-s1-149068/up-first-newsletter-california-voter-roll-united-nations-emissions-us-crimes-ukraine-russia)
+
+**Bias breakdown:** Lean Left: 1
+
+- The Justice Department's "likely" noncitizen voter list in California is "unreliable," according to officials.
+- And, the United Nations reports a major increase in U.S.
+- climate pollution.
+
+## 19. Former U.S. Ambassador to Ukraine on Trump's turn toward Russia
+
+**Source:** [NPR World](https://www.npr.org/2026/10/21/nx-s1-6009376/former-u-s-ambassador-to-ukraine-on-trumps-turn-toward-russia)
+
+**Bias breakdown:** Lean Left: 1
+
+- NPR's Steve Inskeep asks former U.S.
+- Ambassador to Ukraine John Herbst about President Trump's embrace of Russia as envoy Steve Witkoff heads to Moscow after meeting Ukraine's Volodymyr Zelenskyy.
+
+## 20. Katya Adler: France divided over who to blame for riots and what to learn from them
+
+**Source:** [BBC World](https://www.bbc.co.uk/news/articles/cq0me4g9p970o?at_medium=RSS&at_campaign=rss)
+
+**Bias breakdown:** Center: 1
+
+- In France and beyond there is widespread disagreement over what led to some of the worst unrest seen in French cities in modern history.
+
+## 21. Russia frees imprisoned US citizen Stephen Hubbard after plea from Trump
+
+**Source:** [New York Post World](https://nypost.com/2026/10/21/world-news/russia-frees-imprisoned-us-citizen-stephen-hubbard-after-plea-from-trump/)
+
+**Bias breakdown:** Lean Right: 1
+
+- Stephen Hubbard, of Michigan, was sentenced after a closed trial in 2024 to nearly seven years in prison.
+
+## 22. Millions are struck off India's voter rolls in largest disenfranchisement in history
+
+**Source:** [NPR World](https://www.npr.org/2026/10/21/nx-s1-5997960/india-voter-rolls)
+
+**Bias breakdown:** Lean Left: 1
+
+- India is plunged into political crisis after 130 million names were struck off voter rolls during a massive revision.
+
+## 23. Saudi Arabia cancels 'Davos in the Desert' due to Yemen's Houthi strikes
+
+**Source:** [NPR World](https://www.npr.org/2026/10/21/nx-s1-6009545/saudi-arabia-cancels-davos-in-the-desert-due-to-air-strikes)
+
+**Bias breakdown:** Lean Left: 1
+
+- Britain offers military support as Saudi cancels renowned 'Davos in desert" investor meeting due to strikes from Houthi forces in Yemen.
+
+## 24. Modi Seeks to Calm Allies by Shackling Gen Z Protests
+
+**Source:** [NYT World](https://www.nytimes.com/2026/10/21/world/asia/modi-india-protests-cockroach-party.html)
+
+**Bias breakdown:** Lean Left: 1
+
+- Leaders of India’s governing coalition are trying to frame the demonstrations as a power grab by traditional political parties rather than a grass-roots youth movement.
+
+## 25. Zelenskyy says early warning system for Russian missile attacks resumes
+
+**Source:** [NPR World](https://www.npr.org/2026/10/21/g-s1-149026/zelenskyy-russian-missiles-warning)
+
+**Bias breakdown:** Lean Left: 1
+
+- Ukrainian President Volodymyr Zelenskyy said the change happened after talks with his American counterparts, including a phone call with U.S.
+- Secretary of State Marco Rubio.
+
+## 26. France announces nightly curfews 'for as long as necessary' in Paris and other cities
+
+**Source:** [NPR World](https://www.npr.org/2026/10/21/nx-s1-6010344/france-nightly-curfews)
+
+**Bias breakdown:** Lean Left: 1
+
+- Fresh curfews were being imposed across the city centers of Paris and Lyon on Tuesday after the first quiet night since France's most destructive rioting in years.
+
+## 27. Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump
+
+**Source:** [BBC World](https://www.bbc.co.uk/news/articles/cr62ylj832vxo?at_medium=RSS&at_campaign=rss)
+
+**Bias breakdown:** Center: 1
+
+- The overwhelming vote by Alberta to stay in Canada gives Mark Carney political capital to focus on remaking the country's economy, writes the BBC's Lyse Doucet.
+
+## 28. Trump and Zelensky at loggerheads despite new optimism
+
+**Source:** [BBC World](https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss)
+
+**Also covered by:** Al Jazeera
+
+**Bias breakdown:** Lean Left: 1 · Center: 1
+
+- The Ukrainian leader's hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country, writes Paul Adams.
+
+## 29. RFK Jr’s ‘deities of vaccine research’ raided by police in Guinea-Bissau
+
+**Source:** [The Guardian World](https://www.theguardian.com/world/2026/oct/20/rfk-jr-vaccine-researchers-offices-raided-guinea-bissau)
+
+**Bias breakdown:** Lean Left: 1
+
+- Police seize doses of hepatitis B vaccine from people at center of dispute over research on African newborns  Controversial vaccine researchers who have been praised by Robert F Kennedy Jr, the US Department of Health and Human Services (HHS) secretary, had their offices in Guinea-Bissau raided by judicial police, who seized doses of hepatitis B vaccines, officials  said  on Facebook.
+- The researchers have been at the heart of an ongoing dispute over research on African newborns, supported by $1.6m from the US Centers for Disease Control and Prevention (CDC) and matched by the Pershing Square Foundation and the Bluebell Foundation for a total of $3.2m.
+- Continue reading...
+
+## 30. Elon Musk chose to throttle Ukraine’s access to Starlink without consulting White House: report
+
+**Source:** [New York Post World](https://nypost.com/2026/10/20/world-news/elon-musk-chose-to-throttle-ukraines-access-to-starlink-report/)
+
+**Bias breakdown:** Lean Right: 1
+
+- Musk denied having limited access to a military-grade version of Starlink in an Oct.
+- 14 post on X.
+
+## 31. Ukraine’s $500 drones slaughtered America’s $25M tanks in recent war game
+
+**Source:** [New York Post World](https://nypost.com/2026/10/20/world-news/ukrainian-drones-inflicted-70-of-american-tank-brigades-casualities-in-recent-war-game/)
+
+**Bias breakdown:** Lean Right: 1
+
+- Ukrainian drone operators acting as enemy forces caused roughly 70% of an American tank brigades' casualties during the first three days of a major military exercise, the US commander and his staff revealed.
+
+## 32. US radicals who traveled to France to join cop-bashing protests reveal plans to ‘raise hell’ on our shores
+
+**Source:** [New York Post World](https://nypost.com/2026/10/20/us-news/young-us-radicals-headed-to-france-to-join-cop-bashing-protests-are-planning-to-bring-riots-to-our-shores/)
+
+**Bias breakdown:** Lean Right: 1
+
+- "Go f--k s--t up white people.
+- It’s your time," declared one rioter.
+
+## 33. Sudan army drones hit mourners and fuel market killing more than 300 people, sources say
+
+**Source:** [BBC World](https://www.bbc.co.uk/news/articles/cr3el70jz1nqo?at_medium=RSS&at_campaign=rss)
+
+**Bias breakdown:** Center: 1
+
+- A truck carrying people to a funeral and a market alleged to be supplying fuel to the RSF were targeted.
+
+## 34. Americans encouraged to avoid cities across France as violent riots ravage nation: US Embassy
+
+**Source:** [New York Post World](https://nypost.com/2026/10/20/world-news/americans-encouraged-to-avoid-cities-across-france-as-violent-riots-ravage-nation-us-embassy/)
+
+**Bias breakdown:** Lean Right: 1
+
+- Travelers visiting city advised to steer clear of popular protest gathering spots.
+
+## 35. Ukrainian mom, baby killed in drone strike at park revealed in heartbreaking photo: ‘Unspeakable grief’
+
+**Source:** [New York Post World](https://nypost.com/2026/10/20/world-news/photo-reveals-ukrainian-mom-baby-killed-in-drone-strike-at-park/)
+
+**Bias breakdown:** Lean Right: 1
+
+- Inna Mariukhna and baby Angelina were two of six people who died in the Russian attack on Nova Vodolaha in Kharkiv in eastern Ukraine, with a graphic other picture previously capturing the child lying dead in her stroller.
+
+## 36. Current U.S. support for Ukraine looks very different than it did
+
+**Source:** [NPR World](https://www.npr.org/2026/10/20/nx-s1-6009227/current-u-s-support-for-ukraine-looks-very-different-than-it-did)
+
+**Bias breakdown:** Lean Left: 1
+
+- NPR's Scott Detrow talks with William Taylor, former U.S.
+- Ambassador to Ukraine, about President Trump's recent moves to support Russia and how that compares to past administrations.
+
+## 37. Nigeria confirms an Ebola case in Abuja as a woman arriving from Uganda tests positive
+
+**Source:** [NPR World](https://www.npr.org/2026/10/20/g-s1-148975/nigeria-confirms-ebola-case)
+
+**Bias breakdown:** Lean Left: 1
+
+- Nigeria is the latest country to report an Ebola case as the outbreak spreads across the region.
+- Kenya confirmed its first case earlier this month and has since recorded nine infections.
+
+## 38. ‘Bad decisions’: Man convicted for taking Peachy the flamingo from Las Vegas hotel
+
+**Source:** [The Guardian World](https://www.theguardian.com/us-news/2026/oct/20/man-convicted-peachy-the-flamingo-las-vegas-hotel)
+
+**Bias breakdown:** Lean Left: 1
+
+- Mitchell Fairbarn found guilty of animal cruelty after prosecutors say he hurt and frightened the 27-year-old bird  A Canadian man was convicted of animal cruelty charges on Monday for snatching a flamingo named Peachy from its enclosure at an iconic  Las Vegas  hotel.
+- Prosecutors said it was a malicious prank while a lawyer for the tourist insisted it was drunken foolishness not meant to harm the bird.
+- Continue reading...
+
+## 39. Swimmer, 65, killed in shark attack off South Africa's east coast
+
+**Source:** [BBC World](https://www.bbc.co.uk/news/articles/cqx297pxg1djo?at_medium=RSS&at_campaign=rss)
+
+**Bias breakdown:** Center: 1
+
+- Janine Lochrenberg, 65, was out on her daily morning swim with her club when she was attacked, her family tell the BBC.
+
+## 40. Reporter's Notebook: France braces for more unrest after parts of Paris spun out of control
+
+**Source:** [Fox News World](https://www.foxnews.com/world/reporters-notebook-france-braces-more-unrest-after-parts-paris-spun-out-control)
+
+**Bias breakdown:** Right: 1
+
+- French Prime Minister Lecornu says a massive police operation backed by the military will counter the next protest set for this weekend in France.
+
+## 41. Flavio Bolsonaro’s ‘corrupto’ stunt sparks viral meme before Brazil election runoff
+
+**Source:** [The Guardian World](https://www.theguardian.com/world/2026/oct/20/flavio-bolsonaro-corrupto-viral-meme-brazil-election-runoff)
+
+**Bias breakdown:** Lean Left: 1
+
+- Far-right presidential candidate’s TV debate swipe at rival backfires as people take to social media to parody it  To Flávio Bolsonaro and his publicists, it must have seemed an ingenious idea that would expose his rival’s supposed crookedness on the eve of Brazil’s presidential election.
+- But the far-right politician’s decision to attend a primetime television debate against his leftwing opponent, Luiz Inácio Lula da Silva, with the word “corrupto” (corrupt) written on the palm of his hand has backfired.
+- Continue reading...
+
+## 42. To light Damascus’ future, an artisan draws on its stained-glass past
+
+**Source:** [Christian Science Monitor World](https://www.csmonitor.com/World/Middle-East/2026/1020/syria-rebuilding-damascus-stained-glass-artisan?icid=rss)
+
+**Bias breakdown:** Center: 1
+
+- Having just shared knowledge accrued over 50 years, Fayez Talmasani is no longer the last person in Syria skilled in producing Damascus’ traditional stained glass.
+
+## 43. Across Europe, voters are calling out failing government. But they play a role, too.
+
+**Source:** [Christian Science Monitor World](https://www.csmonitor.com/World/Europe/2026/1020/france-protests-democracy-debt-crisis-europe-spain-germany?icid=rss)
+
+**Bias breakdown:** Center: 1
+
+- Protests like those in France show the distrust between voters and governments.
+- Experts say without trust, hard decisions are tough to make.
+
+## 44. Sea mine crisis re-emerges in Strait of Hormuz as Tehran urges Washington to accept deal
+
+**Source:** [Fox News World](https://www.foxnews.com/world/sea-mine-crisis-re-emerges-strait-hormuz-tehran-urges-washington-accept-deal)
+
+**Bias breakdown:** Right: 1
+
+- Iran claims two oil tankers struck sea mines in the Strait of Hormuz as the IMO warns the critical shipping lane remains too unsafe to transit.
+
+## 45. Tariffs, terrorist designations, and chatbots: Is the US meddling in Brazil’s election?
+
+**Source:** [Christian Science Monitor World](https://www.csmonitor.com/World/Americas/2026/1020/Brazil-US-election-meddling?icid=rss)
+
+**Bias breakdown:** Center: 1
+
+- If Brazil elects right-wing presidential candidate Flávio Bolsonaro, it could become the crown jewel in Mr.
+- Trump’s push for more conservative leaders in Latin America.
+
+## 46. France Protests Show Europe’s Shift Away From Centrist Politics
 
 **Source:** [NYT World](https://www.nytimes.com/2026/10/20/world/europe/france-protests-europe-centrist-far-right.html)
 
@@ -45,116 +412,7 @@
 
 - Europe’s centrist parties are losing ground among young people and workers, who are increasingly tempted by populist promises of radical change.
 
-## 6. ‘Every day could cost lives’: UK government blocks Gaza families’ reunion
-
-**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/20/every-day-could-cost-lives-uk-government-blocks-gaza-families-reunion?traffic_source=rss)
-
-**Bias breakdown:** Lean Left: 1
-
-- Britain’s reopened refugee resettlement scheme offers no escape for Palestinians in Gaza.
-
-## 7. ‘Horizontal revolt’: Why Albania’s young protesters want PM Rama to go
-
-**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/20/horizontal-revolt-why-albanias-young-protesters-want-pm-rama-to-go?traffic_source=rss)
-
-**Bias breakdown:** Lean Left: 1
-
-- From the ‘Flamingo Revolution’ to current protests, an inside look at a leaderless youth uprising challenging Edi Rama.
-
-## 8. France to Extend Curfews After Calm Night Follows Days of Riots
-
-**Source:** [NYT World](https://www.nytimes.com/2026/10/20/world/europe/france-curfews-riots-protests-extended.html)
-
-**Bias breakdown:** Lean Left: 1
-
-- The restrictions are part of a state effort to reassert control after the country’s largest riots in years, as those arrested in the chaos face expedited trials.
-
-## 9. Why Rubio is visiting Reliance’s oil refinery in India, the world’s largest
-
-**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/20/why-rubio-is-visiting-reliances-oil-refinery-in-india-the-worlds-largest?traffic_source=rss)
-
-**Bias breakdown:** Lean Left: 1
-
-- Reliance is central to Washington’s efforts to punish Russian energy buyers and contain oil prices amid the war on Iran.
-
-## 10. UK to Send Fighter Jets to Help Defend Saudi Arabia From Houthi Attacks
-
-**Source:** [NYT World](https://www.nytimes.com/2026/10/20/world/europe/uk-saudi-arabia-houthis-raf-typhoon-fighter-jets.html)
-
-**Also covered by:** Fox News World
-
-**Bias breakdown:** Lean Left: 1 · Right: 1
-
-- R.A.F.
-- Typhoon fighter jets will be deployed to protect infrastructure in Saudi Arabia, Britain said, after a spike in attacks by the Iran-backed Houthi militia.
-
-## 11. The Mayor of a City in Haiti Warned of a Massacre. No One Listened.
-
-**Source:** [NYT World](https://www.nytimes.com/2026/10/20/world/americas/mayor-kenscoff-haiti-gangs-massacre.html)
-
-**Bias breakdown:** Lean Left: 1
-
-- The mayor of Kenscoff, a town near Haiti’s capital, wrote government officials hundreds of letters to warn of gang threats.
-- Then dozens of people died, and he did, too.
-
-## 12. Iran denies collapse is close as US claims IRGC running out of money
-
-**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/20/iran-denies-collapse-is-close-as-us-claims-irgc-running-out-of-money?traffic_source=rss)
-
-**Bias breakdown:** Lean Left: 1
-
-- Iranian authorities defiant despite financial strain, saying they want to lift US blockade and pressure on their terms.
-
-## 13. Zelensky prepares for Oslo talks with US envoys as Rubio denies withholding intelligence
-
-**Source:** [BBC World](https://www.bbc.co.uk/news/articles/ck9qzn193lrlo?at_medium=RSS&at_campaign=rss)
-
-**Bias breakdown:** Center: 1
-
-- The US secretary of state rejects accusations Ukrainians were dying because the US was withholding intelligence.
-
-## 14. Marseille braces for more unrest after protests give way to 'apocalyptic' disorder
-
-**Source:** [BBC World](https://www.bbc.co.uk/news/articles/cm5ynkk570pno?at_medium=RSS&at_campaign=rss)
-
-**Bias breakdown:** Center: 1
-
-- France's second city saw some of the worst violence as chaos gripped the country on Saturday.
-
-## 15. France PM promises more curfews as authorities seek to regain control
-
-**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/20/france-to-impose-new-curfews-where-required-after-calm-night?traffic_source=rss)
-
-**Bias breakdown:** Lean Left: 1
-
-- Prime Minister Sebastien Lecornu says local authorities will coordinate with mayors to decide whether to impose curfews.
-
-## 16. Is Russia stalking satellites which help Ukraine from space?
-
-**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/20/is-russia-stalking-satellites-which-help-ukraine-from-space?traffic_source=rss)
-
-**Bias breakdown:** Lean Left: 1
-
-- Analysts say a Russian craft’s close pass by a commercial radar satellite is a first and a warning to Kyiv’s backers.
-
-## 17. Yemen: Maps show 10 years of changing control
-
-**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/20/yemen-maps-show-10-years-of-changing-control?traffic_source=rss)
-
-**Bias breakdown:** Lean Left: 1
-
-- A decade of war has shifted Yemen’s front lines, but the Houthis still hold Sanaa, and no side controls the country.
-
-## 18. Hegseth Said to Make Unannounced Visit to Israel for Talks With Netanyahu
-
-**Source:** [NYT World](https://www.nytimes.com/2026/10/20/world/middleeast/hegseth-netanyahu-trump-israel-election.html)
-
-**Bias breakdown:** Lean Left: 1
-
-- Defense Secretary Pete Hegseth met with Prime Minister Benjamin Netanyahu, two people with knowledge of the trip said.
-- Israel holds elections in a week.
-
-## 19. Giving £2 a day to people in the Amazon helps protect rainforest, pilot project finds
+## 47. Giving £2 a day to people in the Amazon helps protect rainforest, pilot project finds
 
 **Source:** [The Guardian World](https://www.theguardian.com/environment/2026/oct/20/unconditional-basic-income-amazon-rainforest-peru-study)
 
@@ -164,77 +422,7 @@
 - The analysis  from the University of Bath is expected to contribute to a growing debate about the role of direct payments to communities that maintain globally important ecosystems.
 - Continue reading...
 
-## 20. Yemen’s critically ill are trapped as war closes the country’s airports
-
-**Source:** [Al Jazeera](https://www.aljazeera.com/features/2026/10/20/yemens-critically-ill-are-trapped-as-war-closes-the-countrys-airports?traffic_source=rss)
-
-**Bias breakdown:** Lean Left: 1
-
-- A re-ignition of Yemen's war has left the chronically sick who need treatment trapped in the country.
-
-## 21. Man charged with attack on Australian MP as suspect's father says she is family friend
-
-**Source:** [BBC World](https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss)
-
-**Bias breakdown:** Center: 1
-
-- Brendan Nugent's family say they have known Helen Haines, who remains in a critical condition, for more than 20 years.
-
-## 22. Residents warned not to drink tap water after hundreds fall sick near South Africa capital
-
-**Source:** [BBC World](https://www.bbc.co.uk/news/articles/cvrly550780po?at_medium=RSS&at_campaign=rss)
-
-**Bias breakdown:** Center: 1
-
-- More than 400 people, mostly children, become ill after drinking contaminated water, east of Pretoria.
-
-## 23. The A.I. Data Center Backlash Has Reached a Quiet Corner of Rural England
-
-**Source:** [NYT World](https://www.nytimes.com/2026/10/20/world/europe/ai-datacenter-devon-uk-backlash.html)
-
-**Bias breakdown:** Lean Left: 1
-
-- Plans to build one of Europe’s largest data centers in Devon have been met by strong opposition from residents, as environmental concerns grow.
-
-## 24. Alberta voters reject plan for referendum to leave Canada
-
-**Source:** [The Guardian World](https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum)
-
-**Also covered by:** Deutsche Welle Top Stories
-
-**Bias breakdown:** Lean Left: 1 · Center: 1
-
-- Result is a victory for prime minister Mark Carney and supporters of Canadian unity  Voters in Canada’s Alberta have overwhelmingly rejected a proposal to begin a process towards independence, delivering a victory for the prime minister, Mark Carney, and supporters of Canadian unity.
-- With more than 1.5m votes counted, 76% supported remaining in Canada, while close to 24% backed beginning a process toward separation, according to unofficial results from Elections Alberta.
-- Continue reading...
-
-## 25. A Chef Celebrates Immigrant Flavors in Anti-Migrant South Africa
-
-**Source:** [NYT World](https://www.nytimes.com/2026/10/20/world/africa/johannesburg-migrant-cuisine-chef.html)
-
-**Bias breakdown:** Lean Left: 1
-
-- A self-taught chef borrows ingredients and ideas from restaurants run by immigrants in South Africa, hoping to help counter rising xenophobia.
-
-## 26. Why Israeli Gen Z voters are drawn to the far right
-
-**Source:** [BBC World](https://www.bbc.co.uk/news/articles/cmvg632xgndeo?at_medium=RSS&at_campaign=rss)
-
-**Bias breakdown:** Center: 1
-
-- More than half a million young people will cast their ballots in Israel next week - and they could make all the difference.
-
-## 27. Far-left French rioter on national securty watchlist busted over fire that gutted historic town hall
-
-**Source:** [New York Post World](https://nypost.com/2026/10/20/world-news/far-left-french-rioter-on-national-securty-watchlist-busted-over-fire-that-gutted-historic-town-hall/)
-
-**Also covered by:** BBC World
-
-**Bias breakdown:** Center: 1 · Lean Right: 1
-
-- An "ultra-left" militant who was already on a security watchlist has been arrested for the devastating fire that gutted a 140-year-old city hall during ongoing riots across France, according to officials.
-
-## 28. Iran regime under pressure as rebel groups escalate attacks in volatile southeast
+## 48. Iran regime under pressure as rebel groups escalate attacks in volatile southeast
 
 **Source:** [Fox News World](https://www.foxnews.com/world/iran-regime-under-pressure-rebel-groups-escalate-attacks-volatile-southeast)
 
@@ -242,7 +430,7 @@
 
 - A coalition of armed rebel groups is stepping up attacks against Iranian regime forces in the country's volatile southeast, raising questions about Tehran's grip on the region.
 
-## 29. Global 'Chaos Inc' grows to 101 groups with plans for new rounds of demonstrations
+## 49. Global 'Chaos Inc' grows to 101 groups with plans for new rounds of demonstrations
 
 **Source:** [Fox News World](https://www.foxnews.com/world/global-chaos-inc-grows-101-groups-plans-new-rounds-demonstrations)
 
@@ -251,7 +439,7 @@
 - French leftist groups are planning a new round of mobilizations on Oct.
 - 24 as the "Chaos Inc." red-green alliance of far-left and Islamist groups sweeps across Europe.
 
-## 30. DOJ charges 28 with voting crimes. And, TikTok ignored staff's child safety concerns
+## 50. DOJ charges 28 with voting crimes. And, TikTok ignored staff's child safety concerns
 
 **Source:** [NPR World](https://www.npr.org/2026/10/20/g-s1-148877/up-first-newsletter-california-elections-doj-midterms-trump-tiktok)
 
@@ -259,177 +447,4 @@
 
 - The Justice Department has charged 28 people in California with voting crimes as Election Day nears.
 - And, TikTok staff raised child safety concerns with executives, who failed to act, court records show.
-
-## 31. Trump makes Russia-friendly moves as he looks for a way to end the war with Ukraine
-
-**Source:** [NPR World](https://www.npr.org/2026/10/20/nx-s1-6007897/trump-makes-russia-friendly-moves-as-he-looks-for-a-way-to-end-the-war-with-ukraine)
-
-**Bias breakdown:** Lean Left: 1
-
-- President Trump's up and down relationship with Russia is back on as he presses to find an end to the war in Ukraine amid high energy costs ahead of the U.S.
-- midterms.
-
-## 32. Former U.S. ambassador on Trump's recent moves to embrace Russia
-
-**Source:** [NPR World](https://www.npr.org/2026/10/20/nx-s1-6007865/former-u-s-ambassador-on-trumps-recent-moves-to-embrace-russia)
-
-**Bias breakdown:** Lean Left: 1
-
-- NPR's Steve Inskeep speaks with former U.S.
-- Ambassador to Russia Michael McFaul about President Trump's latest embrace of Russia and what it means for Ukraine and any hopes of peace.
-
-## 33. China dispatches navy to watch US warship that ‘illegally’ entered waters near disputed shoal
-
-**Source:** [New York Post World](https://nypost.com/2026/10/20/world-news/china-dispatches-navy-to-watch-us-warship-that-illegally-entered-waters-near-disputed-shoal-in-south-china-sea/)
-
-**Bias breakdown:** Lean Right: 1
-
-- China's military said on Tuesday it had sent forces to watch a US warship that "illegally" entered waters around a disputed shoal in the South China Sea, while further north in the waterway, Taiwan reported a standoff with a Chinese vessel.
-
-## 34. Some synagogues canceled prayers as French Jews faced warnings amid violent protests
-
-**Source:** [Fox News World](https://www.foxnews.com/world/some-synagogues-canceled-prayers-french-jews-faced-warnings-amid-violent-protests)
-
-**Bias breakdown:** Right: 1
-
-- Some French Jews reportedly faced unprecedented warnings to hide their identity as anti-government protests turned violent across the nation.
-
-## 35. Alberta votes to remain part of Canada, rejects independence
-
-**Source:** [New York Post World](https://nypost.com/2026/10/20/world-news/alberta-votes-to-remain-part-of-canada-rejects-independence/)
-
-**Bias breakdown:** Lean Right: 1
-
-- Alberta residents voted to remain part of Canada in the province's first-ever referendum on separation, in a much-needed win for Prime Minister Mark Carney as he attempts to unify the country amid a trade war with the US.
-
-## 36. Tourist found guilty after stealing Las Vegas flamingo from enclosure
-
-**Source:** [BBC World](https://www.bbc.co.uk/news/articles/cq398rjewd1jo?at_medium=RSS&at_campaign=rss)
-
-**Bias breakdown:** Center: 1
-
-- The man testified that he snatched Peachy from its enclosure at the Flamingo hotel and casino after drinking 30 to 40 beers, but did not mean any harm.
-
-## 37. Seventh day of violent clashes between Albanian protesters and police
-
-**Source:** [BBC World](https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&at_campaign=rss)
-
-**Bias breakdown:** Center: 1
-
-- Almost 300 people have been injured, more than half of them police, as violent anti-government demonstrations show no sign of easing.
-
-## 38. Paris police issue overnight curfew in 2 areas of French capital to try to prevent further disorder
-
-**Source:** [New York Post World](https://nypost.com/2026/10/20/world-news/paris-police-issue-overnight-curfew-in-2-areas-of-capital-to-prevent-further-disorder/)
-
-**Bias breakdown:** Lean Right: 1
-
-- Paris police imposed overnight curfews in two districts after severe rioting damaged 3,000 businesses and led to 2,400 arrests across France.
-
-## 39. US intel pause, Starlink outages leave Ukraine vulnerable to Russian attack
-
-**Source:** [Christian Science Monitor World](https://www.csmonitor.com/World/Europe/2026/1015/ukraine-starlink-russia-energy-truce-trump-drone-interceptors?icid=rss)
-
-**Bias breakdown:** Center: 1
-
-- When U.S.
-- warnings and Starlink support shut off this week, Ukraine was left exposed to Russian drones.
-- Kyiv has few alternatives available.
-
-## 40. Trump Says Colombia Will Accept Deportees, Ending Tariff Standoff
-
-**Source:** [WSJ World News](https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497)
-
-**Bias breakdown:** Center: 1
-
-- The president has made immigration an early priority to start second term, with ICE making more than 900 arrests Sunday.
-
-## 41. Four people killed in ‘violent, fast-moving’ fire at Canadian military base
-
-**Source:** [The Guardian World](https://www.theguardian.com/world/2026/oct/18/serious-incident-alberta-military-base-deaths-injuries-canada-carney-cfb-wainwright)
-
-**Bias breakdown:** Lean Left: 1
-
-- Prime minister Mark Carney describes blaze as ‘one of the worst tragedies for the forces on Canadian soil in peacetime’  Four people have been killed and dozens more seriously injured after a “violent, fast-moving” fire tore through one of Canada’s busiest military training bases in Alberta, the country’s prime minister said on Sunday.
-- Mark Carney called the incident “one of the worst tragedies for the forces on Canadian soil in peacetime”.
-- Continue reading...
-
-## 42. Strait of Hormuz crisis traps 6,000 sailors as attacks on ships mount, UN maritime chief says
-
-**Source:** [Fox News World](https://www.foxnews.com/world/strait-hormuz-crisis-traps-6000-sailors-attacks-ships-mount-un-maritime-chief-says)
-
-**Bias breakdown:** Right: 1
-
-- Around 6,000 seafarers remain trapped near the Strait of Hormuz as 24 ships face attacks, while Iran accuses the U.S.
-- military of using VHF Channel 16.
-
-## 43. Hilarious quips and ‘100,000-volt’ energy: the hypemen (and women) redefining Afrobeats music
-
-**Source:** [The Guardian World](https://www.theguardian.com/world/2026/oct/18/lagos-hypemen-redefining-afrobeats-music-afrohype)
-
-**Bias breakdown:** Lean Left: 1
-
-- Style of emceeing based on high-octane, ad-libbed vocals has flourished thanks to its unique way of captivating crowds  For the 2015 freshmen cohort of the history degree programme at the University of Lagos, their classmate’s first-semester presentation was so captivating that they began calling him Toby Shang, after the 16th-century Chinese dynasty he had focused on.
-- His crowd engagement that day had been harnessed from his high school days as a ginger-man (energiser) in a three-man band and as a private tutor.
-- By his final year at university, his viral catchphrases and infectious energy had resulted in a hit song, Shedibalabala.
-
-## 44. French police arrest 1,800 after violent clashes and looting mar protests
-
-**Source:** [Christian Science Monitor World](https://www.csmonitor.com/World/2026/1018/france-protests-arrests?icid=rss)
-
-**Bias breakdown:** Center: 1
-
-- Demonstrators denounced rising living costs and poor school conditions.
-- Authorities said masked groups set fires and attacked public buildings in several cities.
-
-## 45. Ahead of Brazil's presidential runoff, meet Bolsonaro 2.0
-
-**Source:** [Christian Science Monitor World](https://www.csmonitor.com/World/Americas/2026/1017/flavio-bolsonaro-brazil-lula-runoff?icid=rss)
-
-**Bias breakdown:** Center: 1
-
-- Former President Jair Bolsonaro is under house arrest, but his political movement lives on in his son Flávio.
-- Who is he?
-
-## 46. Palestinians Stream Back to Northern Gaza on Foot
-
-**Source:** [WSJ World News](https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db)
-
-**Bias breakdown:** Center: 1
-
-- Israel allowed displaced Gazans to begin crossing a military zone that bisects the enclave after a deadlock over hostage releases was broken.
-
-## 47. Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes
-
-**Source:** [WSJ World News](https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863)
-
-**Bias breakdown:** Center: 1
-
-- Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.
-
-## 48. Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack
-
-**Source:** [WSJ World News](https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e)
-
-**Bias breakdown:** Center: 1
-
-- Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.
-
-## 49. Suspected Sabotage of Deep-Sea Cable Triggers First NATO-Led Response
-
-**Source:** [WSJ World News](https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba)
-
-**Bias breakdown:** Center: 1
-
-- The alliance mounted its first coordinated response to a suspected sabotage campaign against critical infrastructure after another cable was severed in the Baltic Sea.
-
-## 50. Rwanda-Backed Rebels Enter Congo's Safe-Haven City
-
-**Source:** [WSJ World News](https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8)
-
-**Bias breakdown:** Center: 1
-
-- Residents of Goma reported gunfire and shelling after rebels overran Congolese troops.
-- U.N.
-- officials estimated that more than one million displaced people were now inside the city.
 
