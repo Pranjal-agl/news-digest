@@ -1,72 +1,37 @@
 {
-  "date": "2026-10-23",
-  "generated_at": "2026-10-23T13:05:08.372703",
+  "date": "2026-10-24",
+  "generated_at": "2026-10-24T12:27:37.474391",
   "stats": {
     "total": 50,
-    "multi_source": 3,
-    "trending": 2,
+    "multi_source": 4,
+    "trending": 0,
     "blindspots": 0
   },
   "stories": [
     {
-      "title": "Lewis Hamilton aims to extend career till early 2030s so he can race in African Grand Prix",
-      "link": "https://www.theguardian.com/sport/2026/oct/22/lewis-hamilton-aims-to-extend-career-till-early-2030s-so-he-can-race-in-african-grand-prix",
+      "title": "Controversial US-backed vaccine trial in African newborns halted",
+      "link": "https://www.theguardian.com/world/2026/oct/21/us-vaccine-trial-african-newborns-hepatitis-b",
       "source": "The Guardian World",
       "all_sources": [
-        "Christian Science Monitor World",
-        "The Guardian World",
-        "The Guardian World",
         "The Guardian World"
       ],
       "bias_breakdown": {
-        "Lean Left": 3,
-        "Center": 1
+        "Lean Left": 1
       },
       "bias_bar": {
-        "left_pct": 75,
-        "center_pct": 25,
+        "left_pct": 100,
+        "center_pct": 0,
         "right_pct": 0,
-        "total": 4
+        "total": 1
       },
       "is_blindspot": false,
-      "is_trending": true,
+      "is_trending": false,
       "bullet_points": [
-        "41-year-old set on ‘dream to be able to race in Africa’    Rwanda to host despite criticism of human rights record    Lewis Hamilton has said he hopes to remain racing in Formula One until he can take part in the African Grand Prix which is  set to take place in Rwanda in the 2030s .",
-        "Last week F1 confirmed Rwanda was to host the African Grand Prix having concluded a 10-year agreement for the meeting on a purpose-built circuit, with the first race set for the early 2030s.",
-        "It is lined up to be held on a circuit in Bugesera, 25 miles south of the capital, Kigali, which has yet to be constructed and marks a return to the African continent for the first time since it last held a race at Kyalami, South Africa in 1993."
+        "Hepatitis B study in Guinea-Bissau that was to be funded by CDC and that drew global backlash ‘will not move forward’  The US-backed hepatitis B vaccine trial in African newborns that drew global backlash was halted, the lead researcher said on Wednesday.",
+        "It was “now clear” that the study “will not move forward in Guinea-Bissau”, Frederik Schaltz-Buchholzer, a Danish researcher,  wrote  on LinkedIn, adding, “we were not given the necessary governmental approval.”   Continue reading..."
       ],
       "image_url": null,
-      "published": "Thu, 22 Oct 2026 21:53:28 GMT"
-    },
-    {
-      "title": "What we know about war plans that Trump and Netanyahu are drawing up",
-      "link": "https://www.npr.org/2026/10/22/nx-s1-6012306/what-we-know-about-war-plans-that-trump-and-netanyahu-are-drawing-up",
-      "source": "NPR World",
-      "all_sources": [
-        "Deutsche Welle Top Stories",
-        "NPR World",
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1,
-        "Center": 1,
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 33,
-        "center_pct": 33,
-        "right_pct": 33,
-        "total": 3
-      },
-      "is_blindspot": false,
-      "is_trending": true,
-      "bullet_points": [
-        "Could the U.S.",
-        "and Israel be on the verge of launching a new attack on Iran?",
-        "President Trump and Prime Minister Benjamin Netanyahu have been suggesting that's on the table."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fisraeli-prime-minister-likud-party-146131081.jpg?w%3D1024",
-      "published": "Thu, 22 Oct 2026 18:17:04 -0400"
+      "published": "Wed, 21 Oct 2026 17:18:56 GMT"
     },
     {
       "title": "India’s democracy has been backsliding for years. Its youth are drawing a line.",
@@ -92,56 +57,6 @@
       ],
       "image_url": null,
       "published": "Wed, 21 Oct 2026 16:08:58 EDT"
-    },
-    {
-      "title": "Pope Leo XIV needs no further cancer treatment after lung tumor removed, doctors say",
-      "link": "https://www.foxnews.com/world/pope-leo-xiv-needs-no-further-cancer-treatment-after-lung-tumor-removed-doctors-say",
-      "source": "Fox News World",
-      "all_sources": [
-        "Fox News World"
-      ],
-      "bias_breakdown": {
-        "Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Pope Leo XIV&apos;s doctors say the lung adenocarcinoma tumor removed Oct.",
-        "13 was localized, and a cancer assessment found no further treatment needed."
-      ],
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/pope-.png?ve=1&tl=1",
-      "published": "Wed, 21 Oct 2026 15:39:56 -0400"
-    },
-    {
-      "title": "Bibas family relative takes fight to ICC after mother, two young boys murdered by Hamas",
-      "link": "https://www.foxnews.com/world/bibas-family-relative-takes-fight-icc-after-mother-two-young-boys-murdered-hamas",
-      "source": "Fox News World",
-      "all_sources": [
-        "Fox News World"
-      ],
-      "bias_breakdown": {
-        "Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "A relative of murdered mother Shiri Bibas and her sons Kfir and Ariel is pressing the ICC to act against Iranian leaders after the family’s devastating losses in the Oct.",
-        "7 attacks."
-      ],
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/bibas-family-hostage-square.jpg?ve=1&tl=1",
-      "published": "Wed, 21 Oct 2026 14:39:17 -0400"
     },
     {
       "title": "Severely ill ICE detainees face imminent deportation to unknown African states, advocates say",
@@ -195,84 +110,8 @@
       "published": "Wed, 21 Oct 2026 13:13:19 EDT"
     },
     {
-      "title": "Ukraine's Zelenskyy open to freezing front lines in ceasefire with Russia",
-      "link": "https://www.foxnews.com/world/ukraines-zelenskyy-open-freezing-front-lines-ceasefire-russia",
-      "source": "Fox News World",
-      "all_sources": [
-        "Fox News World"
-      ],
-      "bias_breakdown": {
-        "Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Ukrainian President Volodymyr Zelenskyy says he&apos;s open to freezing the front lines of the Ukraine-Russia war as a real path to end the conflict."
-      ],
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/volodymyr-zelensky-press-conference-oslo.jpg?ve=1&tl=1",
-      "published": "Wed, 21 Oct 2026 10:11:52 -0400"
-    },
-    {
-      "title": "Russia releases American teacher imprisoned on Ukraine mercenary charges after Trump pressed Putin",
-      "link": "https://www.foxnews.com/world/stephen-hubbard-russia-american-prisoner-release",
-      "source": "Fox News World",
-      "all_sources": [
-        "Fox News World"
-      ],
-      "bias_breakdown": {
-        "Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "American Stephen Hubbard has been released from Russian custody after Trump urged Putin to free the retired teacher imprisoned on Ukraine mercenary charges."
-      ],
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/stephen-hubbard-plane-copy.jpg?ve=1&tl=1",
-      "published": "Wed, 21 Oct 2026 05:43:13 -0400"
-    },
-    {
       "title": "Nigeria confirms Ebola case as outbreak spreads into western Africa",
       "link": "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest",
-      "source": "The Guardian World",
-      "all_sources": [
-        "BBC World",
-        "The Guardian World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1,
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 50,
-        "center_pct": 50,
-        "right_pct": 0,
-        "total": 2
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Case in Africa’s most populous country was detected in a woman who had travelled from Uganda  Nigeria has confirmed an Ebola case in its capital, Abuja, after a woman who arrived from Uganda tested positive for the virus, the health ministry said.",
-        "The woman began showing symptoms on 7 October and was admitted to a hospital in Abuja four days later, where she was later diagnosed with Ebola.",
-        "It is unclear when she arrived in Nigeria, Africa’s most populous country."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc0c/live/cdfdf700-ce98-11f1-a6ca-3fa3d92134e2.jpg",
-      "published": "Wed, 21 Oct 2026 00:14:55 GMT"
-    },
-    {
-      "title": "RFK Jr’s ‘deities of vaccine research’ raided by police in Guinea-Bissau",
-      "link": "https://www.theguardian.com/world/2026/oct/20/rfk-jr-vaccine-researchers-offices-raided-guinea-bissau",
       "source": "The Guardian World",
       "all_sources": [
         "The Guardian World"
@@ -289,12 +128,12 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Police seize doses of hepatitis B vaccine from people at center of dispute over research on African newborns  Controversial vaccine researchers who have been praised by Robert F Kennedy Jr, the US Department of Health and Human Services (HHS) secretary, had their offices in Guinea-Bissau raided by judicial police, who seized doses of hepatitis B vaccines, officials  said  on Facebook.",
-        "The researchers have been at the heart of an ongoing dispute over research on African newborns, supported by $1.6m from the US Centers for Disease Control and Prevention (CDC) and matched by the Pershing Square Foundation and the Bluebell Foundation for a total of $3.2m.",
-        "Continue reading..."
+        "Case in Africa’s most populous country was detected in a woman who had travelled from Uganda  Nigeria has confirmed an Ebola case in its capital, Abuja, after a woman who arrived from Uganda tested positive for the virus, the health ministry said.",
+        "The woman began showing symptoms on 7 October and was admitted to a hospital in Abuja four days later, where she was later diagnosed with Ebola.",
+        "It is unclear when she arrived in Nigeria, Africa’s most populous country."
       ],
       "image_url": null,
-      "published": "Tue, 20 Oct 2026 19:18:03 GMT"
+      "published": "Wed, 21 Oct 2026 00:14:55 GMT"
     },
     {
       "title": "Alberta voters overwhelmingly reject plan to leave Canada in referendum",
@@ -323,8 +162,8 @@
       "published": "Tue, 20 Oct 2026 16:24:05 GMT"
     },
     {
-      "title": "‘Bad decisions’: Man convicted for taking Peachy the flamingo from Las Vegas hotel",
-      "link": "https://www.theguardian.com/us-news/2026/oct/20/man-convicted-peachy-the-flamingo-las-vegas-hotel",
+      "title": "Lewis Hamilton aims to extend career till early 2030s so he can race in African Grand Prix",
+      "link": "https://www.theguardian.com/sport/2026/oct/22/lewis-hamilton-aims-to-extend-career-till-early-2030s-so-he-can-race-in-african-grand-prix",
       "source": "The Guardian World",
       "all_sources": [
         "The Guardian World"
@@ -341,161 +180,12 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Mitchell Fairbarn found guilty of animal cruelty after prosecutors say he hurt and frightened the 27-year-old bird  A Canadian man was convicted of animal cruelty charges on Monday for snatching a flamingo named Peachy from its enclosure at an iconic  Las Vegas  hotel.",
-        "Prosecutors said it was a malicious prank while a lawyer for the tourist insisted it was drunken foolishness not meant to harm the bird.",
-        "Continue reading..."
+        "41-year-old set on ‘dream to be able to race in Africa’    Rwanda to host despite criticism of human rights record    Lewis Hamilton has said he hopes to remain racing in Formula One until he can take part in the African Grand Prix which is  set to take place in Rwanda in the 2030s .",
+        "Last week F1 confirmed Rwanda was to host the African Grand Prix having concluded a 10-year agreement for the meeting on a purpose-built circuit, with the first race set for the early 2030s.",
+        "It is lined up to be held on a circuit in Bugesera, 25 miles south of the capital, Kigali, which has yet to be constructed and marks a return to the African continent for the first time since it last held a race at Kyalami, South Africa in 1993."
       ],
       "image_url": null,
-      "published": "Tue, 20 Oct 2026 16:11:21 GMT"
-    },
-    {
-      "title": "Reporter's Notebook: France braces for more unrest after parts of Paris spun out of control",
-      "link": "https://www.foxnews.com/world/reporters-notebook-france-braces-more-unrest-after-parts-paris-spun-out-control",
-      "source": "Fox News World",
-      "all_sources": [
-        "Fox News World"
-      ],
-      "bias_breakdown": {
-        "Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "French Prime Minister Lecornu says a massive police operation backed by the military will counter the next protest set for this weekend in France."
-      ],
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/france-protests-fire-1.jpg?ve=1&tl=1",
-      "published": "Tue, 20 Oct 2026 15:57:06 -0400"
-    },
-    {
-      "title": "Flavio Bolsonaro’s ‘corrupto’ stunt sparks viral meme before Brazil election runoff",
-      "link": "https://www.theguardian.com/world/2026/oct/20/flavio-bolsonaro-corrupto-viral-meme-brazil-election-runoff",
-      "source": "The Guardian World",
-      "all_sources": [
-        "The Guardian World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Far-right presidential candidate’s TV debate swipe at rival backfires as people take to social media to parody it  To Flávio Bolsonaro and his publicists, it must have seemed an ingenious idea that would expose his rival’s supposed crookedness on the eve of Brazil’s presidential election.",
-        "But the far-right politician’s decision to attend a primetime television debate against his leftwing opponent, Luiz Inácio Lula da Silva, with the word “corrupto” (corrupt) written on the palm of his hand has backfired.",
-        "Continue reading..."
-      ],
-      "image_url": null,
-      "published": "Tue, 20 Oct 2026 15:41:44 GMT"
-    },
-    {
-      "title": "To light Damascus’ future, an artisan draws on its stained-glass past",
-      "link": "https://www.csmonitor.com/World/Middle-East/2026/1020/syria-rebuilding-damascus-stained-glass-artisan?icid=rss",
-      "source": "Christian Science Monitor World",
-      "all_sources": [
-        "Christian Science Monitor World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Having just shared knowledge accrued over 50 years, Fayez Talmasani is no longer the last person in Syria skilled in producing Damascus’ traditional stained glass."
-      ],
-      "image_url": null,
-      "published": "Tue, 20 Oct 2026 15:38:15 EDT"
-    },
-    {
-      "title": "Across Europe, voters are calling out failing government. But they play a role, too.",
-      "link": "https://www.csmonitor.com/World/Europe/2026/1020/france-protests-democracy-debt-crisis-europe-spain-germany?icid=rss",
-      "source": "Christian Science Monitor World",
-      "all_sources": [
-        "Christian Science Monitor World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Protests like those in France show the distrust between voters and governments.",
-        "Experts say without trust, hard decisions are tough to make."
-      ],
-      "image_url": null,
-      "published": "Tue, 20 Oct 2026 15:29:06 EDT"
-    },
-    {
-      "title": "Tariffs, terrorist designations, and chatbots: Is the US meddling in Brazil’s election?",
-      "link": "https://www.csmonitor.com/World/Americas/2026/1020/Brazil-US-election-meddling?icid=rss",
-      "source": "Christian Science Monitor World",
-      "all_sources": [
-        "Christian Science Monitor World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "If Brazil elects right-wing presidential candidate Flávio Bolsonaro, it could become the crown jewel in Mr.",
-        "Trump’s push for more conservative leaders in Latin America."
-      ],
-      "image_url": null,
-      "published": "Tue, 20 Oct 2026 13:20:24 EDT"
-    },
-    {
-      "title": "Houthi Strike on Saudi Airport Kills 2 as U.S. Tells Some Diplomats to Leave",
-      "link": "https://www.nytimes.com/2026/10/22/world/middleeast/saudi-houthis-yemen-dammam-airport.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The airport is in Dammam, which is near the headquarters of oil giant Saudi Aramco.",
-        "For weeks, Yemen’s Iran-backed Houthi militia has been attacking the kingdom’s aviation and energy sectors."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/10/22/world/22int-Saudi-Diplos-aifb/22int-Saudi-Diplos-aifb-mediumSquareAt3X.jpg",
-      "published": "Thu, 22 Oct 2026 18:07:36 +0000"
+      "published": "Thu, 22 Oct 2026 21:53:28 GMT"
     },
     {
       "title": "Alberta welcomed migrant workers. Now, it wants to restrict their rights",
@@ -522,79 +212,6 @@
       ],
       "image_url": null,
       "published": "Thu, 22 Oct 2026 15:00:29 GMT"
-    },
-    {
-      "title": "France's Macron blames protests on 'ultra-left groups whose aim is to bring down the Republic'",
-      "link": "https://www.foxnews.com/world/frances-macron-blames-protests-ultra-left-groups-aim-bring-down-republic",
-      "source": "Fox News World",
-      "all_sources": [
-        "Fox News World"
-      ],
-      "bias_breakdown": {
-        "Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "French President Emmanuel Macron blamed &quot;ultra-left groups&quot; for riots and looting as Paris businesses board up windows ahead of Saturday protests."
-      ],
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/paris-france-protests-fire-riot-gear.jpg?ve=1&tl=1",
-      "published": "Thu, 22 Oct 2026 12:38:45 -0400"
-    },
-    {
-      "title": "Greetings from the Brazil-Argentina border, where waterfalls are flowing at near-record rates",
-      "link": "https://www.npr.org/2026/10/22/g-s1-148553/argentina-brazil-iguazu-falls-waterfalls-super-el-nino",
-      "source": "NPR World",
-      "all_sources": [
-        "NPR World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The Iguazú Falls span more than a mile across both countries.",
-        "A rain-soaked October, which scientists link to the Super El Niño, has sent near-record volumes of water surging over the towering cliffs."
-      ],
-      "image_url": null,
-      "published": "Thu, 22 Oct 2026 09:50:55 -0400"
-    },
-    {
-      "title": "Macron has one more chance to save the country or ‘it’s lost for France,’ business owner warns",
-      "link": "https://www.foxnews.com/world/macron-has-one-more-chance-save-country-its-lost-france-business-owner-warns",
-      "source": "Fox News World",
-      "all_sources": [
-        "Fox News World"
-      ],
-      "bias_breakdown": {
-        "Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "A French business owner who had five family stores destroyed by looters warns of growing insecurity and urges authorities to protect businesses ahead of another weekend of protests."
-      ],
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/burned-cars-paris.png?ve=1&tl=1",
-      "published": "Thu, 22 Oct 2026 06:19:17 -0400"
     },
     {
       "title": "Why Israeli recognition has been a double-edged sword for Somaliland",
@@ -644,6 +261,747 @@
       ],
       "image_url": null,
       "published": "Sun, 26 Jan 2025 22:59:00 -0500"
+    },
+    {
+      "title": "Live Updates: France Deploys Vast Security Force in Effort to Prevent More Riots",
+      "link": "https://www.nytimes.com/live/2026/10/24/world/france-protests-riots",
+      "source": "NYT World",
+      "all_sources": [
+        "Deutsche Welle Top Stories",
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1,
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 50,
+        "center_pct": 50,
+        "right_pct": 0,
+        "total": 2
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "About 70,000 police and security officers, mobilized ahead of mass protests, will try to avert the arson and looting that shocked the country last weekend."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/10/24/multimedia/24france-protests-zzzz-jzwv/24france-protests-zzzz-jzwv-mediumSquareAt3X.jpg",
+      "published": "Sat, 24 Oct 2026 12:18:09 +0000"
+    },
+    {
+      "title": "Ukraine says Starlink connection 'now stable' after network limits",
+      "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6049/live/9c0d0c10-cf9a-11f1-b441-2b33b063138f.jpg",
+      "published": "Sat, 24 Oct 2026 12:12:40 GMT"
+    },
+    {
+      "title": "Barcelona vs Real Madrid: Top 5 El Clasico matches between La Liga giants",
+      "link": "https://www.aljazeera.com/sports/2026/10/24/barcelona-vs-real-madrid-top-5-el-clasico-matches-between-la-liga-giants?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Matches between Barca and Real are among the biggest in world football, with their rivalry spanning more than a century."
+      ],
+      "image_url": null,
+      "published": "Sat, 24 Oct 2026 12:05:40 +0000"
+    },
+    {
+      "title": "Czech Republic advances media funding overhaul despite criticism",
+      "link": "https://www.aljazeera.com/news/2026/10/24/czech-republic-advances-media-funding-overhaul-despite-criticism?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Journalists prepare to strike as politicians push through changes that critics say threaten independence."
+      ],
+      "image_url": null,
+      "published": "Sat, 24 Oct 2026 11:50:32 +0000"
+    },
+    {
+      "title": "Democracy by ZIP Code: Two Americas, one election",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/democracy-by-zip-code-two-americas-one-election?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "How can Americans living just miles apart experience completely different versions of the American dream?"
+      ],
+      "image_url": null,
+      "published": "Sat, 24 Oct 2026 11:44:16 +0000"
+    },
+    {
+      "title": "Arrest made after fire at Hitler's mountaintop Eagle's Nest retreat",
+      "link": "https://www.bbc.co.uk/news/articles/cr93zwjw1k4qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Around 200 emergency personnel are deployed to fight the blaze at the Nazi dictator's Alpine residence in Germany."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b513/live/b8fe52a0-cf7e-11f1-ae2e-3fbb7ae6bffe.jpg",
+      "published": "Sat, 24 Oct 2026 11:23:59 GMT"
+    },
+    {
+      "title": "‘Eagle’s Nest,’ Nazi-Era Guesthouse in German Alps, Is Gutted by Fire",
+      "link": "https://www.nytimes.com/2026/10/24/world/europe/eagles-nest-fire-nazi-germany.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The police said on Saturday that the structure, a tourist attraction for decades, was probably not salvageable.",
+        "A man was arrested in connection with the blaze."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/10/24/multimedia/24int-germany-fire-tlcj/24int-germany-fire-tlcj-mediumSquareAt3X.jpg",
+      "published": "Sat, 24 Oct 2026 11:10:50 +0000"
+    },
+    {
+      "title": "German police detain suspect after fire engulfs Hitler’s Eagle’s Nest",
+      "link": "https://www.aljazeera.com/news/2026/10/24/german-police-detain-suspect-after-fire-engulfs-hitlers-eagles-nest?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "No injuries were reported at the building, while police said a ‘suspicious person’ had been taken into custody."
+      ],
+      "image_url": null,
+      "published": "Sat, 24 Oct 2026 11:01:05 +0000"
+    },
+    {
+      "title": "Bayern say coach Kompany ‘stable’ in hospital but will be out for weeks",
+      "link": "https://www.aljazeera.com/sports/2026/10/24/bayern-say-coach-kompany-stable-in-hospital-but-will-be-out-for-weeks?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Bayern Munich coach Vincent Kompany collapsed during training on Friday but is said to be &#039;stable&#039; in hospital."
+      ],
+      "image_url": null,
+      "published": "Sat, 24 Oct 2026 10:59:34 +0000"
+    },
+    {
+      "title": "Deadly ‘racist’ attack in France: Are hate crimes rising in Europe?",
+      "link": "https://www.aljazeera.com/news/2026/10/24/deadly-racist-attack-in-france-are-hate-crimes-rising-in-europe?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Monitoring group reports more Muslims in Europe face racial discrimination as &#039;terrorist&#039; attack kills one in France."
+      ],
+      "image_url": null,
+      "published": "Sat, 24 Oct 2026 10:47:07 +0000"
+    },
+    {
+      "title": "Speed of Starshield Satellite Network Is Improving, Ukraine Says",
+      "link": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The announcement followed more than a week of disruption to Starshield, the Pentagon-funded satellite network that Ukraine relies on to thwart Russian attacks."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/10/24/multimedia/24int-ukraine-starshield-jmgk/24int-ukraine-starshield-jmgk-mediumSquareAt3X.jpg",
+      "published": "Sat, 24 Oct 2026 10:08:45 +0000"
+    },
+    {
+      "title": "France braces for another day of mass protests as security on high alert",
+      "link": "https://www.aljazeera.com/news/2026/10/24/france-braces-for-another-day-of-mass-protests-as-security-on-high-alert?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Several planned marches in major cities in France have been banned by authorities, provoking an uproar by rights groups."
+      ],
+      "image_url": null,
+      "published": "Sat, 24 Oct 2026 10:04:25 +0000"
+    },
+    {
+      "title": "Seven missing after multi-storey building collapses in Kenya's capital",
+      "link": "https://www.bbc.co.uk/news/articles/c317kxyknwp2o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Rescue efforts are under way to find people trapped under the block, which was still under construction when it buckled."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c0e/live/818871d0-cf8c-11f1-bef0-7f8eb636c50b.jpg",
+      "published": "Sat, 24 Oct 2026 09:44:01 GMT"
+    },
+    {
+      "title": "British woman dies trying to save sons on Bahamas snorkelling trip",
+      "link": "https://www.theguardian.com/world/2026/oct/24/british-woman-dies-trying-to-save-sons-on-bahamas-snorkelling-trip",
+      "source": "The Guardian World",
+      "all_sources": [
+        "BBC World",
+        "The Guardian World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1,
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 50,
+        "center_pct": 50,
+        "right_pct": 0,
+        "total": 2
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Mother, 36, died after current off North Bimini reportedly swept away two boys, who were later rescued, police say  A British woman has died in the Bahamas while trying to rescue her two sons after a current swept them away as they were snorkelling.",
+        "The Royal Bahamas police force said it had launched an investigation after the death of a 36-year-old woman on Tuesday.",
+        "Continue reading..."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74f9/live/3c3ce1b0-cf8c-11f1-bef0-7f8eb636c50b.jpg",
+      "published": "Sat, 24 Oct 2026 09:43:09 GMT"
+    },
+    {
+      "title": "Brazil’s Lula and Bolsonaro debate policy proposals before run-off",
+      "link": "https://www.aljazeera.com/news/2026/10/24/brazils-lula-and-bolsonaro-debate-policy-proposals-before-run-off?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Polls indicate Brazil&#039;s presidential candidates are neck and neck before Sunday&#039;s voting."
+      ],
+      "image_url": null,
+      "published": "Sat, 24 Oct 2026 09:41:56 +0000"
+    },
+    {
+      "title": "Ethiopian PM’s advisor: Tigrayan forces and others hinder stability",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/ethiopian-pms-advisor-tigrayan-forces-and-others-hinder-stability?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Advisor to Ethiopia’s Prime Minister stated that Tigrayan forces and regional actors are hindering regional stability."
+      ],
+      "image_url": null,
+      "published": "Sat, 24 Oct 2026 09:32:22 +0000"
+    },
+    {
+      "title": "Just Eat apologises after AI-generated images blunder",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/24/just-eat-apologises-after-ai-generated-images-blunder?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Just Eat has apologised after its AI-generated food images went viral for grossly misrepresenting menu items."
+      ],
+      "image_url": null,
+      "published": "Sat, 24 Oct 2026 09:29:37 +0000"
+    },
+    {
+      "title": "Looting Left Damage and Fear on Paradise Street in Marseille",
+      "link": "https://www.nytimes.com/2026/10/24/world/europe/france-looting-rue-paradis-marseille.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Looters ravaged a storied commercial avenue in France’s second-largest city.",
+        "Its merchants fear that more unrest could follow."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/10/24/multimedia/24int-france-marseille-jfgm/24int-france-marseille-jfgm-mediumSquareAt3X.jpg",
+      "published": "Sat, 24 Oct 2026 09:04:28 +0000"
+    },
+    {
+      "title": "Ukraine’s Feeling of Moral Whiplash at the Hands of Trump",
+      "link": "https://www.nytimes.com/2026/10/24/world/europe/ukraine-trump.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The United States once declared that Ukraine’s fight was the front line in a global battle for freedom.",
+        "Now the Trump administration is sending money to Moscow."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/10/24/multimedia/24int-ukraine-whiplash-cmvg/24int-ukraine-whiplash-cmvg-mediumSquareAt3X.jpg",
+      "published": "Sat, 24 Oct 2026 09:03:20 +0000"
+    },
+    {
+      "title": "U.S. Pressures Mexico to Deliver a Security Win Ahead of Midterm Elections",
+      "link": "https://www.nytimes.com/2026/10/24/world/americas/us-mexico-security-cartels.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The Trump administration wants a public victory soon, as well as a potential path to U.S.",
+        "military forces in Mexico."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/10/23/multimedia/23int-mexico-pressure-bhlk/23int-mexico-pressure-bhlk-mediumSquareAt3X.jpg",
+      "published": "Sat, 24 Oct 2026 09:03:03 +0000"
+    },
+    {
+      "title": "European student protests take aim at Serbia's elections",
+      "link": "https://www.npr.org/2026/10/24/nx-s1-6012799/european-student-protests-take-aim-at-serbias-elections",
+      "source": "NPR World",
+      "all_sources": [
+        "NPR World",
+        "Fox News World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1,
+        "Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 50,
+        "center_pct": 0,
+        "right_pct": 50,
+        "total": 2
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Students have been protesting across Europe.",
+        "In Serbia, they've selected candidates to run for parliament in Sunday's elections.",
+        "And they're aiming to end 14 years of government by the populist leader Aleksandar Vucic."
+      ],
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/vucic-campaign-trail.jpg?ve=1&tl=1",
+      "published": "Sat, 24 Oct 2026 07:42:11 -0400"
+    },
+    {
+      "title": "For centuries, one family has been safeguarding an ancient library in Mauritania",
+      "link": "https://www.csmonitor.com/World/2026/1024/chinguetti-mauritania-library?icid=rss",
+      "source": "Christian Science Monitor World",
+      "all_sources": [
+        "Christian Science Monitor World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Mohammed Abdullah Ould Gholam Habott is responsible for taking care of more than 1,400 manuscripts at the Habott Library, one of only a few family-run libraries still active in Chinguetti."
+      ],
+      "image_url": null,
+      "published": "Sat, 24 Oct 2026 05:00:11 EDT"
+    },
+    {
+      "title": "Netanyahu Has Reinvented Himself. Will Voters Think It’s Enough?",
+      "link": "https://www.nytimes.com/2026/10/24/world/middleeast/netanyahu-has-reinvented-himself-will-voters-think-its-enough.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The Oct.",
+        "7 attacks marred Prime Minister Benjamin Netanyahu’s image as Mr.",
+        "Security."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/10/22/multimedia/xxint-israel-netanyahu-profile-gvjt/xxint-israel-netanyahu-profile-gvjt-mediumSquareAt3X.jpg",
+      "published": "Sat, 24 Oct 2026 04:01:09 +0000"
+    },
+    {
+      "title": "2 Philippine air force planes collide during training flight, killing all 4 pilots",
+      "link": "https://nypost.com/2026/10/24/world-news/2-philippine-air-force-planes-collide-during-a-training-flight-killing-all-4-pilots/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The two SF-260 aircraft collided while flying at a low altitude Friday afternoon."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F2-philippine-air-force-planes-146297985.png?w%3D360",
+      "published": "Sat, 24 Oct 2026 03:24:52 -0700"
+    },
+    {
+      "title": "Man killed in suspected racist attack near Paris ID’d as martial arts fighter",
+      "link": "https://nypost.com/2026/10/24/world-news/paris-man-killed-in-suspected-racist-attack-identified-as-martial-arts-fighter/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The Atch Academy in Aubervilliers, north of Paris, identified him as Pengo Bossio Wangi, 26."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fprofessional-pic-embed-inline-trappes-146299239.jpg?w%3D829",
+      "published": "Sat, 24 Oct 2026 03:16:55 -0700"
+    },
+    {
+      "title": "Drinking water supplies dwindle in Yemeni city besieged by Houthi rebels",
+      "link": "https://www.npr.org/2026/10/24/g-s1-149729/drinking-water-supplies-dwindle-in-yemeni-city-besieged-by-houthi-rebels",
+      "source": "NPR World",
+      "all_sources": [
+        "NPR World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Taiz, a city in southwestern Yemen, faces a severe water crisis as Houthi rebels backed by Iran tighten their encirclement.",
+        "The city has struggled with water issues for over a decade, but the situation has worsened in recent weeks."
+      ],
+      "image_url": null,
+      "published": "Sat, 24 Oct 2026 03:04:13 -0400"
+    },
+    {
+      "title": "Australian MP's condition improves after alleged car attack",
+      "link": "https://www.bbc.co.uk/news/articles/c670pr1ryxyno?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The independent MP is now in a serious but stable condition, according to the Melbourne hospital."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e656/live/f2bfb570-cf41-11f1-81c6-53f66e190efd.jpg",
+      "published": "Sat, 24 Oct 2026 01:55:15 GMT"
+    },
+    {
+      "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
+      "link": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1860/live/f6b62750-cf1d-11f1-9796-954775b3a434.jpg",
+      "published": "Sat, 24 Oct 2026 00:36:47 GMT"
+    },
+    {
+      "title": "Rubio tells Cubans ‘now is the time’ to act to see political change",
+      "link": "https://www.theguardian.com/us-news/2026/oct/23/marco-rubio-cuba-trump",
+      "source": "The Guardian World",
+      "all_sources": [
+        "The Guardian World",
+        "Fox News World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1,
+        "Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 50,
+        "center_pct": 0,
+        "right_pct": 50,
+        "total": 2
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "US secretary of state makes comments after Trump tells US rally warships could intervene on return from Iran  Marco Rubio urged Cubans seeking political change in their country to act, saying “now is the time” moments after Donald Trump told a Friday rally for candidates in south Florida that US warships could intervene in Cuba on their way back from the Iran war.",
+        "The US secretary of state, in his  social media post  addressed “to those who seek to create positive change”, urged Cubans to capitalize on Trump’s plans.",
+        "“The disappointment of failed promises, corruption, and the privileged lives of only a few; seize this opportunity to create the change you desire through a discrete [sic] partnership with the CIA,” Rubio said."
+      ],
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/rubio-defends-strike-mtp.jpg?ve=1&tl=1",
+      "published": "Sat, 24 Oct 2026 00:30:02 GMT"
+    },
+    {
+      "title": "Google illegally cut down 250K trees in Finland for data center, driving wolves into villages and infuriating locals: report",
+      "link": "https://nypost.com/2026/10/24/business/google-illegally-tore-down-250k-trees-for-finland-data-center-infuriating-locals-report/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The tech super giant – continuing its expansion of the booming artificial intelligence industry – cleared 816 acres of woodlands in Northern Finland, the Guardian reported Thursday."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F2026-northern-finnish-town-muhos-143665341.jpg?w%3D1024",
+      "published": "Sat, 24 Oct 2026 00:01:08 -0700"
     },
     {
       "title": "Palestinians Stream Back to Northern Gaza on Foot",
@@ -864,56 +1222,8 @@
       "published": "Mon, 27 Jan 2025 01:05:00 -0500"
     },
     {
-      "title": "After violent weekend, France reckons with its frustrated, fractured public",
-      "link": "https://www.csmonitor.com/World/Europe/2026/1019/france-paris-riots-protests-students-macron-looting?icid=rss",
-      "source": "Christian Science Monitor World",
-      "all_sources": [
-        "Christian Science Monitor World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "After hundreds of thousands took to the streets to protest this weekend, rioters followed with destruction and looting that have left France reeling."
-      ],
-      "image_url": null,
-      "published": "Mon, 19 Oct 2026 17:18:16 EDT"
-    },
-    {
-      "title": "Tech firms are building AI-ready data centers in India. But are cities ready?",
-      "link": "https://www.csmonitor.com/World/Asia-South-Central/2026/1019/india-data-centers-preparedness-ai-industry?icid=rss",
-      "source": "Christian Science Monitor World",
-      "all_sources": [
-        "Christian Science Monitor World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Google has broken ground on a proposed 1-gigawatt data center in Visakhapatnam, India, but questions about resources and funding remain."
-      ],
-      "image_url": null,
-      "published": "Mon, 19 Oct 2026 12:05:52 EDT"
-    },
-    {
-      "title": "Seven shot dead by gunmen at church funeral in Jordan, state media say",
-      "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+      "title": "Student movement takes Serbia's Vučić to the wire in neck-and-neck election",
+      "link": "https://www.bbc.co.uk/news/articles/cm1dwz311476o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "all_sources": [
         "BBC World"
@@ -930,322 +1240,10 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Another 10 people are injured in the southern Karak governorate, and a manhunt is now under way."
+        "The Student List has emerged from almost two years of anti-corruption protests to form the biggest challenge to Vučić's rule."
       ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png",
-      "published": "Fri, 23 Oct 2026 12:55:19 GMT"
-    },
-    {
-      "title": "Russia-Ukraine talks planned for November in UAE: Kremlin",
-      "link": "https://www.aljazeera.com/news/2026/10/23/russia-ukraine-talks-planned-for-november-in-uae-kremlin?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The US-brokered talks are the first planned talks since negotiations stopped earlier this year."
-      ],
-      "image_url": null,
-      "published": "Fri, 23 Oct 2026 12:54:44 +0000"
-    },
-    {
-      "title": "As President Paul Biya returns to Cameroon, can he still rule?",
-      "link": "https://www.aljazeera.com/news/2026/10/23/as-president-paul-biya-returns-to-cameroon-can-he-still-rule?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Cameroonians are wondering who Biya will appoint as vice president and possible successor."
-      ],
-      "image_url": null,
-      "published": "Fri, 23 Oct 2026 12:52:28 +0000"
-    },
-    {
-      "title": "The fight to protect India’s 600-year-old mosque in Ujjain",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/ujjain-shahi-imosque-demolition-original?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The minaret of Shahi mosque collapsed during demolition work to widen a road for a Hindu pilgrimage."
-      ],
-      "image_url": null,
-      "published": "Fri, 23 Oct 2026 12:43:09 +0000"
-    },
-    {
-      "title": "CAS clears Japan’s Olympic silver medallist Ikeda of doping, overturns ban",
-      "link": "https://www.aljazeera.com/sports/2026/10/23/cas-clears-japans-olympic-silver-medallist-ikeda-of-doping-overturns-ban?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Race walker Koki Ikeda returns to competition immediately; Ethiopia’s marathon runner Ruti Aga given 6-year doping ban."
-      ],
-      "image_url": null,
-      "published": "Fri, 23 Oct 2026 12:34:10 +0000"
-    },
-    {
-      "title": "The Epstein Files Produce an Unlikely Weapon for the Houthi Messaging Wars",
-      "link": "https://www.nytimes.com/2026/10/23/world/middleeast/houthis-saudi-arabia-propaganda-epstein.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The Yemeni militia is using the culture of its sworn enemies in the renewed fighting with Saudi Arabia."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/10/11/multimedia/00int-Houthi-Messaging-qhgb/00int-Houthi-Messaging-qhgb-mediumSquareAt3X.jpg",
-      "published": "Fri, 23 Oct 2026 12:18:37 +0000"
-    },
-    {
-      "title": "Are parents in France and Italy liable for damage caused by student protesters?",
-      "link": "https://www.aljazeera.com/news/2026/10/23/are-parents-in-france-and-italy-liable-for-damage-caused-by-student-protesters?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Parents could face financial penalties if their children participate in vandalism or looting during demonstrations."
-      ],
-      "image_url": null,
-      "published": "Fri, 23 Oct 2026 12:18:01 +0000"
-    },
-    {
-      "title": "Denmark to ban mink farming in government U-turn",
-      "link": "https://www.bbc.co.uk/news/articles/c59vzjm118j1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "all_sources": [
-        "BBC World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Once the world's largest producer of mink pelts, the nation's industry has declined in recent years."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f055/live/ed7c2b60-cebb-11f1-ae9c-0303957c36f8.jpg",
-      "published": "Fri, 23 Oct 2026 12:17:45 GMT"
-    },
-    {
-      "title": "Typhoon Champi unleashes huge waves along Taiwan’s coast",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/23/typhoon-champi-unleashes-huge-waves-along-taiwans-coast?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Huge waves were seen crashing into Taiwan’s northeastern coast as Typhoon Champi approached with winds reaching 191 km/h"
-      ],
-      "image_url": null,
-      "published": "Fri, 23 Oct 2026 12:17:20 +0000"
-    },
-    {
-      "title": "Ukraine plans independent satellite system as Starlink issues persist",
-      "link": "https://www.aljazeera.com/news/2026/10/23/ukraine-plans-independent-satellite-system-as-starlink-issues-persist?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Ukraine to team up with Finnish firms as Starshield problems, started amid Trump-Zelenskyy jibes, continue."
-      ],
-      "image_url": null,
-      "published": "Fri, 23 Oct 2026 12:16:50 +0000"
-    },
-    {
-      "title": "US-Iran war, then and now: How the landscape has changed since February",
-      "link": "https://www.aljazeera.com/news/2026/10/23/us-iran-war-then-and-now-how-the-landscape-has-changed-since-february?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The positions of Washington and Tehran have changed dramatically since US-Israeli strikes began the war, analysts say."
-      ],
-      "image_url": null,
-      "published": "Fri, 23 Oct 2026 11:43:53 +0000"
-    },
-    {
-      "title": "As Brazil Prepares for Election Runoff, a Town Offers Clues to Bolsonaro’s Rise",
-      "link": "https://www.nytimes.com/2026/10/23/world/americas/brazil-election-voters-lula-bolsonaro-minas-gerais.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Deep in cattle country, voter sentiments in an evangelical stronghold help explain why the country’s leftist president is the underdog in Sunday’s election."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/10/20/world/00int-brazil-minas-02/00int-brazil-minas-02-mediumSquareAt3X.jpg",
-      "published": "Fri, 23 Oct 2026 11:38:12 +0000"
-    },
-    {
-      "title": "Saudi Arabia security puts Asian Cup in doubt: Japan football chief",
-      "link": "https://www.aljazeera.com/sports/2026/10/23/saudi-arabia-security-puts-asian-cup-in-doubt-japan-football-chief?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Tsuneyasu Miyamoto says it will be difficult for Saudi Arabia to host next year&#039;s tournament as scheduled."
-      ],
-      "image_url": null,
-      "published": "Fri, 23 Oct 2026 11:34:59 +0000"
-    },
-    {
-      "title": "Ukraine says Starlink still restricted after Trump says limits lifted",
-      "link": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "all_sources": [
-        "BBC World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Issues remain with the network used by the Ukrainian military, sources say, after repeated denials of a deliberate slowdown."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/271c/live/d171b6a0-cebc-11f1-a64c-550be9e3c66b.jpg",
-      "published": "Fri, 23 Oct 2026 11:01:08 GMT"
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7667/live/b6bb68f0-cef9-11f1-b441-2b33b063138f.jpg",
+      "published": "Fri, 23 Oct 2026 23:08:23 GMT"
     }
   ]
 }
