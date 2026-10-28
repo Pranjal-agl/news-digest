@@ -1,431 +1,447 @@
-# News Digest - 2026-10-27
+# News Digest - 2026-10-28
 
-**50 stories** · 6 with multi-source coverage · 0 blindspots
+**50 stories** · 7 with multi-source coverage · 1 blindspot
 
 ---
 
-## 1. Jordan Says Its Deadly Strikes in Syria Targeted Islamic State
+## 1. 🔍 Flávio Bolsonaro lands in Miami after Brazil election loss
 
-**Source:** [NYT World](https://www.nytimes.com/2026/10/27/world/middleeast/jordan-syria-strikes-attack.html)
+**Source:** [The Guardian World](https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat)
 
-**Also covered by:** BBC World
+**Also covered by:** NPR World
 
-**Bias breakdown:** Lean Left: 1 · Center: 1
+**Bias breakdown:** Lean Left: 2
 
-- The airstrikes late Monday, which a Syrian agency said killed at least seven civilians, were in retaliation for an attack on a Jordanian church, Jordan said.
+**Blindspot:** all covering sources lean the same direction
 
-## 2. The Netherlands pulls out of Eurovision 2027 due to Israel ‘sensitivities’
+- Far-right senator and family land in US after crossing from Brazil into Argentina and then flying via Ecuador  A jet carrying the Brazilian far-right senator Flávio Bolsonaro has landed in Miami, Florida, where the losing candidate in Sunday’s presidential election runoff left the airport under police escort without speaking to the press.
+- The Gulfstream IV, registered as LV-JQW, left Guayaquil in Ecuador earlier in the day.
+- Continue reading...
 
-**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/27/the-netherlands-pulls-out-of-eurovision-2027-due-to-israel-sensitivities?traffic_source=rss)
+## 2. Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr
 
-**Also covered by:** BBC World
-
-**Bias breakdown:** Lean Left: 1 · Center: 1
-
-- Dutch withdrawal is the latest in a number of boycotts by countries unhappy about Israel's inclusion.
-
-## 3. Qatar’s Emir meets Iran’s Pezeshkian in Moscow
-
-**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/27/qatars-emir-meets-irans-pezeshkian-in-moscow?traffic_source=rss)
+**Source:** [The Guardian World](https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown)
 
 **Bias breakdown:** Lean Left: 1
 
-- The pair discussed energy cooperation and ways to enhance bilateral relations, Iranian state media reported.
+- Warnings of escalating clampdown on press freedom come after Cairo court convicts Attalah of managing an unlicensed website  Lina Attalah, a prominent Egyptian journalist and the editor-in-chief of the news outlet Mada Masr, has been released from detention by Egypt’s authorities and had her website ordered to be shut down by a court amid an intensifying crackdown on independent media in the country.
+- Attalah was taken briefly into custody after a Cairo court convicted her of managing an unlicensed website, prompting fresh international concerns over press freedom in Egypt.
+- Continue reading...
 
-## 4. Mbappé sorry for 'ill-judged' Mao remark after backlash in China
+## 3. Espionage threats blur lines between security and dissent in Iran
 
-**Source:** [BBC World](https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss)
+**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/28/iran-faces-espionage-attempts-but-using-threat-for-crackdown-on-opponents?traffic_source=rss)
+
+**Bias breakdown:** Lean Left: 1
+
+- Iran is using the threat of spy networks to detain and execute political opponents, analysts say.
+
+## 4. Why are three of the UK’s four nuclear deterrent submarines at sea?
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/28/why-are-three-of-the-uks-four-nuclear-deterrent-submarines-at-sea?traffic_source=rss)
+
+**Bias breakdown:** Lean Left: 1
+
+- The deployment marks the first time in years that three Vanguard-class vessels have been at sea at the same time.
+
+## 5. Spanish football postpones 24 Copa del Rey games after train crash
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/sports/2026/10/28/spanish-football-postpones-24-copa-del-rey-games-after-train-crash?traffic_source=rss)
+
+**Bias breakdown:** Lean Left: 1
+
+- Real Madrid and Barcelona offer messages of support following train crash as Spanish football orders Copa postponement .
+
+## 6. Iraqi PM Ali al-Zaidi meets Ahmed al-Sharaa in historic Syria visit
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/28/iraqi-pm-ali-al-zaidi-meets-ahmed-al-sharaa-in-historic-syria-visit?traffic_source=rss)
+
+**Bias breakdown:** Lean Left: 1
+
+- Talks focused on enhancing trade, reviving Baniyas oil pipeline and achieving stability through cooperation.
+
+## 7. Behind Italy’s Protests: Rising Prices and Sinking Hopes
+
+**Source:** [NYT World](https://www.nytimes.com/2026/10/28/world/europe/italy-protests-students-truckers-meloni.html)
+
+**Bias breakdown:** Lean Left: 1
+
+- Inspired in part by French demonstrations, protests in Italy by students in the north and truckers in the south could affect national elections next year.
+
+## 8. Real Madrid apologise to Chinese people for Mbappe’s Mao ‘dictator’ remark
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/sports/2026/10/28/real-madrid-apologise-to-chinese-people-for-mbappes-mao-dictator-remark?traffic_source=rss)
+
+**Bias breakdown:** Lean Left: 1
+
+- Mocking Mao Zedong is taboo in China, which is a lucrative market for players and teams such as Kylian Mbappe's Real.
+
+## 9. Ballon d’Or win will help keep Kane at Bayern, says Germany’s Matthaus
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/sports/2026/10/28/ballon-dor-win-will-help-keep-kane-at-bayern-says-germanys-matthaus?traffic_source=rss)
+
+**Bias breakdown:** Lean Left: 1
+
+- Former World Cup winner Lothar Matthaus says relationship between Harry Kane and club Bayern Munich is 'perfect'.
+
+## 10. Tens of thousands flee Ethiopia fighting into neighbouring Kenya
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/10/28/tens-of-thousands-flee-ethiopia-fighting-into-neighbouring-kenya?traffic_source=rss)
+
+**Bias breakdown:** Lean Left: 1
+
+- Tens of thousands of people have crossed into Kenya, fleeing fighting between regional forces in Ethiopia’s Moyale town.
+
+## 11. Pakistan’s Rauf sanctioned for conduct contrary to ‘spirit’ of cricket
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/sports/2026/10/28/haris-rauf-sanctioned-england-penalised-for-slow-over-rate-in-odi-thriller-pakistan?traffic_source=rss)
+
+**Bias breakdown:** Lean Left: 1
+
+- One demerit point added to the Pakistan pacer Haris Rauf’s disciplinary record for conduct during ODI against England.
+
+## 12. Rivals in Israel Election Strike Tone of Triumph, but Outcome Is Far From Clear
+
+**Source:** [NYT World](https://www.nytimes.com/live/2026/10/27/world/israel-elections)
+
+**Also covered by:** NPR World, Fox News World
+
+**Bias breakdown:** Lean Left: 2 · Right: 1
+
+- Addressing supporters after midnight, Prime Minister Benjamin Netanyahu and Gadi Eisenkot, who leads a bloc of opposition parties, both expressed confidence that they will lead Israel’s next government.
+- Vote counting could take days.
+
+## 13. Victims of Jordan’s air strikes in Syria
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/10/28/victims-of-jordans-air-strikes-in-syria?traffic_source=rss)
+
+**Bias breakdown:** Lean Left: 1
+
+- Jordan’s air strikes in southern Syria killed at least seven people, including three children.
+- Here are their stories.
+
+## 14. The Ocean ‘Was the Color of Chocolate.’ Mexico Declares War on Seaweed.
+
+**Source:** [NYT World](https://www.nytimes.com/2026/10/28/world/americas/mexico-seaweed-navy.html)
+
+**Bias breakdown:** Lean Left: 1
+
+- To protect Mexico’s tourism-reliant economy, the Navy is fighting a massive sargassum bloom that dumps thousands of tons of seaweed onto Caribbean beaches daily.
+
+## 15. Tanzania celebrates first natural gas discovery in more than 10 years
+
+**Source:** [BBC World](https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo?at_medium=RSS&at_campaign=rss)
 
 **Bias breakdown:** Center: 1
 
-- The France star had referred to the former Chinese leader as a "dictator" during an interview about memes.
+- The energy minister described it as a "major milestone" for the East African nation.
 
-## 5. Nanotyrannus skeleton goes to auction in New York with £4.5m price tag
+## 16. A US woman feared dead was reported alive in Mexico. But cops now say that isn’t true
 
-**Source:** [BBC World](https://www.bbc.co.uk/news/articles/cmx28de233r2o?at_medium=RSS&at_campaign=rss)
+**Source:** [The Guardian World](https://www.theguardian.com/us-news/2026/oct/28/shayna-feinman-missing-arizona-woman-mexico)
+
+**Bias breakdown:** Lean Left: 1
+
+- Mexican police had said they found Shayna Feinman in Tijuana, raising the hopes of missing Arizonan’s family   Arizona  authorities say their  Mexican  counterparts were resoundingly mistaken when they publicly claimed recently that they found alive a woman who was feared slain after disappearing in 2024 – a turn of events that her sister has called “turmoil” and “heartbreaking”.
+- The case in question centers on Shayna Feinman, who was reported missing in rural Yavapai county, Arizona, in March 2024 at age 38.
+- Continue reading...
+
+## 17. Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official
+
+**Source:** [The Guardian World](https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official)
+
+**Bias breakdown:** Lean Left: 1
+
+- Jean Kaseya, of the Africa CDC, warns of the illness spreading like Covid unless more funding is secured to increase preparedness and possible treatment  The “unprecedented”  spread of the Ebola outbreak  means it could reach the UK and other countries, according to one of Africa’s top health officials.
+- As the current outbreak reached  10,000 cases, with almost 5,000 deaths , Dr Jean Kaseya, director general of the Africa Centres for Disease Control and Prevention (CDC), compared the outbreak to the Covid pandemic, which first took hold in China before spreading to countries across the world, claiming millions of lives, and ravaging health systems and economies.
+- Continue reading...
+
+## 18. Rare Wartime Dissent in Moscow Over Plans to Dismantle Russia’s ‘Eiffel Tower’
+
+**Source:** [NYT World](https://www.nytimes.com/2026/10/28/world/europe/russia-shukhov-radio-tower.html)
+
+**Bias breakdown:** Lean Left: 1
+
+- A state broadcaster says it cannot afford the restoration of a 1922 steel tower, prompting rare wartime dissent and a movement to save the Modernist masterpiece.
+
+## 19. Anger in Kenya over extradition hearing delay for ex-British soldier accused of murdering woman
+
+**Source:** [BBC World](https://www.bbc.co.uk/news/articles/cmly073ql392o?at_medium=RSS&at_campaign=rss)
 
 **Bias breakdown:** Center: 1
 
-- The auction of the rare skeleton comes amid debate in the scientific community about whether dinosaur remains should end up in private hands or public view.
+- No official reason has been given for postponing next month’s hearing to May 2027, the family says.
 
-## 6. Iranians brace for renewed attacks after Israeli, US elections
+## 20. IDF kills three Hamas terrorists in Gaza airstrikes, including Oct. 7 kidnapper
 
-**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/27/iranians-will-their-eyes-on-the-sky-for-bomb-when-israeli-us-elections-end?traffic_source=rss)
+**Source:** [New York Post World](https://nypost.com/2026/10/28/world-news/idf-kills-three-hamas-terrorists-in-gaza-including-oct-7-kidnapper/)
+
+**Bias breakdown:** Lean Right: 1
+
+- Ahmed Muhammad Ahmed Baraka took part in the abduction of several Israelis, including Alexander Dancyg from Kibbutz Nir Oz, and later helped hold hostages, according to the IDF.
+
+## 21. Israel's election too close to call. And, the Ebola outbreak reaches grim milestone
+
+**Source:** [NPR World](https://www.npr.org/2026/10/28/g-s1-150313/up-first-newsletter-midterm-campaign-trump-israel-elections-federal-reserve-ebola-outbreak)
 
 **Bias breakdown:** Lean Left: 1
 
-- The US and Israel have teased strikes around their elections, particularly against Iran's civilian infrastructure.
+- Israeli voters turned out in record numbers, and the results remain too close to call.
+- And, more than 10,000 people have been infected with Ebola since the outbreak was first declared in May.
 
-## 7. India-China border face-offs test Modi six years after deadly clash
+## 22. Apocalyptic Super El Niño map shows where most people will die from record-breaking calamity
 
-**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/10/27/india-china-border-face-offs-test-modi-six-years-after-deadly-clash?traffic_source=rss)
+**Source:** [New York Post World](https://nypost.com/2026/10/28/science/super-el-nino-map-shows-where-most-people-will-die-study/)
+
+**Bias breakdown:** Lean Right: 1
+
+- An alarming map from the Climate Impact Lab shows where Super El Niño will cause the most additional heat deaths as the weather anomaly gains steam in the Pacific.
+
+## 23. Netanyahu barely hanging on after Israeli election — what that means for Iran war
+
+**Source:** [New York Post World](https://nypost.com/2026/10/28/world-news/what-netanyahus-lead-means-for-iran-war-after-israeli-election/)
+
+**Bias breakdown:** Lean Right: 1
+
+- “The Iranian regime did not expect that Netanyahu would be the biggest party.
+- They are afraid of him because he talks against Iran about attacking Iran again," Beni Sabti, an Iran expert at the Institute for National Security Studies (INSS) in Israel, told the Post.
+
+## 24. King Charles to discuss legacy of slavery with Commonwealth leaders at summit
+
+**Source:** [The Guardian World](https://www.theguardian.com/world/2026/oct/28/king-charles-confirms-he-will-discuss-legacy-of-slavery-at-commonwealth-summit)
 
 **Bias breakdown:** Lean Left: 1
 
-- Despite thaw in India-China ties, border tensions again challenge PM Modi's strongman image at home.
+- Royal tour of Caribbean comes as poll suggests majority support among younger Britons for dialogue on slavery reparations  King Charles has confirmed he will discuss the legacy of slavery at a summit with Commonwealth leaders as he begins his Caribbean tour.
+- The king arrived in the Bahamas on Tuesday to a ceremonial welcome and attended a youth rally at Clifford Park, the site where the country officially gained its independence from British colonial rule in 1973.
+- Continue reading...
 
-## 8. Norway and Finland leaders hold rare call with Putin
+## 25. Flávio Bolsonaro flees Brazil after presidential election loss, reports say
+
+**Source:** [The Guardian World](https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled)
+
+**Bias breakdown:** Lean Left: 1
+
+- Far-right senator and his family boarded private plane to Ecuador after crossing border to Argentina, Argentina’s government confirms  The far-right senator  Flávio Bolsonaro  has reportedly fled Brazil and is on his way to the United States after losing Sunday’s presidential election to the leftwing incumbent, Luiz Inácio Lula da Silva, who called the act “shameful”.
+- A report by the news website  Metrópoles , citing people close to the politician’s family, said he was en route to the US.
+- “The plane is in flight,” Metrópoles reported, without making clear where it had departed from.
+
+## 26. Netanyahu defies exit polls as vote shifts in his favor, but majority remains elusive
+
+**Source:** [Fox News World](https://www.foxnews.com/world/netanyahu-defies-exit-polls-vote-shifts-his-favor-majority-remains-elusive)
+
+**Bias breakdown:** Right: 1
+
+- With 70% of votes counted, Benjamin Netanyahu's Likud leads, but three possible paths to government formation keep Israel's election uncertain.
+
+## 27. Israel’s President, Isaac Herzog, Faces a Difficult Choice
+
+**Source:** [NYT World](https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-herzog-prime-minister.html)
+
+**Bias breakdown:** Lean Left: 1
+
+- The president has a largely ceremonial role, except after elections when it is his responsibility to pick a candidate for prime minister.
+
+## 28. Trump's relationship with Putin comes under fire ahead of the midterms
+
+**Source:** [NPR World](https://www.npr.org/2026/10/28/nx-s1-6009262/trumps-relationship-with-putin-comes-under-fire-ahead-of-the-midterms)
+
+**Bias breakdown:** Lean Left: 1
+
+- President Trump's relationship with Russia's Vladimir Putin is under scrutiny again as the president makes deals with Moscow ahead of the midterms.
+
+## 29. King acknowledges 'suffering of the past' as Caribbean tour begins
+
+**Source:** [BBC World](https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&at_campaign=rss)
+
+**Bias breakdown:** Center: 1
+
+- The King is on a nine-day tour that will take him to three countries, including the Bahamas, Guyana and Antigua and Barbuda.
+
+## 30. Thomas Markle’s granddaughter ‘not surprised’ at child-sex allegations: Something’off’ about him
+
+**Source:** [New York Post World](https://nypost.com/2026/10/28/world-news/thomas-markles-granddaughter-says-shes-not-surprised-at-child-sex-allegations-because-something-was-always-off-about-him/)
+
+**Bias breakdown:** Lean Right: 1
+
+- Thomas Markle’s granddaughter has claimed the child porn allegations he faces are not a surprise – claiming there was something “off” about him.
+
+## 31. A Chinese Port Could Be a Lifeline for Spain, but Also a Threat
+
+**Source:** [NYT World](https://www.nytimes.com/2026/10/28/world/europe/spain-saic-ferrol-china.html)
+
+**Bias breakdown:** Lean Left: 1
+
+- Residents say a proposed Chinese car plant in northern Spain will create new jobs.
+- Others say it’s a long-term risk, distilling a debate about the costs and perks of ties to China.
+
+## 32. A U.S. cruise ship ends voyage due to fuel costs and passengers lose their homes
+
+**Source:** [NPR World](https://www.npr.org/2026/10/28/nx-s1-6020180/us-cruise-ship-ends-voyage-passengers-lose-homes)
+
+**Also covered by:** BBC World, New York Post World
+
+**Bias breakdown:** Lean Left: 1 · Center: 1 · Lean Right: 1
+
+- The Odyssey set sail two years ago on a three-year voyage to the seven continents marketed as combining long-term living at sea with global travel.
+
+## 33. Spain high-speed train crash leaves at least 64 dead, scores injured
+
+**Source:** [New York Post World](https://nypost.com/2026/10/28/world-news/spain-train-crash-leaves-at-least-10-dead-reports/)
+
+**Also covered by:** Deutsche Welle Top Stories, NYT World, Fox News World
+
+**Bias breakdown:** Lean Left: 1 · Center: 1 · Lean Right: 1 · Right: 1
+
+- A high-speed train slammed into the rear of another train that had stopped, derailing two cars and killing at least 64 people on Wednesday in central Spain, authorities said.
+
+## 34. ISIS-supporting minor attacks cop guarding Israeli Embassy in Belgrade with knives – before being fatally shot: report
+
+**Source:** [New York Post World](https://nypost.com/2026/10/28/world-news/isis-supporting-minor-attacks-cop-guarding-israeli-embassy-in-belgrade-with-knives-before-being-fatally-shot-report/)
+
+**Also covered by:** BBC World, NYT World, Fox News World
+
+**Bias breakdown:** Lean Left: 1 · Center: 1 · Lean Right: 1 · Right: 1
+
+- An assailant with knives attacked a police officer from an elite unit guarding the Israeli Embassy in Belgrade just after midnight on Wednesday, police said.
+- The officer responded by fatally shooting the attacker.
+
+## 35. Netanyahu’s Likud leads Israeli election count with 27 seats as ballots still being tallied
+
+**Source:** [New York Post World](https://nypost.com/2026/10/28/world-news/netanyahus-right-wing-bloc-ahead-of-opposition-as-post-election-vote-count-continues/)
+
+**Bias breakdown:** Lean Right: 1
+
+- Partial results projected Netanyahu’s bloc securing the most seats, with Likud the largest party, albeit without a clear path to a governing majority.
+
+## 36. Man charged with posing as Sydney Hanukkah terror attack victim to get compensation
+
+**Source:** [New York Post World](https://nypost.com/2026/10/28/world-news/sydney-hanukkah-terror-attack-fake-victim-charged-with-lying-to-gain-financial-compensation/)
+
+**Bias breakdown:** Lean Right: 1
+
+- The man, whose name has not been made public, claimed to have been wounded at Bondi Beach on Dec.
+- 14, 2025, when two gunmen opened fire on a crowd, killing 15 people aged 10 to 87 and wounding around 40 people.
+
+## 37. Trump shows off tanker with ‘1m barrels of oil’ and floats Venezuela as 51st state
+
+**Source:** [The Guardian World](https://www.theguardian.com/us-news/2026/oct/27/trump-oil-tanker-venezuela)
+
+**Bias breakdown:** Lean Left: 1
+
+- President at Texas campaign rally hails deal struck with post-Maduro government as ‘greatest oil victory in history’  Donald Trump suggested Venezuela would become the 51st state of the United States on Tuesday as the president showed off a tanker he claimed had “one million barrels of oil on it” from the country, nine months after  deposing  its president.
+- At a campaign rally in Corpus Christ, Texas, Trump touted a  US oil deal  with Venezuela, which the US attacked in January, capturing its long-serving leader  Nicolás Maduro .
+- Continue reading...
+
+## 38. Ceasefire extended across Ukraine's Kherson region, officials say
+
+**Source:** [BBC World](https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss)
+
+**Bias breakdown:** Center: 1
+
+- The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported.
+
+## 39. Ex-wife of Zimbabwe's vice-president freed after collapse of attempted murder case
+
+**Source:** [BBC World](https://www.bbc.co.uk/news/articles/c6e3xgq11jqlo?at_medium=RSS&at_campaign=rss)
+
+**Bias breakdown:** Center: 1
+
+- Marry Mubaiwa had been held on remand for seven years after being charged in 2019 for her then husband's attempted murder.
+
+## 40. European Leaders Split Over Phone Call to Putin
+
+**Source:** [NYT World](https://www.nytimes.com/2026/10/27/world/europe/norway-finland-putin-call.html)
+
+**Bias breakdown:** Lean Left: 1
+
+- The diplomatic outreach was part of an effort to push talks to end the war in Ukraine, though it was not welcomed by all European leaders.
+
+## 41. Dutch zookeeper dies after being mauled by leopard
+
+**Source:** [BBC World](https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&at_campaign=rss)
+
+**Bias breakdown:** Center: 1
+
+- The woman began her career at the park when she was 17 and had worked there on-and-off for four decades.
+
+## 42. Norway and Finland leaders hold rare call with Putin
 
 **Source:** [BBC World](https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss)
 
 **Bias breakdown:** Center: 1
 
-- This is the first time European leaders have had direct communication with Russia's president in more than a year.
+- An end to the conflict in Ukraine "will not be achieved through silence," Finland's President Alexander Stubb said.
 
-## 9. Al Jazeera meets iconic pro-Palestine Japanese activist
+## 43. Trump Explores Lifting Sanctions on Russia’s Flagship Investment Fund
 
-**Source:** [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/10/27/al-jazeera-meets-iconic-pro-palestine-japanese-activist?traffic_source=rss)
-
-**Bias breakdown:** Lean Left: 1
-
-- Japanese activist Yusuke Furusawa speaks to Al Jazeera about why he keeps protesting Israel’s genocidal war on Gaza.
-
-## 10. Kylian Mbappe apologises after ‘dictator’ comment angers Chinese fans
-
-**Source:** [Al Jazeera](https://www.aljazeera.com/sports/2026/10/27/kylian-mbappe-apologises-after-dictator-comment-angers-chinese-fans?traffic_source=rss)
+**Source:** [NYT World](https://www.nytimes.com/2026/10/27/us/politics/russia-fund-sanctions-trump.html)
 
 **Bias breakdown:** Lean Left: 1
 
-- 'My comment was ill-judged and I now understand that it hurt many people,' Mbappe says after Chinese brands dropped him.
+- The move would be the latest U.S.
+- concession to Moscow as President Trump pursues economic incentives he hopes will secure an end to war in Ukraine.
 
-## 11. King Charles Faces High Stakes Test With Caribbean Tour
+## 44. Israel's voter turnout soars as Netanyahu faces a tight election
 
-**Source:** [NYT World](https://www.nytimes.com/2026/10/27/world/europe/king-charles-caribbean-tour-uk-commonwealth.html)
-
-**Bias breakdown:** Lean Left: 1
-
-- The king will confront calls for reparations and apologies for his country’s colonial past as he attends the Commonwealth heads of government meeting.
-
-## 12. The Ballon d’Or has a narrow definition of footballing greatness
-
-**Source:** [Al Jazeera](https://www.aljazeera.com/opinions/2026/10/27/the-ballon-dor-has-a-narrow-definition-of-footballing-greatness?traffic_source=rss)
+**Source:** [NPR World](https://www.npr.org/2026/10/27/nx-s1-6019381/israel-elections)
 
 **Bias breakdown:** Lean Left: 1
 
-- Celebrity, bias towards players in attack and European dominance undermine football’s most prestigious individual award.
+- Israelis voted in their highest numbers in over two decades in a tense national election to decide whether to stick with Prime Minister Benjamin Netanyahu's far-right coalition.
 
-## 13. Ex-FBI chief James Comey faces federal charges for third time
+## 45. US and Israel threaten new Iran strikes. Would the result be any different?
 
-**Source:** [BBC World](https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss)
+**Source:** [Christian Science Monitor World](https://www.csmonitor.com/World/Middle-East/2026/1027/iran-israel-trump-threats-futility-lessons?icid=rss)
 
 **Bias breakdown:** Center: 1
 
-- Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016.
+- The push in the U.S.
+- and Israel toward renewing major hostilities with Iran, after months of relative stalemate, is raising questions about what lessons have been learned – or not – by previous destructive rounds.
 
-## 14. Former PLO official says Netanyahu-Eisenkot coalition could be possible
+## 46. Netanyahu gains overnight as Israel election heads toward political deadlock
 
-**Source:** [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/10/27/former-plo-official-says-netanyahu-eisenkot-coalition-could-be-possible?traffic_source=rss)
-
-**Bias breakdown:** Lean Left: 1
-
-- Former PLO official says Israel’s election outcome remains uncertain, with polls divided between Netanyahu and Eisenkot.
-
-## 15. India Evacuates Tens of Thousands as Cyclone Arnab Approaches
-
-**Source:** [NYT World](https://www.nytimes.com/2026/10/27/world/asia/india-cyclone-arnab-evacuations-nepal.html)
-
-**Bias breakdown:** Lean Left: 1
-
-- The storm, Arnab, is forecast to make landfall Wednesday on the country’s eastern coast and then cut inland and head north toward Nepal.
-
-## 16. 5 Key Moments From Israel’s Pivotal Election Campaign
-
-**Source:** [NYT World](https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-campaign-highlights.html)
-
-**Bias breakdown:** Lean Left: 1
-
-- New political alliances, a contentious A.I.
-- video and accusations about security failures all featured in the run-up to Tuesday’s election, widely seen as one of the most consequential in Israeli history.
-
-## 17. Two Visions, Two Israels, One Nation in the Balance
-
-**Source:** [NYT World](https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-identity.html)
-
-**Bias breakdown:** Lean Left: 1
-
-- As Israel votes, hard-right nationalism competes with the country’s founding ideals.
-- The outcome could shape Israel’s identity for years.
-
-## 18. Ceasefire negotiated by Melania Trump holds in Russia-occupied Ukrainian city
-
-**Source:** [Fox News World](https://www.foxnews.com/world/ceasefire-negotiated-melania-trump-holds-russia-occupied-ukrainian-city)
-
-**Also covered by:** BBC World, NYT World
-
-**Bias breakdown:** Lean Left: 1 · Center: 1 · Right: 1
-
-- A ceasefire in the Russian-held Ukrainian city of Oleshky, where first lady Melania Trump said the situation "is dire," went into effect on Tuesday.
-
-## 19. Twitch streamer with 1.7M followers found dead days after haunting final post
-
-**Source:** [New York Post World](https://nypost.com/2026/10/27/world-news/twitch-streamer-komanche-dead-days-after-haunting-final-post/)
-
-**Bias breakdown:** Lean Right: 1
-
-- A tragic Twitch streamer died in a suspected suicide age 30 – just days after penning a worrying social media post.
-
-## 20. Democrats have a midterm edge, poll shows. And, Israelis vote in high-stakes election
-
-**Source:** [NPR World](https://www.npr.org/2026/10/27/g-s1-150052/up-first-newsletter-midterms-polling-data-voter-fraud-israel-prime-minister-elections)
-
-**Bias breakdown:** Lean Left: 1
-
-- Democrats are still holding a slight edge with Election Day a week away, according to a new NPR/PBS News/Marist poll.
-- And, Israelis are casting their votes in an election that could change leadership.
-
-## 21. China’s economy may never overtake America — and it’s all due to an ill-fated 47-year-old policy
-
-**Source:** [New York Post World](https://nypost.com/2026/10/27/world-news/why-chinas-economy-may-never-overtake-the-us/)
-
-**Bias breakdown:** Lean Right: 1
-
-- Yi told The Post that official Chinese statistics have systematically inflated the country's birthrates and total population figures going back decades.
-
-## 22. Jay-Z to perform at Super Bowl half-time show
-
-**Source:** [BBC World](https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_medium=RSS&at_campaign=rss)
-
-**Bias breakdown:** Center: 1
-
-- The rapper has been involved with the show for years but has never before performed at the NFL championship game.
-
-## 23. Israelis abroad flock home for ‘most important election we’ve ever had’
-
-**Source:** [Christian Science Monitor World](https://www.csmonitor.com/World/Middle-East/2026/1027/israeli-expat-voters-netanyahu-democracy-gaza-iran?icid=rss)
-
-**Bias breakdown:** Center: 1
-
-- Democracy.
-- Netanyahu’s long tenure.
-- For Israelis returning home to vote, the list of momentous issues is long.
-
-## 24. What Is the Commonwealth? What to Know as King Charles Hosts Meeting in the Caribbean
-
-**Source:** [NYT World](https://www.nytimes.com/2026/10/27/world/europe/commonwealth-king-charles-chogm.html)
-
-**Bias breakdown:** Lean Left: 1
-
-- King Charles III is traveling to host a meeting of the leaders of more than 50 nations.
-
-## 25. Israel heads into deeply divided election as Oct 7 reckoning looms: What to know
-
-**Source:** [Fox News World](https://www.foxnews.com/world/israel-heads-deeply-divided-election-oct-7-reckoning-looms-what-know)
-
-**Bias breakdown:** Right: 1
-
-- Will Prime Minister Benjamin Netanyahu hold power?
-- Israel's election becomes a referendum on Oct.
-- 7 failures as no bloc secures a clear majority.
-
-## 26. Lula's comeback in Brazil dents Trump's ambitions for Latin America
-
-**Source:** [BBC World](https://www.bbc.co.uk/news/articles/cq62yg6rggj0o?at_medium=RSS&at_campaign=rss)
-
-**Bias breakdown:** Center: 1
-
-- The Trump-Lula relationship may have thawed, but several issues could reignite tensions between the two leaders.
-
-## 27. Local ceasefire brokered by Melania Trump starts in southern Ukraine
-
-**Source:** [NPR World](https://www.npr.org/2026/10/27/g-s1-150037/russia-ukraine-war)
-
-**Also covered by:** Al Jazeera, New York Post World
-
-**Bias breakdown:** Lean Left: 2 · Lean Right: 1
-
-- A localized ceasefire between Ukraine and Russia took effect early Tuesday ahead of a humanitarian mission brokered by U.S.
-- first lady Melania Trump, as missile attacks resumed in Kyiv.
-
-## 28. Reader Q&A: After Lula’s sensational victory in Brazil’s presidential election, post your questions for the Guardian’s Latin America correspondent
-
-**Source:** [The Guardian World](https://www.theguardian.com/world/live/2026/oct/27/brazil-election-reader-questions-lula-bolsonaro)
+**Source:** [Fox News World](https://www.foxnews.com/world/israelis-vote-record-numbers-first-national-election-since-oct-7-hamas-massacre)
 
 **Also covered by:** Christian Science Monitor World
 
-**Bias breakdown:** Lean Left: 5 · Center: 1
+**Bias breakdown:** Center: 1 · Right: 1
 
-- Having lost the first round of Brazil’s presidential election to far right rival Flávio Bolsonaro, incumbent Luiz Inácio Lula da Silva spectacularly triumphed in the second.
-- Ask a question: log in or sign up    here    to comment, or email conversations@theguardian.com   After losing the first round of Brazil’s presidential election to far right rival Flávio Bolsonaro, incumbent Luiz Inácio Lula da Silva, better known simply as Lula, pulled off the most stunning political fightback in modern Brazilian history by winning the second, in so doing securing a fourth presidential term.
-- It was the first time in Brazilian electoral history that a first-round verdict had been overturned.
+- Israel election exit polls show Benjamin Netanyahu's Likud and Gadi Eisenkot's Yashar locked in a fight with neither bloc reaching 61 Knesset seats.
 
-## 29. Trump Says Colombia Will Accept Deportees, Ending Tariff Standoff
+## 47. The Ebola outbreak is breaking records -- and just marked a grim milestone
 
-**Source:** [WSJ World News](https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497)
-
-**Bias breakdown:** Center: 1
-
-- The president has made immigration an early priority to start second term, with ICE making more than 900 arrests Sunday.
-
-## 30. Israel drills for surprise attack with massive military exercise as expert invokes 1973 war
-
-**Source:** [Fox News World](https://www.foxnews.com/world/israel-drills-surprise-attack-massive-military-exercise-expert-invokes-1973-war)
-
-**Bias breakdown:** Right: 1
-
-- Israel's largest military drill in years mobilizes multiple divisions to counter border infiltrations, as an analyst invokes the 1973 Yom Kippur War.
-
-## 31. Brazil's left-wing President Lula elected for fourth term
-
-**Source:** [NPR World](https://www.npr.org/2026/10/25/nx-s1-6016299/brazil-lula-bolsonaro-election)
+**Source:** [NPR World](https://www.npr.org/2026/10/27/g-s1-150136/ebola-outbreak-milestone-democratic-republic-congo-vaccine)
 
 **Bias breakdown:** Lean Left: 1
 
-- Brazil's 80-year-old left-wing leader President Lula defeats Flávio Bolsonaro in a bitterly contested runoff.
+- The current outbreak, first identified in the Democratic Republic of Congo, has now counted 10,000 patients and has spread with great speed.
+- How can it be stopped?
 
-## 32. Conservative wave hits roadblock in Brazil as Lula holds off Bolsonaro challenge
+## 48. Sen Flávio Bolsonaro flees Brazil for US after election loss, will be issued visas: State Department
 
-**Source:** [Fox News World](https://www.foxnews.com/world/conservative-wave-hits-roadblock-brazil-lula-holds-off-bolsonaro-challenge)
+**Source:** [Fox News World](https://www.foxnews.com/world/sen-flavio-bolsonaro-reportedly-flees-brazil-us-election-loss)
 
-**Bias breakdown:** Right: 1
+**Also covered by:** Christian Science Monitor World
 
-- In a tight election, incumbent President Lula da Silva bested Senator Flávio Bolsonaro in Brazil.
+**Bias breakdown:** Center: 1 · Right: 1
 
-## 33. Zelenskyy can leverage Moscow ties from comedy days to make peace deal, says former key aide
+- The Brazilian far-right senator has reportedly headed to Florida two days after losing the presidential runoff to leftist incumbent Luiz Inácio Lula da Silva.
 
-**Source:** [Fox News World](https://www.foxnews.com/world/zelenskyy-can-leverage-moscow-ties-from-comedy-days-make-peace-deal-says-former-key-aide)
+## 49. US military kills 5 suspected narcoterrorists in eastern Pacific drug boat strike
 
-**Bias breakdown:** Right: 1
-
-- Ukrainian President Volodymyr Zelenskyy earned his first millions in Moscow and should leverage those ties to negotiate with Vladimir Putin, says ex-aide.
-
-## 34. U.S. influence in Latin America at stake in runoff election in Brazil
-
-**Source:** [NPR World](https://www.npr.org/2026/10/25/nx-s1-6011223/u-s-influence-in-latin-america-at-stake-in-runoff-election-in-brazil)
-
-**Also covered by:** Deutsche Welle Top Stories
-
-**Bias breakdown:** Lean Left: 1 · Center: 1
-
-- A polarizing presidential election runoff in Latin America's largest economy and biggest democracy pits leftist Lula da Silva's legacy against Trump ally Flavio Bolsonaro, son of the former Brazilian president.
-
-## 35. Venezuela’s Machado returns from exile, as doubts over democracy deepen
-
-**Source:** [Christian Science Monitor World](https://www.csmonitor.com/World/Americas/2026/1025/venezuela-machado-exile-maduro-rodriguez?icid=rss)
-
-**Bias breakdown:** Center: 1
-
-- Exiled Nobel laureate María Corina Machado has returned to Venezuela for the first time since December and is testing the U.S.-backed government.
-
-## 36. Venezuelan opposition leader María Corina Machado makes surprise return home after nearly a year abroad
-
-**Source:** [Fox News World](https://www.foxnews.com/world/venezuelan-opposition-leader-maria-corina-machado-surprise-return-home-after-nearly-year-abroad)
-
-**Bias breakdown:** Right: 1
-
-- María Corina Machado's return to Venezuela could reshape opposition dynamics as Edmundo González vows to join her and push for democratic elections.
-
-## 37. Who is Itamar Ben-Gvir, the Israeli firebrand rising with the populist right across the globe?
-
-**Source:** [Fox News World](https://www.foxnews.com/world/who-itamar-ben-gvir-israeli-firebrand-rising-populist-right-across-globe)
-
-**Bias breakdown:** Right: 1
-
-- Itamar Ben-Gvir’s law-and-order agenda has made him one of Israel’s most controversial politicians — and potentially a pivotal player in the country’s next government.
-
-## 38. Police and protesters clash in Paris as demonstrations break out across Europe
-
-**Source:** [Christian Science Monitor World](https://www.csmonitor.com/World/Europe/2026/1024/Police-and-protesters-clash-in-Paris-as-demonstrations-break-out-across-Europe?icid=rss)
-
-**Bias breakdown:** Center: 1
-
-- Demonstrations rocked many European cities Saturday, from Milan to Madrid.
-- The protests encompass a broad range of issues, from education to housing.
-
-## 39. For centuries, one family has been safeguarding an ancient library in Mauritania
-
-**Source:** [Christian Science Monitor World](https://www.csmonitor.com/World/2026/1024/chinguetti-mauritania-library?icid=rss)
-
-**Bias breakdown:** Center: 1
-
-- Mohammed Abdullah Ould Gholam Habott is responsible for taking care of more than 1,400 manuscripts at the Habott Library, one of only a few family-run libraries still active in Chinguetti.
-
-## 40. Palestinians Stream Back to Northern Gaza on Foot
-
-**Source:** [WSJ World News](https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db)
-
-**Bias breakdown:** Center: 1
-
-- Israel allowed displaced Gazans to begin crossing a military zone that bisects the enclave after a deadlock over hostage releases was broken.
-
-## 41. Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes
-
-**Source:** [WSJ World News](https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863)
-
-**Bias breakdown:** Center: 1
-
-- Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.
-
-## 42. Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack
-
-**Source:** [WSJ World News](https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e)
-
-**Bias breakdown:** Center: 1
-
-- Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.
-
-## 43. Suspected Sabotage of Deep-Sea Cable Triggers First NATO-Led Response
-
-**Source:** [WSJ World News](https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba)
-
-**Bias breakdown:** Center: 1
-
-- The alliance mounted its first coordinated response to a suspected sabotage campaign against critical infrastructure after another cable was severed in the Baltic Sea.
-
-## 44. Rwanda-Backed Rebels Enter Congo's Safe-Haven City
-
-**Source:** [WSJ World News](https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8)
-
-**Bias breakdown:** Center: 1
-
-- Residents of Goma reported gunfire and shelling after rebels overran Congolese troops.
-- U.N.
-- officials estimated that more than one million displaced people were now inside the city.
-
-## 45. Cocaine-Funded Gangs Shake Colombia Years After Peace Pact
-
-**Source:** [WSJ World News](https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da)
-
-**Bias breakdown:** Center: 1
-
-- Attacks by powerful militias against civilians reflect the state’s inaction eight years after a peace accord removed a powerful rebel group from the field.
-
-## 46. Italy Supports Saudi Arabia Joining Fighter-Jet Program, PM Meloni Says
-
-**Source:** [WSJ World News](https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1)
-
-**Bias breakdown:** Center: 1
-
-- The U.K., Italy and Japan have already partnered on the Global Combat Air Programme, which aims to put a new stealth fighter with supersonic capability in the skies by 2035.
-
-## 47. Shippers Wary of Red Sea Routes Despite Houthi Pledge to End Targeting
-
-**Source:** [WSJ World News](https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2)
-
-**Bias breakdown:** Center: 1
-
-- The world’s top three container operators said they fear instability in Gaza and broader regional tensions mean continued danger.
-
-## 48. Kim Jong Un Is Doing Everything He Can to Keep North Korea's Youth in Line
-
-**Source:** [WSJ World News](https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de)
-
-**Bias breakdown:** Center: 1
-
-- The dictator, eager to shut out the influence of Hollywood and K-pop, has been exalting a “shock brigade” of 300,000 teens and 20-somethings drafted into flood reconstruction.
-
-## 49. Americans warned to rethink travel to 13 countries amid deadly attacks
-
-**Source:** [New York Post World](https://nypost.com/2026/10/26/world-news/americans-warned-to-rethink-travel-to-13-countries-amid-deadly-attacks/)
+**Source:** [New York Post World](https://nypost.com/2026/10/27/us-news/us-military-kills-5-suspected-narcoterrorists-in-eastern-pacific-drug-boat-strike/)
 
 **Bias breakdown:** Lean Right: 1
 
-- The Houthi attacks caused civilian deaths and widespread travel disruptions, with the State Department warning that the hostilities "have the potential to escalate rapidly beyond that immediate area."
+- The latest attack brings the number of people who have been killed by the U.S.
+- military’s boat strikes to at least 240 in more than 70 strikes.
 
-## 50. Israeli PM Netanyahu and challenger Gadi Eisenkot have very different views on how to end the Iran war
+## 50. Serbia’s student movement topples Vucic’s party after 14 years, but political agenda remains unclear
 
-**Source:** [New York Post World](https://nypost.com/2026/10/26/world-news/how-netanyahu-and-challenger-eisenkot-split-on-iran-war/)
+**Source:** [Fox News World](https://www.foxnews.com/world/serbias-student-movement-topples-vucics-party-after-14-years-political-agenda-remains-unclear)
 
-**Bias breakdown:** Lean Right: 1
+**Bias breakdown:** Right: 1
 
-- Israeli Prime Minister Benjamin Netanyahu and opposition leader Gadi Eisenkot remained split on the best way to handle Iran — as Israeli polls are set to open in hours to decide the country's next leader.
+- Aleksandar Vucic conceded defeat to the Student List after a landslide victory ended his 14-year rule over Serbia in a historic election day.
 

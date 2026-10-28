@@ -1,53 +1,52 @@
 {
-  "date": "2026-10-27",
-  "generated_at": "2026-10-27T13:59:09.775751",
+  "date": "2026-10-28",
+  "generated_at": "2026-10-28T14:52:04.176969",
   "stats": {
     "total": 50,
-    "multi_source": 6,
-    "trending": 3,
-    "blindspots": 0
+    "multi_source": 7,
+    "trending": 4,
+    "blindspots": 1
   },
   "stories": [
     {
-      "title": "Ceasefire negotiated by Melania Trump holds in Russia-occupied Ukrainian city",
-      "link": "https://www.foxnews.com/world/ceasefire-negotiated-melania-trump-holds-russia-occupied-ukrainian-city",
-      "source": "Fox News World",
+      "title": "Flávio Bolsonaro lands in Miami after Brazil election loss",
+      "link": "https://www.theguardian.com/world/2026/oct/28/flavio-bolsonaro-miami-us-fleeing-brazilian-election-defeat",
+      "source": "The Guardian World",
       "all_sources": [
-        "BBC World",
+        "NPR World",
+        "The Guardian World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 2
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 2
+      },
+      "is_blindspot": true,
+      "is_trending": false,
+      "bullet_points": [
+        "Far-right senator and family land in US after crossing from Brazil into Argentina and then flying via Ecuador  A jet carrying the Brazilian far-right senator Flávio Bolsonaro has landed in Miami, Florida, where the losing candidate in Sunday’s presidential election runoff left the airport under police escort without speaking to the press.",
+        "The Gulfstream IV, registered as LV-JQW, left Guayaquil in Ecuador earlier in the day.",
+        "Continue reading..."
+      ],
+      "image_url": null,
+      "published": "Wed, 28 Oct 2026 13:39:01 GMT"
+    },
+    {
+      "title": "Rivals in Israel Election Strike Tone of Triumph, but Outcome Is Far From Clear",
+      "link": "https://www.nytimes.com/live/2026/10/27/world/israel-elections",
+      "source": "NYT World",
+      "all_sources": [
         "NYT World",
+        "NPR World",
         "Fox News World"
       ],
       "bias_breakdown": {
-        "Lean Left": 1,
-        "Center": 1,
-        "Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 33,
-        "center_pct": 33,
-        "right_pct": 33,
-        "total": 3
-      },
-      "is_blindspot": false,
-      "is_trending": true,
-      "bullet_points": [
-        "A ceasefire in the Russian-held Ukrainian city of Oleshky, where first lady Melania Trump said the situation &quot;is dire,&quot; went into effect on Tuesday."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af90/live/ca109650-d1b0-11f1-93f3-e3ba7480d857.jpg",
-      "published": "Tue, 27 Oct 2026 08:41:20 -0400"
-    },
-    {
-      "title": "Local ceasefire brokered by Melania Trump starts in southern Ukraine",
-      "link": "https://www.npr.org/2026/10/27/g-s1-150037/russia-ukraine-war",
-      "source": "NPR World",
-      "all_sources": [
-        "NPR World",
-        "Al Jazeera",
-        "New York Post World"
-      ],
-      "bias_breakdown": {
         "Lean Left": 2,
-        "Lean Right": 1
+        "Right": 1
       },
       "bias_bar": {
         "left_pct": 67,
@@ -58,99 +57,250 @@
       "is_blindspot": false,
       "is_trending": true,
       "bullet_points": [
-        "A localized ceasefire between Ukraine and Russia took effect early Tuesday ahead of a humanitarian mission brokered by U.S.",
-        "first lady Melania Trump, as missile attacks resumed in Kyiv."
+        "Addressing supporters after midnight, Prime Minister Benjamin Netanyahu and Gadi Eisenkot, who leads a bloc of opposition parties, both expressed confidence that they will lead Israel’s next government.",
+        "Vote counting could take days."
       ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F2026-destroyed-cars-seen-highway-145888111_481192.jpg?w%3D1024",
-      "published": "Tue, 27 Oct 2026 01:26:58 -0400"
+      "image_url": "https://static01.nyt.com/images/2026/11/25/multimedia/27israel-live-promo9p/25int-israel-election-explainer-promo-gqlj-mediumSquareAt3X.jpg",
+      "published": "Wed, 28 Oct 2026 12:38:05 +0000"
     },
     {
-      "title": "Reader Q&A: After Lula’s sensational victory in Brazil’s presidential election, post your questions for the Guardian’s Latin America correspondent",
-      "link": "https://www.theguardian.com/world/live/2026/oct/27/brazil-election-reader-questions-lula-bolsonaro",
-      "source": "The Guardian World",
+      "title": "A U.S. cruise ship ends voyage due to fuel costs and passengers lose their homes",
+      "link": "https://www.npr.org/2026/10/28/nx-s1-6020180/us-cruise-ship-ends-voyage-passengers-lose-homes",
+      "source": "NPR World",
       "all_sources": [
-        "Christian Science Monitor World",
-        "The Guardian World",
-        "The Guardian World",
-        "The Guardian World",
-        "The Guardian World",
-        "The Guardian World"
+        "BBC World",
+        "NPR World",
+        "New York Post World"
       ],
       "bias_breakdown": {
-        "Lean Left": 5,
-        "Center": 1
+        "Lean Left": 1,
+        "Center": 1,
+        "Lean Right": 1
       },
       "bias_bar": {
-        "left_pct": 83,
-        "center_pct": 17,
-        "right_pct": 0,
-        "total": 6
+        "left_pct": 33,
+        "center_pct": 33,
+        "right_pct": 33,
+        "total": 3
       },
       "is_blindspot": false,
       "is_trending": true,
       "bullet_points": [
-        "Having lost the first round of Brazil’s presidential election to far right rival Flávio Bolsonaro, incumbent Luiz Inácio Lula da Silva spectacularly triumphed in the second.",
-        "Ask a question: log in or sign up    here    to comment, or email conversations@theguardian.com   After losing the first round of Brazil’s presidential election to far right rival Flávio Bolsonaro, incumbent Luiz Inácio Lula da Silva, better known simply as Lula, pulled off the most stunning political fightback in modern Brazilian history by winning the second, in so doing securing a fourth presidential term.",
-        "It was the first time in Brazilian electoral history that a first-round verdict had been overturned."
+        "The Odyssey set sail two years ago on a three-year voyage to the seven continents marketed as combining long-term living at sea with global travel."
       ],
-      "image_url": null,
-      "published": "Tue, 27 Oct 2026 00:00:03 GMT"
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7eaf/live/69ded4d0-d26f-11f1-a4f1-4fff2e6cf5f3.jpg",
+      "published": "Wed, 28 Oct 2026 03:57:51 -0400"
     },
     {
-      "title": "Jordan Says Its Deadly Strikes in Syria Targeted Islamic State",
-      "link": "https://www.nytimes.com/2026/10/27/world/middleeast/jordan-syria-strikes-attack.html",
-      "source": "NYT World",
+      "title": "Spain high-speed train crash leaves at least 64 dead, scores injured",
+      "link": "https://nypost.com/2026/10/28/world-news/spain-train-crash-leaves-at-least-10-dead-reports/",
+      "source": "New York Post World",
+      "all_sources": [
+        "Deutsche Welle Top Stories",
+        "NYT World",
+        "New York Post World",
+        "Fox News World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1,
+        "Center": 1,
+        "Lean Right": 1,
+        "Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 25,
+        "center_pct": 25,
+        "right_pct": 50,
+        "total": 4
+      },
+      "is_blindspot": false,
+      "is_trending": true,
+      "bullet_points": [
+        "A high-speed train slammed into the rear of another train that had stopped, derailing two cars and killing at least 64 people on Wednesday in central Spain, authorities said."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/10/28/multimedia/28spain-crash-header-promo1/28spain-crash-header-ctmh-mediumSquareAt3X.jpg",
+      "published": "Wed, 28 Oct 2026 03:00:23 -0700"
+    },
+    {
+      "title": "ISIS-supporting minor attacks cop guarding Israeli Embassy in Belgrade with knives – before being fatally shot: report",
+      "link": "https://nypost.com/2026/10/28/world-news/isis-supporting-minor-attacks-cop-guarding-israeli-embassy-in-belgrade-with-knives-before-being-fatally-shot-report/",
+      "source": "New York Post World",
       "all_sources": [
         "BBC World",
+        "NYT World",
+        "New York Post World",
+        "Fox News World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1,
+        "Center": 1,
+        "Lean Right": 1,
+        "Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 25,
+        "center_pct": 25,
+        "right_pct": 50,
+        "total": 4
+      },
+      "is_blindspot": false,
+      "is_trending": true,
+      "bullet_points": [
+        "An assailant with knives attacked a police officer from an elite unit guarding the Israeli Embassy in Belgrade just after midnight on Wednesday, police said.",
+        "The officer responded by fatally shooting the attacker."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8aa/live/94f66d00-d2b4-11f1-8cf0-c5d120932f9f.jpg",
+      "published": "Wed, 28 Oct 2026 02:04:44 -0700"
+    },
+    {
+      "title": "Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr",
+      "link": "https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown",
+      "source": "The Guardian World",
+      "all_sources": [
+        "The Guardian World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Warnings of escalating clampdown on press freedom come after Cairo court convicts Attalah of managing an unlicensed website  Lina Attalah, a prominent Egyptian journalist and the editor-in-chief of the news outlet Mada Masr, has been released from detention by Egypt’s authorities and had her website ordered to be shut down by a court amid an intensifying crackdown on independent media in the country.",
+        "Attalah was taken briefly into custody after a Cairo court convicted her of managing an unlicensed website, prompting fresh international concerns over press freedom in Egypt.",
+        "Continue reading..."
+      ],
+      "image_url": null,
+      "published": "Wed, 28 Oct 2026 14:16:24 GMT"
+    },
+    {
+      "title": "Espionage threats blur lines between security and dissent in Iran",
+      "link": "https://www.aljazeera.com/news/2026/10/28/iran-faces-espionage-attempts-but-using-threat-for-crackdown-on-opponents?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Iran is using the threat of spy networks to detain and execute political opponents, analysts say."
+      ],
+      "image_url": null,
+      "published": "Wed, 28 Oct 2026 14:03:08 +0000"
+    },
+    {
+      "title": "Why are three of the UK’s four nuclear deterrent submarines at sea?",
+      "link": "https://www.aljazeera.com/news/2026/10/28/why-are-three-of-the-uks-four-nuclear-deterrent-submarines-at-sea?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The deployment marks the first time in years that three Vanguard-class vessels have been at sea at the same time."
+      ],
+      "image_url": null,
+      "published": "Wed, 28 Oct 2026 13:56:41 +0000"
+    },
+    {
+      "title": "Spanish football postpones 24 Copa del Rey games after train crash",
+      "link": "https://www.aljazeera.com/sports/2026/10/28/spanish-football-postpones-24-copa-del-rey-games-after-train-crash?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Real Madrid and Barcelona offer messages of support following train crash as Spanish football orders Copa postponement ."
+      ],
+      "image_url": null,
+      "published": "Wed, 28 Oct 2026 13:48:09 +0000"
+    },
+    {
+      "title": "Iraqi PM Ali al-Zaidi meets Ahmed al-Sharaa in historic Syria visit",
+      "link": "https://www.aljazeera.com/news/2026/10/28/iraqi-pm-ali-al-zaidi-meets-ahmed-al-sharaa-in-historic-syria-visit?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Talks focused on enhancing trade, reviving Baniyas oil pipeline and achieving stability through cooperation."
+      ],
+      "image_url": null,
+      "published": "Wed, 28 Oct 2026 13:47:39 +0000"
+    },
+    {
+      "title": "Behind Italy’s Protests: Rising Prices and Sinking Hopes",
+      "link": "https://www.nytimes.com/2026/10/28/world/europe/italy-protests-students-truckers-meloni.html",
+      "source": "NYT World",
+      "all_sources": [
         "NYT World"
       ],
       "bias_breakdown": {
-        "Lean Left": 1,
-        "Center": 1
+        "Lean Left": 1
       },
       "bias_bar": {
-        "left_pct": 50,
-        "center_pct": 50,
+        "left_pct": 100,
+        "center_pct": 0,
         "right_pct": 0,
-        "total": 2
+        "total": 1
       },
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "The airstrikes late Monday, which a Syrian agency said killed at least seven civilians, were in retaliation for an attack on a Jordanian church, Jordan said."
+        "Inspired in part by French demonstrations, protests in Italy by students in the north and truckers in the south could affect national elections next year."
       ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/309b/live/f7a08cb0-d1a1-11f1-9ca8-7ff2fe25f975.jpg",
-      "published": "Tue, 27 Oct 2026 13:42:36 +0000"
+      "image_url": "https://static01.nyt.com/images/2026/10/28/multimedia/28int-italy-protests-vjmw/28int-italy-protests-vjmw-mediumSquareAt3X.jpg",
+      "published": "Wed, 28 Oct 2026 13:16:35 +0000"
     },
     {
-      "title": "The Netherlands pulls out of Eurovision 2027 due to Israel ‘sensitivities’",
-      "link": "https://www.aljazeera.com/news/2026/10/27/the-netherlands-pulls-out-of-eurovision-2027-due-to-israel-sensitivities?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "BBC World",
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1,
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 50,
-        "center_pct": 50,
-        "right_pct": 0,
-        "total": 2
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Dutch withdrawal is the latest in a number of boycotts by countries unhappy about Israel&#039;s inclusion."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0cb2/live/07dc3780-d208-11f1-b3b6-c1e79e957e40.jpg",
-      "published": "Tue, 27 Oct 2026 13:29:47 +0000"
-    },
-    {
-      "title": "Qatar’s Emir meets Iran’s Pezeshkian in Moscow",
-      "link": "https://www.aljazeera.com/news/2026/10/27/qatars-emir-meets-irans-pezeshkian-in-moscow?traffic_source=rss",
+      "title": "Real Madrid apologise to Chinese people for Mbappe’s Mao ‘dictator’ remark",
+      "link": "https://www.aljazeera.com/sports/2026/10/28/real-madrid-apologise-to-chinese-people-for-mbappes-mao-dictator-remark?traffic_source=rss",
       "source": "Al Jazeera",
       "all_sources": [
         "Al Jazeera"
@@ -167,14 +317,135 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "The pair discussed energy cooperation and ways to enhance bilateral relations, Iranian state media reported."
+        "Mocking Mao Zedong is taboo in China, which is a lucrative market for players and teams such as Kylian Mbappe&#039;s Real."
       ],
       "image_url": null,
-      "published": "Tue, 27 Oct 2026 13:26:32 +0000"
+      "published": "Wed, 28 Oct 2026 12:56:24 +0000"
     },
     {
-      "title": "Mbappé sorry for 'ill-judged' Mao remark after backlash in China",
-      "link": "https://www.bbc.co.uk/news/articles/cv62yg0erp8zo?at_medium=RSS&at_campaign=rss",
+      "title": "Ballon d’Or win will help keep Kane at Bayern, says Germany’s Matthaus",
+      "link": "https://www.aljazeera.com/sports/2026/10/28/ballon-dor-win-will-help-keep-kane-at-bayern-says-germanys-matthaus?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Former World Cup winner Lothar Matthaus says relationship between Harry Kane and club Bayern Munich is &#039;perfect&#039;."
+      ],
+      "image_url": null,
+      "published": "Wed, 28 Oct 2026 12:53:34 +0000"
+    },
+    {
+      "title": "Tens of thousands flee Ethiopia fighting into neighbouring Kenya",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/tens-of-thousands-flee-ethiopia-fighting-into-neighbouring-kenya?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Tens of thousands of people have crossed into Kenya, fleeing fighting between regional forces in Ethiopia’s Moyale town."
+      ],
+      "image_url": null,
+      "published": "Wed, 28 Oct 2026 12:51:39 +0000"
+    },
+    {
+      "title": "Pakistan’s Rauf sanctioned for conduct contrary to ‘spirit’ of cricket",
+      "link": "https://www.aljazeera.com/sports/2026/10/28/haris-rauf-sanctioned-england-penalised-for-slow-over-rate-in-odi-thriller-pakistan?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "One demerit point added to the Pakistan pacer Haris Rauf’s disciplinary record for conduct during ODI against England."
+      ],
+      "image_url": null,
+      "published": "Wed, 28 Oct 2026 12:44:18 +0000"
+    },
+    {
+      "title": "Victims of Jordan’s air strikes in Syria",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/28/victims-of-jordans-air-strikes-in-syria?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Jordan’s air strikes in southern Syria killed at least seven people, including three children.",
+        "Here are their stories."
+      ],
+      "image_url": null,
+      "published": "Wed, 28 Oct 2026 12:35:19 +0000"
+    },
+    {
+      "title": "The Ocean ‘Was the Color of Chocolate.’ Mexico Declares War on Seaweed.",
+      "link": "https://www.nytimes.com/2026/10/28/world/americas/mexico-seaweed-navy.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "To protect Mexico’s tourism-reliant economy, the Navy is fighting a massive sargassum bloom that dumps thousands of tons of seaweed onto Caribbean beaches daily."
+      ],
+      "image_url": null,
+      "published": "Wed, 28 Oct 2026 12:08:53 +0000"
+    },
+    {
+      "title": "Tanzania celebrates first natural gas discovery in more than 10 years",
+      "link": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "all_sources": [
         "BBC World"
@@ -191,14 +462,90 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "The France star had referred to the former Chinese leader as a \"dictator\" during an interview about memes."
+        "The energy minister described it as a \"major milestone\" for the East African nation."
       ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e10e/live/f7b26730-d1c6-11f1-9381-5f06d29fdf11.jpg",
-      "published": "Tue, 27 Oct 2026 13:25:54 GMT"
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a9d/live/58c194a0-d2ae-11f1-b441-2b33b063138f.png",
+      "published": "Wed, 28 Oct 2026 10:18:40 GMT"
     },
     {
-      "title": "Nanotyrannus skeleton goes to auction in New York with £4.5m price tag",
-      "link": "https://www.bbc.co.uk/news/articles/cmx28de233r2o?at_medium=RSS&at_campaign=rss",
+      "title": "A US woman feared dead was reported alive in Mexico. But cops now say that isn’t true",
+      "link": "https://www.theguardian.com/us-news/2026/oct/28/shayna-feinman-missing-arizona-woman-mexico",
+      "source": "The Guardian World",
+      "all_sources": [
+        "The Guardian World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Mexican police had said they found Shayna Feinman in Tijuana, raising the hopes of missing Arizonan’s family   Arizona  authorities say their  Mexican  counterparts were resoundingly mistaken when they publicly claimed recently that they found alive a woman who was feared slain after disappearing in 2024 – a turn of events that her sister has called “turmoil” and “heartbreaking”.",
+        "The case in question centers on Shayna Feinman, who was reported missing in rural Yavapai county, Arizona, in March 2024 at age 38.",
+        "Continue reading..."
+      ],
+      "image_url": null,
+      "published": "Wed, 28 Oct 2026 10:00:05 GMT"
+    },
+    {
+      "title": "Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official",
+      "link": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official",
+      "source": "The Guardian World",
+      "all_sources": [
+        "The Guardian World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Jean Kaseya, of the Africa CDC, warns of the illness spreading like Covid unless more funding is secured to increase preparedness and possible treatment  The “unprecedented”  spread of the Ebola outbreak  means it could reach the UK and other countries, according to one of Africa’s top health officials.",
+        "As the current outbreak reached  10,000 cases, with almost 5,000 deaths , Dr Jean Kaseya, director general of the Africa Centres for Disease Control and Prevention (CDC), compared the outbreak to the Covid pandemic, which first took hold in China before spreading to countries across the world, claiming millions of lives, and ravaging health systems and economies.",
+        "Continue reading..."
+      ],
+      "image_url": null,
+      "published": "Wed, 28 Oct 2026 09:37:49 GMT"
+    },
+    {
+      "title": "Rare Wartime Dissent in Moscow Over Plans to Dismantle Russia’s ‘Eiffel Tower’",
+      "link": "https://www.nytimes.com/2026/10/28/world/europe/russia-shukhov-radio-tower.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "A state broadcaster says it cannot afford the restoration of a 1922 steel tower, prompting rare wartime dissent and a movement to save the Modernist masterpiece."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/10/29/multimedia/29int-russia-tower-01-mwcj/29int-russia-tower-01-mwcj-mediumSquareAt3X.jpg",
+      "published": "Wed, 28 Oct 2026 09:04:44 +0000"
+    },
+    {
+      "title": "Anger in Kenya over extradition hearing delay for ex-British soldier accused of murdering woman",
+      "link": "https://www.bbc.co.uk/news/articles/cmly073ql392o?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "all_sources": [
         "BBC World"
@@ -215,17 +562,41 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "The auction of the rare skeleton comes amid debate in the scientific community about whether dinosaur remains should end up in private hands or public view."
+        "No official reason has been given for postponing next month’s hearing to May 2027, the family says."
       ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a77/live/3552a3b0-d1ff-11f1-a701-fddedf244c16.jpg",
-      "published": "Tue, 27 Oct 2026 13:23:32 GMT"
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d546/live/12047420-d2a3-11f1-9aa6-4f9b16403e50.png",
+      "published": "Wed, 28 Oct 2026 08:28:39 GMT"
     },
     {
-      "title": "Iranians brace for renewed attacks after Israeli, US elections",
-      "link": "https://www.aljazeera.com/news/2026/10/27/iranians-will-their-eyes-on-the-sky-for-bomb-when-israeli-us-elections-end?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "IDF kills three Hamas terrorists in Gaza airstrikes, including Oct. 7 kidnapper",
+      "link": "https://nypost.com/2026/10/28/world-news/idf-kills-three-hamas-terrorists-in-gaza-including-oct-7-kidnapper/",
+      "source": "New York Post World",
       "all_sources": [
-        "Al Jazeera"
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Ahmed Muhammad Ahmed Baraka took part in the abduction of several Israelis, including Alexander Dancyg from Kibbutz Nir Oz, and later helped hold hostages, according to the IDF."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fisraeli-army-merkava-main-battle-146738223.jpg?w%3D1024",
+      "published": "Wed, 28 Oct 2026 07:45:37 -0700"
+    },
+    {
+      "title": "Israel's election too close to call. And, the Ebola outbreak reaches grim milestone",
+      "link": "https://www.npr.org/2026/10/28/g-s1-150313/up-first-newsletter-midterm-campaign-trump-israel-elections-federal-reserve-ebola-outbreak",
+      "source": "NPR World",
+      "all_sources": [
+        "NPR World"
       ],
       "bias_breakdown": {
         "Lean Left": 1
@@ -239,17 +610,67 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "The US and Israel have teased strikes around their elections, particularly against Iran&#039;s civilian infrastructure."
+        "Israeli voters turned out in record numbers, and the results remain too close to call.",
+        "And, more than 10,000 people have been infected with Ebola since the outbreak was first declared in May."
       ],
       "image_url": null,
-      "published": "Tue, 27 Oct 2026 13:23:32 +0000"
+      "published": "Wed, 28 Oct 2026 07:28:55 -0400"
     },
     {
-      "title": "India-China border face-offs test Modi six years after deadly clash",
-      "link": "https://www.aljazeera.com/news/2026/10/27/india-china-border-face-offs-test-modi-six-years-after-deadly-clash?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "Apocalyptic Super El Niño map shows where most people will die from record-breaking calamity",
+      "link": "https://nypost.com/2026/10/28/science/super-el-nino-map-shows-where-most-people-will-die-study/",
+      "source": "New York Post World",
       "all_sources": [
-        "Al Jazeera"
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "An alarming map from the Climate Impact Lab shows where Super El Niño will cause the most additional heat deaths as the weather anomaly gains steam in the Pacific."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F000-lives-risk-next-six-146734608.jpg?quality%3D90%26",
+      "published": "Wed, 28 Oct 2026 07:26:29 -0700"
+    },
+    {
+      "title": "Netanyahu barely hanging on after Israeli election — what that means for Iran war",
+      "link": "https://nypost.com/2026/10/28/world-news/what-netanyahus-lead-means-for-iran-war-after-israeli-election/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "“The Iranian regime did not expect that Netanyahu would be the biggest party.",
+        "They are afraid of him because he talks against Iran about attacking Iran again,\" Beni Sabti, an Iran expert at the Institute for National Security Studies (INSS) in Israel, told the Post."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fisraeli-prime-minister-likud-party-146697282.jpg?w%3D1024",
+      "published": "Wed, 28 Oct 2026 07:00:31 -0700"
+    },
+    {
+      "title": "King Charles to discuss legacy of slavery with Commonwealth leaders at summit",
+      "link": "https://www.theguardian.com/world/2026/oct/28/king-charles-confirms-he-will-discuss-legacy-of-slavery-at-commonwealth-summit",
+      "source": "The Guardian World",
+      "all_sources": [
+        "The Guardian World"
       ],
       "bias_breakdown": {
         "Lean Left": 1
@@ -263,10 +684,354 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Despite thaw in India-China ties, border tensions again challenge PM Modi&#039;s strongman image at home."
+        "Royal tour of Caribbean comes as poll suggests majority support among younger Britons for dialogue on slavery reparations  King Charles has confirmed he will discuss the legacy of slavery at a summit with Commonwealth leaders as he begins his Caribbean tour.",
+        "The king arrived in the Bahamas on Tuesday to a ceremonial welcome and attended a youth rally at Clifford Park, the site where the country officially gained its independence from British colonial rule in 1973.",
+        "Continue reading..."
       ],
       "image_url": null,
-      "published": "Tue, 27 Oct 2026 13:15:32 +0000"
+      "published": "Wed, 28 Oct 2026 06:55:35 GMT"
+    },
+    {
+      "title": "Flávio Bolsonaro flees Brazil after presidential election loss, reports say",
+      "link": "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled",
+      "source": "The Guardian World",
+      "all_sources": [
+        "The Guardian World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Far-right senator and his family boarded private plane to Ecuador after crossing border to Argentina, Argentina’s government confirms  The far-right senator  Flávio Bolsonaro  has reportedly fled Brazil and is on his way to the United States after losing Sunday’s presidential election to the leftwing incumbent, Luiz Inácio Lula da Silva, who called the act “shameful”.",
+        "A report by the news website  Metrópoles , citing people close to the politician’s family, said he was en route to the US.",
+        "“The plane is in flight,” Metrópoles reported, without making clear where it had departed from."
+      ],
+      "image_url": null,
+      "published": "Wed, 28 Oct 2026 06:36:14 GMT"
+    },
+    {
+      "title": "Netanyahu defies exit polls as vote shifts in his favor, but majority remains elusive",
+      "link": "https://www.foxnews.com/world/netanyahu-defies-exit-polls-vote-shifts-his-favor-majority-remains-elusive",
+      "source": "Fox News World",
+      "all_sources": [
+        "Fox News World"
+      ],
+      "bias_breakdown": {
+        "Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "With 70% of votes counted, Benjamin Netanyahu&apos;s Likud leads, but three possible paths to government formation keep Israel&apos;s election uncertain."
+      ],
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/netanyahu-post-election-speech.jpg?ve=1&tl=1",
+      "published": "Wed, 28 Oct 2026 06:10:20 -0400"
+    },
+    {
+      "title": "Israel’s President, Isaac Herzog, Faces a Difficult Choice",
+      "link": "https://www.nytimes.com/2026/10/28/world/middleeast/israel-election-herzog-prime-minister.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The president has a largely ceremonial role, except after elections when it is his responsibility to pick a candidate for prime minister."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/10/28/multimedia/28israel-PresidentHerzog-mwqh/28israel-PresidentHerzog-mwqh-mediumSquareAt3X.jpg",
+      "published": "Wed, 28 Oct 2026 05:18:10 +0000"
+    },
+    {
+      "title": "Trump's relationship with Putin comes under fire ahead of the midterms",
+      "link": "https://www.npr.org/2026/10/28/nx-s1-6009262/trumps-relationship-with-putin-comes-under-fire-ahead-of-the-midterms",
+      "source": "NPR World",
+      "all_sources": [
+        "NPR World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "President Trump's relationship with Russia's Vladimir Putin is under scrutiny again as the president makes deals with Moscow ahead of the midterms."
+      ],
+      "image_url": null,
+      "published": "Wed, 28 Oct 2026 04:47:18 -0400"
+    },
+    {
+      "title": "King acknowledges 'suffering of the past' as Caribbean tour begins",
+      "link": "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The King is on a nine-day tour that will take him to three countries, including the Bahamas, Guyana and Antigua and Barbuda."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f0e4/live/7d77ba00-d249-11f1-8ba3-9fd3e261415f.jpg",
+      "published": "Wed, 28 Oct 2026 04:32:36 GMT"
+    },
+    {
+      "title": "Thomas Markle’s granddaughter ‘not surprised’ at child-sex allegations: Something’off’ about him",
+      "link": "https://nypost.com/2026/10/28/world-news/thomas-markles-granddaughter-says-shes-not-surprised-at-child-sex-allegations-because-something-was-always-off-about-him/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Thomas Markle’s granddaughter has claimed the child porn allegations he faces are not a surprise – claiming there was something “off” about him."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fthomas-markle-little-grocery-shopping-146465639.jpg?w%3D1024",
+      "published": "Wed, 28 Oct 2026 04:13:24 -0700"
+    },
+    {
+      "title": "A Chinese Port Could Be a Lifeline for Spain, but Also a Threat",
+      "link": "https://www.nytimes.com/2026/10/28/world/europe/spain-saic-ferrol-china.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Residents say a proposed Chinese car plant in northern Spain will create new jobs.",
+        "Others say it’s a long-term risk, distilling a debate about the costs and perks of ties to China."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/10/28/multimedia/28int-spain-china-01-bckv/28int-spain-china-01-bckv-mediumSquareAt3X.jpg",
+      "published": "Wed, 28 Oct 2026 04:01:09 +0000"
+    },
+    {
+      "title": "Netanyahu’s Likud leads Israeli election count with 27 seats as ballots still being tallied",
+      "link": "https://nypost.com/2026/10/28/world-news/netanyahus-right-wing-bloc-ahead-of-opposition-as-post-election-vote-count-continues/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Partial results projected Netanyahu’s bloc securing the most seats, with Likud the largest party, albeit without a clear path to a governing majority."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Femployees-central-elections-committee-26th-146633532.jpg?w%3D1024",
+      "published": "Wed, 28 Oct 2026 01:53:24 -0700"
+    },
+    {
+      "title": "Man charged with posing as Sydney Hanukkah terror attack victim to get compensation",
+      "link": "https://nypost.com/2026/10/28/world-news/sydney-hanukkah-terror-attack-fake-victim-charged-with-lying-to-gain-financial-compensation/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The man, whose name has not been made public, claimed to have been wounded at Bondi Beach on Dec.",
+        "14, 2025, when two gunmen opened fire on a crowd, killing 15 people aged 10 to 87 and wounding around 40 people."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Ffile-emergency-workers-survivors-bondi-146705689.jpg?w%3D1024",
+      "published": "Wed, 28 Oct 2026 00:30:32 -0700"
+    },
+    {
+      "title": "Trump shows off tanker with ‘1m barrels of oil’ and floats Venezuela as 51st state",
+      "link": "https://www.theguardian.com/us-news/2026/oct/27/trump-oil-tanker-venezuela",
+      "source": "The Guardian World",
+      "all_sources": [
+        "The Guardian World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "President at Texas campaign rally hails deal struck with post-Maduro government as ‘greatest oil victory in history’  Donald Trump suggested Venezuela would become the 51st state of the United States on Tuesday as the president showed off a tanker he claimed had “one million barrels of oil on it” from the country, nine months after  deposing  its president.",
+        "At a campaign rally in Corpus Christ, Texas, Trump touted a  US oil deal  with Venezuela, which the US attacked in January, capturing its long-serving leader  Nicolás Maduro .",
+        "Continue reading..."
+      ],
+      "image_url": null,
+      "published": "Tue, 27 Oct 2026 23:07:06 GMT"
+    },
+    {
+      "title": "Ceasefire extended across Ukraine's Kherson region, officials say",
+      "link": "https://www.bbc.co.uk/news/articles/c6lye1w9p2l8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The truce was originally planned for the stranded residents of Oleshky, and Russia and Ukraine say no breaches have been reported."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97b7/live/fc424bf0-d23c-11f1-904a-5b90e72e87ff.jpg",
+      "published": "Tue, 27 Oct 2026 22:11:08 GMT"
+    },
+    {
+      "title": "Ex-wife of Zimbabwe's vice-president freed after collapse of attempted murder case",
+      "link": "https://www.bbc.co.uk/news/articles/c6e3xgq11jqlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Marry Mubaiwa had been held on remand for seven years after being charged in 2019 for her then husband's attempted murder."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46a2/live/fff967e0-d239-11f1-904a-5b90e72e87ff.jpg",
+      "published": "Tue, 27 Oct 2026 21:09:12 GMT"
+    },
+    {
+      "title": "European Leaders Split Over Phone Call to Putin",
+      "link": "https://www.nytimes.com/2026/10/27/world/europe/norway-finland-putin-call.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The diplomatic outreach was part of an effort to push talks to end the war in Ukraine, though it was not welcomed by all European leaders."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/10/27/multimedia/27int-putin-call-kmch/27int-putin-call-kmch-mediumSquareAt3X.jpg",
+      "published": "Tue, 27 Oct 2026 20:49:50 +0000"
+    },
+    {
+      "title": "Dutch zookeeper dies after being mauled by leopard",
+      "link": "https://www.bbc.co.uk/news/articles/crwyq90gwg8jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The woman began her career at the park when she was 17 and had worked there on-and-off for four decades."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d5f/live/cfa3dd20-d22d-11f1-b8e4-17c9744a7f8e.jpg",
+      "published": "Tue, 27 Oct 2026 19:30:37 GMT"
     },
     {
       "title": "Norway and Finland leaders hold rare call with Putin",
@@ -287,62 +1052,14 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "This is the first time European leaders have had direct communication with Russia's president in more than a year."
+        "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said."
       ],
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/62a7/live/0a738c90-d1fa-11f1-8c9f-8d21fef6ffad.jpg",
-      "published": "Tue, 27 Oct 2026 13:12:24 GMT"
+      "published": "Tue, 27 Oct 2026 18:28:23 GMT"
     },
     {
-      "title": "Al Jazeera meets iconic pro-Palestine Japanese activist",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/al-jazeera-meets-iconic-pro-palestine-japanese-activist?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Japanese activist Yusuke Furusawa speaks to Al Jazeera about why he keeps protesting Israel’s genocidal war on Gaza."
-      ],
-      "image_url": null,
-      "published": "Tue, 27 Oct 2026 13:06:28 +0000"
-    },
-    {
-      "title": "Kylian Mbappe apologises after ‘dictator’ comment angers Chinese fans",
-      "link": "https://www.aljazeera.com/sports/2026/10/27/kylian-mbappe-apologises-after-dictator-comment-angers-chinese-fans?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "&#039;My comment was ill-judged and I now understand that it hurt many people,&#039; Mbappe says after Chinese brands dropped him."
-      ],
-      "image_url": null,
-      "published": "Tue, 27 Oct 2026 12:47:49 +0000"
-    },
-    {
-      "title": "King Charles Faces High Stakes Test With Caribbean Tour",
-      "link": "https://www.nytimes.com/2026/10/27/world/europe/king-charles-caribbean-tour-uk-commonwealth.html",
+      "title": "Trump Explores Lifting Sanctions on Russia’s Flagship Investment Fund",
+      "link": "https://www.nytimes.com/2026/10/27/us/politics/russia-fund-sanctions-trump.html",
       "source": "NYT World",
       "all_sources": [
         "NYT World"
@@ -359,184 +1076,15 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "The king will confront calls for reparations and apologies for his country’s colonial past as he attends the Commonwealth heads of government meeting."
+        "The move would be the latest U.S.",
+        "concession to Moscow as President Trump pursues economic incentives he hopes will secure an end to war in Ukraine."
       ],
-      "image_url": "https://static01.nyt.com/images/2026/10/27/multimedia/27int-uk-king-charles-abroad-01-chbj/27int-uk-king-charles-abroad-01-chbj-mediumSquareAt3X.jpg",
-      "published": "Tue, 27 Oct 2026 12:02:49 +0000"
+      "image_url": "https://static01.nyt.com/images/2026/10/26/multimedia/26dc-russia-sanctions-mvcg/26dc-russia-sanctions-mvcg-mediumSquareAt3X-v2.jpg",
+      "published": "Tue, 27 Oct 2026 17:30:52 +0000"
     },
     {
-      "title": "The Ballon d’Or has a narrow definition of footballing greatness",
-      "link": "https://www.aljazeera.com/opinions/2026/10/27/the-ballon-dor-has-a-narrow-definition-of-footballing-greatness?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Celebrity, bias towards players in attack and European dominance undermine football’s most prestigious individual award."
-      ],
-      "image_url": null,
-      "published": "Tue, 27 Oct 2026 11:49:59 +0000"
-    },
-    {
-      "title": "Ex-FBI chief James Comey faces federal charges for third time",
-      "link": "https://www.bbc.co.uk/news/articles/ckly0xqjnlwvo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "all_sources": [
-        "BBC World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Comey's lawyers say the case stems from alleged disclosure of classified information to the New York Times in 2016."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21c9/live/16bb9ba0-d187-11f1-8d7e-c9ff4ede405b.jpg",
-      "published": "Tue, 27 Oct 2026 11:44:54 GMT"
-    },
-    {
-      "title": "Former PLO official says Netanyahu-Eisenkot coalition could be possible",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/27/former-plo-official-says-netanyahu-eisenkot-coalition-could-be-possible?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Former PLO official says Israel’s election outcome remains uncertain, with polls divided between Netanyahu and Eisenkot."
-      ],
-      "image_url": null,
-      "published": "Tue, 27 Oct 2026 11:19:46 +0000"
-    },
-    {
-      "title": "India Evacuates Tens of Thousands as Cyclone Arnab Approaches",
-      "link": "https://www.nytimes.com/2026/10/27/world/asia/india-cyclone-arnab-evacuations-nepal.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The storm, Arnab, is forecast to make landfall Wednesday on the country’s eastern coast and then cut inland and head north toward Nepal."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/10/27/multimedia/27int-india-cyclone-gqwp/27int-india-cyclone-gqwp-mediumSquareAt3X.jpg",
-      "published": "Tue, 27 Oct 2026 11:09:53 +0000"
-    },
-    {
-      "title": "5 Key Moments From Israel’s Pivotal Election Campaign",
-      "link": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-campaign-highlights.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "New political alliances, a contentious A.I.",
-        "video and accusations about security failures all featured in the run-up to Tuesday’s election, widely seen as one of the most consequential in Israeli history."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/10/27/multimedia/27israel-campaign-recap-jtlz/27israel-campaign-recap-jtlz-mediumSquareAt3X.jpg",
-      "published": "Tue, 27 Oct 2026 09:45:05 +0000"
-    },
-    {
-      "title": "Two Visions, Two Israels, One Nation in the Balance",
-      "link": "https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-identity.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "As Israel votes, hard-right nationalism competes with the country’s founding ideals.",
-        "The outcome could shape Israel’s identity for years."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/10/22/multimedia/22Israel-Identity-add-01-jfpz/22Israel-Identity-add-01-jfpz-mediumSquareAt3X.jpg",
-      "published": "Tue, 27 Oct 2026 09:06:47 +0000"
-    },
-    {
-      "title": "Twitch streamer with 1.7M followers found dead days after haunting final post",
-      "link": "https://nypost.com/2026/10/27/world-news/twitch-streamer-komanche-dead-days-after-haunting-final-post/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "A tragic Twitch streamer died in a suspected suicide age 30 – just days after penning a worrying social media post."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fbeloved-twitch-streamer-komanche-died-146619258.jpg?w%3D857",
-      "published": "Tue, 27 Oct 2026 08:36:34 -0400"
-    },
-    {
-      "title": "Democrats have a midterm edge, poll shows. And, Israelis vote in high-stakes election",
-      "link": "https://www.npr.org/2026/10/27/g-s1-150052/up-first-newsletter-midterms-polling-data-voter-fraud-israel-prime-minister-elections",
+      "title": "Israel's voter turnout soars as Netanyahu faces a tight election",
+      "link": "https://www.npr.org/2026/10/27/nx-s1-6019381/israel-elections",
       "source": "NPR World",
       "all_sources": [
         "NPR World"
@@ -553,63 +1101,14 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Democrats are still holding a slight edge with Election Day a week away, according to a new NPR/PBS News/Marist poll.",
-        "And, Israelis are casting their votes in an election that could change leadership."
+        "Israelis voted in their highest numbers in over two decades in a tense national election to decide whether to stick with Prime Minister Benjamin Netanyahu's far-right coalition."
       ],
       "image_url": null,
-      "published": "Tue, 27 Oct 2026 07:39:52 -0400"
+      "published": "Tue, 27 Oct 2026 16:45:39 -0400"
     },
     {
-      "title": "China’s economy may never overtake America — and it’s all due to an ill-fated 47-year-old policy",
-      "link": "https://nypost.com/2026/10/27/world-news/why-chinas-economy-may-never-overtake-the-us/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Yi told The Post that official Chinese statistics have systematically inflated the country's birthrates and total population figures going back decades."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Ffamily-cross-street-beijing-october-146560639.jpg?w%3D1024",
-      "published": "Tue, 27 Oct 2026 06:30:00 -0400"
-    },
-    {
-      "title": "Jay-Z to perform at Super Bowl half-time show",
-      "link": "https://www.bbc.co.uk/news/articles/cq8ezg4364epo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "all_sources": [
-        "BBC World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The rapper has been involved with the show for years but has never before performed at the NFL championship game."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d63/live/e4feb0b0-d1d2-11f1-a701-fddedf244c16.jpg",
-      "published": "Tue, 27 Oct 2026 05:05:15 GMT"
-    },
-    {
-      "title": "Israelis abroad flock home for ‘most important election we’ve ever had’",
-      "link": "https://www.csmonitor.com/World/Middle-East/2026/1027/israeli-expat-voters-netanyahu-democracy-gaza-iran?icid=rss",
+      "title": "US and Israel threaten new Iran strikes. Would the result be any different?",
+      "link": "https://www.csmonitor.com/World/Middle-East/2026/1027/iran-israel-trump-threats-futility-lessons?icid=rss",
       "source": "Christian Science Monitor World",
       "all_sources": [
         "Christian Science Monitor World"
@@ -626,575 +1125,92 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Democracy.",
-        "Netanyahu’s long tenure.",
-        "For Israelis returning home to vote, the list of momentous issues is long."
+        "The push in the U.S.",
+        "and Israel toward renewing major hostilities with Iran, after months of relative stalemate, is raising questions about what lessons have been learned – or not – by previous destructive rounds."
       ],
       "image_url": null,
-      "published": "Tue, 27 Oct 2026 05:00:11 EDT"
+      "published": "Tue, 27 Oct 2026 16:20:30 EDT"
     },
     {
-      "title": "What Is the Commonwealth? What to Know as King Charles Hosts Meeting in the Caribbean",
-      "link": "https://www.nytimes.com/2026/10/27/world/europe/commonwealth-king-charles-chogm.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "King Charles III is traveling to host a meeting of the leaders of more than 50 nations."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/10/27/multimedia/27int-uk-commonwealth-wtk-vhpc/27int-uk-commonwealth-wtk-vhpc-mediumSquareAt3X.jpg",
-      "published": "Tue, 27 Oct 2026 04:01:13 +0000"
-    },
-    {
-      "title": "Israel heads into deeply divided election as Oct 7 reckoning looms: What to know",
-      "link": "https://www.foxnews.com/world/israel-heads-deeply-divided-election-oct-7-reckoning-looms-what-know",
+      "title": "Netanyahu gains overnight as Israel election heads toward political deadlock",
+      "link": "https://www.foxnews.com/world/israelis-vote-record-numbers-first-national-election-since-oct-7-hamas-massacre",
       "source": "Fox News World",
       "all_sources": [
+        "Christian Science Monitor World",
         "Fox News World"
       ],
       "bias_breakdown": {
+        "Center": 1,
         "Right": 1
       },
       "bias_bar": {
         "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Will Prime Minister Benjamin Netanyahu hold power?",
-        "Israel&apos;s election becomes a referendum on Oct.",
-        "7 failures as no bloc secures a clear majority."
-      ],
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/Eisenkot-Event.jpg?ve=1&tl=1",
-      "published": "Tue, 27 Oct 2026 04:00:35 -0400"
-    },
-    {
-      "title": "Lula's comeback in Brazil dents Trump's ambitions for Latin America",
-      "link": "https://www.bbc.co.uk/news/articles/cq62yg6rggj0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "all_sources": [
-        "BBC World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The Trump-Lula relationship may have thawed, but several issues could reignite tensions between the two leaders."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05b2/live/06753110-d192-11f1-8c41-0bbbeafdc6d4.jpg",
-      "published": "Tue, 27 Oct 2026 01:46:38 GMT"
-    },
-    {
-      "title": "Trump Says Colombia Will Accept Deportees, Ending Tariff Standoff",
-      "link": "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497",
-      "source": "WSJ World News",
-      "all_sources": [
-        "WSJ World News"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The president has made immigration an early priority to start second term, with ICE making more than 900 arrests Sunday."
-      ],
-      "image_url": null,
-      "published": "Sun, 26 Jan 2025 22:59:00 -0500"
-    },
-    {
-      "title": "Israel drills for surprise attack with massive military exercise as expert invokes 1973 war",
-      "link": "https://www.foxnews.com/world/israel-drills-surprise-attack-massive-military-exercise-expert-invokes-1973-war",
-      "source": "Fox News World",
-      "all_sources": [
-        "Fox News World"
-      ],
-      "bias_breakdown": {
-        "Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Israel&apos;s largest military drill in years mobilizes multiple divisions to counter border infiltrations, as an analyst invokes the 1973 Yom Kippur War."
-      ],
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/israeli-soldiers-northern-israel-.jpg?ve=1&tl=1",
-      "published": "Sun, 25 Oct 2026 20:42:24 -0400"
-    },
-    {
-      "title": "Brazil's left-wing President Lula elected for fourth term",
-      "link": "https://www.npr.org/2026/10/25/nx-s1-6016299/brazil-lula-bolsonaro-election",
-      "source": "NPR World",
-      "all_sources": [
-        "NPR World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Brazil's 80-year-old left-wing leader President Lula defeats Flávio Bolsonaro in a bitterly contested runoff."
-      ],
-      "image_url": null,
-      "published": "Sun, 25 Oct 2026 20:35:00 -0400"
-    },
-    {
-      "title": "Conservative wave hits roadblock in Brazil as Lula holds off Bolsonaro challenge",
-      "link": "https://www.foxnews.com/world/conservative-wave-hits-roadblock-brazil-lula-holds-off-bolsonaro-challenge",
-      "source": "Fox News World",
-      "all_sources": [
-        "Fox News World"
-      ],
-      "bias_breakdown": {
-        "Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "In a tight election, incumbent President Lula da Silva bested Senator Flávio Bolsonaro in Brazil."
-      ],
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/brazil-election-1.png?ve=1&tl=1",
-      "published": "Sun, 25 Oct 2026 20:27:54 -0400"
-    },
-    {
-      "title": "Zelenskyy can leverage Moscow ties from comedy days to make peace deal, says former key aide",
-      "link": "https://www.foxnews.com/world/zelenskyy-can-leverage-moscow-ties-from-comedy-days-make-peace-deal-says-former-key-aide",
-      "source": "Fox News World",
-      "all_sources": [
-        "Fox News World"
-      ],
-      "bias_breakdown": {
-        "Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Ukrainian President Volodymyr Zelenskyy earned his first millions in Moscow and should leverage those ties to negotiate with Vladimir Putin, says ex-aide."
-      ],
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/02/931/523/putin-zellenskyy.jpg?ve=1&tl=1",
-      "published": "Sun, 25 Oct 2026 18:51:42 -0400"
-    },
-    {
-      "title": "U.S. influence in Latin America at stake in runoff election in Brazil",
-      "link": "https://www.npr.org/2026/10/25/nx-s1-6011223/u-s-influence-in-latin-america-at-stake-in-runoff-election-in-brazil",
-      "source": "NPR World",
-      "all_sources": [
-        "Deutsche Welle Top Stories",
-        "NPR World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1,
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 50,
         "center_pct": 50,
-        "right_pct": 0,
+        "right_pct": 50,
         "total": 2
       },
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "A polarizing presidential election runoff in Latin America's largest economy and biggest democracy pits leftist Lula da Silva's legacy against Trump ally Flavio Bolsonaro, son of the former Brazilian president."
+        "Israel election exit polls show Benjamin Netanyahu&apos;s Likud and Gadi Eisenkot&apos;s Yashar locked in a fight with neither bloc reaching 61 Knesset seats."
       ],
-      "image_url": null,
-      "published": "Sun, 25 Oct 2026 17:22:43 -0400"
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/netanyahu-voting.jpg?ve=1&tl=1",
+      "published": "Tue, 27 Oct 2026 16:10:31 -0400"
     },
     {
-      "title": "Venezuela’s Machado returns from exile, as doubts over democracy deepen",
-      "link": "https://www.csmonitor.com/World/Americas/2026/1025/venezuela-machado-exile-maduro-rodriguez?icid=rss",
-      "source": "Christian Science Monitor World",
+      "title": "The Ebola outbreak is breaking records -- and just marked a grim milestone",
+      "link": "https://www.npr.org/2026/10/27/g-s1-150136/ebola-outbreak-milestone-democratic-republic-congo-vaccine",
+      "source": "NPR World",
       "all_sources": [
-        "Christian Science Monitor World"
+        "NPR World"
       ],
       "bias_breakdown": {
-        "Center": 1
+        "Lean Left": 1
       },
       "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
+        "left_pct": 100,
+        "center_pct": 0,
         "right_pct": 0,
         "total": 1
       },
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Exiled Nobel laureate María Corina Machado has returned to Venezuela for the first time since December and is testing the U.S.-backed government."
+        "The current outbreak, first identified in the Democratic Republic of Congo, has now counted 10,000 patients and has spread with great speed.",
+        "How can it be stopped?"
       ],
       "image_url": null,
-      "published": "Sun, 25 Oct 2026 17:05:22 EDT"
+      "published": "Tue, 27 Oct 2026 15:53:12 -0400"
     },
     {
-      "title": "Venezuelan opposition leader María Corina Machado makes surprise return home after nearly a year abroad",
-      "link": "https://www.foxnews.com/world/venezuelan-opposition-leader-maria-corina-machado-surprise-return-home-after-nearly-year-abroad",
+      "title": "Sen Flávio Bolsonaro flees Brazil for US after election loss, will be issued visas: State Department",
+      "link": "https://www.foxnews.com/world/sen-flavio-bolsonaro-reportedly-flees-brazil-us-election-loss",
       "source": "Fox News World",
       "all_sources": [
+        "Christian Science Monitor World",
         "Fox News World"
       ],
       "bias_breakdown": {
+        "Center": 1,
         "Right": 1
       },
       "bias_bar": {
         "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
+        "center_pct": 50,
+        "right_pct": 50,
+        "total": 2
       },
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "María Corina Machado&apos;s return to Venezuela could reshape opposition dynamics as Edmundo González vows to join her and push for democratic elections."
+        "The Brazilian far-right senator has reportedly headed to Florida two days after losing the presidential runoff to leftist incumbent Luiz Inácio Lula da Silva."
       ],
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/10/931/523/machado-nobel-prize.jpg?ve=1&tl=1",
-      "published": "Sun, 25 Oct 2026 13:47:02 -0400"
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/12/931/523/flavio-bolsonaro.jpg?ve=1&tl=1",
+      "published": "Tue, 27 Oct 2026 15:25:32 -0400"
     },
     {
-      "title": "Who is Itamar Ben-Gvir, the Israeli firebrand rising with the populist right across the globe?",
-      "link": "https://www.foxnews.com/world/who-itamar-ben-gvir-israeli-firebrand-rising-populist-right-across-globe",
-      "source": "Fox News World",
-      "all_sources": [
-        "Fox News World"
-      ],
-      "bias_breakdown": {
-        "Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Itamar Ben-Gvir’s law-and-order agenda has made him one of Israel’s most controversial politicians — and potentially a pivotal player in the country’s next government."
-      ],
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/ben-gvir-knesset-speech.jpg?ve=1&tl=1",
-      "published": "Sun, 25 Oct 2026 13:32:13 -0400"
-    },
-    {
-      "title": "Police and protesters clash in Paris as demonstrations break out across Europe",
-      "link": "https://www.csmonitor.com/World/Europe/2026/1024/Police-and-protesters-clash-in-Paris-as-demonstrations-break-out-across-Europe?icid=rss",
-      "source": "Christian Science Monitor World",
-      "all_sources": [
-        "Christian Science Monitor World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Demonstrations rocked many European cities Saturday, from Milan to Madrid.",
-        "The protests encompass a broad range of issues, from education to housing."
-      ],
-      "image_url": null,
-      "published": "Sat, 24 Oct 2026 13:23:31 EDT"
-    },
-    {
-      "title": "For centuries, one family has been safeguarding an ancient library in Mauritania",
-      "link": "https://www.csmonitor.com/World/2026/1024/chinguetti-mauritania-library?icid=rss",
-      "source": "Christian Science Monitor World",
-      "all_sources": [
-        "Christian Science Monitor World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Mohammed Abdullah Ould Gholam Habott is responsible for taking care of more than 1,400 manuscripts at the Habott Library, one of only a few family-run libraries still active in Chinguetti."
-      ],
-      "image_url": null,
-      "published": "Sat, 24 Oct 2026 05:00:11 EDT"
-    },
-    {
-      "title": "Palestinians Stream Back to Northern Gaza on Foot",
-      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "source": "WSJ World News",
-      "all_sources": [
-        "WSJ World News"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Israel allowed displaced Gazans to begin crossing a military zone that bisects the enclave after a deadlock over hostage releases was broken."
-      ],
-      "image_url": null,
-      "published": "Mon, 27 Jan 2025 14:23:00 -0500"
-    },
-    {
-      "title": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
-      "link": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
-      "source": "WSJ World News",
-      "all_sources": [
-        "WSJ World News"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in."
-      ],
-      "image_url": null,
-      "published": "Mon, 27 Jan 2025 12:32:00 -0500"
-    },
-    {
-      "title": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
-      "link": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
-      "source": "WSJ World News",
-      "all_sources": [
-        "WSJ World News"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said."
-      ],
-      "image_url": null,
-      "published": "Mon, 27 Jan 2025 12:12:00 -0500"
-    },
-    {
-      "title": "Suspected Sabotage of Deep-Sea Cable Triggers First NATO-Led Response",
-      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
-      "source": "WSJ World News",
-      "all_sources": [
-        "WSJ World News"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The alliance mounted its first coordinated response to a suspected sabotage campaign against critical infrastructure after another cable was severed in the Baltic Sea."
-      ],
-      "image_url": null,
-      "published": "Mon, 27 Jan 2025 11:22:00 -0500"
-    },
-    {
-      "title": "Rwanda-Backed Rebels Enter Congo's Safe-Haven City",
-      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
-      "source": "WSJ World News",
-      "all_sources": [
-        "WSJ World News"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Residents of Goma reported gunfire and shelling after rebels overran Congolese troops.",
-        "U.N.",
-        "officials estimated that more than one million displaced people were now inside the city."
-      ],
-      "image_url": null,
-      "published": "Mon, 27 Jan 2025 10:07:00 -0500"
-    },
-    {
-      "title": "Cocaine-Funded Gangs Shake Colombia Years After Peace Pact",
-      "link": "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da",
-      "source": "WSJ World News",
-      "all_sources": [
-        "WSJ World News"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Attacks by powerful militias against civilians reflect the state’s inaction eight years after a peace accord removed a powerful rebel group from the field."
-      ],
-      "image_url": null,
-      "published": "Mon, 27 Jan 2025 07:00:00 -0500"
-    },
-    {
-      "title": "Italy Supports Saudi Arabia Joining Fighter-Jet Program, PM Meloni Says",
-      "link": "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1",
-      "source": "WSJ World News",
-      "all_sources": [
-        "WSJ World News"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The U.K., Italy and Japan have already partnered on the Global Combat Air Programme, which aims to put a new stealth fighter with supersonic capability in the skies by 2035."
-      ],
-      "image_url": null,
-      "published": "Mon, 27 Jan 2025 05:34:00 -0500"
-    },
-    {
-      "title": "Shippers Wary of Red Sea Routes Despite Houthi Pledge to End Targeting",
-      "link": "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2",
-      "source": "WSJ World News",
-      "all_sources": [
-        "WSJ World News"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The world’s top three container operators said they fear instability in Gaza and broader regional tensions mean continued danger."
-      ],
-      "image_url": null,
-      "published": "Mon, 27 Jan 2025 01:05:00 -0500"
-    },
-    {
-      "title": "Kim Jong Un Is Doing Everything He Can to Keep North Korea's Youth in Line",
-      "link": "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de",
-      "source": "WSJ World News",
-      "all_sources": [
-        "WSJ World News"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The dictator, eager to shut out the influence of Hollywood and K-pop, has been exalting a “shock brigade” of 300,000 teens and 20-somethings drafted into flood reconstruction."
-      ],
-      "image_url": null,
-      "published": "Mon, 27 Jan 2025 01:05:00 -0500"
-    },
-    {
-      "title": "Americans warned to rethink travel to 13 countries amid deadly attacks",
-      "link": "https://nypost.com/2026/10/26/world-news/americans-warned-to-rethink-travel-to-13-countries-amid-deadly-attacks/",
+      "title": "US military kills 5 suspected narcoterrorists in eastern Pacific drug boat strike",
+      "link": "https://nypost.com/2026/10/27/us-news/us-military-kills-5-suspected-narcoterrorists-in-eastern-pacific-drug-boat-strike/",
       "source": "New York Post World",
       "all_sources": [
         "New York Post World"
@@ -1211,20 +1227,21 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "The Houthi attacks caused civilian deaths and widespread travel disruptions, with the State Department warning that the hostilities \"have the potential to escalate rapidly beyond that immediate area.\""
+        "The latest attack brings the number of people who have been killed by the U.S.",
+        "military’s boat strikes to at least 240 in more than 70 strikes."
       ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2F2025-united-states-iran-expected-146583870.jpg?w%3D1024",
-      "published": "Mon, 26 Oct 2026 22:20:20 -0400"
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fsouthcom-joint-task-force-western-146657600.jpg?w%3D1024",
+      "published": "Tue, 27 Oct 2026 14:16:52 -0700"
     },
     {
-      "title": "Israeli PM Netanyahu and challenger Gadi Eisenkot have very different views on how to end the Iran war",
-      "link": "https://nypost.com/2026/10/26/world-news/how-netanyahu-and-challenger-eisenkot-split-on-iran-war/",
-      "source": "New York Post World",
+      "title": "Serbia’s student movement topples Vucic’s party after 14 years, but political agenda remains unclear",
+      "link": "https://www.foxnews.com/world/serbias-student-movement-topples-vucics-party-after-14-years-political-agenda-remains-unclear",
+      "source": "Fox News World",
       "all_sources": [
-        "New York Post World"
+        "Fox News World"
       ],
       "bias_breakdown": {
-        "Lean Right": 1
+        "Right": 1
       },
       "bias_bar": {
         "left_pct": 0,
@@ -1235,10 +1252,10 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Israeli Prime Minister Benjamin Netanyahu and opposition leader Gadi Eisenkot remained split on the best way to handle Iran — as Israeli polls are set to open in hours to decide the country's next leader."
+        "Aleksandar Vucic conceded defeat to the Student List after a landslide victory ended his 14-year rule over Serbia in a historic election day."
       ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F10%2Fisraeli-prime-minister-benjamin-netanyahu-143024674_9919e1.jpg?w%3D1024",
-      "published": "Mon, 26 Oct 2026 18:11:18 -0400"
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/ilija-srdanovics-student-list-leader.jpg?ve=1&tl=1",
+      "published": "Tue, 27 Oct 2026 13:59:28 -0400"
     }
   ]
 }
