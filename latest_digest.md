@@ -1,32 +1,10 @@
-# News Digest - 2026-11-02
+# News Digest - 2026-11-03
 
-**50 stories** · 1 with multi-source coverage · 1 blindspot
+**50 stories** · 4 with multi-source coverage · 0 blindspots
 
 ---
 
-## 1. 🔍 Iranian ‘ghost fleet’ filmed evading US blockade en route to China, UANI says
-
-**Source:** [Fox News World](https://www.foxnews.com/world/iranian-ghost-fleet-filmed-evading-us-blockade-en-route-china-uani-says)
-
-**Also covered by:** New York Post World
-
-**Bias breakdown:** Lean Right: 1 · Right: 1
-
-**Blindspot:** all covering sources lean the same direction
-
-- Smaller Iranian ghost fleet tankers are slipping past the U.S.
-- naval blockade carrying sanctioned LPG fuel to China via a shadowy Malaysia anchorage.
-
-## 2. Here’s what could follow Israel’s bitterly contested elections
-
-**Source:** [Christian Science Monitor World](https://www.csmonitor.com/World/Middle-East/2026/1028/israel-elections-stalemate-netanyahu-opposition-arabs?icid=rss)
-
-**Bias breakdown:** Center: 1
-
-- There are three main options for Israel’s political path forward.
-- None would be simple or easy.
-
-## 3. Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr
+## 1. Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr
 
 **Source:** [The Guardian World](https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown)
 
@@ -36,7 +14,7 @@
 - Attalah was taken briefly into custody after a Cairo court convicted her of managing an unlicensed website, prompting fresh international concerns over press freedom in Egypt.
 - Continue reading...
 
-## 4. Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official
+## 2. Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official
 
 **Source:** [The Guardian World](https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official)
 
@@ -46,25 +24,277 @@
 - As the current outbreak reached  10,000 cases, with almost 5,000 deaths , Dr Jean Kaseya, director general of the Africa Centres for Disease Control and Prevention (CDC), compared the outbreak to the Covid pandemic, which first took hold in China before spreading to countries across the world, claiming millions of lives, and ravaging health systems and economies.
 - Continue reading...
 
-## 5. Cuts like a knife: Canadian rocker Bryan Adams trolls Trump with new song
+## 3. King Charles Says U.K.’s Role in Slave Trade ‘Fills My Heart With Horror’
 
-**Source:** [The Guardian World](https://www.theguardian.com/world/2026/oct/29/bryan-adams-donald-trump-song)
+**Source:** [NYT World](https://www.nytimes.com/2026/11/03/world/europe/king-charles-speech-uk-slave-trade-antigua.html)
 
 **Bias breakdown:** Lean Left: 1
 
-- But one thing it will never be called, says the Canadian rock star  Bryan Adams , is Lake America.
-- In his new song Lake Ontario, Adams takes aim at the US president,  Donald Trump , accusing him of “breaking the peace” between the people who live on the lake’s shores.
-- The   ‘lake of shining waters  ’ is what the Iroquois called her    It’s a   First   Nations name – not an executive order.
+- The monarch called Britain’s trafficking of slaves from Africa a “shameful chapter of history” at a meeting of Commonwealth heads of government in Antigua.
 
-## 6. Albanian opposition lawmakers disrupt parliament with smoke flares and furious attacks on socialist PM
+## 4. Israel’s opposition leaders back Eisenkot to oust Netanyahu
 
-**Source:** [Fox News World](https://www.foxnews.com/world/albanian-opposition-lawmakers-disrupt-parliament-smoke-flares-furious-attacks-socialist-pm)
+**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/3/israeli-opposition-leaders-back-eisenkot-to-oust-netanyahu?traffic_source=rss)
+
+**Bias breakdown:** Lean Left: 1
+
+- Opposition promises to form a government quickly but remains split over whether to ally with Arab-led parties.
+
+## 5. Libya's top religious authority rules against wearing Nike clothes
+
+**Source:** [BBC World](https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss)
+
+**Bias breakdown:** Center: 1
+
+- The US company was named after the Greek goddess of victory, so the Dar al-Ifta said displaying its logo was unIslamic.
+
+## 6. From Italy to Canada, how the UK’s Palestine Action group went global
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/3/from-italy-to-canada-how-the-uks-palestine-action-group-went-global?traffic_source=rss)
+
+**Bias breakdown:** Lean Left: 1
+
+- The banned UK group, which targets Israel's war machine, has inspired activists in Europe and beyond.
+
+## 7. Very cold war: Who’s attacking Europe’s supermarket freezers?
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/3/very-cold-war-whos-attacking-europes-supermarket-freezers?traffic_source=rss)
+
+**Bias breakdown:** Lean Left: 1
+
+- Cold stores in supermarkets across Europe have been targeted in a cyberattack with no clear culprit.
+
+## 8. Why Trump Often Mentioned Iran in the Midterm Campaign
+
+**Source:** [NYT World](https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-election-strategy.html)
+
+**Bias breakdown:** Lean Left: 1
+
+- President Trump has repeatedly reminded Americans of a losing campaign issue just as voters head to the polls.
+- Why?
+
+## 9. Who is goalkeeper Owono and will he be punished after De Miguel’s death?
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/sports/2026/11/3/who-is-goalkeeper-jesus-owono-and-will-he-be-punished-after-miguels-death?traffic_source=rss)
+
+**Bias breakdown:** Lean Left: 1
+
+- Andorra goalkeeper Jesus Owono is at the centre of a social media storm after the death of Tenerife's Jesus de Miguel.
+
+## 10. Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries
+
+**Source:** [BBC World](https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss)
+
+**Bias breakdown:** Center: 1
+
+- Supermarkets have reported problems from Estonia and Sweden to Portugal and Italy and many retainers have been forced to discard food.
+
+## 11. Jet may have broken apart before Florida crash, officials say, as family named among victims
+
+**Source:** [BBC World](https://www.bbc.co.uk/news/articles/cm9wz01dx8xro?at_medium=RSS&at_campaign=rss)
+
+**Bias breakdown:** Center: 1
+
+- Adam Robinson, Helen Sharp, and their two children - Emma, four, and Charlie, two - died after the plane nosedived.
+
+## 12. Trump says US will stop giving Israel aid after year-end
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/3/trump-announces-that-us-will-stop-paying-israel-after-year-end?traffic_source=rss)
+
+**Bias breakdown:** Lean Left: 1
+
+- Military aid to Israel and campaign contributions from Israel's backers to US candidates has animated political debate.
+
+## 13. Russian bombing kills 31 people at Ukraine aid centre, Kyiv says
+
+**Source:** [BBC World](https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss)
+
+**Also covered by:** New York Post World
+
+**Bias breakdown:** Center: 1 · Lean Right: 1
+
+- Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president calls an "utterly horrific" attack.
+
+## 14. Iran commander sets out five conditions for regional security
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/3/iran-commander-sets-out-five-conditions-for-regional-security?traffic_source=rss)
+
+**Bias breakdown:** Lean Left: 1
+
+- Mediator Qatar says US and Iran are studying proposals to resume negotiations and that it was 'hopeful' of an agreement.
+
+## 15. Saudi Pro League postpones matches after Asian Cup rescheduling
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/sports/2026/11/3/saudi-pro-league-postpones-matches-after-asian-cup-rescheduling?traffic_source=rss)
+
+**Bias breakdown:** Lean Left: 1
+
+- League delays matches after revised Asian Cup dates create 'additional flexibility in the domestic football calendar'.
+
+## 16. New bodycam video shows aftermath of fatal National Guard shooting
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/11/3/new-bodycam-video-shows-aftermath-of-fatal-national-guard-shooting?traffic_source=rss)
+
+**Bias breakdown:** Lean Left: 1
+
+- Newly-released bodycam footage shows Tennessee National Guard members pointing their guns at 20-year-old Tyrin Johnson.
+
+## 17. Brazil publishes first global ‘roadmap’ for phasing out fossil fuels
+
+**Source:** [The Guardian World](https://www.theguardian.com/environment/2026/nov/03/brazil-first-global-roadmap-phasing-out-fossil-fuels)
+
+**Bias breakdown:** Lean Left: 1
+
+- Cop30 host sets out steps to break link with coal, oil and gas as it aims to move focus from negotiating to implementing  All countries can start to break their dependence on fossil fuels now without needing to wait for new technologies or economic changes, Brazil’s government has said ahead of a global climate summit.
+- Brazil, the host of  last year’s UN climate conference , set out the world’s first global “roadmap” for phasing out fossil fuels on Tuesday, showing that countries could boost their economies and pull people out of poverty while breaking the link with coal, oil and gas.
+- Continue reading...
+
+## 18. US urges Venezuela to release remaining political prisoners
+
+**Source:** [BBC World](https://www.bbc.co.uk/news/articles/cxg5jln586pno?at_medium=RSS&at_campaign=rss)
+
+**Bias breakdown:** Center: 1
+
+- The US secretary of state also discusses laying the groundwork for 'free, fair, and credible elections'.
+
+## 19. US strikes Iranian island ahead of midterm elections
+
+**Source:** [BBC World](https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss)
+
+**Bias breakdown:** Center: 1
+
+- US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.
+
+## 20. Iran slams US response to negotiations, demands America ‘fully and explicitly’ address its 7 outlandish conditions
+
+**Source:** [New York Post World](https://nypost.com/2026/11/03/world-news/iran-slams-us-response-to-negotiations-demands-america-fully-and-explicitly-address-its-7-outlandish-conditions/)
+
+**Bias breakdown:** Lean Right: 1
+
+- Iran slammed America’s response to its latest peace proposal despite making the same seven outlandish demands President Trump rejected last month.
+
+## 21. As Trump’s Midterm Deadline Looms, Gulf Countries Brace for Possible Renewal of Iran War
+
+**Source:** [NYT World](https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-midterms-election.html)
+
+**Bias breakdown:** Lean Left: 1
+
+- The energy-rich Gulf Arab countries are engaged in a flurry of mediation efforts to avert war between the U.S.
+- and Iran, as many fear that the fighting will be worse this time around.
+
+## 22. Israeli Navy conducts drill exercise near Gaza border, IDF announces
+
+**Source:** [New York Post World](https://nypost.com/2026/11/03/world-news/israeli-navy-conducts-drill-exercise-near-gaza-border-idf-says/)
+
+**Bias breakdown:** Lean Right: 1
+
+- Heavy movement of security forces and navy vessels is expected during the drill.
+
+## 23. A Test for Israeli Democracy: Should Jews Ask Arabs to Join the Government?
+
+**Source:** [NYT World](https://www.nytimes.com/2026/11/03/world/middleeast/israel-coalition-arab-lawmakers.html)
+
+**Bias breakdown:** Lean Left: 1
+
+- Arab lawmakers give opponents of Benjamin Netanyahu a clear majority in the Parliament.
+- But many Jewish lawmakers are trying to avoid relying on them.
+
+## 24. Celebrating Day of the Dead, High in Mexico’s Mountains
+
+**Source:** [NYT World](https://www.nytimes.com/2026/11/03/world/americas/mexico-day-of-the-dead-metlatonoc.html)
+
+**Bias breakdown:** Lean Left: 1
+
+- Over the course of 10 days in a remote Mexican town, dances and processions summon souls in the belief that the dead are never truly gone.
+
+## 25. Russian strikes knock out power to swathes of Ukraine; Kyiv hits Russian refinery
+
+**Source:** [New York Post World](https://nypost.com/2026/11/03/world-news/russian-strikes-knock-out-power-to-swathes-of-ukraine-kyiv-hits-russian-refinery/)
+
+**Bias breakdown:** Lean Right: 1
+
+- Russia launched a sweeping, multi-wave bombardment of Ukraine's energy infrastructure on Tuesday, knocking out power to swathes of the country with missiles and drones.
+
+## 26. Australian Court Hears Challenge to Social Media Ban
+
+**Source:** [NYT World](https://www.nytimes.com/2026/11/03/world/asia/australia-social-media-ban-high-court.html)
+
+**Bias breakdown:** Lean Left: 1
+
+- Reddit and an Australian digital advocacy group are claiming a law that restricts children younger than 16 from popular platforms infringes on their constitutional rights.
+
+## 27. Ukraine's Zelenskyy on defying US in attacking Russian oil: 'Our response must be painful'
+
+**Source:** [Fox News World](https://www.foxnews.com/world/ukraine-zelenskyy-defying-us-attacking-russian-oil-response-must-be-painful)
 
 **Bias breakdown:** Right: 1
 
-- Sali Berisha's microphone was cut after he declared ruling lawmakers "deserve tear gas" as Democratic Party members lit flares inside parliament.
+- Volodymyr Zelenskyy told Fox News Ukraine will keep striking Russian oil refineries unless Trump delivers Patriot missiles to shield energy infrastructure.
 
-## 7. Ukraine peace momentum builds, but Russia sticks to its guns
+## 28. Indian navy rescues 20 crew from Iranian fishing boat hijacked off Somalia
+
+**Source:** [NPR World](https://www.npr.org/2026/11/03/g-s1-151468/indian-navy-rescues-20-crew-from-iranian-fishing-boat-hijacked-off-somalia)
+
+**Also covered by:** New York Post World
+
+**Bias breakdown:** Lean Left: 1 · Lean Right: 1
+
+- he operation involved a warship, a maritime surveillance aircraft and marine commandos.
+- The hijacking followed a resurgence of Somali piracy across the Gulf of Aden and western Indian Ocean.
+
+## 29. Sick details of Thomas Markle’s alleged child porn cache found in Philippines — as cops confirm FBI involvement
+
+**Source:** [New York Post World](https://nypost.com/2026/11/03/world-news/sick-details-of-thomas-markles-alleged-child-porn-cache-found-in-philippines-as-cops-confirm-fbi-involved/)
+
+**Bias breakdown:** Lean Right: 1
+
+- Thomas Markle Sr.’s vile child pornography cache contained a video of children engaging in sex acts, Filipino cops said Tuesday, while also revealing the FBI has launched its own investigation into Meghan Markle’s estranged father.
+
+## 30. Asian Cup postponed in wake of attacks on Saudi Arabia
+
+**Source:** [BBC World](https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o?at_medium=RSS&at_campaign=rss)
+
+**Bias breakdown:** Center: 1
+
+- The 2027 Asian Cup in Saudi Arabia is postponed because of a series of deadly attacks on the host country.
+
+## 31. Control of Congress is at stake today. And, judge to consider motion in Clancy case
+
+**Source:** [NPR World](https://www.npr.org/2026/11/03/g-s1-151445/up-first-newsletter-midterms-election-day-iran-war-lindsay-clancy)
+
+**Bias breakdown:** Lean Left: 1
+
+- Election Day is here, and voters are heading to the polls in an election that may change control of Congress.
+- And, a judge is considering whether to dismiss Lindsay Clancy's murder case.
+
+## 32. Death toll hits 29 after Russian strike on Ukrainian aid site, with 48 still missing
+
+**Source:** [NPR World](https://www.npr.org/2026/11/03/g-s1-151439/russia-ukraine-war)
+
+**Bias breakdown:** Lean Left: 1
+
+- Russia launched 289 attack drones, 17 ballistic missiles and 59 cruise missiles across nine regions, President Zelenskyy said in an online post that noted the barrage coincided with U.S.
+- elections.
+
+## 33. Helicopters collide below Mount Everest base camp, killing 1 person and injuring 2
+
+**Source:** [New York Post World](https://nypost.com/2026/11/03/world-news/helicopters-collide-below-mount-everest-base-camp-killing-1-person-and-injuring-2/)
+
+**Also covered by:** BBC World
+
+**Bias breakdown:** Center: 1 · Lean Right: 1
+
+- A helicopter collision near Mount Everest base camp killed a 47-year-old tourist from India and injured two others in Pheriche village.
+
+## 34. Thousands of European troops to rehearse Ukraine deployment in event of peace
+
+**Source:** [BBC World](https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss)
+
+**Bias breakdown:** Center: 1
+
+- Western officials stress that any force sent to Ukraine would not take part in any offensive operations.
+
+## 35. Ukraine peace momentum builds, but Russia sticks to its guns
 
 **Source:** [Christian Science Monitor World](https://www.csmonitor.com/World/Europe/2026/1029/russia-ukraine-war-peace-talks-trump-china-zelenskyy?icid=rss)
 
@@ -72,7 +302,7 @@
 
 - The United States may be pushing a peace plan for Ukraine and Russia, but neither country seems interested in discussing it – especially Russia.
 
-## 8. The face of Venezuela’s opposition returns, testing fragile democratic transition
+## 36. The face of Venezuela’s opposition returns, testing fragile democratic transition
 
 **Source:** [Christian Science Monitor World](https://www.csmonitor.com/World/Americas/2026/1029/machado-venezuela-oil-maduro-trump?icid=rss)
 
@@ -80,7 +310,7 @@
 
 - As Venezuela transitions from the ouster of its authoritarian leaders, the return of María Corina Machado could alter the course of politics in the South American nation.
 
-## 9. After purges, China’s Central Committee praises the party’s ‘rigorous self-governance’
+## 37. After purges, China’s Central Committee praises the party’s ‘rigorous self-governance’
 
 **Source:** [Christian Science Monitor World](https://www.csmonitor.com/World/Asia-Pacific/2026/1029/china-communist-party-purges-plenum?icid=rss)
 
@@ -88,7 +318,7 @@
 
 - The Chinese Communist Party’s top members wrapped up their annual summit Thursday, with noticeably leaner ranks.
 
-## 10. Trump Says Colombia Will Accept Deportees, Ending Tariff Standoff
+## 38. Trump Says Colombia Will Accept Deportees, Ending Tariff Standoff
 
 **Source:** [WSJ World News](https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497)
 
@@ -96,7 +326,7 @@
 
 - The president has made immigration an early priority to start second term, with ICE making more than 900 arrests Sunday.
 
-## 11. UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda
+## 39. UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda
 
 **Source:** [The Guardian World](https://www.theguardian.com/world/2026/nov/01/uk-was-vehement-slavery-reparations-should-not-be-on-commonwealth-summit-agenda)
 
@@ -106,7 +336,7 @@
 - Ralph Gonsalves, a former prime minister of St Vincent and the Grenadines and a senior figure in the reparatory justice movement Repair Campaign, welcomed Britain’s decision to enter structured dialogue on reparations, but said the UK had come “kicking and screaming” to the conversation.
 - Continue reading...
 
-## 12. Ukraine says air alert system hacked after false radiation warning in Kyiv
+## 40. Ukraine says air alert system hacked after false radiation warning in Kyiv
 
 **Source:** [Fox News World](https://www.foxnews.com/world/ukraine-air-alert-system-hacked-false-radiation-warning-kyiv)
 
@@ -114,7 +344,16 @@
 
 - Ukraine's Air Force said its air alert system was hacked after false radiation hazard and chemical attack warnings spread panic across Kyiv on Sunday.
 
-## 13. This legendary board game could take decades to complete
+## 41. Iranian ‘ghost fleet’ filmed evading US blockade en route to China, UANI says
+
+**Source:** [Fox News World](https://www.foxnews.com/world/iranian-ghost-fleet-filmed-evading-us-blockade-en-route-china-uani-says)
+
+**Bias breakdown:** Right: 1
+
+- Smaller Iranian ghost fleet tankers are slipping past the U.S.
+- naval blockade carrying sanctioned LPG fuel to China via a shadowy Malaysia anchorage.
+
+## 42. This legendary board game could take decades to complete
 
 **Source:** [NPR World](https://www.npr.org/2026/11/01/nx-s1-6025438/this-legendary-board-game-could-take-decades-to-complete)
 
@@ -123,7 +362,7 @@
 - Andy Taeger & James Purcell are trying to become the first people ever complete the board game  Campaign for North Africa.
 - The is so complex it could take decades to finish.
 
-## 14. Gulf region on edge as Qatar leads talks with Iran to stave off new U.S. attacks
+## 43. Gulf region on edge as Qatar leads talks with Iran to stave off new U.S. attacks
 
 **Source:** [NPR World](https://www.npr.org/2026/11/01/nx-s1-6023237/gulf-leaders-meet-in-qatar-in-effort-to-stave-off-new-escalation-in-u-s-and-iran-war)
 
@@ -133,15 +372,7 @@
 - attacks on Iran after Tuesday's midterm elections.
 - The uncertainty has the entire Gulf region on edge.
 
-## 15. India’s Congress Party Holds Mass Protest in New Delhi
-
-**Source:** [NYT World](https://www.nytimes.com/2026/10/31/world/asia/congress-cjp-protest-delhi-india-modi.html)
-
-**Bias breakdown:** Lean Left: 1
-
-- Tens of thousands gathered in India’s capital in a clamor of banging drums, chants and billowing flags, with participants from across the country.
-
-## 16. US calls Turkey-Libya maritime deal 'unhelpful and provocative' amid regional backlash
+## 44. US calls Turkey-Libya maritime deal 'unhelpful and provocative' amid regional backlash
 
 **Source:** [Fox News World](https://www.foxnews.com/world/us-calls-turkey-libya-maritime-deal-unhelpful-and-provocative-amid-regional-backlash)
 
@@ -149,23 +380,7 @@
 
 - A State Department spokesperson called the Turkey-Libya maritime accord "unhelpful and provocative" as diplomatic tensions escalate in the region.
 
-## 17. Netanyahu’s Bid to Stay in Power Will Test His Political Savvy
-
-**Source:** [NYT World](https://www.nytimes.com/2026/11/01/world/middleeast/netanyahu-coalition-building-tests-political-skills.html)
-
-**Bias breakdown:** Lean Left: 1
-
-- After losing ground in Israel’s election, Prime Minister Benjamin Netanyahu must draw on decades of political capital and reckon with old foes if he is to build a governing coalition.
-
-## 18. Putin Breaks Down His Isolation, With a Big Assist From Trump
-
-**Source:** [NYT World](https://www.nytimes.com/2026/11/01/world/europe/putin-isolation-breakdown-trump.html)
-
-**Bias breakdown:** Lean Left: 1
-
-- Notching wins from Washington, the Russian leader is talking with foreign leaders and could return to diplomatic center stage with possible summit meetings.
-
-## 19. They signed up for a lifetime at sea on an endless cruise. High gas prices intervened
+## 45. They signed up for a lifetime at sea on an endless cruise. High gas prices intervened
 
 **Source:** [NPR World](https://www.npr.org/2026/11/01/nx-s1-6022214/they-signed-up-for-a-lifetime-at-sea-on-an-endless-cruise-high-gas-prices-intervened)
 
@@ -175,7 +390,7 @@
 - Passengers, including Randy Cassingham, had to disembark in Cambodia.
 - NPR's Ayesha Rascoe talks to Cassingham about the ordeal.
 
-## 20. Colombia's 'El Tigre' takes fight to cartels as Trump alliance takes shape
+## 46. Colombia's 'El Tigre' takes fight to cartels as Trump alliance takes shape
 
 **Source:** [Fox News World](https://www.foxnews.com/world/colombias-el-tigre-takes-fight-cartels-trump-alliance-takes-shape)
 
@@ -183,16 +398,18 @@
 
 - Abelardo de la Espriella claims over 32,000 arrests in 10 weeks as Colombia joins Trump's anti-cartel coalition, pivoting away from predecessor's policies.
 
-## 21. Ukraine’s farmers dig in as Russia turns its sights back on grain shipments
+## 47. Ukraine’s farmers dig in as Russia turns its sights back on grain shipments
 
 **Source:** [Christian Science Monitor World](https://www.csmonitor.com/World/Europe/2026/1101/ukraine-grain-trade-breadbasket-russia-war-ports?icid=rss)
 
-**Bias breakdown:** Center: 1
+**Also covered by:** Al Jazeera
+
+**Bias breakdown:** Lean Left: 1 · Center: 1
 
 - Ukraine’s agricultural exports are under fire from Russia once again.
 - Between drone attacks and rising diesel prices, the whole industry is strained.
 
-## 22. Technology is reshaping Chinese farms – and boosting its national security
+## 48. Technology is reshaping Chinese farms – and boosting its national security
 
 **Source:** [Christian Science Monitor World](https://www.csmonitor.com/World/Asia-Pacific/2026/1101/china-breadbasket-food-security-innovation?icid=rss)
 
@@ -200,7 +417,7 @@
 
 - Chinese leader Xi Jinping has doubled down on making food security a top strategic priority, on the same level as hardening China’s military or building up energy stockpiles.
 
-## 23. Secretary Rubio has a tough time getting officials at G20 on the same page
+## 49. Secretary Rubio has a tough time getting officials at G20 on the same page
 
 **Source:** [NPR World](https://www.npr.org/2026/10/31/nx-s1-6022223/secretary-rubio-has-a-tough-time-getting-officials-at-g20-on-the-same-page)
 
@@ -209,32 +426,7 @@
 - U.S.
 - Secretary of State Marco Rubio is hosting the G20 foreign ministers' meeting in Atlanta, with a focus on economic and security challenges.
 
-## 24. A new political era in the Southern Philippines
-
-**Source:** [NPR World](https://www.npr.org/2026/10/31/nx-s1-6020639/a-new-political-era-in-the-southern-philippines)
-
-**Bias breakdown:** Lean Left: 1
-
-- A new local government has taken its seat in the southern Philippines, in a step that marks a milestone in the peace process  for a conflict that has lasted some 80 years.
-
-## 25. France seethes again as youth-led protests sweep Europe
-
-**Source:** [NPR World](https://www.npr.org/2026/10/31/g-s1-151121/france-seethes-again-as-youth-led-protests-sweep-europe)
-
-**Bias breakdown:** Lean Left: 1
-
-- French Interior Minister Laurent Nuñez warned of a "very high risk" of disorder, especially after dark on Halloween, as some 320,000 people nationwide took to the streets.
-
-## 26. Key takeaways from this week's political meeting in Beijing
-
-**Source:** [NPR World](https://www.npr.org/2026/10/31/nx-s1-6024695/political-meeting-beijing-takeaways)
-
-**Bias breakdown:** Lean Left: 1
-
-- The Communist party central committee meeting was focused on discipline and fighting corruption.
-- It comes ahead of next year when Xi is widely expected to try to secure a fourth term.
-
-## 27. US Embassy warns of credible 'mass casualty' threat at popular Moscow tourist attraction
+## 50. US Embassy warns of credible 'mass casualty' threat at popular Moscow tourist attraction
 
 **Source:** [Fox News World](https://www.foxnews.com/world/us-embassy-warns-credible-mass-casualty-threat-popular-moscow-tourist-attraction)
 
@@ -242,194 +434,4 @@
 
 - The U.S.
 - Embassy in Moscow warned of a credible threat of a mass casualty event at the Tsaritsyno Museum Reserve, urging people to avoid the area.
-
-## 28. France deploys 70,000 police officers to prepare for new wave of protests on Halloween
-
-**Source:** [Fox News World](https://www.foxnews.com/world/france-deploys-70000-police-officers-prepare-new-wave-protests-halloween)
-
-**Bias breakdown:** Right: 1
-
-- Emmanuel Macron's government deploys 70,000 police officers as France braces for a third week of intense protests amid over $1 billion in losses.
-
-## 29. EXCLUSIVE: State Department accuses politicians of endangering Afrikaner lives after gruesome farm attacks
-
-**Source:** [Fox News World](https://www.foxnews.com/world/exclusive-state-department-accuses-politicians-endangering-afrikaner-lives-gruesome-farm-attacks)
-
-**Bias breakdown:** Right: 1
-
-- The State Department accused South African politicians of endangering Afrikaners' lives after a farmer was allegedly tortured and a woman beaten to death.
-
-## 30. Palestinians Stream Back to Northern Gaza on Foot
-
-**Source:** [WSJ World News](https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db)
-
-**Bias breakdown:** Center: 1
-
-- Israel allowed displaced Gazans to begin crossing a military zone that bisects the enclave after a deadlock over hostage releases was broken.
-
-## 31. Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes
-
-**Source:** [WSJ World News](https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863)
-
-**Bias breakdown:** Center: 1
-
-- Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.
-
-## 32. Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack
-
-**Source:** [WSJ World News](https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e)
-
-**Bias breakdown:** Center: 1
-
-- Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.
-
-## 33. Suspected Sabotage of Deep-Sea Cable Triggers First NATO-Led Response
-
-**Source:** [WSJ World News](https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba)
-
-**Bias breakdown:** Center: 1
-
-- The alliance mounted its first coordinated response to a suspected sabotage campaign against critical infrastructure after another cable was severed in the Baltic Sea.
-
-## 34. Rwanda-Backed Rebels Enter Congo's Safe-Haven City
-
-**Source:** [WSJ World News](https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8)
-
-**Bias breakdown:** Center: 1
-
-- Residents of Goma reported gunfire and shelling after rebels overran Congolese troops.
-- U.N.
-- officials estimated that more than one million displaced people were now inside the city.
-
-## 35. Cocaine-Funded Gangs Shake Colombia Years After Peace Pact
-
-**Source:** [WSJ World News](https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da)
-
-**Bias breakdown:** Center: 1
-
-- Attacks by powerful militias against civilians reflect the state’s inaction eight years after a peace accord removed a powerful rebel group from the field.
-
-## 36. Italy Supports Saudi Arabia Joining Fighter-Jet Program, PM Meloni Says
-
-**Source:** [WSJ World News](https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1)
-
-**Bias breakdown:** Center: 1
-
-- The U.K., Italy and Japan have already partnered on the Global Combat Air Programme, which aims to put a new stealth fighter with supersonic capability in the skies by 2035.
-
-## 37. Shippers Wary of Red Sea Routes Despite Houthi Pledge to End Targeting
-
-**Source:** [WSJ World News](https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2)
-
-**Bias breakdown:** Center: 1
-
-- The world’s top three container operators said they fear instability in Gaza and broader regional tensions mean continued danger.
-
-## 38. Kim Jong Un Is Doing Everything He Can to Keep North Korea's Youth in Line
-
-**Source:** [WSJ World News](https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de)
-
-**Bias breakdown:** Center: 1
-
-- The dictator, eager to shut out the influence of Hollywood and K-pop, has been exalting a “shock brigade” of 300,000 teens and 20-somethings drafted into flood reconstruction.
-
-## 39. UK sanctions Sudanese military leaders implicated in El Fasher ‘campaign of rape’
-
-**Source:** [The Guardian World](https://www.theguardian.com/global-development/2026/oct/26/uk-sanctions-sudanese-military-leaders-implicated-in-el-fasher-campaign-of)
-
-**Bias breakdown:** Lean Left: 1
-
-- Commanders suspected of sexual violence during the largest and fastest slaughter of civilians in more than 30 years have been subjected to travel ban and asset freeze  Senior Sudanese commanders implicated in a “campaign of rape” have been targeted by the UK on the first anniversary of a  mass atrocity  that saw tens of thousands of civilians killed over several days.
-- A year after the  fall of El Fasher , the British government said it had sanctioned military leaders from both sides in the country’s ongoing conflict whom it suspected of sexual violence during the siege of the city.
-- Continue reading...
-
-## 40. Fighting returns to Kherson region after longest Ukraine war ceasefire
-
-**Source:** [BBC World](https://www.bbc.co.uk/news/articles/ckg5jlyp66jzo?at_medium=RSS&at_campaign=rss)
-
-**Bias breakdown:** Center: 1
-
-- Though unprecedented, the six-day truce has done little to alter the wider trajectory of a war that continues to grinds on.
-
-## 41. Dutch police offer record €2m reward in hunt for drug lord
-
-**Source:** [BBC World](https://www.bbc.co.uk/news/articles/ckly0v2q2yxlo?at_medium=RSS&at_campaign=rss)
-
-**Bias breakdown:** Center: 1
-
-- Jos Leijdekkers has been found guilty in absentia of cocaine smuggling and is believed to be in Sierra Leone.
-
-## 42. Drone attacks extend campaign targeting Sudan’s power system
-
-**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/2/drone-attacks-extend-campaign-targeting-sudans-power-system?traffic_source=rss)
-
-**Bias breakdown:** Lean Left: 1
-
-- Attacks the latest to disrupt electricity supplies; army reports new defections from paramilitary RSF.
-
-## 43. Iran Says It Would Reopen Strait of Hormuz in 2 Days as Part of U.S. Deal
-
-**Source:** [NYT World](https://www.nytimes.com/2026/11/02/world/middleeast/iran-deal-strait-of-hormuz.html)
-
-**Bias breakdown:** Lean Left: 1
-
-- Iranian officials spoke of some progress in negotiating to reopen the strait, a vital oil and gas shipping lane, even as they prepare for all-out war.
-
-## 44. Trump, Vance and candidates make final push before US midterms
-
-**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/2/trump-vance-and-candidates-make-final-push-before-us-midterms?traffic_source=rss)
-
-**Bias breakdown:** Lean Left: 1
-
-- Republicans and Democrats hold last rallies around the United States as polls point to a tight congressional race.
-
-## 45. Jerusalem Daily: Israel’s lockdown of Hebron comes to an end
-
-**Source:** [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/11/2/jerusalem-daily-israels-lockdown-of-hebron-comes-to-an-end?traffic_source=rss)
-
-**Bias breakdown:** Lean Left: 1
-
-- Israeli forces ended their lockdown of Hebron in the occupied West Bank, but its forces continued to attack a school.
-
-## 46. Why Orban and Vucic Broke With Trump on Election Denial
-
-**Source:** [NYT World](https://www.nytimes.com/2026/11/02/world/europe/serbia-hungary-elections-trump.html)
-
-**Bias breakdown:** Lean Left: 1
-
-- Rejecting President Trump’s election denial playbook, nationalist leaders in Serbia and Hungary opted for an orderly retreat.
-
-## 47. King Charles Meets Both Joy and Criticism on Caribbean Tour
-
-**Source:** [NYT World](https://www.nytimes.com/2026/11/02/world/europe/king-charles-caribbean-slavery-commonwealth.html)
-
-**Bias breakdown:** Lean Left: 1
-
-- During the king’s visits to three former colonies, many people came out for celebratory parades and events.
-- Others said the British state needed to atone for slavery’s toll.
-
-## 48. China’s Message to Its Rivals: You Need What We Make
-
-**Source:** [NYT World](https://www.nytimes.com/2026/11/02/world/asia/china-us-exports-ai-solar.html)
-
-**Bias breakdown:** Lean Left: 1
-
-- It’s not just rare earths.
-- China is making it harder for other countries to shed their dependence on its solar, drone and drugmaking technology.
-
-## 49. At least seven migrants die on boat bound for Canary Islands amid storm
-
-**Source:** [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/11/2/at-least-seven-migrants-die-on-boat-bound-for-canary-islands-amid-storm?traffic_source=rss)
-
-**Bias breakdown:** Lean Left: 1
-
-- At least seven migrants have died aboard a boat carrying 139 people bound for the Canary Islands after a storm hit.
-
-## 50. China steps up Middle East diplomacy with Iran and Oman meetings
-
-**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/2/china-steps-up-middle-east-diplomacy-with-iran-and-oman-meetings?traffic_source=rss)
-
-**Bias breakdown:** Lean Left: 1
-
-- Beijing urges dialogue on US-Iran war, sends envoy to Gulf as Xi hosts first Omani head of state visit since 1978.
 
