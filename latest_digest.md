@@ -1,10 +1,22 @@
-# News Digest - 2026-11-03
+# News Digest - 2026-11-04
 
-**50 stories** · 4 with multi-source coverage · 0 blindspots
+**50 stories** · 5 with multi-source coverage · 1 blindspot
 
 ---
 
-## 1. Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr
+## 1. 🔍 The world is reacting to the Democrats' sweeping midterm elections victory
+
+**Source:** [NPR World](https://www.npr.org/2026/11/04/nx-s1-6028664/world-reacts-midterm-elections)
+
+**Also covered by:** Al Jazeera
+
+**Bias breakdown:** Lean Left: 2
+
+**Blindspot:** all covering sources lean the same direction
+
+- From Kyiv to Moscow, and Tehran to Tel Aviv, all eyes were on the Democrats big win as foreign powers weigh how a flipped Congress will affect international relations.
+
+## 2. Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr
 
 **Source:** [The Guardian World](https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown)
 
@@ -14,7 +26,7 @@
 - Attalah was taken briefly into custody after a Cairo court convicted her of managing an unlicensed website, prompting fresh international concerns over press freedom in Egypt.
 - Continue reading...
 
-## 2. Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official
+## 3. Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official
 
 **Source:** [The Guardian World](https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official)
 
@@ -24,122 +36,334 @@
 - As the current outbreak reached  10,000 cases, with almost 5,000 deaths , Dr Jean Kaseya, director general of the Africa Centres for Disease Control and Prevention (CDC), compared the outbreak to the Covid pandemic, which first took hold in China before spreading to countries across the world, claiming millions of lives, and ravaging health systems and economies.
 - Continue reading...
 
-## 3. King Charles Says U.K.’s Role in Slave Trade ‘Fills My Heart With Horror’
+## 4. Democratic voters celebrate El-Sayed’s Michigan win in election ‘blue wave’
 
-**Source:** [NYT World](https://www.nytimes.com/2026/11/03/world/europe/king-charles-speech-uk-slave-trade-antigua.html)
-
-**Bias breakdown:** Lean Left: 1
-
-- The monarch called Britain’s trafficking of slaves from Africa a “shameful chapter of history” at a meeting of Commonwealth heads of government in Antigua.
-
-## 4. Israel’s opposition leaders back Eisenkot to oust Netanyahu
-
-**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/3/israeli-opposition-leaders-back-eisenkot-to-oust-netanyahu?traffic_source=rss)
+**Source:** [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/11/4/democratic-voters-celebrate-el-sayeds-michigan-win-in-election-blue?traffic_source=rss)
 
 **Bias breakdown:** Lean Left: 1
 
-- Opposition promises to form a government quickly but remains split over whether to ally with Arab-led parties.
+- Democratic voters danced as they celebrated Abdul El-Sayed’s victory in Michigan.
 
-## 5. Libya's top religious authority rules against wearing Nike clothes
+## 5. Israel's president to begin consultations with parties after election deadlock
 
-**Source:** [BBC World](https://www.bbc.co.uk/news/articles/c5djv0p0re2no?at_medium=RSS&at_campaign=rss)
+**Source:** [BBC World](https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss)
 
 **Bias breakdown:** Center: 1
 
-- The US company was named after the Greek goddess of victory, so the Dar al-Ifta said displaying its logo was unIslamic.
+- Herzog warned politicians that "not every commitment and promise can be fulfilled" if they want to avoid another election.
 
-## 6. From Italy to Canada, how the UK’s Palestine Action group went global
+## 6. No regrets: Trump says Iran war justified despite polls drubbing
 
-**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/3/from-italy-to-canada-how-the-uks-palestine-action-group-went-global?traffic_source=rss)
-
-**Bias breakdown:** Lean Left: 1
-
-- The banned UK group, which targets Israel's war machine, has inspired activists in Europe and beyond.
-
-## 7. Very cold war: Who’s attacking Europe’s supermarket freezers?
-
-**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/3/very-cold-war-whos-attacking-europes-supermarket-freezers?traffic_source=rss)
+**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/4/no-regrets-trump-says-iran-war-justified-despite-polls-drubbing?traffic_source=rss)
 
 **Bias breakdown:** Lean Left: 1
 
-- Cold stores in supermarkets across Europe have been targeted in a cyberattack with no clear culprit.
+- Trump acknowledges Iran war played role in defeats but says he would launch it again.
 
-## 8. Why Trump Often Mentioned Iran in the Midterm Campaign
+## 7. How the World Reacted to Trump’s Midterm Defeat: 5 Things to Know
 
-**Source:** [NYT World](https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-election-strategy.html)
-
-**Bias breakdown:** Lean Left: 1
-
-- President Trump has repeatedly reminded Americans of a losing campaign issue just as voters head to the polls.
-- Why?
-
-## 9. Who is goalkeeper Owono and will he be punished after De Miguel’s death?
-
-**Source:** [Al Jazeera](https://www.aljazeera.com/sports/2026/11/3/who-is-goalkeeper-jesus-owono-and-will-he-be-punished-after-miguels-death?traffic_source=rss)
+**Source:** [NYT World](https://www.nytimes.com/2026/11/04/world/asia/midterms-trump-foreign-policy-world.html)
 
 **Bias breakdown:** Lean Left: 1
 
-- Andorra goalkeeper Jesus Owono is at the centre of a social media storm after the death of Tenerife's Jesus de Miguel.
+- Commentators abroad wondered what President Trump’s electoral losses might mean for oil prices, the war on Iran and the future of American politics.
 
-## 10. Europe on alert after supermarket freezers hit by cyber-attacks in 10 countries
+## 8. Iranian leaders welcome US midterms, but Trump may still attack
 
-**Source:** [BBC World](https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss)
+**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/4/iranian-leaders-welcome-us-midterms-but-trump-may-still-attack?traffic_source=rss)
+
+**Bias breakdown:** Lean Left: 1
+
+- Tehran views midterm results as a rejection of Trump's 'war on Iran', signalling US frustration with foreign policy.
+
+## 9. Ice hockey federation reiterates opposition to reinstatement of Russia
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/sports/2026/11/4/ice-hockey-federation-reiterates-opposition-to-reinstatement-of-russia?traffic_source=rss)
+
+**Bias breakdown:** Lean Left: 1
+
+- The CAS ruled last week to overturn governing body's exclusion of ‌Russia over its 2022 invasion of Ukraine.
+
+## 10. Is Trump really a ‘lame duck’ after losing both houses of US Congress?
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/4/is-trump-really-a-lame-duck-after-losing-both-houses-of-us-congress?traffic_source=rss)
+
+**Bias breakdown:** Lean Left: 1
+
+- Despite losing legislative control, the US president still has strong executive powers to push his agenda forward.
+
+## 11. Zelensky gives Melania Trump Ukraine's highest award after Oleshky ceasefire
+
+**Source:** [BBC World](https://www.bbc.co.uk/news/articles/cm87zvpzwq0no?at_medium=RSS&at_campaign=rss)
 
 **Bias breakdown:** Center: 1
 
-- Supermarkets have reported problems from Estonia and Sweden to Portugal and Italy and many retainers have been forced to discard food.
+- Russian and Ukrainian delegations will meet the US first lady at the White House on Thursday.
 
-## 11. Jet may have broken apart before Florida crash, officials say, as family named among victims
+## 12. ANC faces anger over poor services as South Africans vote in local elections
 
-**Source:** [BBC World](https://www.bbc.co.uk/news/articles/cm9wz01dx8xro?at_medium=RSS&at_campaign=rss)
+**Source:** [The Guardian World](https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts)
 
-**Bias breakdown:** Center: 1
+**Also covered by:** BBC World
 
-- Adam Robinson, Helen Sharp, and their two children - Emma, four, and Charlie, two - died after the plane nosedived.
+**Bias breakdown:** Lean Left: 1 · Center: 1
 
-## 12. Trump says US will stop giving Israel aid after year-end
+- Party expected to get less than a third of the vote amid frustration over water outages and power cuts  The African National Congress is on course for a bruising result in South Africa’s local elections on Wednesday as voters go to the polls amid deep discontent over water outages, power cuts and crumbling infrastructure.
+- The former liberation movement, which Nelson Mandela led to power in 1994 at the end of apartheid as South Africa’s first black president, is still likely to be the largest party.
+- However, polls showed it getting less than a third of the vote, down from 45.6% at the  last municipal elections  in 2021 and 40.2% in  2024’s national elections .
 
-**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/3/trump-announces-that-us-will-stop-paying-israel-after-year-end?traffic_source=rss)
+## 13. Why is the western US still counting votes after election day?
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/11/4/why-is-the-western-us-still-counting-votes-after-election-day?traffic_source=rss)
 
 **Bias breakdown:** Lean Left: 1
 
-- Military aid to Israel and campaign contributions from Israel's backers to US candidates has animated political debate.
+- Why is the western US still counting votes after election day?
 
-## 13. Russian bombing kills 31 people at Ukraine aid centre, Kyiv says
+## 14. James Talarico becomes first Democrat to win Texas Senate seat since 1988
 
-**Source:** [BBC World](https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss)
+**Source:** [BBC World](https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o?at_medium=RSS&at_campaign=rss)
+
+**Bias breakdown:** Center: 1
+
+- "This wasn't just a tsunami, not just a referendum, but this was a bloodbath," one expert told the BBC on Democrats' historic wins in Texas.
+
+## 15. Yemeni government forces claim control of strategic al-Jawf mountain range
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/4/yemeni-government-forces-claim-control-of-strategic-al-jawf-mountain-range?traffic_source=rss)
+
+**Bias breakdown:** Lean Left: 1
+
+- The advance on al-Dahida heights, a strategic highland, comes as fighting escalates in al-Dhalea, Lahij and Taiz.
+
+## 16. Israel’s President Will Start Talks on Whether Netanyahu or Eisenkot Can Form a Government
+
+**Source:** [NYT World](https://www.nytimes.com/2026/11/04/world/middleeast/israel-herzog-netanyahu-government.html)
+
+**Also covered by:** Christian Science Monitor World, Fox News World
+
+**Bias breakdown:** Lean Left: 1 · Center: 1 · Right: 1
+
+- President Isaac Herzog will meet with party leaders over the next two days to decide whether to give Prime Minister Benjamin Netanyahu or rivals the first chance at forming a coalition.
+
+## 17. 'This is a disaster': Angry Republicans blame Trump for midterms defeat
+
+**Source:** [BBC World](https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss)
+
+**Bias breakdown:** Center: 1
+
+- Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them.
+
+## 18. Nadal set to join Real Madrid board of directors
+
+**Source:** [BBC World](https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&at_campaign=rss)
+
+**Bias breakdown:** Center: 1
+
+- Tennis great Rafael Nadal is set to join the board of Spanish football giants Real Madrid.
+
+## 19. Israel’s President Could Play Key Role in Breaking Post-Election Deadlock
+
+**Source:** [NYT World](https://www.nytimes.com/2026/11/04/world/middleeast/israel-president-herzog-election-government.html)
+
+**Bias breakdown:** Lean Left: 1
+
+- President Isaac Herzog has tried to avoid controversy and heal rifts in his largely ceremonial role.
+- But his skills as a savvy mediator could be instrumental after an inconclusive election.
+
+## 20. More Iranians Call for Nuclear Weapons After War With U.S.
+
+**Source:** [NYT World](https://www.nytimes.com/2026/11/03/world/europe/iran-nuclear-weapons-war.html)
+
+**Bias breakdown:** Lean Left: 1
+
+- Some Iranian clerics and officials argue the country must rebuild deterrence by dropping its longstanding pledge not to build a nuclear bomb.
+
+## 21. Sharp objects found in Halloween sweets in three European nations
+
+**Source:** [BBC World](https://www.bbc.co.uk/news/articles/cvglw7x239pwo?at_medium=RSS&at_campaign=rss)
+
+**Bias breakdown:** Center: 1
+
+- Dozens of cases are reported in Austria, Germany and Hungary, including a nine-year-old girl hurting her tongue while eating chocolate containing a pin.
+
+## 22. Iran's chief negotiator says Americans voted 'no to war'
+
+**Source:** [BBC World](https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss)
+
+**Bias breakdown:** Center: 1
+
+- "We endorse this message," Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat.
+
+## 23. Scientist who accused Moscow of abusing his Novichok nerve agent for ‘state-level’ hits is found dead
+
+**Source:** [New York Post World](https://nypost.com/2026/11/04/world-news/scientist-who-accused-moscow-of-abusing-his-novichok-nerve-agent-for-state-level-hits-is-found-dead/)
+
+**Bias breakdown:** Lean Right: 1
+
+- "I could probably count a dozen people who've been poisoned by our substances."
+
+## 24. Helen Zille Is Running for Mayor of Johannesburg and Needling the ANC
+
+**Source:** [NYT World](https://www.nytimes.com/2026/11/04/world/africa/johannesburg-mayor-elections.html)
+
+**Bias breakdown:** Lean Left: 1
+
+- As South Africans head to the polls on Wednesday, Helen Zille, 75, is betting voters care less about race and more about public services in her bid to become mayor of Johannesburg.
+
+## 25. Left-wing Democrat Abdul El-Sayed wins in Michigan to become first Muslim senator
+
+**Source:** [BBC World](https://www.bbc.co.uk/news/articles/c893z55pxrewo?at_medium=RSS&at_campaign=rss)
+
+**Bias breakdown:** Center: 1
+
+- El-Sayed bested Republican Mike Rogers to become the first Muslim senator in US history.
+
+## 26. Why Doctors in Thailand Fear KFC
+
+**Source:** [NYT World](https://www.nytimes.com/2026/11/04/world/asia/thailand-kfc-curse-doctors.html)
+
+**Bias breakdown:** Lean Left: 1
+
+- In a country where superstitions are as imaginative as they are many, physicians have come to fear a jinx involving Kentucky Fried Chicken.
+
+## 27. Abdul El-Sayed welcomes Trump's plan to cut Israel aid, calls for end to arms sales
+
+**Source:** [NPR World](https://www.npr.org/2026/11/04/nx-s1-6028702/abdul-el-sayed-michigan-senate-israel-aid)
+
+**Bias breakdown:** Lean Left: 1
+
+- Michigan's first Muslim senator-elect, Abdul El-Sayed, discusses his historic victory, an unlikely agreement with Trump on Israel military aid and the political divisions that remain.
+
+## 28. Delhi air quality worsens ahead of Diwali as firework restrictions enter force
+
+**Source:** [BBC World](https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss)
+
+**Bias breakdown:** Center: 1
+
+- On Wednesday morning, Delhi's air quality index reading stood at 377, in the "very poor" category.
+
+## 29. Bomb Threats Disrupt Several Flights Across Europe
+
+**Source:** [NYT World](https://www.nytimes.com/2026/11/03/world/europe/bomb-threats-europe-flights-planes.html)
+
+**Bias breakdown:** Lean Left: 1
+
+- Officials are investigating threats against at least seven planes.
+- The aircraft landed safely and no explosives were found, the authorities said.
+
+## 30. Democrats seize full control of Congress. And, which candidates made history last night
+
+**Source:** [NPR World](https://www.npr.org/2026/11/04/g-s1-151745/up-first-newsletter-midterms-democrats-congress-control)
+
+**Bias breakdown:** Lean Left: 1
+
+- Democrats have won the House and the Senate, taking full control of Congress for the first time since 2023.
+- And history was made in several states.
+- Here's what happened last night.
+
+## 31. Woke Canadian town embarrassingly apologizes for Harry Potter-themed Halloween display after backlash over JK Rowling’s trans views
+
+**Source:** [New York Post World](https://nypost.com/2026/11/04/world-news/woke-canadian-town-embarrassingly-apologizes-for-harry-potter-themed-halloween-display-after-backlash-over-jk-rowlings-trans-views/)
+
+**Bias breakdown:** Lean Right: 1
+
+- A Canadian town apologized over a Harry Potter Halloween display after being called out by trans rights activists – only to be later mocked for caving to woke lefties.
+
+## 32. China warns Philippines to be cautious over South China Sea
+
+**Source:** [New York Post World](https://nypost.com/2026/11/04/world-news/china-warns-philippines-to-be-cautious-over-south-china-sea/)
+
+**Bias breakdown:** Lean Right: 1
+
+- Chinese Foreign Minister Wang Yi urged the Philippines to act with caution in South China Sea disputes during a call with Theresa Lazaro.
+
+## 33. North Korea launches missiles toward the sea as Pyongyang protests against US claims on Binance hack
+
+**Source:** [New York Post World](https://nypost.com/2026/11/04/world-news/north-korea-launches-missiles-toward-the-sea-as-pyongyang-protests-against-us-claims-on-binance-hack/)
+
+**Bias breakdown:** Lean Right: 1
+
+- North Korea launched multiple missiles after denying FBI claims that Pyongyang orchestrated a $6 billion cryptocurrency heist at Binance.
+
+## 34. One dead and another missing in suspected grizzly bear attack in Canada
+
+**Source:** [The Guardian World](https://www.theguardian.com/world/2026/nov/03/grizzly-bear-attack-canada)
 
 **Also covered by:** New York Post World
 
-**Bias breakdown:** Center: 1 · Lean Right: 1
+**Bias breakdown:** Lean Left: 1 · Lean Right: 1
 
-- Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president calls an "utterly horrific" attack.
+- The incident took place in the same province where a grizzly attacked a group of schoolchildren last November  A mother is dead and her daughter is missing in western Canada after a suspected grizzly bear attack in the same community where a bear  attacked a group of schoolchildren  earlier in the year.
+- On Tuesday, the British Columbia conservation officer service said in a social media post that it had launched a search for the two missing people on the weekend, and that during the search on Sunday an officer found the mother’s body.
+- The search for her 19-year-old daughter is ongoing.
 
-## 14. Iran commander sets out five conditions for regional security
+## 35. West Bank Property Sales Tactics Face a Challenge in Canada
 
-**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/3/iran-commander-sets-out-five-conditions-for-regional-security?traffic_source=rss)
-
-**Bias breakdown:** Lean Left: 1
-
-- Mediator Qatar says US and Iran are studying proposals to resume negotiations and that it was 'hopeful' of an agreement.
-
-## 15. Saudi Pro League postpones matches after Asian Cup rescheduling
-
-**Source:** [Al Jazeera](https://www.aljazeera.com/sports/2026/11/3/saudi-pro-league-postpones-matches-after-asian-cup-rescheduling?traffic_source=rss)
+**Source:** [NYT World](https://www.nytimes.com/2026/11/03/world/canada/canada-west-bank-lawsuit.html)
 
 **Bias breakdown:** Lean Left: 1
 
-- League delays matches after revised Asian Cup dates create 'additional flexibility in the domestic football calendar'.
+- The marketing practices of some firms promoting property in the Israeli-occupied territory to foreign purchasers are deceptive, a recent filing claims.
 
-## 16. New bodycam video shows aftermath of fatal National Guard shooting
+## 36. Afghan Woman Is Among Dozens to Be Deported to Afghanistan
 
-**Source:** [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/11/3/new-bodycam-video-shows-aftermath-of-fatal-national-guard-shooting?traffic_source=rss)
+**Source:** [NYT World](https://www.nytimes.com/2026/11/03/world/asia/afghan-deportation-flight.html)
 
 **Bias breakdown:** Lean Left: 1
 
-- Newly-released bodycam footage shows Tennessee National Guard members pointing their guns at 20-year-old Tyrin Johnson.
+- The Trump administration has arranged a flight to send dozens of Afghan immigrants back to Afghanistan, despite the risk of persecution by the Taliban.
 
-## 17. Brazil publishes first global ‘roadmap’ for phasing out fossil fuels
+## 37. Poland Beefs Up Security at Border With Russia
+
+**Source:** [NYT World](https://www.nytimes.com/2026/11/03/world/europe/poland-russia-kaliningrad.html)
+
+**Bias breakdown:** Lean Left: 1
+
+- Prime Minister Donald Tusk said there had been “disturbing movement” in Kaliningrad, a Russian region just north of Poland.
+
+## 38. Bomb threats across airlines in several European countries disrupt travel around continent
+
+**Source:** [New York Post World](https://nypost.com/2026/11/03/world-news/bomb-threats-across-airlines-in-several-european-countries-disrupt-travel-around-continent/)
+
+**Bias breakdown:** Lean Right: 1
+
+- The impacted airlines included Polish airline LOT, Scandinavian Airlines, Wizz Air and Ryanair.
+
+## 39. Japan faces diplomatic dilemma amid joint pressure from nuclear neighbors
+
+**Source:** [NPR World](https://www.npr.org/2026/11/03/nx-s1-6012016/japan-faces-diplomatic-dilemma-amid-joint-pressure-from-nuclear-neighbors)
+
+**Bias breakdown:** Lean Left: 1
+
+- As the Ukraine war grinds on, ties between Russia and neighboring Japan are at their worst in decades.
+- Tokyo wants more support from Washington, but some Japanese are concerned they may not get it.
+
+## 40. Israel privately warns US that Iran is considering use of chemical weapons: report
+
+**Source:** [New York Post World](https://nypost.com/2026/11/03/world-news/israel-privately-warns-iran-is-considering-use-of-chemical-weapons-report/)
+
+**Bias breakdown:** Lean Right: 1
+
+- Not everyone in the US security establishment is convinced, according to the New York Times.
+
+## 41. UK will face AI cyberattacks on critical infrastructure by 2028, official says
+
+**Source:** [New York Post World](https://nypost.com/2026/11/03/world-news/uk-will-face-ai-cyberattacks-on-critical-infrastructure-by-2028-official-says/)
+
+**Bias breakdown:** Lean Right: 1
+
+- The UK will face AI cyberattacks on critical infrastructure by 2028 from China and Russia, warns NCSC chief Richard Horne.
+
+## 42. Why Trump only has a few weeks to restart Iran war — and what he could target with new strikes
+
+**Source:** [New York Post World](https://nypost.com/2026/11/03/world-news/why-trump-has-just-a-few-weeks-to-restart-iran-war-and-what-he-could-target-with-new-strikes/)
+
+**Bias breakdown:** Lean Right: 1
+
+- President Trump has a narrow window of a few weeks after the midterm elections to launch a renewed war on Iran before a new Congress is likely to reign in his war powers, experts told The Post.
+
+## 43. Brazil publishes first global ‘roadmap’ for phasing out fossil fuels
 
 **Source:** [The Guardian World](https://www.theguardian.com/environment/2026/nov/03/brazil-first-global-roadmap-phasing-out-fossil-fuels)
 
@@ -149,81 +373,24 @@
 - Brazil, the host of  last year’s UN climate conference , set out the world’s first global “roadmap” for phasing out fossil fuels on Tuesday, showing that countries could boost their economies and pull people out of poverty while breaking the link with coal, oil and gas.
 - Continue reading...
 
-## 18. US urges Venezuela to release remaining political prisoners
+## 44. Israeli-Palestinian conflict tests limits of free speech for artists
 
-**Source:** [BBC World](https://www.bbc.co.uk/news/articles/cxg5jln586pno?at_medium=RSS&at_campaign=rss)
-
-**Bias breakdown:** Center: 1
-
-- The US secretary of state also discusses laying the groundwork for 'free, fair, and credible elections'.
-
-## 19. US strikes Iranian island ahead of midterm elections
-
-**Source:** [BBC World](https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss)
+**Source:** [Christian Science Monitor World](https://www.csmonitor.com/World/Europe/2026/1103/artists-israeli-palestinian-canceled-free-speech?icid=rss)
 
 **Bias breakdown:** Center: 1
 
-- US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.
+- Writers and musicians are using their profiles to make political points, but they run the risk of being canceled for their views.
 
-## 20. Iran slams US response to negotiations, demands America ‘fully and explicitly’ address its 7 outlandish conditions
+## 45. For Ukraine's Kherson region, a short ceasefire meant a momentary return to normal life
 
-**Source:** [New York Post World](https://nypost.com/2026/11/03/world-news/iran-slams-us-response-to-negotiations-demands-america-fully-and-explicitly-address-its-7-outlandish-conditions/)
-
-**Bias breakdown:** Lean Right: 1
-
-- Iran slammed America’s response to its latest peace proposal despite making the same seven outlandish demands President Trump rejected last month.
-
-## 21. As Trump’s Midterm Deadline Looms, Gulf Countries Brace for Possible Renewal of Iran War
-
-**Source:** [NYT World](https://www.nytimes.com/2026/11/03/world/middleeast/trump-iran-war-midterms-election.html)
+**Source:** [NPR World](https://www.npr.org/2026/11/03/g-s1-151238/ukraine-russia-ceasefire-oleshky-kherson)
 
 **Bias breakdown:** Lean Left: 1
 
-- The energy-rich Gulf Arab countries are engaged in a flurry of mediation efforts to avert war between the U.S.
-- and Iran, as many fear that the fighting will be worse this time around.
+- In Kherson city, usually seething with Russian drones, friends met at cafes, families were out together and shoppers stocked up.
+- "The city seems alive," said one resident, "just like it used to be."
 
-## 22. Israeli Navy conducts drill exercise near Gaza border, IDF announces
-
-**Source:** [New York Post World](https://nypost.com/2026/11/03/world-news/israeli-navy-conducts-drill-exercise-near-gaza-border-idf-says/)
-
-**Bias breakdown:** Lean Right: 1
-
-- Heavy movement of security forces and navy vessels is expected during the drill.
-
-## 23. A Test for Israeli Democracy: Should Jews Ask Arabs to Join the Government?
-
-**Source:** [NYT World](https://www.nytimes.com/2026/11/03/world/middleeast/israel-coalition-arab-lawmakers.html)
-
-**Bias breakdown:** Lean Left: 1
-
-- Arab lawmakers give opponents of Benjamin Netanyahu a clear majority in the Parliament.
-- But many Jewish lawmakers are trying to avoid relying on them.
-
-## 24. Celebrating Day of the Dead, High in Mexico’s Mountains
-
-**Source:** [NYT World](https://www.nytimes.com/2026/11/03/world/americas/mexico-day-of-the-dead-metlatonoc.html)
-
-**Bias breakdown:** Lean Left: 1
-
-- Over the course of 10 days in a remote Mexican town, dances and processions summon souls in the belief that the dead are never truly gone.
-
-## 25. Russian strikes knock out power to swathes of Ukraine; Kyiv hits Russian refinery
-
-**Source:** [New York Post World](https://nypost.com/2026/11/03/world-news/russian-strikes-knock-out-power-to-swathes-of-ukraine-kyiv-hits-russian-refinery/)
-
-**Bias breakdown:** Lean Right: 1
-
-- Russia launched a sweeping, multi-wave bombardment of Ukraine's energy infrastructure on Tuesday, knocking out power to swathes of the country with missiles and drones.
-
-## 26. Australian Court Hears Challenge to Social Media Ban
-
-**Source:** [NYT World](https://www.nytimes.com/2026/11/03/world/asia/australia-social-media-ban-high-court.html)
-
-**Bias breakdown:** Lean Left: 1
-
-- Reddit and an Australian digital advocacy group are claiming a law that restricts children younger than 16 from popular platforms infringes on their constitutional rights.
-
-## 27. Ukraine's Zelenskyy on defying US in attacking Russian oil: 'Our response must be painful'
+## 46. Ukraine's Zelenskyy on defying US in attacking Russian oil: 'Our response must be painful'
 
 **Source:** [Fox News World](https://www.foxnews.com/world/ukraine-zelenskyy-defying-us-attacking-russian-oil-response-must-be-painful)
 
@@ -231,34 +398,16 @@
 
 - Volodymyr Zelenskyy told Fox News Ukraine will keep striking Russian oil refineries unless Trump delivers Patriot missiles to shield energy infrastructure.
 
-## 28. Indian navy rescues 20 crew from Iranian fishing boat hijacked off Somalia
+## 47. Indian navy rescues 20 crew from Iranian fishing boat hijacked off Somalia
 
 **Source:** [NPR World](https://www.npr.org/2026/11/03/g-s1-151468/indian-navy-rescues-20-crew-from-iranian-fishing-boat-hijacked-off-somalia)
 
-**Also covered by:** New York Post World
-
-**Bias breakdown:** Lean Left: 1 · Lean Right: 1
+**Bias breakdown:** Lean Left: 1
 
 - he operation involved a warship, a maritime surveillance aircraft and marine commandos.
 - The hijacking followed a resurgence of Somali piracy across the Gulf of Aden and western Indian Ocean.
 
-## 29. Sick details of Thomas Markle’s alleged child porn cache found in Philippines — as cops confirm FBI involvement
-
-**Source:** [New York Post World](https://nypost.com/2026/11/03/world-news/sick-details-of-thomas-markles-alleged-child-porn-cache-found-in-philippines-as-cops-confirm-fbi-involved/)
-
-**Bias breakdown:** Lean Right: 1
-
-- Thomas Markle Sr.’s vile child pornography cache contained a video of children engaging in sex acts, Filipino cops said Tuesday, while also revealing the FBI has launched its own investigation into Meghan Markle’s estranged father.
-
-## 30. Asian Cup postponed in wake of attacks on Saudi Arabia
-
-**Source:** [BBC World](https://www.bbc.co.uk/sport/football/articles/c6y0e79yjg44o?at_medium=RSS&at_campaign=rss)
-
-**Bias breakdown:** Center: 1
-
-- The 2027 Asian Cup in Saudi Arabia is postponed because of a series of deadly attacks on the host country.
-
-## 31. Control of Congress is at stake today. And, judge to consider motion in Clancy case
+## 48. Control of Congress is at stake today. And, judge to consider motion in Clancy case
 
 **Source:** [NPR World](https://www.npr.org/2026/11/03/g-s1-151445/up-first-newsletter-midterms-election-day-iran-war-lindsay-clancy)
 
@@ -267,171 +416,22 @@
 - Election Day is here, and voters are heading to the polls in an election that may change control of Congress.
 - And, a judge is considering whether to dismiss Lindsay Clancy's murder case.
 
-## 32. Death toll hits 29 after Russian strike on Ukrainian aid site, with 48 still missing
+## 49. Death toll hits 29 after Russian strike on Ukrainian aid site, with 48 still missing
 
 **Source:** [NPR World](https://www.npr.org/2026/11/03/g-s1-151439/russia-ukraine-war)
 
-**Bias breakdown:** Lean Left: 1
+**Also covered by:** New York Post World
+
+**Bias breakdown:** Lean Left: 1 · Lean Right: 1
 
 - Russia launched 289 attack drones, 17 ballistic missiles and 59 cruise missiles across nine regions, President Zelenskyy said in an online post that noted the barrage coincided with U.S.
 - elections.
 
-## 33. Helicopters collide below Mount Everest base camp, killing 1 person and injuring 2
-
-**Source:** [New York Post World](https://nypost.com/2026/11/03/world-news/helicopters-collide-below-mount-everest-base-camp-killing-1-person-and-injuring-2/)
-
-**Also covered by:** BBC World
-
-**Bias breakdown:** Center: 1 · Lean Right: 1
-
-- A helicopter collision near Mount Everest base camp killed a 47-year-old tourist from India and injured two others in Pheriche village.
-
-## 34. Thousands of European troops to rehearse Ukraine deployment in event of peace
-
-**Source:** [BBC World](https://www.bbc.co.uk/news/articles/cm3wv085ne6po?at_medium=RSS&at_campaign=rss)
-
-**Bias breakdown:** Center: 1
-
-- Western officials stress that any force sent to Ukraine would not take part in any offensive operations.
-
-## 35. Ukraine peace momentum builds, but Russia sticks to its guns
+## 50. Ukraine peace momentum builds, but Russia sticks to its guns
 
 **Source:** [Christian Science Monitor World](https://www.csmonitor.com/World/Europe/2026/1029/russia-ukraine-war-peace-talks-trump-china-zelenskyy?icid=rss)
 
 **Bias breakdown:** Center: 1
 
 - The United States may be pushing a peace plan for Ukraine and Russia, but neither country seems interested in discussing it – especially Russia.
-
-## 36. The face of Venezuela’s opposition returns, testing fragile democratic transition
-
-**Source:** [Christian Science Monitor World](https://www.csmonitor.com/World/Americas/2026/1029/machado-venezuela-oil-maduro-trump?icid=rss)
-
-**Bias breakdown:** Center: 1
-
-- As Venezuela transitions from the ouster of its authoritarian leaders, the return of María Corina Machado could alter the course of politics in the South American nation.
-
-## 37. After purges, China’s Central Committee praises the party’s ‘rigorous self-governance’
-
-**Source:** [Christian Science Monitor World](https://www.csmonitor.com/World/Asia-Pacific/2026/1029/china-communist-party-purges-plenum?icid=rss)
-
-**Bias breakdown:** Center: 1
-
-- The Chinese Communist Party’s top members wrapped up their annual summit Thursday, with noticeably leaner ranks.
-
-## 38. Trump Says Colombia Will Accept Deportees, Ending Tariff Standoff
-
-**Source:** [WSJ World News](https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497)
-
-**Bias breakdown:** Center: 1
-
-- The president has made immigration an early priority to start second term, with ICE making more than 900 arrests Sunday.
-
-## 39. UK was ‘vehement’ slavery reparations should not be on Commonwealth summit agenda
-
-**Source:** [The Guardian World](https://www.theguardian.com/world/2026/nov/01/uk-was-vehement-slavery-reparations-should-not-be-on-commonwealth-summit-agenda)
-
-**Bias breakdown:** Lean Left: 1
-
-- British prime minister has now agreed to structured dialogue on reparatory justice but issue remains off formal Chogm agenda   British officials reportedly insisted that discussions of reparations for slavery should not be on the agenda of the Commonwealth leaders’ summit in Antigua and Barbuda – and even warned that Andy Burnham would not attend the meeting if the subject was formally included, according to a leading Caribbean political figure.
-- Ralph Gonsalves, a former prime minister of St Vincent and the Grenadines and a senior figure in the reparatory justice movement Repair Campaign, welcomed Britain’s decision to enter structured dialogue on reparations, but said the UK had come “kicking and screaming” to the conversation.
-- Continue reading...
-
-## 40. Ukraine says air alert system hacked after false radiation warning in Kyiv
-
-**Source:** [Fox News World](https://www.foxnews.com/world/ukraine-air-alert-system-hacked-false-radiation-warning-kyiv)
-
-**Bias breakdown:** Right: 1
-
-- Ukraine's Air Force said its air alert system was hacked after false radiation hazard and chemical attack warnings spread panic across Kyiv on Sunday.
-
-## 41. Iranian ‘ghost fleet’ filmed evading US blockade en route to China, UANI says
-
-**Source:** [Fox News World](https://www.foxnews.com/world/iranian-ghost-fleet-filmed-evading-us-blockade-en-route-china-uani-says)
-
-**Bias breakdown:** Right: 1
-
-- Smaller Iranian ghost fleet tankers are slipping past the U.S.
-- naval blockade carrying sanctioned LPG fuel to China via a shadowy Malaysia anchorage.
-
-## 42. This legendary board game could take decades to complete
-
-**Source:** [NPR World](https://www.npr.org/2026/11/01/nx-s1-6025438/this-legendary-board-game-could-take-decades-to-complete)
-
-**Bias breakdown:** Lean Left: 1
-
-- Andy Taeger & James Purcell are trying to become the first people ever complete the board game  Campaign for North Africa.
-- The is so complex it could take decades to finish.
-
-## 43. Gulf region on edge as Qatar leads talks with Iran to stave off new U.S. attacks
-
-**Source:** [NPR World](https://www.npr.org/2026/11/01/nx-s1-6023237/gulf-leaders-meet-in-qatar-in-effort-to-stave-off-new-escalation-in-u-s-and-iran-war)
-
-**Bias breakdown:** Lean Left: 1
-
-- Qatar has been leading intense mediation efforts over the past 72 hours to prevent a new round of possible U.S.
-- attacks on Iran after Tuesday's midterm elections.
-- The uncertainty has the entire Gulf region on edge.
-
-## 44. US calls Turkey-Libya maritime deal 'unhelpful and provocative' amid regional backlash
-
-**Source:** [Fox News World](https://www.foxnews.com/world/us-calls-turkey-libya-maritime-deal-unhelpful-and-provocative-amid-regional-backlash)
-
-**Bias breakdown:** Right: 1
-
-- A State Department spokesperson called the Turkey-Libya maritime accord "unhelpful and provocative" as diplomatic tensions escalate in the region.
-
-## 45. They signed up for a lifetime at sea on an endless cruise. High gas prices intervened
-
-**Source:** [NPR World](https://www.npr.org/2026/11/01/nx-s1-6022214/they-signed-up-for-a-lifetime-at-sea-on-an-endless-cruise-high-gas-prices-intervened)
-
-**Bias breakdown:** Lean Left: 1
-
-- A cruise ship suspended operations suddenly, citing soaring fuel costs.
-- Passengers, including Randy Cassingham, had to disembark in Cambodia.
-- NPR's Ayesha Rascoe talks to Cassingham about the ordeal.
-
-## 46. Colombia's 'El Tigre' takes fight to cartels as Trump alliance takes shape
-
-**Source:** [Fox News World](https://www.foxnews.com/world/colombias-el-tigre-takes-fight-cartels-trump-alliance-takes-shape)
-
-**Bias breakdown:** Right: 1
-
-- Abelardo de la Espriella claims over 32,000 arrests in 10 weeks as Colombia joins Trump's anti-cartel coalition, pivoting away from predecessor's policies.
-
-## 47. Ukraine’s farmers dig in as Russia turns its sights back on grain shipments
-
-**Source:** [Christian Science Monitor World](https://www.csmonitor.com/World/Europe/2026/1101/ukraine-grain-trade-breadbasket-russia-war-ports?icid=rss)
-
-**Also covered by:** Al Jazeera
-
-**Bias breakdown:** Lean Left: 1 · Center: 1
-
-- Ukraine’s agricultural exports are under fire from Russia once again.
-- Between drone attacks and rising diesel prices, the whole industry is strained.
-
-## 48. Technology is reshaping Chinese farms – and boosting its national security
-
-**Source:** [Christian Science Monitor World](https://www.csmonitor.com/World/Asia-Pacific/2026/1101/china-breadbasket-food-security-innovation?icid=rss)
-
-**Bias breakdown:** Center: 1
-
-- Chinese leader Xi Jinping has doubled down on making food security a top strategic priority, on the same level as hardening China’s military or building up energy stockpiles.
-
-## 49. Secretary Rubio has a tough time getting officials at G20 on the same page
-
-**Source:** [NPR World](https://www.npr.org/2026/10/31/nx-s1-6022223/secretary-rubio-has-a-tough-time-getting-officials-at-g20-on-the-same-page)
-
-**Bias breakdown:** Lean Left: 1
-
-- U.S.
-- Secretary of State Marco Rubio is hosting the G20 foreign ministers' meeting in Atlanta, with a focus on economic and security challenges.
-
-## 50. US Embassy warns of credible 'mass casualty' threat at popular Moscow tourist attraction
-
-**Source:** [Fox News World](https://www.foxnews.com/world/us-embassy-warns-credible-mass-casualty-threat-popular-moscow-tourist-attraction)
-
-**Bias breakdown:** Right: 1
-
-- The U.S.
-- Embassy in Moscow warned of a credible threat of a mass casualty event at the Tsaritsyno Museum Reserve, urging people to avoid the area.
 
