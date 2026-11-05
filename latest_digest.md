@@ -1,20 +1,22 @@
-# News Digest - 2026-11-04
+# News Digest - 2026-11-05
 
 **50 stories** · 5 with multi-source coverage · 1 blindspot
 
 ---
 
-## 1. 🔍 The world is reacting to the Democrats' sweeping midterm elections victory
+## 1. 🔍 British healthcare worker with Ebola evacuated from DR Congo to UK
 
-**Source:** [NPR World](https://www.npr.org/2026/11/04/nx-s1-6028664/world-reacts-midterm-elections)
+**Source:** [The Guardian World](https://www.theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows)
 
-**Also covered by:** Al Jazeera
+**Also covered by:** NYT World
 
 **Bias breakdown:** Lean Left: 2
 
 **Blindspot:** all covering sources lean the same direction
 
-- From Kyiv to Moscow, and Tehran to Tel Aviv, all eyes were on the Democrats big win as foreign powers weigh how a flipped Congress will affect international relations.
+- Patient is ⁠in ​stable condition and will be transferred to a specialist ‘high consequence’ infectious disease unit  A British healthcare worker with Ebola is being evacuated from the Democratic Republic of the Congo to the UK for medical treatment, it has been confirmed.
+- “A British citizen currently in the DR Congo has tested positive for Ebola,” a spokesperson for the UK government said in a statement on Wednesday.
+- “The UK has well-established procedures for dealing with cases like this, and those processes have been activated … The risk to the UK public from Ebola remains low.”   Continue reading...
 
 ## 2. Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr
 
@@ -26,208 +28,63 @@
 - Attalah was taken briefly into custody after a Cairo court convicted her of managing an unlicensed website, prompting fresh international concerns over press freedom in Egypt.
 - Continue reading...
 
-## 3. Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official
+## 3. Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'
 
-**Source:** [The Guardian World](https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official)
+**Source:** [BBC World](https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&at_campaign=rss)
 
-**Bias breakdown:** Lean Left: 1
+**Bias breakdown:** Center: 1
 
-- Jean Kaseya, of the Africa CDC, warns of the illness spreading like Covid unless more funding is secured to increase preparedness and possible treatment  The “unprecedented”  spread of the Ebola outbreak  means it could reach the UK and other countries, according to one of Africa’s top health officials.
-- As the current outbreak reached  10,000 cases, with almost 5,000 deaths , Dr Jean Kaseya, director general of the Africa Centres for Disease Control and Prevention (CDC), compared the outbreak to the Covid pandemic, which first took hold in China before spreading to countries across the world, claiming millions of lives, and ravaging health systems and economies.
+- Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather.
+
+## 4. Mother and daughter killed in grizzly bear attack, Canadian authorities confirm
+
+**Source:** [The Guardian World](https://www.theguardian.com/world/2026/nov/04/canada-bear-attack-mother-daughter-killed)
+
+**Also covered by:** New York Post World, Fox News World
+
+**Bias breakdown:** Lean Left: 1 · Lean Right: 1 · Right: 1
+
+- Conservation officers say more than one bear may have been involved in attack on women near their home  Search teams in  Canada  have discovered the body of a 20-year-old woman and confirmed that both she and her mother were killed in an attack that conservation officers now believe could have involved multiple grizzly bears.
+- Late on Tuesday, conservation officers in British Columbia said the two women, who were reported missing over the weekend, were located near a trail a short distance from their home.
 - Continue reading...
 
-## 4. Democratic voters celebrate El-Sayed’s Michigan win in election ‘blue wave’
+## 5. How the Democrats’ surge impacts the US-Israel relationship
 
-**Source:** [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/11/4/democratic-voters-celebrate-el-sayeds-michigan-win-in-election-blue?traffic_source=rss)
-
-**Bias breakdown:** Lean Left: 1
-
-- Democratic voters danced as they celebrated Abdul El-Sayed’s victory in Michigan.
-
-## 5. Israel's president to begin consultations with parties after election deadlock
-
-**Source:** [BBC World](https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss)
+**Source:** [Christian Science Monitor World](https://www.csmonitor.com/World/Middle-East/2026/1104/israel-us-relationship-democrats-midterms?icid=rss)
 
 **Bias breakdown:** Center: 1
 
-- Herzog warned politicians that "not every commitment and promise can be fulfilled" if they want to avoid another election.
+- Analysts say the Democrats’ success in the midterms could reshape U.S.-Israel ties.
 
-## 6. No regrets: Trump says Iran war justified despite polls drubbing
-
-**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/4/no-regrets-trump-says-iran-war-justified-despite-polls-drubbing?traffic_source=rss)
-
-**Bias breakdown:** Lean Left: 1
-
-- Trump acknowledges Iran war played role in defeats but says he would launch it again.
-
-## 7. How the World Reacted to Trump’s Midterm Defeat: 5 Things to Know
-
-**Source:** [NYT World](https://www.nytimes.com/2026/11/04/world/asia/midterms-trump-foreign-policy-world.html)
-
-**Bias breakdown:** Lean Left: 1
-
-- Commentators abroad wondered what President Trump’s electoral losses might mean for oil prices, the war on Iran and the future of American politics.
-
-## 8. Iranian leaders welcome US midterms, but Trump may still attack
-
-**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/4/iranian-leaders-welcome-us-midterms-but-trump-may-still-attack?traffic_source=rss)
-
-**Bias breakdown:** Lean Left: 1
-
-- Tehran views midterm results as a rejection of Trump's 'war on Iran', signalling US frustration with foreign policy.
-
-## 9. Ice hockey federation reiterates opposition to reinstatement of Russia
-
-**Source:** [Al Jazeera](https://www.aljazeera.com/sports/2026/11/4/ice-hockey-federation-reiterates-opposition-to-reinstatement-of-russia?traffic_source=rss)
-
-**Bias breakdown:** Lean Left: 1
-
-- The CAS ruled last week to overturn governing body's exclusion of ‌Russia over its 2022 invasion of Ukraine.
-
-## 10. Is Trump really a ‘lame duck’ after losing both houses of US Congress?
-
-**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/4/is-trump-really-a-lame-duck-after-losing-both-houses-of-us-congress?traffic_source=rss)
-
-**Bias breakdown:** Lean Left: 1
-
-- Despite losing legislative control, the US president still has strong executive powers to push his agenda forward.
-
-## 11. Zelensky gives Melania Trump Ukraine's highest award after Oleshky ceasefire
-
-**Source:** [BBC World](https://www.bbc.co.uk/news/articles/cm87zvpzwq0no?at_medium=RSS&at_campaign=rss)
-
-**Bias breakdown:** Center: 1
-
-- Russian and Ukrainian delegations will meet the US first lady at the White House on Thursday.
-
-## 12. ANC faces anger over poor services as South Africans vote in local elections
+## 6. ANC faces anger over poor services as South Africans vote in local elections
 
 **Source:** [The Guardian World](https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts)
 
-**Also covered by:** BBC World
+**Also covered by:** BBC World, NPR World
 
-**Bias breakdown:** Lean Left: 1 · Center: 1
+**Bias breakdown:** Lean Left: 2 · Center: 1
 
 - Party expected to get less than a third of the vote amid frustration over water outages and power cuts  The African National Congress is on course for a bruising result in South Africa’s local elections on Wednesday as voters go to the polls amid deep discontent over water outages, power cuts and crumbling infrastructure.
 - The former liberation movement, which Nelson Mandela led to power in 1994 at the end of apartheid as South Africa’s first black president, is still likely to be the largest party.
 - However, polls showed it getting less than a third of the vote, down from 45.6% at the  last municipal elections  in 2021 and 40.2% in  2024’s national elections .
 
-## 13. Why is the western US still counting votes after election day?
+## 7. Bukele warns Haitian gang leaders that his forces will 'finish' them as he did in El Salvador
 
-**Source:** [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/11/4/why-is-the-western-us-still-counting-votes-after-election-day?traffic_source=rss)
+**Source:** [Fox News World](https://www.foxnews.com/world/bukeles-warning-haitian-gang-leaders-forces-finish-el-salvador)
 
-**Bias breakdown:** Lean Left: 1
+**Bias breakdown:** Right: 1
 
-- Why is the western US still counting votes after election day?
+- Video shows Salvadoran attack helicopters repelling gang fighters in Croix-des-Bouquets as Nayib Bukele escalates military operations in Haiti.
 
-## 14. James Talarico becomes first Democrat to win Texas Senate seat since 1988
+## 8. This polarizing, pothole-snorkeling gran is leading the race for Johannesburg mayor
 
-**Source:** [BBC World](https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o?at_medium=RSS&at_campaign=rss)
-
-**Bias breakdown:** Center: 1
-
-- "This wasn't just a tsunami, not just a referendum, but this was a bloodbath," one expert told the BBC on Democrats' historic wins in Texas.
-
-## 15. Yemeni government forces claim control of strategic al-Jawf mountain range
-
-**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/4/yemeni-government-forces-claim-control-of-strategic-al-jawf-mountain-range?traffic_source=rss)
-
-**Bias breakdown:** Lean Left: 1
-
-- The advance on al-Dahida heights, a strategic highland, comes as fighting escalates in al-Dhalea, Lahij and Taiz.
-
-## 16. Israel’s President Will Start Talks on Whether Netanyahu or Eisenkot Can Form a Government
-
-**Source:** [NYT World](https://www.nytimes.com/2026/11/04/world/middleeast/israel-herzog-netanyahu-government.html)
-
-**Also covered by:** Christian Science Monitor World, Fox News World
-
-**Bias breakdown:** Lean Left: 1 · Center: 1 · Right: 1
-
-- President Isaac Herzog will meet with party leaders over the next two days to decide whether to give Prime Minister Benjamin Netanyahu or rivals the first chance at forming a coalition.
-
-## 17. 'This is a disaster': Angry Republicans blame Trump for midterms defeat
-
-**Source:** [BBC World](https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss)
+**Source:** [Christian Science Monitor World](https://www.csmonitor.com/World/Africa/2026/1104/Johannesburg-anc-zille-south-africa?icid=rss)
 
 **Bias breakdown:** Center: 1
 
-- Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them.
+- A social-media-savvy septuagenarian is leading the race for mayor of South Africa’s largest city, speaking to a broader decline in loyalty toward the long-ruling African National Congress.
 
-## 18. Nadal set to join Real Madrid board of directors
-
-**Source:** [BBC World](https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&at_campaign=rss)
-
-**Bias breakdown:** Center: 1
-
-- Tennis great Rafael Nadal is set to join the board of Spanish football giants Real Madrid.
-
-## 19. Israel’s President Could Play Key Role in Breaking Post-Election Deadlock
-
-**Source:** [NYT World](https://www.nytimes.com/2026/11/04/world/middleeast/israel-president-herzog-election-government.html)
-
-**Bias breakdown:** Lean Left: 1
-
-- President Isaac Herzog has tried to avoid controversy and heal rifts in his largely ceremonial role.
-- But his skills as a savvy mediator could be instrumental after an inconclusive election.
-
-## 20. More Iranians Call for Nuclear Weapons After War With U.S.
-
-**Source:** [NYT World](https://www.nytimes.com/2026/11/03/world/europe/iran-nuclear-weapons-war.html)
-
-**Bias breakdown:** Lean Left: 1
-
-- Some Iranian clerics and officials argue the country must rebuild deterrence by dropping its longstanding pledge not to build a nuclear bomb.
-
-## 21. Sharp objects found in Halloween sweets in three European nations
-
-**Source:** [BBC World](https://www.bbc.co.uk/news/articles/cvglw7x239pwo?at_medium=RSS&at_campaign=rss)
-
-**Bias breakdown:** Center: 1
-
-- Dozens of cases are reported in Austria, Germany and Hungary, including a nine-year-old girl hurting her tongue while eating chocolate containing a pin.
-
-## 22. Iran's chief negotiator says Americans voted 'no to war'
-
-**Source:** [BBC World](https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss)
-
-**Bias breakdown:** Center: 1
-
-- "We endorse this message," Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat.
-
-## 23. Scientist who accused Moscow of abusing his Novichok nerve agent for ‘state-level’ hits is found dead
-
-**Source:** [New York Post World](https://nypost.com/2026/11/04/world-news/scientist-who-accused-moscow-of-abusing-his-novichok-nerve-agent-for-state-level-hits-is-found-dead/)
-
-**Bias breakdown:** Lean Right: 1
-
-- "I could probably count a dozen people who've been poisoned by our substances."
-
-## 24. Helen Zille Is Running for Mayor of Johannesburg and Needling the ANC
-
-**Source:** [NYT World](https://www.nytimes.com/2026/11/04/world/africa/johannesburg-mayor-elections.html)
-
-**Bias breakdown:** Lean Left: 1
-
-- As South Africans head to the polls on Wednesday, Helen Zille, 75, is betting voters care less about race and more about public services in her bid to become mayor of Johannesburg.
-
-## 25. Left-wing Democrat Abdul El-Sayed wins in Michigan to become first Muslim senator
-
-**Source:** [BBC World](https://www.bbc.co.uk/news/articles/c893z55pxrewo?at_medium=RSS&at_campaign=rss)
-
-**Bias breakdown:** Center: 1
-
-- El-Sayed bested Republican Mike Rogers to become the first Muslim senator in US history.
-
-## 26. Why Doctors in Thailand Fear KFC
-
-**Source:** [NYT World](https://www.nytimes.com/2026/11/04/world/asia/thailand-kfc-curse-doctors.html)
-
-**Bias breakdown:** Lean Left: 1
-
-- In a country where superstitions are as imaginative as they are many, physicians have come to fear a jinx involving Kentucky Fried Chicken.
-
-## 27. Abdul El-Sayed welcomes Trump's plan to cut Israel aid, calls for end to arms sales
+## 9. Abdul El-Sayed welcomes Trump's plan to cut Israel aid, calls for end to arms sales
 
 **Source:** [NPR World](https://www.npr.org/2026/11/04/nx-s1-6028702/abdul-el-sayed-michigan-senate-israel-aid)
 
@@ -235,102 +92,25 @@
 
 - Michigan's first Muslim senator-elect, Abdul El-Sayed, discusses his historic victory, an unlikely agreement with Trump on Israel military aid and the political divisions that remain.
 
-## 28. Delhi air quality worsens ahead of Diwali as firework restrictions enter force
+## 10. The world is reacting to the Democrats' sweeping midterm elections victory
 
-**Source:** [BBC World](https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss)
-
-**Bias breakdown:** Center: 1
-
-- On Wednesday morning, Delhi's air quality index reading stood at 377, in the "very poor" category.
-
-## 29. Bomb Threats Disrupt Several Flights Across Europe
-
-**Source:** [NYT World](https://www.nytimes.com/2026/11/03/world/europe/bomb-threats-europe-flights-planes.html)
+**Source:** [NPR World](https://www.npr.org/2026/11/04/nx-s1-6028664/world-reacts-midterm-elections)
 
 **Bias breakdown:** Lean Left: 1
 
-- Officials are investigating threats against at least seven planes.
-- The aircraft landed safely and no explosives were found, the authorities said.
+- From Kyiv to Moscow, and Tehran to Tel Aviv, all eyes were on the Democrats' big win as foreign powers weigh how a flipped Congress will affect international relations.
 
-## 30. Democrats seize full control of Congress. And, which candidates made history last night
-
-**Source:** [NPR World](https://www.npr.org/2026/11/04/g-s1-151745/up-first-newsletter-midterms-democrats-congress-control)
-
-**Bias breakdown:** Lean Left: 1
-
-- Democrats have won the House and the Senate, taking full control of Congress for the first time since 2023.
-- And history was made in several states.
-- Here's what happened last night.
-
-## 31. Woke Canadian town embarrassingly apologizes for Harry Potter-themed Halloween display after backlash over JK Rowling’s trans views
-
-**Source:** [New York Post World](https://nypost.com/2026/11/04/world-news/woke-canadian-town-embarrassingly-apologizes-for-harry-potter-themed-halloween-display-after-backlash-over-jk-rowlings-trans-views/)
-
-**Bias breakdown:** Lean Right: 1
-
-- A Canadian town apologized over a Harry Potter Halloween display after being called out by trans rights activists – only to be later mocked for caving to woke lefties.
-
-## 32. China warns Philippines to be cautious over South China Sea
-
-**Source:** [New York Post World](https://nypost.com/2026/11/04/world-news/china-warns-philippines-to-be-cautious-over-south-china-sea/)
-
-**Bias breakdown:** Lean Right: 1
-
-- Chinese Foreign Minister Wang Yi urged the Philippines to act with caution in South China Sea disputes during a call with Theresa Lazaro.
-
-## 33. North Korea launches missiles toward the sea as Pyongyang protests against US claims on Binance hack
-
-**Source:** [New York Post World](https://nypost.com/2026/11/04/world-news/north-korea-launches-missiles-toward-the-sea-as-pyongyang-protests-against-us-claims-on-binance-hack/)
-
-**Bias breakdown:** Lean Right: 1
-
-- North Korea launched multiple missiles after denying FBI claims that Pyongyang orchestrated a $6 billion cryptocurrency heist at Binance.
-
-## 34. One dead and another missing in suspected grizzly bear attack in Canada
+## 11. One dead and another missing in suspected grizzly bear attack in Canada
 
 **Source:** [The Guardian World](https://www.theguardian.com/world/2026/nov/03/grizzly-bear-attack-canada)
 
-**Also covered by:** New York Post World
-
-**Bias breakdown:** Lean Left: 1 · Lean Right: 1
+**Bias breakdown:** Lean Left: 1
 
 - The incident took place in the same province where a grizzly attacked a group of schoolchildren last November  A mother is dead and her daughter is missing in western Canada after a suspected grizzly bear attack in the same community where a bear  attacked a group of schoolchildren  earlier in the year.
 - On Tuesday, the British Columbia conservation officer service said in a social media post that it had launched a search for the two missing people on the weekend, and that during the search on Sunday an officer found the mother’s body.
 - The search for her 19-year-old daughter is ongoing.
 
-## 35. West Bank Property Sales Tactics Face a Challenge in Canada
-
-**Source:** [NYT World](https://www.nytimes.com/2026/11/03/world/canada/canada-west-bank-lawsuit.html)
-
-**Bias breakdown:** Lean Left: 1
-
-- The marketing practices of some firms promoting property in the Israeli-occupied territory to foreign purchasers are deceptive, a recent filing claims.
-
-## 36. Afghan Woman Is Among Dozens to Be Deported to Afghanistan
-
-**Source:** [NYT World](https://www.nytimes.com/2026/11/03/world/asia/afghan-deportation-flight.html)
-
-**Bias breakdown:** Lean Left: 1
-
-- The Trump administration has arranged a flight to send dozens of Afghan immigrants back to Afghanistan, despite the risk of persecution by the Taliban.
-
-## 37. Poland Beefs Up Security at Border With Russia
-
-**Source:** [NYT World](https://www.nytimes.com/2026/11/03/world/europe/poland-russia-kaliningrad.html)
-
-**Bias breakdown:** Lean Left: 1
-
-- Prime Minister Donald Tusk said there had been “disturbing movement” in Kaliningrad, a Russian region just north of Poland.
-
-## 38. Bomb threats across airlines in several European countries disrupt travel around continent
-
-**Source:** [New York Post World](https://nypost.com/2026/11/03/world-news/bomb-threats-across-airlines-in-several-european-countries-disrupt-travel-around-continent/)
-
-**Bias breakdown:** Lean Right: 1
-
-- The impacted airlines included Polish airline LOT, Scandinavian Airlines, Wizz Air and Ryanair.
-
-## 39. Japan faces diplomatic dilemma amid joint pressure from nuclear neighbors
+## 12. Japan faces diplomatic dilemma amid joint pressure from nuclear neighbors
 
 **Source:** [NPR World](https://www.npr.org/2026/11/03/nx-s1-6012016/japan-faces-diplomatic-dilemma-amid-joint-pressure-from-nuclear-neighbors)
 
@@ -339,31 +119,17 @@
 - As the Ukraine war grinds on, ties between Russia and neighboring Japan are at their worst in decades.
 - Tokyo wants more support from Washington, but some Japanese are concerned they may not get it.
 
-## 40. Israel privately warns US that Iran is considering use of chemical weapons: report
+## 13. After deadlocked elections, it’s up to Israel’s president to find a way forward
 
-**Source:** [New York Post World](https://nypost.com/2026/11/03/world-news/israel-privately-warns-iran-is-considering-use-of-chemical-weapons-report/)
+**Source:** [Christian Science Monitor World](https://www.csmonitor.com/World/Middle-East/2026/1103/israel-herzog-netanyahu-election-president-unity?icid=rss)
 
-**Bias breakdown:** Lean Right: 1
+**Also covered by:** Fox News World
 
-- Not everyone in the US security establishment is convinced, according to the New York Times.
+**Bias breakdown:** Center: 1 · Right: 1
 
-## 41. UK will face AI cyberattacks on critical infrastructure by 2028, official says
+- All eyes are on Israel’s President Isaac Herzog as he prepares to give the nod to a member of parliament to form a new government after inconclusive elections.
 
-**Source:** [New York Post World](https://nypost.com/2026/11/03/world-news/uk-will-face-ai-cyberattacks-on-critical-infrastructure-by-2028-official-says/)
-
-**Bias breakdown:** Lean Right: 1
-
-- The UK will face AI cyberattacks on critical infrastructure by 2028 from China and Russia, warns NCSC chief Richard Horne.
-
-## 42. Why Trump only has a few weeks to restart Iran war — and what he could target with new strikes
-
-**Source:** [New York Post World](https://nypost.com/2026/11/03/world-news/why-trump-has-just-a-few-weeks-to-restart-iran-war-and-what-he-could-target-with-new-strikes/)
-
-**Bias breakdown:** Lean Right: 1
-
-- President Trump has a narrow window of a few weeks after the midterm elections to launch a renewed war on Iran before a new Congress is likely to reign in his war powers, experts told The Post.
-
-## 43. Brazil publishes first global ‘roadmap’ for phasing out fossil fuels
+## 14. Brazil publishes first global ‘roadmap’ for phasing out fossil fuels
 
 **Source:** [The Guardian World](https://www.theguardian.com/environment/2026/nov/03/brazil-first-global-roadmap-phasing-out-fossil-fuels)
 
@@ -373,7 +139,7 @@
 - Brazil, the host of  last year’s UN climate conference , set out the world’s first global “roadmap” for phasing out fossil fuels on Tuesday, showing that countries could boost their economies and pull people out of poverty while breaking the link with coal, oil and gas.
 - Continue reading...
 
-## 44. Israeli-Palestinian conflict tests limits of free speech for artists
+## 15. Israeli-Palestinian conflict tests limits of free speech for artists
 
 **Source:** [Christian Science Monitor World](https://www.csmonitor.com/World/Europe/2026/1103/artists-israeli-palestinian-canceled-free-speech?icid=rss)
 
@@ -381,7 +147,7 @@
 
 - Writers and musicians are using their profiles to make political points, but they run the risk of being canceled for their views.
 
-## 45. For Ukraine's Kherson region, a short ceasefire meant a momentary return to normal life
+## 16. For Ukraine's Kherson region, a short ceasefire meant a momentary return to normal life
 
 **Source:** [NPR World](https://www.npr.org/2026/11/03/g-s1-151238/ukraine-russia-ceasefire-oleshky-kherson)
 
@@ -390,7 +156,7 @@
 - In Kherson city, usually seething with Russian drones, friends met at cafes, families were out together and shoppers stocked up.
 - "The city seems alive," said one resident, "just like it used to be."
 
-## 46. Ukraine's Zelenskyy on defying US in attacking Russian oil: 'Our response must be painful'
+## 17. Ukraine's Zelenskyy on defying US in attacking Russian oil: 'Our response must be painful'
 
 **Source:** [Fox News World](https://www.foxnews.com/world/ukraine-zelenskyy-defying-us-attacking-russian-oil-response-must-be-painful)
 
@@ -398,7 +164,7 @@
 
 - Volodymyr Zelenskyy told Fox News Ukraine will keep striking Russian oil refineries unless Trump delivers Patriot missiles to shield energy infrastructure.
 
-## 47. Indian navy rescues 20 crew from Iranian fishing boat hijacked off Somalia
+## 18. Indian navy rescues 20 crew from Iranian fishing boat hijacked off Somalia
 
 **Source:** [NPR World](https://www.npr.org/2026/11/03/g-s1-151468/indian-navy-rescues-20-crew-from-iranian-fishing-boat-hijacked-off-somalia)
 
@@ -407,7 +173,7 @@
 - he operation involved a warship, a maritime surveillance aircraft and marine commandos.
 - The hijacking followed a resurgence of Somali piracy across the Gulf of Aden and western Indian Ocean.
 
-## 48. Control of Congress is at stake today. And, judge to consider motion in Clancy case
+## 19. Control of Congress is at stake today. And, judge to consider motion in Clancy case
 
 **Source:** [NPR World](https://www.npr.org/2026/11/03/g-s1-151445/up-first-newsletter-midterms-election-day-iran-war-lindsay-clancy)
 
@@ -416,22 +182,264 @@
 - Election Day is here, and voters are heading to the polls in an election that may change control of Congress.
 - And, a judge is considering whether to dismiss Lindsay Clancy's murder case.
 
-## 49. Death toll hits 29 after Russian strike on Ukrainian aid site, with 48 still missing
+## 20. Top Japan FA official to stand against Infantino for FIFA presidency
 
-**Source:** [NPR World](https://www.npr.org/2026/11/03/g-s1-151439/russia-ukraine-war)
+**Source:** [Al Jazeera](https://www.aljazeera.com/sports/2026/11/5/top-japan-fa-official-to-stand-against-infantino-for-fifa-presidency?traffic_source=rss)
 
-**Also covered by:** New York Post World
+**Bias breakdown:** Lean Left: 1
 
-**Bias breakdown:** Lean Left: 1 · Lean Right: 1
+- Kozo Tashima second person to declare he will challenge Infantino, after former Spurs defender Ramon Vega.
 
-- Russia launched 289 attack drones, 17 ballistic missiles and 59 cruise missiles across nine regions, President Zelenskyy said in an online post that noted the barrage coincided with U.S.
-- elections.
+## 21. France holds new strikes and protests as unions demand immediate answers
 
-## 50. Ukraine peace momentum builds, but Russia sticks to its guns
-
-**Source:** [Christian Science Monitor World](https://www.csmonitor.com/World/Europe/2026/1029/russia-ukraine-war-peace-talks-trump-china-zelenskyy?icid=rss)
+**Source:** [BBC World](https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss)
 
 **Bias breakdown:** Center: 1
 
-- The United States may be pushing a peace plan for Ukraine and Russia, but neither country seems interested in discussing it – especially Russia.
+- Five of France's unions join a wave of strikes and protests in a national day of action.
+
+## 22. How Melania Trump Became a Dark Horse Diplomat on Ukraine
+
+**Source:** [NYT World](https://www.nytimes.com/2026/11/05/world/europe/melania-trump-oleshky-ukraine-ceasefire.html)
+
+**Bias breakdown:** Lean Left: 1
+
+- Both Moscow and Kyiv say Mrs.
+- Trump’s team was the driving force behind an evacuation of a besieged city.
+- It was also in their interest to deliver her a humanitarian win.
+
+## 23. Bangladesh Agrees to Raise Minimum Wage for Garment Workers After Protests
+
+**Source:** [NYT World](https://www.nytimes.com/2026/11/05/world/asia/bangladesh-garment-workers-protest-wage.html)
+
+**Bias breakdown:** Lean Left: 1
+
+- Hundreds of garment factories were shut down this week as workers in the country, the world’s second-largest exporter of clothing, demonstrated for higher pay.
+
+## 24. Jerusalem Daily: Settler pogroms in Hebron
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/11/5/jerusalem-daily-settler-pogroms-in-hebron?traffic_source=rss)
+
+**Bias breakdown:** Lean Left: 1
+
+- Israel’s president consults party leaders on forming a government, as Israeli forces attack Palestinians in Gaza.
+
+## 25. Ronaldo in records: International milestones from the football icon
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/sports/2026/11/5/ronaldo-in-records-international-milestones-from-the-football-icon?traffic_source=rss)
+
+**Bias breakdown:** Lean Left: 1
+
+- Ronaldo, 41, ended an illustrious 23-year career that spanned six World Cups and six European Championships.
+
+## 26. Why Guinea-Bissau halted a controversial hepatitis vaccine trial for babies
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/5/why-guinea-bissau-halted-a-controversial-hepatitis-vaccine-trial-for-babies?traffic_source=rss)
+
+**Bias breakdown:** Lean Left: 1
+
+- Experts have said the US-funded trial would deny critical vaccines to thousands of infants.
+
+## 27. Six dead and others injured in fire at New York City building
+
+**Source:** [BBC World](https://www.bbc.co.uk/news/articles/c39wz44411w0o?at_medium=RSS&at_campaign=rss)
+
+**Bias breakdown:** Center: 1
+
+- The cause of the blaze is not yet clear, after 230 fire and emergency medical personnel went to the scene.
+
+## 28. Can Iran’s new supreme leader make peace from behind the scenes?
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/opinions/2026/11/5/can-irans-new-supreme-leader-make-peace-from-behind-the-scenes?traffic_source=rss)
+
+**Bias breakdown:** Lean Left: 1
+
+- Mojtaba Khamenei’s consultations suggest a new system of decision-making is taking shape.
+
+## 29. Everyone’s Talking About the ‘Blue Tsunami.’ In Japan, It’s Complicated.
+
+**Source:** [NYT World](https://www.nytimes.com/2026/11/05/world/asia/japan-hokusai-great-wave-midterms.html)
+
+**Bias breakdown:** Lean Left: 1
+
+- The New York Post used a Hokusai work to depict Donald Trump being swept away by Democrats’ midterm election win.
+- Some in Japan were bothered by the imagery.
+
+## 30. ‘Healthcare not bombs’: How Gaza shaped Adam Hamawy’s path to US Congress
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/5/healthcare-not-bombs-how-gaza-shaped-adam-hamawys-path-to-us-congress?traffic_source=rss)
+
+**Bias breakdown:** Lean Left: 1
+
+- Former army surgeon and Gaza volunteer Hamawy is the first Muslim American elected to the US Congress from New Jersey.
+
+## 31. Watch: How rapist Brand was never far from controversy
+
+**Source:** [BBC World](https://www.bbc.co.uk/news/videos/c9dr8713zjgyo?at_medium=RSS&at_campaign=rss)
+
+**Bias breakdown:** Center: 1
+
+- BBC correspondent Sima Kotecha explains how the trial unfolded.
+
+## 32. Could the US midterms further isolate Israel in Washington?
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/5/could-the-us-midterms-further-isolate-israel-in-washington?traffic_source=rss)
+
+**Bias breakdown:** Lean Left: 1
+
+- The midterms showed that challenging support for Israel can win votes.
+- But changing US foreign policy may be harder.
+
+## 33. Burning rubbish chokes besieged Yemeni city of Taiz
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/features/2026/11/5/burning-rubbish-chokes-besieged-yemeni-city-of-taiz?traffic_source=rss)
+
+**Bias breakdown:** Lean Left: 1
+
+- Taiz residents face health risks as waste accumulates amid sniper fire, forcing people to burn it in the streets.
+
+## 34. Finland Sends 2 Men to Prison for Damaging Undersea Cable in Baltic Sea
+
+**Source:** [NYT World](https://www.nytimes.com/2026/11/05/world/europe/finland-fitburg-russia-ship-baltic-cables-sabotage.html)
+
+**Bias breakdown:** Lean Left: 1
+
+- A Finnish court convicted the captain and boatswain of a cargo ship of aggravated criminal damage in relation to an incident last year in the Gulf of Finland.
+
+## 35. After Riots and Protests, French Workers Are Going on Strike
+
+**Source:** [NYT World](https://www.nytimes.com/2026/11/05/world/europe/france-protests-general-strike.html)
+
+**Bias breakdown:** Lean Left: 1
+
+- Roughly 260 demonstrations are expected to take place across France on Thursday, escalating weeks of protests against the rising cost of living.
+
+## 36. Netanyahu Alleges Election Fraud in Connection With Arab Turnout
+
+**Source:** [NYT World](https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-netanyahu-trump.html)
+
+**Bias breakdown:** Lean Left: 1
+
+- The Israeli leader and his allies are alleging that Arab voters last month stole the election.
+- Election officials say that while foul play was being investigated, it could not have affected the result.
+
+## 37. How elderly ‘unsung heroes’ powered Lula’s historic fightback in Brazil
+
+**Source:** [The Guardian World](https://www.theguardian.com/world/2026/nov/05/unsung-heroes-behind-lula-surprise-election-triumph-brazil-runoff-bolsonaro)
+
+**Bias breakdown:** Lean Left: 1
+
+- Older voters praised for helping tip balance in leftwing president’s favour against far-right Flávio Bolsonaro in runoff  It had been nearly a decade since Celia de Oliveira Soares last voted, and months since the 101-year-old great-grandmother last left her home.
+- But on 25 October, when Brazil held what many considered its most  important presidential election  in decades, relatives helped Soares into a wheelchair and drove her to a nearby school to make sure the far-right candidate, Flávio Bolsonaro, did not prevail.
+- Continue reading...
+
+## 38. Protests erupt across France after left-wing groups call for mobilization
+
+**Source:** [Fox News World](https://www.foxnews.com/world/protests-erupt-across-france-left-wing-groups-call-mobilization)
+
+**Bias breakdown:** Right: 1
+
+- An estimated 270,000 people joined nationwide strikes and protests across France on Thursday, putting pressure on President Emmanuel Macron's government.
+
+## 39. At the Root of K-Pop’s Controversies, a Restrictive Business Model
+
+**Source:** [NYT World](https://www.nytimes.com/2026/11/05/world/asia/how-kpop-works-contracts.html)
+
+**Bias breakdown:** Lean Left: 1
+
+- Labels exert extraordinary control over performers because only a few acts turn a profit.
+
+## 40. India's costliest film retells a beloved Hindu epic - but divides critics
+
+**Source:** [BBC World](https://www.bbc.co.uk/news/articles/cm93zv62v1n7o?at_medium=RSS&at_campaign=rss)
+
+**Bias breakdown:** Center: 1
+
+- Easily the most anticipated Bollywood film of the year, Ramayana: Rise of a Legend is the first of two parts.
+
+## 41. Multiple flights in Europe diverted because of bomb threats
+
+**Source:** [Fox News World](https://www.foxnews.com/world/multiple-flights-europe-diverted-bomb-threats)
+
+**Bias breakdown:** Right: 1
+
+- At least 11 planes from cities, including Dublin, Madrid, and Warsaw, were diverted or grounded over bomb threats that have been determined to be unfounded.
+
+## 42. Convicted rapist Russell Brand facing fresh allegations — including from girl who was just 16
+
+**Source:** [New York Post World](https://nypost.com/2026/11/05/world-news/russell-brand-faces-new-rape-allegations-including-a-16-year-old-girl/)
+
+**Bias breakdown:** Lean Right: 1
+
+- Police in London confirmed they were looking into the rape claims of two other women against the 51-year-old convicted rapist.
+
+## 43. What's next for Democrats after the midterms. And, a look at the outstanding races
+
+**Source:** [NPR World](https://www.npr.org/2026/11/05/g-s1-152046/up-first-newsletter-democrats-congress-control-house-senate-trump-reaction)
+
+**Bias breakdown:** Lean Left: 1
+
+- Democrats have regained control of Congress.
+- They have a long list of investigations into Trump planned.
+- Here's a look at how they could affect the Dems' majority.
+
+## 44. Bizarre moment student sent flying by runaway tire that got loose from truck
+
+**Source:** [New York Post World](https://nypost.com/2026/11/05/world-news/chile-student-hit-by-runaway-tire-in-bizarre-video/)
+
+**Bias breakdown:** Lean Right: 1
+
+- "There was a loud noise, like when one piece of metal hits another," said one eyewitness.
+
+## 45. Death toll rises to 5 in Kenya building collapse after 3 bodies recovered
+
+**Source:** [New York Post World](https://nypost.com/2026/11/05/world-news/death-toll-rises-to-5-in-kenya-building-collapse-after-3-bodies-found/)
+
+**Bias breakdown:** Lean Right: 1
+
+- Sixteen people are still believed to be missing since the building collapsed on Oct.
+- 23.
+
+## 46. Bomb hoaxes that grounded 25 planes include bizarre anti-feminist threat
+
+**Source:** [New York Post World](https://nypost.com/2026/11/05/world-news/bomb-hoaxes-grounding-25-planes-include-bizarre-anti-feminist-threat-to-turn-the-skies-red/)
+
+**Bias breakdown:** Lean Right: 1
+
+- The bomb hoaxes that affected at least 25 European flights Thursday included bizarre emails claiming to be from an anti-feminist group threatening to “turn the skies red,” according to reports.
+- The “threat notification” emails claiming to be from the so-called “Fighters of the Male State” were made over at least two of the numerous flights...
+
+## 47. Voters Are Turning Out in Droves to Cut Autocrats Down to Size
+
+**Source:** [NYT World](https://www.nytimes.com/2026/11/05/world/europe/voter-turnout-democracy-autocrats-elections.html)
+
+**Bias breakdown:** Lean Left: 1
+
+- In country after country stricken by democratic decay, overwhelming turnout in elections is making a difference.
+
+## 48. ‘Married at First Sight UK’ axed after female contestants alleged on-screen husbands raped them
+
+**Source:** [New York Post World](https://nypost.com/2026/11/05/world-news/married-at-first-sight-uk-axed-after-female-contestants-alleged-on-screen-husbands-raped-them/)
+
+**Bias breakdown:** Lean Right: 1
+
+- The show came under fire after two women alleged they were raped by their on-screen husbands.
+
+## 49. Vance walks Trump tightrope with scathing election critique blaming Iran war
+
+**Source:** [BBC World](https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss)
+
+**Bias breakdown:** Center: 1
+
+- The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.
+
+## 50. Multiple flights in Europe diverted because of bomb threats
+
+**Source:** [New York Post World](https://nypost.com/2026/11/05/world-news/multiple-flights-in-europe-diverted-because-of-bomb-threats/)
+
+**Also covered by:** NYT World
+
+**Bias breakdown:** Lean Left: 1 · Lean Right: 1
+
+- Several flights across Europe received hoax bomb threats earlier this week that prompted searches, diversions and, in one case, an escort by the Italian air force until landing, officials said.
 

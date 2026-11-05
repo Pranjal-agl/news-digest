@@ -1,20 +1,20 @@
 {
-  "date": "2026-11-04",
-  "generated_at": "2026-11-04T15:57:53.185025",
+  "date": "2026-11-05",
+  "generated_at": "2026-11-05T16:10:18.271480",
   "stats": {
     "total": 50,
     "multi_source": 5,
-    "trending": 1,
+    "trending": 2,
     "blindspots": 1
   },
   "stories": [
     {
-      "title": "The world is reacting to the Democrats' sweeping midterm elections victory",
-      "link": "https://www.npr.org/2026/11/04/nx-s1-6028664/world-reacts-midterm-elections",
-      "source": "NPR World",
+      "title": "British healthcare worker with Ebola evacuated from DR Congo to UK",
+      "link": "https://www.theguardian.com/world/2026/nov/04/british-healthcare-worker-ebola-evacuated-drc-to-uk-document-shows",
+      "source": "The Guardian World",
       "all_sources": [
-        "NPR World",
-        "Al Jazeera"
+        "NYT World",
+        "The Guardian World"
       ],
       "bias_breakdown": {
         "Lean Left": 2
@@ -28,38 +28,71 @@
       "is_blindspot": true,
       "is_trending": false,
       "bullet_points": [
-        "From Kyiv to Moscow, and Tehran to Tel Aviv, all eyes were on the Democrats big win as foreign powers weigh how a flipped Congress will affect international relations."
+        "Patient is ⁠in ​stable condition and will be transferred to a specialist ‘high consequence’ infectious disease unit  A British healthcare worker with Ebola is being evacuated from the Democratic Republic of the Congo to the UK for medical treatment, it has been confirmed.",
+        "“A British citizen currently in the DR Congo has tested positive for Ebola,” a spokesperson for the UK government said in a statement on Wednesday.",
+        "“The UK has well-established procedures for dealing with cases like this, and those processes have been activated … The risk to the UK public from Ebola remains low.”   Continue reading..."
       ],
-      "image_url": null,
-      "published": "Wed, 04 Nov 2026 07:34:35 -0500"
+      "image_url": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-uk-ebola-patient-htbc/05int-uk-ebola-patient-htbc-mediumSquareAt3X.jpg",
+      "published": "Wed, 04 Nov 2026 18:18:37 GMT"
     },
     {
-      "title": "Israel’s President Will Start Talks on Whether Netanyahu or Eisenkot Can Form a Government",
-      "link": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-herzog-netanyahu-government.html",
-      "source": "NYT World",
+      "title": "Mother and daughter killed in grizzly bear attack, Canadian authorities confirm",
+      "link": "https://www.theguardian.com/world/2026/nov/04/canada-bear-attack-mother-daughter-killed",
+      "source": "The Guardian World",
       "all_sources": [
-        "Christian Science Monitor World",
-        "NYT World",
+        "The Guardian World",
+        "New York Post World",
         "Fox News World"
       ],
       "bias_breakdown": {
         "Lean Left": 1,
-        "Center": 1,
+        "Lean Right": 1,
         "Right": 1
       },
       "bias_bar": {
         "left_pct": 33,
-        "center_pct": 33,
-        "right_pct": 33,
+        "center_pct": 0,
+        "right_pct": 67,
         "total": 3
       },
       "is_blindspot": false,
       "is_trending": true,
       "bullet_points": [
-        "President Isaac Herzog will meet with party leaders over the next two days to decide whether to give Prime Minister Benjamin Netanyahu or rivals the first chance at forming a coalition."
+        "Conservation officers say more than one bear may have been involved in attack on women near their home  Search teams in  Canada  have discovered the body of a 20-year-old woman and confirmed that both she and her mother were killed in an attack that conservation officers now believe could have involved multiple grizzly bears.",
+        "Late on Tuesday, conservation officers in British Columbia said the two women, who were reported missing over the weekend, were located near a trail a short distance from their home.",
+        "Continue reading..."
       ],
-      "image_url": "https://static01.nyt.com/images/2026/11/04/multimedia/04-israel-elections-mlpv/04-israel-elections-mlpv-mediumSquareAt3X.jpg",
-      "published": "Wed, 04 Nov 2026 13:58:52 +0000"
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fjennifer-balcarras-48-selah-reed-147517583_0ced4c.jpg?w%3D937",
+      "published": "Wed, 04 Nov 2026 19:42:47 GMT"
+    },
+    {
+      "title": "ANC faces anger over poor services as South Africans vote in local elections",
+      "link": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts",
+      "source": "The Guardian World",
+      "all_sources": [
+        "BBC World",
+        "NPR World",
+        "The Guardian World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 2,
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 67,
+        "center_pct": 33,
+        "right_pct": 0,
+        "total": 3
+      },
+      "is_blindspot": false,
+      "is_trending": true,
+      "bullet_points": [
+        "Party expected to get less than a third of the vote amid frustration over water outages and power cuts  The African National Congress is on course for a bruising result in South Africa’s local elections on Wednesday as voters go to the polls amid deep discontent over water outages, power cuts and crumbling infrastructure.",
+        "The former liberation movement, which Nelson Mandela led to power in 1994 at the end of apartheid as South Africa’s first black president, is still likely to be the largest party.",
+        "However, polls showed it getting less than a third of the vote, down from 45.6% at the  last municipal elections  in 2021 and 40.2% in  2024’s national elections ."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f863/live/48cc8c40-d889-11f1-8203-5d774478c31c.jpg",
+      "published": "Wed, 04 Nov 2026 14:50:47 GMT"
     },
     {
       "title": "Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr",
@@ -88,58 +121,8 @@
       "published": "Wed, 28 Oct 2026 14:16:24 GMT"
     },
     {
-      "title": "Africa’s ‘unprecedented’ Ebola outbreak could reach UK, says top health official",
-      "link": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official",
-      "source": "The Guardian World",
-      "all_sources": [
-        "The Guardian World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Jean Kaseya, of the Africa CDC, warns of the illness spreading like Covid unless more funding is secured to increase preparedness and possible treatment  The “unprecedented”  spread of the Ebola outbreak  means it could reach the UK and other countries, according to one of Africa’s top health officials.",
-        "As the current outbreak reached  10,000 cases, with almost 5,000 deaths , Dr Jean Kaseya, director general of the Africa Centres for Disease Control and Prevention (CDC), compared the outbreak to the Covid pandemic, which first took hold in China before spreading to countries across the world, claiming millions of lives, and ravaging health systems and economies.",
-        "Continue reading..."
-      ],
-      "image_url": null,
-      "published": "Wed, 28 Oct 2026 09:37:49 GMT"
-    },
-    {
-      "title": "Democratic voters celebrate El-Sayed’s Michigan win in election ‘blue wave’",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/democratic-voters-celebrate-el-sayeds-michigan-win-in-election-blue?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Democratic voters danced as they celebrated Abdul El-Sayed’s victory in Michigan."
-      ],
-      "image_url": null,
-      "published": "Wed, 04 Nov 2026 15:51:32 +0000"
-    },
-    {
-      "title": "Israel's president to begin consultations with parties after election deadlock",
-      "link": "https://www.bbc.co.uk/news/articles/c6z98z5z91ppo?at_medium=RSS&at_campaign=rss",
+      "title": "Typhoons batter East Asia as El Niño makes Pacific 'burn with fever'",
+      "link": "https://www.bbc.co.uk/news/articles/cw33kgj7nkemo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "all_sources": [
         "BBC World"
@@ -156,137 +139,17 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Herzog warned politicians that \"not every commitment and promise can be fulfilled\" if they want to avoid another election."
+        "Even for countries where typhoons are a way of life, the last few months have brought unusually wild weather."
       ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b097/live/1ca811c0-d861-11f1-a701-fddedf244c16.jpg",
-      "published": "Wed, 04 Nov 2026 15:45:45 GMT"
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30ea/live/eaa602a0-d75b-11f1-8f6b-d71817972456.jpg",
+      "published": "Wed, 04 Nov 2026 23:12:47 GMT"
     },
     {
-      "title": "No regrets: Trump says Iran war justified despite polls drubbing",
-      "link": "https://www.aljazeera.com/news/2026/11/4/no-regrets-trump-says-iran-war-justified-despite-polls-drubbing?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "How the Democrats’ surge impacts the US-Israel relationship",
+      "link": "https://www.csmonitor.com/World/Middle-East/2026/1104/israel-us-relationship-democrats-midterms?icid=rss",
+      "source": "Christian Science Monitor World",
       "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Trump acknowledges Iran war played role in defeats but says he would launch it again."
-      ],
-      "image_url": null,
-      "published": "Wed, 04 Nov 2026 15:28:00 +0000"
-    },
-    {
-      "title": "How the World Reacted to Trump’s Midterm Defeat: 5 Things to Know",
-      "link": "https://www.nytimes.com/2026/11/04/world/asia/midterms-trump-foreign-policy-world.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Commentators abroad wondered what President Trump’s electoral losses might mean for oil prices, the war on Iran and the future of American politics."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/11/04/multimedia/04int-global-midterm-reax-zbjv/04int-global-midterm-reax-zbjv-mediumSquareAt3X.jpg",
-      "published": "Wed, 04 Nov 2026 15:21:09 +0000"
-    },
-    {
-      "title": "Iranian leaders welcome US midterms, but Trump may still attack",
-      "link": "https://www.aljazeera.com/news/2026/11/4/iranian-leaders-welcome-us-midterms-but-trump-may-still-attack?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Tehran views midterm results as a rejection of Trump&#039;s &#039;war on Iran&#039;, signalling US frustration with foreign policy."
-      ],
-      "image_url": null,
-      "published": "Wed, 04 Nov 2026 15:13:00 +0000"
-    },
-    {
-      "title": "Ice hockey federation reiterates opposition to reinstatement of Russia",
-      "link": "https://www.aljazeera.com/sports/2026/11/4/ice-hockey-federation-reiterates-opposition-to-reinstatement-of-russia?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The CAS ruled last week to overturn governing body&#039;s exclusion of ‌Russia over its 2022 invasion of Ukraine."
-      ],
-      "image_url": null,
-      "published": "Wed, 04 Nov 2026 15:04:34 +0000"
-    },
-    {
-      "title": "Is Trump really a ‘lame duck’ after losing both houses of US Congress?",
-      "link": "https://www.aljazeera.com/news/2026/11/4/is-trump-really-a-lame-duck-after-losing-both-houses-of-us-congress?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Despite losing legislative control, the US president still has strong executive powers to push his agenda forward."
-      ],
-      "image_url": null,
-      "published": "Wed, 04 Nov 2026 15:04:08 +0000"
-    },
-    {
-      "title": "Zelensky gives Melania Trump Ukraine's highest award after Oleshky ceasefire",
-      "link": "https://www.bbc.co.uk/news/articles/cm87zvpzwq0no?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "all_sources": [
-        "BBC World"
+        "Christian Science Monitor World"
       ],
       "bias_breakdown": {
         "Center": 1
@@ -300,265 +163,20 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Russian and Ukrainian delegations will meet the US first lady at the White House on Thursday."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d8de/live/70270390-d859-11f1-93e1-3b657b665bcf.jpg",
-      "published": "Wed, 04 Nov 2026 15:01:10 GMT"
-    },
-    {
-      "title": "ANC faces anger over poor services as South Africans vote in local elections",
-      "link": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts",
-      "source": "The Guardian World",
-      "all_sources": [
-        "BBC World",
-        "The Guardian World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1,
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 50,
-        "center_pct": 50,
-        "right_pct": 0,
-        "total": 2
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Party expected to get less than a third of the vote amid frustration over water outages and power cuts  The African National Congress is on course for a bruising result in South Africa’s local elections on Wednesday as voters go to the polls amid deep discontent over water outages, power cuts and crumbling infrastructure.",
-        "The former liberation movement, which Nelson Mandela led to power in 1994 at the end of apartheid as South Africa’s first black president, is still likely to be the largest party.",
-        "However, polls showed it getting less than a third of the vote, down from 45.6% at the  last municipal elections  in 2021 and 40.2% in  2024’s national elections ."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb2c/live/fc87dad0-d7aa-11f1-93e1-3b657b665bcf.jpg",
-      "published": "Wed, 04 Nov 2026 14:50:47 GMT"
-    },
-    {
-      "title": "Why is the western US still counting votes after election day?",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/4/why-is-the-western-us-still-counting-votes-after-election-day?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Why is the western US still counting votes after election day?"
+        "Analysts say the Democrats’ success in the midterms could reshape U.S.-Israel ties."
       ],
       "image_url": null,
-      "published": "Wed, 04 Nov 2026 14:35:54 +0000"
+      "published": "Wed, 04 Nov 2026 15:21:09 EST"
     },
     {
-      "title": "James Talarico becomes first Democrat to win Texas Senate seat since 1988",
-      "link": "https://www.bbc.co.uk/news/articles/c6n8dnn09jg7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "title": "Bukele warns Haitian gang leaders that his forces will 'finish' them as he did in El Salvador",
+      "link": "https://www.foxnews.com/world/bukeles-warning-haitian-gang-leaders-forces-finish-el-salvador",
+      "source": "Fox News World",
       "all_sources": [
-        "BBC World"
+        "Fox News World"
       ],
       "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "\"This wasn't just a tsunami, not just a referendum, but this was a bloodbath,\" one expert told the BBC on Democrats' historic wins in Texas."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73ea/live/1e2e9940-d836-11f1-a701-fddedf244c16.jpg",
-      "published": "Wed, 04 Nov 2026 14:17:58 GMT"
-    },
-    {
-      "title": "Yemeni government forces claim control of strategic al-Jawf mountain range",
-      "link": "https://www.aljazeera.com/news/2026/11/4/yemeni-government-forces-claim-control-of-strategic-al-jawf-mountain-range?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The advance on al-Dahida heights, a strategic highland, comes as fighting escalates in al-Dhalea, Lahij and Taiz."
-      ],
-      "image_url": null,
-      "published": "Wed, 04 Nov 2026 14:08:18 +0000"
-    },
-    {
-      "title": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
-      "link": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "all_sources": [
-        "BBC World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5315/live/41e364b0-d854-11f1-94f3-cf7d1e52bb8c.jpg",
-      "published": "Wed, 04 Nov 2026 13:33:30 GMT"
-    },
-    {
-      "title": "Nadal set to join Real Madrid board of directors",
-      "link": "https://www.bbc.co.uk/sport/articles/cmy56zekeneqo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "all_sources": [
-        "BBC World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Tennis great Rafael Nadal is set to join the board of Spanish football giants Real Madrid."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c75e/live/2dfb0e80-d84f-11f1-b870-55415e6a9944.jpg",
-      "published": "Wed, 04 Nov 2026 13:21:01 GMT"
-    },
-    {
-      "title": "Israel’s President Could Play Key Role in Breaking Post-Election Deadlock",
-      "link": "https://www.nytimes.com/2026/11/04/world/middleeast/israel-president-herzog-election-government.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "President Isaac Herzog has tried to avoid controversy and heal rifts in his largely ceremonial role.",
-        "But his skills as a savvy mediator could be instrumental after an inconclusive election."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/11/04/multimedia/04int-israel-herzog-gbcw/04int-israel-herzog-gbcw-mediumSquareAt3X-v2.jpg",
-      "published": "Wed, 04 Nov 2026 13:18:58 +0000"
-    },
-    {
-      "title": "More Iranians Call for Nuclear Weapons After War With U.S.",
-      "link": "https://www.nytimes.com/2026/11/03/world/europe/iran-nuclear-weapons-war.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Some Iranian clerics and officials argue the country must rebuild deterrence by dropping its longstanding pledge not to build a nuclear bomb."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/11/03/multimedia/00int-iran-nuclear-01-kgpq/00int-iran-nuclear-01-kgpq-mediumSquareAt3X.jpg",
-      "published": "Wed, 04 Nov 2026 13:17:49 +0000"
-    },
-    {
-      "title": "Sharp objects found in Halloween sweets in three European nations",
-      "link": "https://www.bbc.co.uk/news/articles/cvglw7x239pwo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "all_sources": [
-        "BBC World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Dozens of cases are reported in Austria, Germany and Hungary, including a nine-year-old girl hurting her tongue while eating chocolate containing a pin."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b20/live/14aead80-d83e-11f1-9a87-07a62b4549a2.jpg",
-      "published": "Wed, 04 Nov 2026 12:34:33 GMT"
-    },
-    {
-      "title": "Iran's chief negotiator says Americans voted 'no to war'",
-      "link": "https://www.bbc.co.uk/news/articles/c6d934npl9y8o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "all_sources": [
-        "BBC World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "\"We endorse this message,\" Mohammed Bagher Ghalibaf says, as Donald Trump acknowledges the conflict's role in the Republican Party's defeat."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd62/live/d825bb50-d82f-11f1-a701-fddedf244c16.jpg",
-      "published": "Wed, 04 Nov 2026 12:21:21 GMT"
-    },
-    {
-      "title": "Scientist who accused Moscow of abusing his Novichok nerve agent for ‘state-level’ hits is found dead",
-      "link": "https://nypost.com/2026/11/04/world-news/scientist-who-accused-moscow-of-abusing-his-novichok-nerve-agent-for-state-level-hits-is-found-dead/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
+        "Right": 1
       },
       "bias_bar": {
         "left_pct": 0,
@@ -569,41 +187,17 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "\"I could probably count a dozen people who've been poisoned by our substances.\""
+        "Video shows Salvadoran attack helicopters repelling gang fighters in Croix-des-Bouquets as Nayib Bukele escalates military operations in Haiti."
       ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fvladimir-uglev-80-russian-scientist-147523555.jpg?w%3D1024",
-      "published": "Wed, 04 Nov 2026 10:56:16 -0500"
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/el-salavador-troops.jpg?ve=1&tl=1",
+      "published": "Wed, 04 Nov 2026 14:06:46 -0400"
     },
     {
-      "title": "Helen Zille Is Running for Mayor of Johannesburg and Needling the ANC",
-      "link": "https://www.nytimes.com/2026/11/04/world/africa/johannesburg-mayor-elections.html",
-      "source": "NYT World",
+      "title": "This polarizing, pothole-snorkeling gran is leading the race for Johannesburg mayor",
+      "link": "https://www.csmonitor.com/World/Africa/2026/1104/Johannesburg-anc-zille-south-africa?icid=rss",
+      "source": "Christian Science Monitor World",
       "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "As South Africans head to the polls on Wednesday, Helen Zille, 75, is betting voters care less about race and more about public services in her bid to become mayor of Johannesburg."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/11/04/multimedia/04int-safrica-elections-pwfq/04int-safrica-elections-pwfq-mediumSquareAt3X.jpg",
-      "published": "Wed, 04 Nov 2026 10:23:53 +0000"
-    },
-    {
-      "title": "Left-wing Democrat Abdul El-Sayed wins in Michigan to become first Muslim senator",
-      "link": "https://www.bbc.co.uk/news/articles/c893z55pxrewo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "all_sources": [
-        "BBC World"
+        "Christian Science Monitor World"
       ],
       "bias_breakdown": {
         "Center": 1
@@ -617,34 +211,10 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "El-Sayed bested Republican Mike Rogers to become the first Muslim senator in US history."
+        "A social-media-savvy septuagenarian is leading the race for mayor of South Africa’s largest city, speaking to a broader decline in loyalty toward the long-ruling African National Congress."
       ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b2d/live/afbf5fd0-d83f-11f1-93e1-3b657b665bcf.jpg",
-      "published": "Wed, 04 Nov 2026 10:03:19 GMT"
-    },
-    {
-      "title": "Why Doctors in Thailand Fear KFC",
-      "link": "https://www.nytimes.com/2026/11/04/world/asia/thailand-kfc-curse-doctors.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "In a country where superstitions are as imaginative as they are many, physicians have come to fear a jinx involving Kentucky Fried Chicken."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/11/04/multimedia/04int-thailand-kfc-01-zbgh/04int-thailand-kfc-01-zbgh-mediumSquareAt3X.jpg",
-      "published": "Wed, 04 Nov 2026 10:01:48 +0000"
+      "image_url": null,
+      "published": "Wed, 04 Nov 2026 12:58:26 EST"
     },
     {
       "title": "Abdul El-Sayed welcomes Trump's plan to cut Israel aid, calls for end to arms sales",
@@ -671,57 +241,8 @@
       "published": "Wed, 04 Nov 2026 08:38:09 -0500"
     },
     {
-      "title": "Delhi air quality worsens ahead of Diwali as firework restrictions enter force",
-      "link": "https://www.bbc.co.uk/news/articles/c699z8792n7ro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "all_sources": [
-        "BBC World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "On Wednesday morning, Delhi's air quality index reading stood at 377, in the \"very poor\" category."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f657/live/383e2830-d810-11f1-bc0e-b5a9e0785e4b.jpg",
-      "published": "Wed, 04 Nov 2026 07:39:38 GMT"
-    },
-    {
-      "title": "Bomb Threats Disrupt Several Flights Across Europe",
-      "link": "https://www.nytimes.com/2026/11/03/world/europe/bomb-threats-europe-flights-planes.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Officials are investigating threats against at least seven planes.",
-        "The aircraft landed safely and no explosives were found, the authorities said."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-europe-bomb-threats-wqfj/03int-europe-bomb-threats-wqfj-mediumSquareAt3X.jpg",
-      "published": "Wed, 04 Nov 2026 07:29:45 +0000"
-    },
-    {
-      "title": "Democrats seize full control of Congress. And, which candidates made history last night",
-      "link": "https://www.npr.org/2026/11/04/g-s1-151745/up-first-newsletter-midterms-democrats-congress-control",
+      "title": "The world is reacting to the Democrats' sweeping midterm elections victory",
+      "link": "https://www.npr.org/2026/11/04/nx-s1-6028664/world-reacts-midterm-elections",
       "source": "NPR World",
       "all_sources": [
         "NPR World"
@@ -738,102 +259,26 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Democrats have won the House and the Senate, taking full control of Congress for the first time since 2023.",
-        "And history was made in several states.",
-        "Here's what happened last night."
+        "From Kyiv to Moscow, and Tehran to Tel Aviv, all eyes were on the Democrats' big win as foreign powers weigh how a flipped Congress will affect international relations."
       ],
       "image_url": null,
-      "published": "Wed, 04 Nov 2026 07:18:39 -0500"
-    },
-    {
-      "title": "Woke Canadian town embarrassingly apologizes for Harry Potter-themed Halloween display after backlash over JK Rowling’s trans views",
-      "link": "https://nypost.com/2026/11/04/world-news/woke-canadian-town-embarrassingly-apologizes-for-harry-potter-themed-halloween-display-after-backlash-over-jk-rowlings-trans-views/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "A Canadian town apologized over a Harry Potter Halloween display after being called out by trans rights activists – only to be later mocked for caving to woke lefties."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fcanadian-town-apologized-setting-harry-147501195.jpg?w%3D819",
-      "published": "Wed, 04 Nov 2026 04:37:29 -0500"
-    },
-    {
-      "title": "China warns Philippines to be cautious over South China Sea",
-      "link": "https://nypost.com/2026/11/04/world-news/china-warns-philippines-to-be-cautious-over-south-china-sea/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Chinese Foreign Minister Wang Yi urged the Philippines to act with caution in South China Sea disputes during a call with Theresa Lazaro."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fchinese-foreign-minister-wang-yi-147481921.jpg?w%3D1024",
-      "published": "Wed, 04 Nov 2026 04:29:09 -0500"
-    },
-    {
-      "title": "North Korea launches missiles toward the sea as Pyongyang protests against US claims on Binance hack",
-      "link": "https://nypost.com/2026/11/04/world-news/north-korea-launches-missiles-toward-the-sea-as-pyongyang-protests-against-us-claims-on-binance-hack/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "North Korea launched multiple missiles after denying FBI claims that Pyongyang orchestrated a $6 billion cryptocurrency heist at Binance."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fsolider-walks-past-screen-showing-147484367.jpg?w%3D1024",
-      "published": "Wed, 04 Nov 2026 03:59:13 -0500"
+      "published": "Wed, 04 Nov 2026 07:34:35 -0500"
     },
     {
       "title": "One dead and another missing in suspected grizzly bear attack in Canada",
       "link": "https://www.theguardian.com/world/2026/nov/03/grizzly-bear-attack-canada",
       "source": "The Guardian World",
       "all_sources": [
-        "The Guardian World",
-        "New York Post World"
+        "The Guardian World"
       ],
       "bias_breakdown": {
-        "Lean Left": 1,
-        "Lean Right": 1
+        "Lean Left": 1
       },
       "bias_bar": {
-        "left_pct": 50,
+        "left_pct": 100,
         "center_pct": 0,
-        "right_pct": 50,
-        "total": 2
+        "right_pct": 0,
+        "total": 1
       },
       "is_blindspot": false,
       "is_trending": false,
@@ -842,104 +287,8 @@
         "On Tuesday, the British Columbia conservation officer service said in a social media post that it had launched a search for the two missing people on the weekend, and that during the search on Sunday an officer found the mother’s body.",
         "The search for her 19-year-old daughter is ongoing."
       ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fjennifer-balcarras-48-selah-reed-147517583.jpg",
+      "image_url": null,
       "published": "Tue, 03 Nov 2026 22:08:50 GMT"
-    },
-    {
-      "title": "West Bank Property Sales Tactics Face a Challenge in Canada",
-      "link": "https://www.nytimes.com/2026/11/03/world/canada/canada-west-bank-lawsuit.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The marketing practices of some firms promoting property in the Israeli-occupied territory to foreign purchasers are deceptive, a recent filing claims."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-canada-westbank-properties01a-photo-tzvl/03int-canada-westbank-properties01a-photo-tzvl-mediumSquareAt3X.jpg",
-      "published": "Tue, 03 Nov 2026 20:58:18 +0000"
-    },
-    {
-      "title": "Afghan Woman Is Among Dozens to Be Deported to Afghanistan",
-      "link": "https://www.nytimes.com/2026/11/03/world/asia/afghan-deportation-flight.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The Trump administration has arranged a flight to send dozens of Afghan immigrants back to Afghanistan, despite the risk of persecution by the Taliban."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/12/02/multimedia/02int-afghan-deport-folo01-photo-pqcf/02int-afghan-deport-folo01-photo-pqcf-mediumSquareAt3X.jpg",
-      "published": "Tue, 03 Nov 2026 20:57:49 +0000"
-    },
-    {
-      "title": "Poland Beefs Up Security at Border With Russia",
-      "link": "https://www.nytimes.com/2026/11/03/world/europe/poland-russia-kaliningrad.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Prime Minister Donald Tusk said there had been “disturbing movement” in Kaliningrad, a Russian region just north of Poland."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-POLAND-RUSSIA-01-cgwz/03int-POLAND-RUSSIA-01-cgwz-mediumSquareAt3X.jpg",
-      "published": "Tue, 03 Nov 2026 18:18:07 +0000"
-    },
-    {
-      "title": "Bomb threats across airlines in several European countries disrupt travel around continent",
-      "link": "https://nypost.com/2026/11/03/world-news/bomb-threats-across-airlines-in-several-european-countries-disrupt-travel-around-continent/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The impacted airlines included Polish airline LOT, Scandinavian Airlines, Wizz Air and Ryanair."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fscreengrab-video-shows-police-officer-147416940.jpg?w%3D1024",
-      "published": "Tue, 03 Nov 2026 17:28:45 -0500"
     },
     {
       "title": "Japan faces diplomatic dilemma amid joint pressure from nuclear neighbors",
@@ -967,76 +316,30 @@
       "published": "Tue, 03 Nov 2026 17:25:15 -0500"
     },
     {
-      "title": "Israel privately warns US that Iran is considering use of chemical weapons: report",
-      "link": "https://nypost.com/2026/11/03/world-news/israel-privately-warns-iran-is-considering-use-of-chemical-weapons-report/",
-      "source": "New York Post World",
+      "title": "After deadlocked elections, it’s up to Israel’s president to find a way forward",
+      "link": "https://www.csmonitor.com/World/Middle-East/2026/1103/israel-herzog-netanyahu-election-president-unity?icid=rss",
+      "source": "Christian Science Monitor World",
       "all_sources": [
-        "New York Post World"
+        "Christian Science Monitor World",
+        "Fox News World"
       ],
       "bias_breakdown": {
-        "Lean Right": 1
+        "Center": 1,
+        "Right": 1
       },
       "bias_bar": {
         "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
+        "center_pct": 50,
+        "right_pct": 50,
+        "total": 2
       },
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Not everyone in the US security establishment is convinced, according to the New York Times."
+        "All eyes are on Israel’s President Isaac Herzog as he prepares to give the nod to a member of parliament to form a new government after inconclusive elections."
       ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fpresident-donald-trump-listens-israels-145590023.jpg?w%3D1024",
-      "published": "Tue, 03 Nov 2026 17:19:03 -0500"
-    },
-    {
-      "title": "UK will face AI cyberattacks on critical infrastructure by 2028, official says",
-      "link": "https://nypost.com/2026/11/03/world-news/uk-will-face-ai-cyberattacks-on-critical-infrastructure-by-2028-official-says/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The UK will face AI cyberattacks on critical infrastructure by 2028 from China and Russia, warns NCSC chief Richard Horne."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fdr-richard-horne-ceo-national-147399234.jpg?w%3D1024",
-      "published": "Tue, 03 Nov 2026 16:48:27 -0500"
-    },
-    {
-      "title": "Why Trump only has a few weeks to restart Iran war — and what he could target with new strikes",
-      "link": "https://nypost.com/2026/11/03/world-news/why-trump-has-just-a-few-weeks-to-restart-iran-war-and-what-he-could-target-with-new-strikes/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "President Trump has a narrow window of a few weeks after the midterm elections to launch a renewed war on Iran before a new Congress is likely to reign in his war powers, experts told The Post."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fpresident-donald-trump-speaks-front-147319109.jpg?w%3D1024",
-      "published": "Tue, 03 Nov 2026 15:42:05 -0500"
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/benjamin-netanyahu-cast-ballot.png?ve=1&tl=1",
+      "published": "Tue, 03 Nov 2026 16:41:59 EST"
     },
     {
       "title": "Brazil publishes first global ‘roadmap’ for phasing out fossil fuels",
@@ -1188,11 +491,742 @@
       "published": "Tue, 03 Nov 2026 06:43:49 -0500"
     },
     {
-      "title": "Death toll hits 29 after Russian strike on Ukrainian aid site, with 48 still missing",
-      "link": "https://www.npr.org/2026/11/03/g-s1-151439/russia-ukraine-war",
+      "title": "Top Japan FA official to stand against Infantino for FIFA presidency",
+      "link": "https://www.aljazeera.com/sports/2026/11/5/top-japan-fa-official-to-stand-against-infantino-for-fifa-presidency?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Kozo Tashima second person to declare he will challenge Infantino, after former Spurs defender Ramon Vega."
+      ],
+      "image_url": null,
+      "published": "Thu, 05 Nov 2026 15:52:15 +0000"
+    },
+    {
+      "title": "France holds new strikes and protests as unions demand immediate answers",
+      "link": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Five of France's unions join a wave of strikes and protests in a national day of action."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f641/live/977c1840-d91c-11f1-b441-2b33b063138f.jpg",
+      "published": "Thu, 05 Nov 2026 15:43:15 GMT"
+    },
+    {
+      "title": "How Melania Trump Became a Dark Horse Diplomat on Ukraine",
+      "link": "https://www.nytimes.com/2026/11/05/world/europe/melania-trump-oleshky-ukraine-ceasefire.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Both Moscow and Kyiv say Mrs.",
+        "Trump’s team was the driving force behind an evacuation of a besieged city.",
+        "It was also in their interest to deliver her a humanitarian win."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/11/05/multimedia/05Ukraine-Oleshky-01-mgbz/05Ukraine-Oleshky-01-mgbz-mediumSquareAt3X.jpg",
+      "published": "Thu, 05 Nov 2026 15:41:34 +0000"
+    },
+    {
+      "title": "Bangladesh Agrees to Raise Minimum Wage for Garment Workers After Protests",
+      "link": "https://www.nytimes.com/2026/11/05/world/asia/bangladesh-garment-workers-protest-wage.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Hundreds of garment factories were shut down this week as workers in the country, the world’s second-largest exporter of clothing, demonstrated for higher pay."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/11/05/multimedia/05vid-bangladesh-cover-jtbq/05vid-bangladesh-cover-jtbq-mediumSquareAt3X.jpg",
+      "published": "Thu, 05 Nov 2026 15:12:01 +0000"
+    },
+    {
+      "title": "Jerusalem Daily: Settler pogroms in Hebron",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/5/jerusalem-daily-settler-pogroms-in-hebron?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Israel’s president consults party leaders on forming a government, as Israeli forces attack Palestinians in Gaza."
+      ],
+      "image_url": null,
+      "published": "Thu, 05 Nov 2026 15:10:42 +0000"
+    },
+    {
+      "title": "Ronaldo in records: International milestones from the football icon",
+      "link": "https://www.aljazeera.com/sports/2026/11/5/ronaldo-in-records-international-milestones-from-the-football-icon?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Ronaldo, 41, ended an illustrious 23-year career that spanned six World Cups and six European Championships."
+      ],
+      "image_url": null,
+      "published": "Thu, 05 Nov 2026 15:09:31 +0000"
+    },
+    {
+      "title": "Why Guinea-Bissau halted a controversial hepatitis vaccine trial for babies",
+      "link": "https://www.aljazeera.com/news/2026/11/5/why-guinea-bissau-halted-a-controversial-hepatitis-vaccine-trial-for-babies?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Experts have said the US-funded trial would deny critical vaccines to thousands of infants."
+      ],
+      "image_url": null,
+      "published": "Thu, 05 Nov 2026 15:01:35 +0000"
+    },
+    {
+      "title": "Six dead and others injured in fire at New York City building",
+      "link": "https://www.bbc.co.uk/news/articles/c39wz44411w0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The cause of the blaze is not yet clear, after 230 fire and emergency medical personnel went to the scene."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a078/live/883819a0-d913-11f1-a81d-35e942472442.png",
+      "published": "Thu, 05 Nov 2026 15:00:12 GMT"
+    },
+    {
+      "title": "Can Iran’s new supreme leader make peace from behind the scenes?",
+      "link": "https://www.aljazeera.com/opinions/2026/11/5/can-irans-new-supreme-leader-make-peace-from-behind-the-scenes?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Mojtaba Khamenei’s consultations suggest a new system of decision-making is taking shape."
+      ],
+      "image_url": null,
+      "published": "Thu, 05 Nov 2026 14:45:46 +0000"
+    },
+    {
+      "title": "Everyone’s Talking About the ‘Blue Tsunami.’ In Japan, It’s Complicated.",
+      "link": "https://www.nytimes.com/2026/11/05/world/asia/japan-hokusai-great-wave-midterms.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The New York Post used a Hokusai work to depict Donald Trump being swept away by Democrats’ midterm election win.",
+        "Some in Japan were bothered by the imagery."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-japan-wave-kgzc/05int-japan-wave-kgzc-mediumSquareAt3X.jpg",
+      "published": "Thu, 05 Nov 2026 14:31:58 +0000"
+    },
+    {
+      "title": "‘Healthcare not bombs’: How Gaza shaped Adam Hamawy’s path to US Congress",
+      "link": "https://www.aljazeera.com/news/2026/11/5/healthcare-not-bombs-how-gaza-shaped-adam-hamawys-path-to-us-congress?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Former army surgeon and Gaza volunteer Hamawy is the first Muslim American elected to the US Congress from New Jersey."
+      ],
+      "image_url": null,
+      "published": "Thu, 05 Nov 2026 14:30:37 +0000"
+    },
+    {
+      "title": "Watch: How rapist Brand was never far from controversy",
+      "link": "https://www.bbc.co.uk/news/videos/c9dr8713zjgyo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "BBC correspondent Sima Kotecha explains how the trial unfolded."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/385f/live/1cce7ae0-d924-11f1-b441-2b33b063138f.jpg",
+      "published": "Thu, 05 Nov 2026 14:28:21 GMT"
+    },
+    {
+      "title": "Could the US midterms further isolate Israel in Washington?",
+      "link": "https://www.aljazeera.com/news/2026/11/5/could-the-us-midterms-further-isolate-israel-in-washington?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The midterms showed that challenging support for Israel can win votes.",
+        "But changing US foreign policy may be harder."
+      ],
+      "image_url": null,
+      "published": "Thu, 05 Nov 2026 14:19:25 +0000"
+    },
+    {
+      "title": "Burning rubbish chokes besieged Yemeni city of Taiz",
+      "link": "https://www.aljazeera.com/features/2026/11/5/burning-rubbish-chokes-besieged-yemeni-city-of-taiz?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Taiz residents face health risks as waste accumulates amid sniper fire, forcing people to burn it in the streets."
+      ],
+      "image_url": null,
+      "published": "Thu, 05 Nov 2026 14:17:34 +0000"
+    },
+    {
+      "title": "Finland Sends 2 Men to Prison for Damaging Undersea Cable in Baltic Sea",
+      "link": "https://www.nytimes.com/2026/11/05/world/europe/finland-fitburg-russia-ship-baltic-cables-sabotage.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "A Finnish court convicted the captain and boatswain of a cargo ship of aggravated criminal damage in relation to an incident last year in the Gulf of Finland."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-finland-ship-jvkl/05int-finland-ship-jvkl-mediumSquareAt3X.jpg",
+      "published": "Thu, 05 Nov 2026 13:54:18 +0000"
+    },
+    {
+      "title": "After Riots and Protests, French Workers Are Going on Strike",
+      "link": "https://www.nytimes.com/2026/11/05/world/europe/france-protests-general-strike.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Roughly 260 demonstrations are expected to take place across France on Thursday, escalating weeks of protests against the rising cost of living."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-france-protests-vjhc/05int-france-protests-vjhc-mediumSquareAt3X.jpg",
+      "published": "Thu, 05 Nov 2026 12:41:39 +0000"
+    },
+    {
+      "title": "Netanyahu Alleges Election Fraud in Connection With Arab Turnout",
+      "link": "https://www.nytimes.com/2026/11/05/world/middleeast/israel-election-netanyahu-trump.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The Israeli leader and his allies are alleging that Arab voters last month stole the election.",
+        "Election officials say that while foul play was being investigated, it could not have affected the result."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/11/04/multimedia/04int-israel-steal-jvlt/04int-israel-steal-jvlt-mediumSquareAt3X.jpg",
+      "published": "Thu, 05 Nov 2026 11:04:18 +0000"
+    },
+    {
+      "title": "How elderly ‘unsung heroes’ powered Lula’s historic fightback in Brazil",
+      "link": "https://www.theguardian.com/world/2026/nov/05/unsung-heroes-behind-lula-surprise-election-triumph-brazil-runoff-bolsonaro",
+      "source": "The Guardian World",
+      "all_sources": [
+        "The Guardian World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Older voters praised for helping tip balance in leftwing president’s favour against far-right Flávio Bolsonaro in runoff  It had been nearly a decade since Celia de Oliveira Soares last voted, and months since the 101-year-old great-grandmother last left her home.",
+        "But on 25 October, when Brazil held what many considered its most  important presidential election  in decades, relatives helped Soares into a wheelchair and drove her to a nearby school to make sure the far-right candidate, Flávio Bolsonaro, did not prevail.",
+        "Continue reading..."
+      ],
+      "image_url": null,
+      "published": "Thu, 05 Nov 2026 11:00:21 GMT"
+    },
+    {
+      "title": "Protests erupt across France after left-wing groups call for mobilization",
+      "link": "https://www.foxnews.com/world/protests-erupt-across-france-left-wing-groups-call-mobilization",
+      "source": "Fox News World",
+      "all_sources": [
+        "Fox News World"
+      ],
+      "bias_breakdown": {
+        "Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "An estimated 270,000 people joined nationwide strikes and protests across France on Thursday, putting pressure on President Emmanuel Macron&apos;s government."
+      ],
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/riot-police-detain-protester-lyon-france.jpg?ve=1&tl=1",
+      "published": "Thu, 05 Nov 2026 10:36:30 -0400"
+    },
+    {
+      "title": "At the Root of K-Pop’s Controversies, a Restrictive Business Model",
+      "link": "https://www.nytimes.com/2026/11/05/world/asia/how-kpop-works-contracts.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Labels exert extraordinary control over performers because only a few acts turn a profit."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/11/04/multimedia/00int-kpop-takeaways-fmhk/00int-kpop-takeaways-fmhk-mediumSquareAt3X.jpg",
+      "published": "Thu, 05 Nov 2026 10:23:51 +0000"
+    },
+    {
+      "title": "India's costliest film retells a beloved Hindu epic - but divides critics",
+      "link": "https://www.bbc.co.uk/news/articles/cm93zv62v1n7o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Easily the most anticipated Bollywood film of the year, Ramayana: Rise of a Legend is the first of two parts."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/891f/live/5dbe2290-d932-11f1-93e1-3b657b665bcf.jpg",
+      "published": "Thu, 05 Nov 2026 09:04:42 GMT"
+    },
+    {
+      "title": "Multiple flights in Europe diverted because of bomb threats",
+      "link": "https://www.foxnews.com/world/multiple-flights-europe-diverted-bomb-threats",
+      "source": "Fox News World",
+      "all_sources": [
+        "Fox News World"
+      ],
+      "bias_breakdown": {
+        "Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "At least 11 planes from cities, including Dublin, Madrid, and Warsaw, were diverted or grounded over bomb threats that have been determined to be unfounded."
+      ],
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/ryanair-sofia-airport-bomb-threats.jpg?ve=1&tl=1",
+      "published": "Thu, 05 Nov 2026 07:33:26 -0400"
+    },
+    {
+      "title": "Convicted rapist Russell Brand facing fresh allegations — including from girl who was just 16",
+      "link": "https://nypost.com/2026/11/05/world-news/russell-brand-faces-new-rape-allegations-including-a-16-year-old-girl/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Police in London confirmed they were looking into the rape claims of two other women against the 51-year-old convicted rapist."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F2024-russell-brand-brand-facing-147643683.jpg",
+      "published": "Thu, 05 Nov 2026 07:19:45 -0800"
+    },
+    {
+      "title": "What's next for Democrats after the midterms. And, a look at the outstanding races",
+      "link": "https://www.npr.org/2026/11/05/g-s1-152046/up-first-newsletter-democrats-congress-control-house-senate-trump-reaction",
       "source": "NPR World",
       "all_sources": [
-        "NPR World",
+        "NPR World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Democrats have regained control of Congress.",
+        "They have a long list of investigations into Trump planned.",
+        "Here's a look at how they could affect the Dems' majority."
+      ],
+      "image_url": null,
+      "published": "Thu, 05 Nov 2026 07:02:24 -0500"
+    },
+    {
+      "title": "Bizarre moment student sent flying by runaway tire that got loose from truck",
+      "link": "https://nypost.com/2026/11/05/world-news/chile-student-hit-by-runaway-tire-in-bizarre-video/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "\"There was a loud noise, like when one piece of metal hits another,\" said one eyewitness."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fwww-youtube-com-watch-v-147632263.jpg?w%3D1024",
+      "published": "Thu, 05 Nov 2026 06:51:23 -0800"
+    },
+    {
+      "title": "Death toll rises to 5 in Kenya building collapse after 3 bodies recovered",
+      "link": "https://nypost.com/2026/11/05/world-news/death-toll-rises-to-5-in-kenya-building-collapse-after-3-bodies-found/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Sixteen people are still believed to be missing since the building collapsed on Oct.",
+        "23."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fworks-rescuers-site-building-collapse-146682050.jpg?w%3D1024",
+      "published": "Thu, 05 Nov 2026 06:49:49 -0800"
+    },
+    {
+      "title": "Bomb hoaxes that grounded 25 planes include bizarre anti-feminist threat",
+      "link": "https://nypost.com/2026/11/05/world-news/bomb-hoaxes-grounding-25-planes-include-bizarre-anti-feminist-threat-to-turn-the-skies-red/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The bomb hoaxes that affected at least 25 European flights Thursday included bizarre emails claiming to be from an anti-feminist group threatening to “turn the skies red,” according to reports.",
+        "The “threat notification” emails claiming to be from the so-called “Fighters of the Male State” were made over at least two of the numerous flights..."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fa320-plane-evreux-military-air-147629138.jpg?w%3D1024",
+      "published": "Thu, 05 Nov 2026 06:48:39 -0800"
+    },
+    {
+      "title": "Voters Are Turning Out in Droves to Cut Autocrats Down to Size",
+      "link": "https://www.nytimes.com/2026/11/05/world/europe/voter-turnout-democracy-autocrats-elections.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "In country after country stricken by democratic decay, overwhelming turnout in elections is making a difference."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-election-turnout-analysis-zwkq/05int-election-turnout-analysis-zwkq-mediumSquareAt3X-v2.jpg",
+      "published": "Thu, 05 Nov 2026 05:01:06 +0000"
+    },
+    {
+      "title": "‘Married at First Sight UK’ axed after female contestants alleged on-screen husbands raped them",
+      "link": "https://nypost.com/2026/11/05/world-news/married-at-first-sight-uk-axed-after-female-contestants-alleged-on-screen-husbands-raped-them/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The show came under fire after two women alleged they were raped by their on-screen husbands."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fview-branding-married-first-sight-147626018.jpg?w%3D1024",
+      "published": "Thu, 05 Nov 2026 04:21:12 -0800"
+    },
+    {
+      "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+      "link": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3c74/live/1d4cf850-d8e5-11f1-a701-fddedf244c16.jpg",
+      "published": "Thu, 05 Nov 2026 03:47:56 GMT"
+    },
+    {
+      "title": "Multiple flights in Europe diverted because of bomb threats",
+      "link": "https://nypost.com/2026/11/05/world-news/multiple-flights-in-europe-diverted-because-of-bomb-threats/",
+      "source": "New York Post World",
+      "all_sources": [
+        "NYT World",
         "New York Post World"
       ],
       "bias_breakdown": {
@@ -1208,35 +1242,10 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Russia launched 289 attack drones, 17 ballistic missiles and 59 cruise missiles across nine regions, President Zelenskyy said in an online post that noted the barrage coincided with U.S.",
-        "elections."
+        "Several flights across Europe received hoax bomb threats earlier this week that prompted searches, diversions and, in one case, an escort by the Italian air force until landing, officials said."
       ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fukrainian-rescuers-clear-rubble-destroyed-147394709.jpg?w%3D1024",
-      "published": "Tue, 03 Nov 2026 06:01:14 -0500"
-    },
-    {
-      "title": "Ukraine peace momentum builds, but Russia sticks to its guns",
-      "link": "https://www.csmonitor.com/World/Europe/2026/1029/russia-ukraine-war-peace-talks-trump-china-zelenskyy?icid=rss",
-      "source": "Christian Science Monitor World",
-      "all_sources": [
-        "Christian Science Monitor World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The United States may be pushing a peace plan for Ukraine and Russia, but neither country seems interested in discussing it – especially Russia."
-      ],
-      "image_url": null,
-      "published": "Thu, 29 Oct 2026 15:33:15 EDT"
+      "image_url": "https://static01.nyt.com/images/2026/11/05/multimedia/05xp-bomb-threats-tbwg/05xp-bomb-threats-tbwg-mediumSquareAt3X.jpg",
+      "published": "Thu, 05 Nov 2026 03:04:03 -0800"
     }
   ]
 }
