@@ -1,6 +1,6 @@
-# News Digest - 2026-11-06
+# News Digest - 2026-11-07
 
-**50 stories** · 3 with multi-source coverage · 0 blindspots
+**50 stories** · 2 with multi-source coverage · 0 blindspots
 
 ---
 
@@ -82,23 +82,7 @@
 
 - Volodymyr Zelenskyy told Fox News Ukraine will keep striking Russian oil refineries unless Trump delivers Patriot missiles to shield energy infrastructure.
 
-## 10. French riots fueled by ‘ultra-left’ eco-warriors who live off the grid and previously attacked 5G towers: cops
-
-**Source:** [New York Post World](https://nypost.com/2026/11/05/world-news/french-riots-fueled-by-ultra-left-eco-warriors-who-live-off-the-grid-previously-attacked-5g-towers-cops/)
-
-**Bias breakdown:** Lean Right: 1
-
-- The family is known for their eccentric causes, from campaigning against new airports to resisting the installation of smart electric meters.
-
-## 11. Ukraine knocks out 15 Russian oil refineries, causing $23.2 billion in damage: officials
-
-**Source:** [New York Post World](https://nypost.com/2026/11/05/world-news/ukraine-knocks-out-15-russian-oil-refineries-causing-23-2-billion-in-damage-officials/)
-
-**Bias breakdown:** Lean Right: 1
-
-- Just 12 refineries are running at reduced capacity following the precision strikes.
-
-## 12. In Latin America, women’s church leadership tests Vatican limits
+## 10. In Latin America, women’s church leadership tests Vatican limits
 
 **Source:** [Christian Science Monitor World](https://www.csmonitor.com/World/Americas/2026/1105/In-Latin-America-women-s-church-leadership-tests-Vatican-limits?icid=rss)
 
@@ -106,15 +90,7 @@
 
 - In remote parts of Peru, these nuns have carried out duties that the Roman Catholic Church typically reserves for male clergy.
 
-## 13. Bloody fight erupts over line cutters in packed tourist hotspot
-
-**Source:** [New York Post World](https://nypost.com/2026/11/05/world-news/tourists-erupt-in-fight-over-queue-jumping-in-packed-chinese-tourist-hotspot/)
-
-**Bias breakdown:** Lean Right: 1
-
-- Dramatic footage shows a man wearing a blue jacket repeatedly punching another man dressed in a purple top during the heated altercation.
-
-## 14. Melania Trump hails Oleshky ceasefire as potential ‘spark’ for progress amid Ukraine-Russia war
+## 11. Melania Trump hails Oleshky ceasefire as potential ‘spark’ for progress amid Ukraine-Russia war
 
 **Source:** [Fox News World](https://www.foxnews.com/world/melania-trump-oleshky-ceasefire-spark-more-enduring-peace-ukraine-russia)
 
@@ -122,7 +98,7 @@
 
 - Melania Trump called the Oleshky ceasefire "a spark in a world of darkness" as Russian and Ukrainian envoys praised the deal at a rare White House event.
 
-## 15. Plot twist! A classic novel facing scrutiny in US becomes required reading in China.
+## 12. Plot twist! A classic novel facing scrutiny in US becomes required reading in China.
 
 **Source:** [Christian Science Monitor World](https://www.csmonitor.com/World/Asia-Pacific/2026/1105/jane-eyre-charlotte-bronte-china-us-ban?icid=rss)
 
@@ -130,7 +106,7 @@
 
 - The 19th-century book “Jane Eyre” is now compulsory for Chinese teens, but in the U.S., it’s falling foul of a new law designed to protect youngsters.
 
-## 16. From comedian to convicted rapist: What to know about Russell Brand
+## 13. From comedian to convicted rapist: What to know about Russell Brand
 
 **Source:** [NPR World](https://www.npr.org/2026/11/05/nx-s1-6030720/russell-brand-rape-sexual-assault-prison)
 
@@ -138,17 +114,7 @@
 
 - On Monday Brand will learn his sentence, which a judge has warned will likely be 'significant.' It comes after a London jury found him guilty this week on multiple counts of sexual assault and one count of rape.
 
-## 17. How elderly ‘unsung heroes’ powered Lula’s historic fightback in Brazil
-
-**Source:** [The Guardian World](https://www.theguardian.com/world/2026/nov/05/unsung-heroes-behind-lula-surprise-election-triumph-brazil-runoff-bolsonaro)
-
-**Bias breakdown:** Lean Left: 1
-
-- Older voters praised for helping tip balance in leftwing president’s favour against far-right Flávio Bolsonaro in runoff  It had been nearly a decade since Celia de Oliveira Soares last voted, and months since the 101-year-old great-grandmother last left her home.
-- But on 25 October, when Brazil held what many considered its most  important presidential election  in decades, relatives helped Soares into a wheelchair and drove her to a nearby school to make sure the far-right candidate, Flávio Bolsonaro, did not prevail.
-- Continue reading...
-
-## 18. Protests erupt across France after left-wing groups call for mobilization
+## 14. Protests erupt across France after left-wing groups call for mobilization
 
 **Source:** [Fox News World](https://www.foxnews.com/world/protests-erupt-across-france-left-wing-groups-call-mobilization)
 
@@ -156,7 +122,7 @@
 
 - An estimated 270,000 people joined nationwide strikes and protests across France on Thursday, putting pressure on President Emmanuel Macron's government.
 
-## 19. Multiple flights in Europe diverted because of bomb threats
+## 15. Multiple flights in Europe diverted because of bomb threats
 
 **Source:** [Fox News World](https://www.foxnews.com/world/multiple-flights-europe-diverted-bomb-threats)
 
@@ -164,34 +130,7 @@
 
 - At least 11 planes from cities, including Dublin, Madrid, and Warsaw, were diverted or grounded over bomb threats that have been determined to be unfounded.
 
-## 20. What's next for Democrats after the midterms. And, a look at the outstanding races
-
-**Source:** [NPR World](https://www.npr.org/2026/11/05/g-s1-152046/up-first-newsletter-democrats-congress-control-house-senate-trump-reaction)
-
-**Bias breakdown:** Lean Left: 1
-
-- Democrats have regained control of Congress.
-- They have a long list of investigations into Trump planned.
-- Here's a look at how they could affect the Dems' majority.
-
-## 21. Three ways Democrats could reshape U.S. foreign policy after the midterms
-
-**Source:** [NPR World](https://www.npr.org/2026/11/05/nx-s1-6028977/democrats-foreign-policy-iran-war-ukraine)
-
-**Bias breakdown:** Lean Left: 1
-
-- On  Morning Edition,  Pulitzer Prize-winning historian Anne Applebaum breaks down what a Democratic Congress could change about Trump's foreign policy and what remains beyond its power.
-
-## 22. Bob Dylan comes knockin' on pope's door as Leo welcomes legend to Vatican
-
-**Source:** [NPR World](https://www.npr.org/2026/11/05/g-s1-152035/vatican-pope-bob-dylan)
-
-**Bias breakdown:** Lean Left: 1
-
-- The American singer-songwriter and poet visited with the American pope at the Vatican during a break between concert dates in Italy.
-- The Vatican said the encounter was brief.
-
-## 23. US Marine dies in training incident at Japan military base, officials say
+## 16. US Marine dies in training incident at Japan military base, officials say
 
 **Source:** [Fox News World](https://www.foxnews.com/world/us-marine-dies-training-incident-japan-military-base)
 
@@ -200,7 +139,7 @@
 - A U.S.
 - Marine with the 3rd Marine Division died during a training exercise at Camp Schwab in Okinawa, and the incident remains under investigation.
 
-## 24. Trump Says Colombia Will Accept Deportees, Ending Tariff Standoff
+## 17. Trump Says Colombia Will Accept Deportees, Ending Tariff Standoff
 
 **Source:** [WSJ World News](https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497)
 
@@ -208,16 +147,191 @@
 
 - The president has made immigration an early priority to start second term, with ICE making more than 900 arrests Sunday.
 
-## 25. Ukraine’s farmers dig in as Russia turns its sights back on grain shipments
+## 18. Iraq’s FM says external parties using Iraqi soil to attack neighbours
 
-**Source:** [Christian Science Monitor World](https://www.csmonitor.com/World/Europe/2026/1101/ukraine-grain-trade-breadbasket-russia-war-ports?icid=rss)
+**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/7/iraqs-fm-says-external-parties-using-iraqi-soil-to-attack-neighbours?traffic_source=rss)
+
+**Bias breakdown:** Lean Left: 1
+
+- Iraqi foreign minister tells Al Jazeera that Baghdad is investigating attacks on Gulf launched from its territory.
+
+## 19. Who is Hakeem Jeffries, the Democrat poised to become House speaker?
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/7/who-is-hakeem-jeffries-the-democrat-poised-to-become-house-speaker?traffic_source=rss)
+
+**Bias breakdown:** Lean Left: 1
+
+- Likely to become the first Black House speaker, Jeffries faces pressure from progressives over Trump and Israel.
+
+## 20. ‘Radical’ or ‘hero’?: France debates leftist candidate Jean-Luc Melenchon
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/7/radical-or-hero-france-debates-leftist-candidate-jean-luc-melenchon?traffic_source=rss)
+
+**Bias breakdown:** Lean Left: 1
+
+- The hard-left leader has transformed into a real contender in next year presidential elections.
+
+## 21. ‘They started bombing us with drones’: Russian attacks unnerve Zaporizhzhia
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/7/they-started-bombing-us-with-drones-russian-attacks-unnerve-zaporizhzhia?traffic_source=rss)
+
+**Bias breakdown:** Lean Left: 1
+
+- A region once offering refuge becomes increasingly dangerous, as 50 people are killed in a single attack.
+
+## 22. Gaza displacement camps collapse under rainwater
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/11/7/gaza-displacement-camps-collapse-under-rainwater?traffic_source=rss)
+
+**Bias breakdown:** Lean Left: 1
+
+- Rainwater is inundating displacement camps across Gaza as makeshift shelters collapse.
+- Al Jazeera’s Nour Khaled reports.
+
+## 23. Buildings damaged in Israeli bombings risk collapse as rain inundates Gaza
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/features/2026/11/7/buildings-damaged-in-israel-bombing-at-risk-of-collapse-as-rain-floods-gaza?traffic_source=rss)
+
+**Bias breakdown:** Lean Left: 1
+
+- Floods have swept through Gaza after heavy rain, endangering families and putting war-damaged buildings at risk.
+
+## 24. Al Jazeera tries out martial art wushu at Youth Olympics
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/11/7/al-jazeera-tries-out-martial-art-wushu-at-youth-olympics?traffic_source=rss)
+
+**Bias breakdown:** Lean Left: 1
+
+- Al Jazeera tries out martial art wushu at Youth Olympics
+
+## 25. Heavy rains flood displacement camps across Gaza
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/11/7/heavy-rains-flood-displacement-camps-across-gaza?traffic_source=rss)
+
+**Bias breakdown:** Lean Left: 1
+
+- Heavy rains and strong winds have flooded and damaged displacement tents across Gaza.
+
+## 26. Russian strikes wound nine and damage Ukraine's power network ahead of talks
+
+**Source:** [BBC World](https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss)
 
 **Bias breakdown:** Center: 1
 
-- Ukraine’s agricultural exports are under fire from Russia once again.
-- Between drone attacks and rising diesel prices, the whole industry is strained.
+- The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.
 
-## 26. Palestinians Stream Back to Northern Gaza on Foot
+## 27. This Israeli Vows to Oust Netanyahu. Here’s How.
+
+**Source:** [NYT World](https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html)
+
+**Bias breakdown:** Lean Left: 1
+
+- Gadi Eisenkot is poised to get a chance to form a new government, replacing Benjamin Netanyahu as prime minister.
+- But the obstacles are formidable.
+
+## 28. Islamist Militant Attack Forces Patients to Flee Ebola Clinic in Congo
+
+**Source:** [NYT World](https://www.nytimes.com/2026/11/07/world/africa/congo-attack-ebola-isis-adf.html)
+
+**Bias breakdown:** Lean Left: 1
+
+- At least 44 people were killed in a brutal assault by a group loyal to the Islamic State, officials said.
+- The area is a hot spot of the growing Ebola outbreak.
+
+## 29. Bomb Threats and Cyberattacks in Europe Inject Unease Into Everyday Life
+
+**Source:** [NYT World](https://www.nytimes.com/2026/11/07/world/europe/bomb-threats-cyberattacks-europe-uncertainty.html)
+
+**Bias breakdown:** Lean Left: 1
+
+- A cyberattack on supermarket fridges, bomb threats to planes and software vulnerabilities have Europe on edge as government officials encourage resilience and stockpiling.
+
+## 30. Why Are There Protests in France?
+
+**Source:** [NYT World](https://www.nytimes.com/article/france-student-protests-why.html)
+
+**Bias breakdown:** Lean Left: 1
+
+- For a fourth consecutive Saturday, tens of thousands of people are expected to demonstrate.
+- The authorities hope a large security presence will deter riots.
+
+## 31. Inside the Operation That Helped Ukraine Reverse Some Russian War Gains
+
+**Source:** [NYT World](https://www.nytimes.com/2026/11/07/world/europe/ukraine-russia-war-operation-vivaldi.html)
+
+**Bias breakdown:** Lean Left: 1
+
+- After months of secrecy, Ukrainian commanders let New York Times journalists join them in bunkers and training grounds used to reverse some Russian territorial gains.
+
+## 32. King Charles Was Umbrella-Less but in His Element on Caribbean Tour
+
+**Source:** [NYT World](https://www.nytimes.com/2026/11/07/world/europe/king-charles-chogm-umbrella-rain-diplomacy.html)
+
+**Bias breakdown:** Lean Left: 1
+
+- In his twilight years, the British monarch is embracing his role as a global statesman, even when that involves heavy rain and difficult questions about his nation’s history.
+
+## 33. How Iranians are fighting despotic Islamist regime with personal acts of defiance
+
+**Source:** [New York Post World](https://nypost.com/2026/11/07/world-news/how-iranians-are-fighting-despotic-islamist-regime-with-personal-acts-of-defiance/)
+
+**Bias breakdown:** Lean Right: 1
+
+- Iranian citizens, still traumatized by the massacre of tens of thousands of their own citizens at the hands of their despotic government, continue to fight the despotic regime by turning everyday activities into symbolic acts of defiance.
+
+## 34. Albania is on fire as rioting mobsters and leftists say the country has been ‘sold to the Jews’
+
+**Source:** [New York Post World](https://nypost.com/2026/11/07/opinion/rioting-leftists-in-albania-say-its-been-sold-to-the-jews/)
+
+**Bias breakdown:** Lean Right: 1
+
+- Fans of civilization should be Balk-an at these riots.
+
+## 35. Russia pounds power facilities around Kyiv, damages major bridge
+
+**Source:** [New York Post World](https://nypost.com/2026/11/07/world-news/russia-pounds-power-facilities-around-kyiv-damages-major-bridge/)
+
+**Bias breakdown:** Lean Right: 1
+
+- Explosions rocked the city as Russia fired multiple waves of ballistic missiles.
+
+## 36. Another Day of Protests Is Planned in France’s Autumn of Discontent
+
+**Source:** [NYT World](https://www.nytimes.com/2026/11/07/world/europe/france-fourth-saturday-protests.html)
+
+**Bias breakdown:** Lean Left: 1
+
+- Two days after a general strike and huge demonstrations, students and workers aim to take to the streets again on Saturday.
+
+## 37. Top Gulf official offers glimmer of hope on Trump-Iran nuclear talks as threat of war hangs over region
+
+**Source:** [Fox News World](https://www.foxnews.com/world/gulf-official-glimmer-hope-trump-iran-nuclear-talks-threat-war-hangs-region)
+
+**Bias breakdown:** Right: 1
+
+- A senior United Arab Emirates official says he is cautiously optimistic about U.S.-Iran nuclear talks through Qatari mediation but won't rule out war.
+
+## 38. Ousted Paraguay president under house arrest after banking crisis leaves 60% of country unable to access accounts
+
+**Source:** [The Guardian World](https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts)
+
+**Also covered by:** BBC World, NYT World, NPR World, New York Post World, New York Post World
+
+**Bias breakdown:** Lean Left: 4 · Center: 1 · Lean Right: 2
+
+- Santiago Peña was detained minutes after he was impeached by Congress, as protesters took to the streets demanding answers after the suspension of the Ueno bank  Paraguay’s rightwing president has been placed under house arrest minutes after he was impeached by Congress, amid a severe crisis that left more than half the country’s population unable to access their bank accounts.
+- Santiago Peña is being investigated about allegations he used his political influence to favour a bank that expanded exponentially under his government and was  suspended this week after irregularities .
+- Continue reading...
+
+## 39. China confirms discussions underway on historic Xi-Trump-Putin meeting
+
+**Source:** [New York Post World](https://nypost.com/2026/11/07/world-news/china-confirms-discussions-underway-on-historic-xi-trump-putin-meeting/)
+
+**Bias breakdown:** Lean Right: 1
+
+- Beijing revealed for the first time that it is discussing a historic meeting between Chinese leader Xi Jinping, President Trump and Russian President Vladimir Putin.
+
+## 40. Palestinians Stream Back to Northern Gaza on Foot
 
 **Source:** [WSJ World News](https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db)
 
@@ -225,7 +339,7 @@
 
 - Israel allowed displaced Gazans to begin crossing a military zone that bisects the enclave after a deadlock over hostage releases was broken.
 
-## 27. Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes
+## 41. Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes
 
 **Source:** [WSJ World News](https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863)
 
@@ -233,7 +347,7 @@
 
 - Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.
 
-## 28. Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack
+## 42. Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack
 
 **Source:** [WSJ World News](https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e)
 
@@ -241,7 +355,7 @@
 
 - Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.
 
-## 29. Suspected Sabotage of Deep-Sea Cable Triggers First NATO-Led Response
+## 43. Suspected Sabotage of Deep-Sea Cable Triggers First NATO-Led Response
 
 **Source:** [WSJ World News](https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba)
 
@@ -249,7 +363,7 @@
 
 - The alliance mounted its first coordinated response to a suspected sabotage campaign against critical infrastructure after another cable was severed in the Baltic Sea.
 
-## 30. Rwanda-Backed Rebels Enter Congo's Safe-Haven City
+## 44. Rwanda-Backed Rebels Enter Congo's Safe-Haven City
 
 **Source:** [WSJ World News](https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8)
 
@@ -259,7 +373,7 @@
 - U.N.
 - officials estimated that more than one million displaced people were now inside the city.
 
-## 31. Cocaine-Funded Gangs Shake Colombia Years After Peace Pact
+## 45. Cocaine-Funded Gangs Shake Colombia Years After Peace Pact
 
 **Source:** [WSJ World News](https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da)
 
@@ -267,7 +381,7 @@
 
 - Attacks by powerful militias against civilians reflect the state’s inaction eight years after a peace accord removed a powerful rebel group from the field.
 
-## 32. Italy Supports Saudi Arabia Joining Fighter-Jet Program, PM Meloni Says
+## 46. Italy Supports Saudi Arabia Joining Fighter-Jet Program, PM Meloni Says
 
 **Source:** [WSJ World News](https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1)
 
@@ -275,7 +389,7 @@
 
 - The U.K., Italy and Japan have already partnered on the Global Combat Air Programme, which aims to put a new stealth fighter with supersonic capability in the skies by 2035.
 
-## 33. Shippers Wary of Red Sea Routes Despite Houthi Pledge to End Targeting
+## 47. Shippers Wary of Red Sea Routes Despite Houthi Pledge to End Targeting
 
 **Source:** [WSJ World News](https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2)
 
@@ -283,7 +397,7 @@
 
 - The world’s top three container operators said they fear instability in Gaza and broader regional tensions mean continued danger.
 
-## 34. Kim Jong Un Is Doing Everything He Can to Keep North Korea's Youth in Line
+## 48. Kim Jong Un Is Doing Everything He Can to Keep North Korea's Youth in Line
 
 **Source:** [WSJ World News](https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de)
 
@@ -291,17 +405,7 @@
 
 - The dictator, eager to shut out the influence of Hollywood and K-pop, has been exalting a “shock brigade” of 300,000 teens and 20-somethings drafted into flood reconstruction.
 
-## 35. US will mediate upcoming Ukraine-Russia talks in Abu Dhabi, Witkoff says
-
-**Source:** [Fox News World](https://www.foxnews.com/world/us-mediate-upcoming-ukraine-russia-talks-abu-dhabi-witkoff-says)
-
-**Bias breakdown:** Right: 1
-
-- U.S.
-- Special Envoy Steve Witkoff announced U.S.-mediated peace talks between Ukraine and Russia on Nov.
-- 10 and 11, focusing on security arrangements and de-escalation.
-
-## 36. As EV race heats up, Germany finds itself falling behind pack leaders
+## 49. As EV race heats up, Germany finds itself falling behind pack leaders
 
 **Source:** [Christian Science Monitor World](https://www.csmonitor.com/World/Europe/2026/1102/germany-cars-automakers-volkswagen-ev-china-strikes?icid=rss)
 
@@ -310,123 +414,11 @@
 - Germany’s auto industry has hit a bump in the road, as its cars and manufacturing methods fall behind those of competitors in the U.S.
 - and China.
 
-## 37. Our World: The week of Nov. 2, 2026
+## 50. Our World: The week of Nov. 2, 2026
 
 **Source:** [Christian Science Monitor World](https://www.csmonitor.com/World/2026/1102/seychelles-tortoises-bbc-afghanistan-costa-rica-prison?icid=rss)
 
 **Bias breakdown:** Center: 1
 
 - Our World is a roundup from our weekly print edition of noteworthy happenings, from our global correspondents and editors.
-
-## 38. Reporters on the Job: From London to Tel Aviv, Israel
-
-**Source:** [Christian Science Monitor World](https://www.csmonitor.com/World/2026/1102/reporters-on-the-job-1102?icid=rss)
-
-**Bias breakdown:** Center: 1
-
-- Every week, a selection of Monitor staffers and contributors share their challenges and insights from reporting around the globe.
-
-## 39. Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg
-
-**Source:** [The Guardian World](https://www.theguardian.com/business/2026/oct/30/sinkholes-scarred-land-scapegoats-illegal-gold-mining-johannesburg)
-
-**Bias breakdown:** Lean Left: 1
-
-- There is no end in sight for the drivers of illegal mining, while police action appears ineffective  Cora Bailey has been encountering illegal miners ever since she first started treating injured animals in the townships around Roodepoort, west of Johannesburg, in 1991.
-- But as the price of gold has soared, so too has activity in the abandoned mine shafts that mark the area.
-- In late September, dozens of  zama zamas  – the name given to illegal miners in South Africa, meaning roughly “to take a chance” in Zulu – arrived to dig for gold across the dirt road from her charity, Claw (Community Led Animal Welfare).
-
-## 40. Two dead after bus crashes in France, officials say
-
-**Source:** [BBC World](https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss)
-
-**Bias breakdown:** Center: 1
-
-- One child and one young adult were killed in the crash, local authorities say, with more injured.
-
-## 41. Claims of a Ukrainian ‘torture chamber’ went viral. What really happened?
-
-**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/6/claims-of-a-ukrainian-torture-chamber-went-viral-what-really-happened?traffic_source=rss)
-
-**Bias breakdown:** Lean Left: 1
-
-- A woman who claimed that men were being violently assaulted in a house for evading the draft has been arrested.
-
-## 42. Kenyan doomsday sect leader jailed for 200 years over 191 murders
-
-**Source:** [The Guardian World](https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie)
-
-**Also covered by:** BBC World, NYT World, NPR World, Al Jazeera, Al Jazeera
-
-**Bias breakdown:** Lean Left: 5 · Center: 1
-
-- Paul Mackenzie convicted over the deaths of 190 children and one adult after followers were ordered to starve themselves and their families  The leader of a Kenyan doomsday sect has been sentenced to 200 years in prison for the murders of 190 children and one adult in one of the world’s worst cult disasters in recent history.
-- The sentence, comprised of 100 years for murder by starvation and 100 years by direct homicide, came two weeks after the court in Kenya’s coastal city of Mombasa  found the cult leader guilty  of the crimes.
-- Continue reading...
-
-## 43. Bomb Threats in Europe Probably a Coordinated Campaign, Ireland Says
-
-**Source:** [NYT World](https://www.nytimes.com/2026/11/06/world/europe/bomb-threats-flights-campaign-ireland.html)
-
-**Also covered by:** Deutsche Welle Top Stories
-
-**Bias breakdown:** Lean Left: 1 · Center: 1
-
-- Multiple flights in Europe were disrupted and several newsrooms in Ireland were evacuated after bomb threats, the latest of a series of security incidents.
-
-## 44. Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason
-
-**Source:** [BBC World](https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss)
-
-**Bias breakdown:** Center: 1
-
-- The 58-year-old, who has been detained since April last year, says the charges are politically motivated.
-
-## 45. Alberta’s Librarians Brace for a New Era of ‘Book Bans’
-
-**Source:** [NYT World](https://www.nytimes.com/2026/11/06/world/canada/alberta-book-ban-public-libraries.html)
-
-**Bias breakdown:** Lean Left: 1
-
-- A new provincial law requires public libraries to pull and restrict items with “graphic visual depictions of sexual acts.” Librarians argue the mandate opens the door to censorship.
-
-## 46. Saudi-Led Forces Bombed Yemeni Home, Killing Nine Family Members, Relatives Say
-
-**Source:** [NYT World](https://www.nytimes.com/2026/11/06/world/middleeast/saudi-arabia-bombing-yemen-civilians-houthi-war.html)
-
-**Bias breakdown:** Lean Left: 1
-
-- The attack in October cast a spotlight on civilian casualties in the Saudi-led and U.S.-assisted bombing campaign against the Houthis.
-
-## 47. Veto or deals: Can Trump find a way to work with Democrats?
-
-**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/6/veto-or-deals-can-trump-find-a-way-to-work-with-democrats?traffic_source=rss)
-
-**Bias breakdown:** Lean Left: 1
-
-- Trump has three options to affect legislation, say analysts: veto legislation, enforce executive orders or make deals.
-
-## 48. What a Trump-Xi-Putin summit could mean – and what it wouldn’t
-
-**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/6/what-a-trump-xi-putin-summit-would-mean-and-what-it-wouldnt?traffic_source=rss)
-
-**Bias breakdown:** Lean Left: 1
-
-- A Trump-Xi-Putin meeting at APEC would be a coup for Moscow, analysts say, but Beijing appears lukewarm.
-
-## 49. Ukraine raises Zaporizhia aid strike death toll to at least 50
-
-**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/6/ukraine-raises-zaporizhia-aid-strike-death-toll-to-at-least-50?traffic_source=rss)
-
-**Bias breakdown:** Lean Left: 1
-
-- Ukrainian officials say DNA tests are being used to identify bodies while up to 39 remain trapped under rubble.
-
-## 50. Portugal FA pledges to honour Cristiano Ronaldo as Jorge Jesus names squad
-
-**Source:** [Al Jazeera](https://www.aljazeera.com/sports/2026/11/6/portugal-fa-pledges-to-honour-cristiano-ronaldo-as-jorge-jesus-names-squad?traffic_source=rss)
-
-**Bias breakdown:** Lean Left: 1
-
-- Portuguese FA promises to celebrate Ronaldo, although it is unclear whether he ⁠would agree to a farewell appearance.
 
