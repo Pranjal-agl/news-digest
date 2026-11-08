@@ -1,46 +1,151 @@
 {
-  "date": "2026-11-07",
-  "generated_at": "2026-11-07T14:40:56.605672",
+  "date": "2026-11-08",
+  "generated_at": "2026-11-08T14:46:35.070979",
   "stats": {
     "total": 50,
-    "multi_source": 2,
-    "trending": 1,
-    "blindspots": 0
+    "multi_source": 8,
+    "trending": 3,
+    "blindspots": 3
   },
   "stories": [
     {
-      "title": "Ousted Paraguay president under house arrest after banking crisis leaves 60% of country unable to access accounts",
-      "link": "https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts",
+      "title": "ANC faces anger over poor services as South Africans vote in local elections",
+      "link": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts",
       "source": "The Guardian World",
       "all_sources": [
-        "BBC World",
         "NYT World",
-        "NPR World",
         "The Guardian World",
-        "The Guardian World",
-        "New York Post World",
+        "The Guardian World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 3
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 3
+      },
+      "is_blindspot": true,
+      "is_trending": true,
+      "bullet_points": [
+        "Party expected to get less than a third of the vote amid frustration over water outages and power cuts  The African National Congress is on course for a bruising result in South Africa’s local elections on Wednesday as voters go to the polls amid deep discontent over water outages, power cuts and crumbling infrastructure.",
+        "The former liberation movement, which Nelson Mandela led to power in 1994 at the end of apartheid as South Africa’s first black president, is still likely to be the largest party.",
+        "However, polls showed it getting less than a third of the vote, down from 45.6% at the  last municipal elections  in 2021 and 40.2% in  2024’s national elections ."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-safrica-election-analysis-chqf/08int-safrica-election-analysis-chqf-mediumSquareAt3X.jpg",
+      "published": "Wed, 04 Nov 2026 14:50:47 GMT"
+    },
+    {
+      "title": "Pope’s visit to Argentina sets up showdown with ‘hyper-capitalist’ Milei",
+      "link": "https://www.theguardian.com/world/2026/nov/08/popes-visit-to-argentina-sets-up-showdown-with-hyper-capitalist-milei",
+      "source": "The Guardian World",
+      "all_sources": [
+        "NYT World",
+        "The Guardian World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 2
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 2
+      },
+      "is_blindspot": true,
+      "is_trending": false,
+      "bullet_points": [
+        "Excitement is in the air, because on Monday 9 November, the Cottolengo Don Orione – a Catholic-run home for disabled people – will be the first stop on Pope Leo XIV’s first full day of his trip to Argentina.",
+        "But the pope’s visit to Claypole, about 26km from Buenos Aires, does not come at an especially happy time for the home, which counts about 400 residents with disabilities.",
+        "Argentina’s president, Javier Milei, has made wide-ranging cuts to disability funding."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-pope-milei-jcpf/08int-pope-milei-jcpf-mediumSquareAt3X.jpg",
+      "published": "Sun, 08 Nov 2026 09:00:35 GMT"
+    },
+    {
+      "title": "Prosecutors Charge Paraguay’s Former President With Corruption",
+      "link": "https://www.nytimes.com/2026/11/06/world/americas/paraguay-president-removed-ueno.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World",
+        "NPR World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 2
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 2
+      },
+      "is_blindspot": true,
+      "is_trending": false,
+      "bullet_points": [
+        "Santiago Peña was impeached, removed from office, placed under house arrest and charged with using his office to enrich himself after a bank with close ties to his administration went under."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-Paraguay-WTK-glwt/06int-Paraguay-WTK-glwt-mediumSquareAt3X.jpg",
+      "published": "Sat, 07 Nov 2026 20:17:15 +0000"
+    },
+    {
+      "title": "Lunatic who killed 6 in Poland mass shooting held ‘ultranationalistic’ views, authorities say",
+      "link": "https://nypost.com/2026/11/07/world-news/very-radical-polish-gunman-who-killed-6-held-ultranationalistic-views-authorities-say/",
+      "source": "New York Post World",
+      "all_sources": [
+        "BBC World",
+        "Deutsche Welle Top Stories",
+        "Deutsche Welle Top Stories",
         "New York Post World"
       ],
       "bias_breakdown": {
-        "Lean Left": 4,
-        "Center": 1,
-        "Lean Right": 2
+        "Center": 3,
+        "Lean Right": 1
       },
       "bias_bar": {
-        "left_pct": 57,
-        "center_pct": 14,
-        "right_pct": 29,
-        "total": 7
+        "left_pct": 0,
+        "center_pct": 75,
+        "right_pct": 25,
+        "total": 4
       },
       "is_blindspot": false,
       "is_trending": true,
       "bullet_points": [
-        "Santiago Peña was detained minutes after he was impeached by Congress, as protesters took to the streets demanding answers after the suspension of the Ueno bank  Paraguay’s rightwing president has been placed under house arrest minutes after he was impeached by Congress, amid a severe crisis that left more than half the country’s population unable to access their bank accounts.",
-        "Santiago Peña is being investigated about allegations he used his political influence to favour a bank that expanded exponentially under his government and was  suspended this week after irregularities .",
-        "Continue reading..."
+        "A Polish man with far-right views drove into a busy central square in Krakow on Saturday and opened fire, killing six people and injuring 15 others before police shot and wounded him, authorities said.",
+        "The attack, which Poland’s defense minister described as an “act of terror,” happened in Main Square, which is in the heart..."
       ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a65d/live/3fe15d20-da57-11f1-af22-a97b84c9ca63.jpg",
-      "published": "Sat, 07 Nov 2026 01:55:11 GMT"
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f6c3/live/95455f00-dac5-11f1-bda8-29fb69dbc026.jpg",
+      "published": "Sat, 07 Nov 2026 19:43:48 -0500"
+    },
+    {
+      "title": "Israel's president taps opposition candidate, not Netanyahu, to form a government",
+      "link": "https://www.npr.org/2026/11/07/g-s1-152536/netanyahu-israel-government-eisenkot-herzog",
+      "source": "NPR World",
+      "all_sources": [
+        "BBC World",
+        "NPR World",
+        "NPR World",
+        "Fox News World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 2,
+        "Center": 1,
+        "Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 50,
+        "center_pct": 25,
+        "right_pct": 25,
+        "total": 4
+      },
+      "is_blindspot": false,
+      "is_trending": true,
+      "bullet_points": [
+        "Gadi Eisenkot ran as the main rival to Prime Minister Benjamin Netanyahu, but neither won enough support to command a majority.",
+        "Israel's main parties have recommended Eisenkot form a new government."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ff8/live/d9aea170-daf1-11f1-a701-fddedf244c16.jpg",
+      "published": "Sat, 07 Nov 2026 15:18:18 -0500"
     },
     {
       "title": "British healthcare worker with Ebola evacuated from DR Congo to UK",
@@ -117,56 +222,6 @@
       "published": "Wed, 04 Nov 2026 15:21:09 EST"
     },
     {
-      "title": "ANC faces anger over poor services as South Africans vote in local elections",
-      "link": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts",
-      "source": "The Guardian World",
-      "all_sources": [
-        "The Guardian World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Party expected to get less than a third of the vote amid frustration over water outages and power cuts  The African National Congress is on course for a bruising result in South Africa’s local elections on Wednesday as voters go to the polls amid deep discontent over water outages, power cuts and crumbling infrastructure.",
-        "The former liberation movement, which Nelson Mandela led to power in 1994 at the end of apartheid as South Africa’s first black president, is still likely to be the largest party.",
-        "However, polls showed it getting less than a third of the vote, down from 45.6% at the  last municipal elections  in 2021 and 40.2% in  2024’s national elections ."
-      ],
-      "image_url": null,
-      "published": "Wed, 04 Nov 2026 14:50:47 GMT"
-    },
-    {
-      "title": "Bukele warns Haitian gang leaders that his forces will 'finish' them as he did in El Salvador",
-      "link": "https://www.foxnews.com/world/bukeles-warning-haitian-gang-leaders-forces-finish-el-salvador",
-      "source": "Fox News World",
-      "all_sources": [
-        "Fox News World"
-      ],
-      "bias_breakdown": {
-        "Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Video shows Salvadoran attack helicopters repelling gang fighters in Croix-des-Bouquets as Nayib Bukele escalates military operations in Haiti."
-      ],
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/el-salavador-troops.jpg?ve=1&tl=1",
-      "published": "Wed, 04 Nov 2026 14:06:46 -0400"
-    },
-    {
       "title": "This polarizing, pothole-snorkeling gran is leading the race for Johannesburg mayor",
       "link": "https://www.csmonitor.com/World/Africa/2026/1104/Johannesburg-anc-zille-south-africa?icid=rss",
       "source": "Christian Science Monitor World",
@@ -195,25 +250,23 @@
       "link": "https://www.csmonitor.com/World/Middle-East/2026/1103/israel-herzog-netanyahu-election-president-unity?icid=rss",
       "source": "Christian Science Monitor World",
       "all_sources": [
-        "Christian Science Monitor World",
-        "Fox News World"
+        "Christian Science Monitor World"
       ],
       "bias_breakdown": {
-        "Center": 1,
-        "Right": 1
+        "Center": 1
       },
       "bias_bar": {
         "left_pct": 0,
-        "center_pct": 50,
-        "right_pct": 50,
-        "total": 2
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
       },
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
         "All eyes are on Israel’s President Isaac Herzog as he prepares to give the nod to a member of parliament to form a new government after inconclusive elections."
       ],
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/benjamin-netanyahu-cast-ballot.png?ve=1&tl=1",
+      "image_url": null,
       "published": "Tue, 03 Nov 2026 16:41:59 EST"
     },
     {
@@ -239,30 +292,6 @@
       ],
       "image_url": null,
       "published": "Tue, 03 Nov 2026 12:30:16 EST"
-    },
-    {
-      "title": "Ukraine's Zelenskyy on defying US in attacking Russian oil: 'Our response must be painful'",
-      "link": "https://www.foxnews.com/world/ukraine-zelenskyy-defying-us-attacking-russian-oil-response-must-be-painful",
-      "source": "Fox News World",
-      "all_sources": [
-        "Fox News World"
-      ],
-      "bias_breakdown": {
-        "Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Volodymyr Zelenskyy told Fox News Ukraine will keep striking Russian oil refineries unless Trump delivers Patriot missiles to shield energy infrastructure."
-      ],
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/zelenskyy-yingst-interview-walking.jpg?ve=1&tl=1",
-      "published": "Tue, 03 Nov 2026 09:17:33 -0400"
     },
     {
       "title": "In Latin America, women’s church leadership tests Vatican limits",
@@ -335,30 +364,6 @@
       ],
       "image_url": null,
       "published": "Thu, 05 Nov 2026 12:12:37 EST"
-    },
-    {
-      "title": "From comedian to convicted rapist: What to know about Russell Brand",
-      "link": "https://www.npr.org/2026/11/05/nx-s1-6030720/russell-brand-rape-sexual-assault-prison",
-      "source": "NPR World",
-      "all_sources": [
-        "NPR World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "On Monday Brand will learn his sentence, which a judge has warned will likely be 'significant.' It comes after a London jury found him guilty this week on multiple counts of sexual assault and one count of rape."
-      ],
-      "image_url": null,
-      "published": "Thu, 05 Nov 2026 11:15:02 -0500"
     },
     {
       "title": "Protests erupt across France after left-wing groups call for mobilization",
@@ -458,8 +463,8 @@
       "published": "Sun, 26 Jan 2025 22:59:00 -0500"
     },
     {
-      "title": "Iraq’s FM says external parties using Iraqi soil to attack neighbours",
-      "link": "https://www.aljazeera.com/news/2026/11/7/iraqs-fm-says-external-parties-using-iraqi-soil-to-attack-neighbours?traffic_source=rss",
+      "title": "US task force to cut off Iran’s transport of advanced weapons: What we know",
+      "link": "https://www.aljazeera.com/news/2026/11/8/us-task-force-to-cut-off-irans-transport-of-advanced-weapons-what-we-know?traffic_source=rss",
       "source": "Al Jazeera",
       "all_sources": [
         "Al Jazeera"
@@ -476,14 +481,14 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Iraqi foreign minister tells Al Jazeera that Baghdad is investigating attacks on Gulf launched from its territory."
+        "As fears of an escalation grow, Washington announces &#039;Task Force Iron Gate&#039;."
       ],
       "image_url": null,
-      "published": "Sat, 07 Nov 2026 14:24:48 +0000"
+      "published": "Sun, 08 Nov 2026 14:06:19 +0000"
     },
     {
-      "title": "Who is Hakeem Jeffries, the Democrat poised to become House speaker?",
-      "link": "https://www.aljazeera.com/news/2026/11/7/who-is-hakeem-jeffries-the-democrat-poised-to-become-house-speaker?traffic_source=rss",
+      "title": "Spain win Padel World Cup in Qatar as sport’s popularity soars",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/spain-win-padel-world-cup-in-qatar-as-sports-popularity-soars-2?traffic_source=rss",
       "source": "Al Jazeera",
       "all_sources": [
         "Al Jazeera"
@@ -500,14 +505,15 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Likely to become the first Black House speaker, Jeffries faces pressure from progressives over Trump and Israel."
+        "Spain has beaten Argentina at another world cup.",
+        "The Spanish men’s and women’s team swept the Padel World Championships"
       ],
       "image_url": null,
-      "published": "Sat, 07 Nov 2026 13:50:15 +0000"
+      "published": "Sun, 08 Nov 2026 14:02:35 +0000"
     },
     {
-      "title": "‘Radical’ or ‘hero’?: France debates leftist candidate Jean-Luc Melenchon",
-      "link": "https://www.aljazeera.com/news/2026/11/7/radical-or-hero-france-debates-leftist-candidate-jean-luc-melenchon?traffic_source=rss",
+      "title": "Egypt’s reopening of its embassy in Tripoli signals regional shift on Libya",
+      "link": "https://www.aljazeera.com/news/2026/11/8/egypts-reopening-of-its-embassy-in-tripoli-signals-regional-shift-on-libya?traffic_source=rss",
       "source": "Al Jazeera",
       "all_sources": [
         "Al Jazeera"
@@ -524,17 +530,17 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "The hard-left leader has transformed into a real contender in next year presidential elections."
+        "Former rivals in Libya are pushing for a unity government to end years of conflict."
       ],
       "image_url": null,
-      "published": "Sat, 07 Nov 2026 13:35:46 +0000"
+      "published": "Sun, 08 Nov 2026 13:27:57 +0000"
     },
     {
-      "title": "‘They started bombing us with drones’: Russian attacks unnerve Zaporizhzhia",
-      "link": "https://www.aljazeera.com/news/2026/11/7/they-started-bombing-us-with-drones-russian-attacks-unnerve-zaporizhzhia?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "Samoan Chef Brings Flavors of Home to New Zealand’s Fine-Dining Scene",
+      "link": "https://www.nytimes.com/2026/11/08/world/asia/onesemo-new-zealand-chef-samoa.html",
+      "source": "NYT World",
       "all_sources": [
-        "Al Jazeera"
+        "NYT World"
       ],
       "bias_breakdown": {
         "Lean Left": 1
@@ -548,17 +554,18 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "A region once offering refuge becomes increasingly dangerous, as 50 people are killed in a single attack."
+        "Food was at the heart of Henry Onesemo’s South Pacific island upbringing.",
+        "Now, he’s bringing flavors of home to his Michelin-starred restaurant in New Zealand."
       ],
-      "image_url": null,
-      "published": "Sat, 07 Nov 2026 13:24:41 +0000"
+      "image_url": "https://static01.nyt.com/images/2026/10/26/multimedia/00int-nz-samoan-chef-01-ghmt/00int-nz-samoan-chef-01-ghmt-mediumSquareAt3X.jpg",
+      "published": "Sun, 08 Nov 2026 13:14:09 +0000"
     },
     {
-      "title": "Gaza displacement camps collapse under rainwater",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/gaza-displacement-camps-collapse-under-rainwater?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "What to Know About the Mass Shooting in Krakow, Poland",
+      "link": "https://www.nytimes.com/2026/11/08/world/europe/poland-krakow-mass-shooting.html",
+      "source": "NYT World",
       "all_sources": [
-        "Al Jazeera"
+        "NYT World"
       ],
       "bias_breakdown": {
         "Lean Left": 1
@@ -572,15 +579,15 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Rainwater is inundating displacement camps across Gaza as makeshift shelters collapse.",
-        "Al Jazeera’s Nour Khaled reports."
+        "At least nine people were dead and at least 16 injured after shootings in Krakow and another town, the police said.",
+        "The motive remains unclear."
       ],
-      "image_url": null,
-      "published": "Sat, 07 Nov 2026 13:14:53 +0000"
+      "image_url": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-poland-shooting-wtk-01-jhbk/08int-poland-shooting-wtk-01-jhbk-mediumSquareAt3X.jpg",
+      "published": "Sun, 08 Nov 2026 13:09:09 +0000"
     },
     {
-      "title": "Buildings damaged in Israeli bombings risk collapse as rain inundates Gaza",
-      "link": "https://www.aljazeera.com/features/2026/11/7/buildings-damaged-in-israel-bombing-at-risk-of-collapse-as-rain-floods-gaza?traffic_source=rss",
+      "title": "Could Iraq’s Kurdish region return to two separate administrations?",
+      "link": "https://www.aljazeera.com/news/2026/11/8/could-iraqs-kurdish-region-return-to-two-separate-administrations?traffic_source=rss",
       "source": "Al Jazeera",
       "all_sources": [
         "Al Jazeera"
@@ -597,17 +604,17 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Floods have swept through Gaza after heavy rain, endangering families and putting war-damaged buildings at risk."
+        "A political impasse between the KRG and PUK threatens to break up the semiautonomous northern region."
       ],
       "image_url": null,
-      "published": "Sat, 07 Nov 2026 13:07:23 +0000"
+      "published": "Sun, 08 Nov 2026 13:06:28 +0000"
     },
     {
-      "title": "Al Jazeera tries out martial art wushu at Youth Olympics",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/al-jazeera-tries-out-martial-art-wushu-at-youth-olympics?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "Saudi Aramco Tower Damaged as Yemen’s Houthis Attack Riyadh",
+      "link": "https://www.nytimes.com/2026/11/08/world/middleeast/saudi-aramco-tower-riyadh-hit.html",
+      "source": "NYT World",
       "all_sources": [
-        "Al Jazeera"
+        "NYT World"
       ],
       "bias_breakdown": {
         "Lean Left": 1
@@ -621,14 +628,14 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Al Jazeera tries out martial art wushu at Youth Olympics"
+        "The Saudi authorities said no one was injured and that “falling shrapnel” from an intercepted missile had hit the building in the capital’s financial district."
       ],
-      "image_url": null,
-      "published": "Sat, 07 Nov 2026 13:06:50 +0000"
+      "image_url": "https://static01.nyt.com/images/2026/11/08/world/08int-saudi-attack-fna/08int-saudi-attack-fna-mediumSquareAt3X.jpg",
+      "published": "Sun, 08 Nov 2026 13:05:01 +0000"
     },
     {
-      "title": "Heavy rains flood displacement camps across Gaza",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/heavy-rains-flood-displacement-camps-across-gaza?traffic_source=rss",
+      "title": "Poland mourns six killed in attack as authorities launch ‘terrorism’ probe",
+      "link": "https://www.aljazeera.com/news/2026/11/8/poland-mourns-six-killed-in-attack-as-authorities-launch-terrorism-probe?traffic_source=rss",
       "source": "Al Jazeera",
       "all_sources": [
         "Al Jazeera"
@@ -645,10 +652,575 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Heavy rains and strong winds have flooded and damaged displacement tents across Gaza."
+        "&#039;Terrorism&#039; investigation launched after government officials say suspect likely influenced by far-right ideology."
       ],
       "image_url": null,
-      "published": "Sat, 07 Nov 2026 13:04:51 +0000"
+      "published": "Sun, 08 Nov 2026 12:40:12 +0000"
+    },
+    {
+      "title": "Who Is Gadi Eisenkot, Israel’s Opposition Leader?",
+      "link": "https://www.nytimes.com/2026/11/08/world/middleeast/israel-eisenkot-netanyahu-what-to-know.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World",
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1,
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 50,
+        "center_pct": 0,
+        "right_pct": 50,
+        "total": 2
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Mr.",
+        "Eisenkot, a career general and the leading rival of Prime Minister Benjamin Netanyahu of Israel, will now have up to six weeks to form a coalition."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-israel-eisenkot-wtk-ckmj/08int-israel-eisenkot-wtk-ckmj-mediumSquareAt3X.jpg",
+      "published": "Sun, 08 Nov 2026 12:33:40 +0000"
+    },
+    {
+      "title": "Russian strikes on Ukraine leave hundreds of thousands without electricity",
+      "link": "https://www.aljazeera.com/news/2026/11/8/russian-strikes-on-ukraine-leave-hundreds-of-thousands-without-electricity?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "About 850,000 people lose power after Russian attacks on energy infrastructure in Ukraine&#039;s Dnipropetrovsk and Kharkiv."
+      ],
+      "image_url": null,
+      "published": "Sun, 08 Nov 2026 12:20:17 +0000"
+    },
+    {
+      "title": "South Africa’s ANC suffers setback in local elections",
+      "link": "https://www.aljazeera.com/news/2026/11/8/south-africas-anc-suffers-setback-in-local-elections?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "With 99 percent of votes counted, President Cyril Ramaphosa&#039;s party wins 31 percent nationally."
+      ],
+      "image_url": null,
+      "published": "Sun, 08 Nov 2026 12:19:14 +0000"
+    },
+    {
+      "title": "How African philosophies inspired a new approach to staging film festivals in Manchester",
+      "link": "https://www.theguardian.com/news/2026/nov/08/african-philosophies-see-my-world-film-festival-manchester",
+      "source": "The Guardian World",
+      "all_sources": [
+        "The Guardian World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "See My World, an event highlighting the pan-African thought via film, poetry and dance, builds on momentum sparked by local activists and creatives  African philosophies including exploring how lessons from the past can shape the present and near future have inspired a film festival coming to Manchester.",
+        "See My World , a day dedicated to independent creators from across the African diaspora in the north of England, will take place at the Contact theatre on 21 November.",
+        "Continue reading..."
+      ],
+      "image_url": null,
+      "published": "Sun, 08 Nov 2026 12:00:39 GMT"
+    },
+    {
+      "title": "Could UFC boss Dana White be next White House press secretary?",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/8/could-ufc-boss-dana-white-be-next-white-house-press-secretary?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "UFC chief Dana White says he’ll meet Trump after the US president urged him to become White House press secretary."
+      ],
+      "image_url": null,
+      "published": "Sun, 08 Nov 2026 11:57:05 +0000"
+    },
+    {
+      "title": "Fears for hero Polish cop who took down Krakow mass shooter and then collapsed",
+      "link": "https://nypost.com/2026/11/08/world-news/hero-polish-cop-takes-down-crazed-krakow-mass-shooter-and-then-collapses/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "“Senior constable Jakub Kulik and senior constable Artur Moranski are true heroes,” said Polish Prime Minister Donald Tusk said."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fmoment-hero-cop-takes-crazed-147991962.png?w%3D1024",
+      "published": "Sun, 08 Nov 2026 09:32:22 -0500"
+    },
+    {
+      "title": "Russia strikes Ukraine emergency rescue shelter again — days after killing 55 in brutal bombing",
+      "link": "https://nypost.com/2026/11/08/world-news/russia-strikes-ukraine-emergency-rescue-shelter-again/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "A Russian double-tap attack killed at least 55 people in Ukraine's Zaporizhzhia region, striking a humanitarian aid shelter and emergency crews."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F147992596.jpg?quality%3D90%26",
+      "published": "Sun, 08 Nov 2026 08:19:56 -0500"
+    },
+    {
+      "title": "Banana producers in Latin America want better pay to cope with effects of climate crisis",
+      "link": "https://www.theguardian.com/business/2026/nov/08/banana-producers-in-latin-america-want-better-pay-to-cope-with-effects-of-climate-crisis",
+      "source": "The Guardian World",
+      "all_sources": [
+        "The Guardian World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Farmers face big drop in production from extreme weather during this year’s super El Niño event  Banana producers in Latin America are calling for better pay to help cope with the impact of the climate crisis, as they face big drops in production resulting from extreme weather during this year’s super El Niño event.",
+        "High winds in parts of Colombia, one of the biggest suppliers to the UK market where droughts are predicted in some regions this year, and heavy rainfall in Peru and Ecuador are already affecting production, according to the Fairtrade Foundation ethical trade body.",
+        "In the Dominican Republic, farmers are expected to face drought conditions, with forecasts of drier and warmer than usual conditions."
+      ],
+      "image_url": null,
+      "published": "Sun, 08 Nov 2026 07:00:34 GMT"
+    },
+    {
+      "title": "A desert stirs to life: Chile's Atacama erupts in its biggest floral display in decades",
+      "link": "https://www.npr.org/2026/11/08/nx-s1-6023812/chile-desert-el-nino",
+      "source": "NPR World",
+      "all_sources": [
+        "NPR World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "El Niño rains have transformed Chile's Atacama Desert into a spectacular sea of color, awakening a fleeting ecosystem of flowers and wildlife in one of the driest places on Earth."
+      ],
+      "image_url": null,
+      "published": "Sun, 08 Nov 2026 06:00:00 -0500"
+    },
+    {
+      "title": "King Charles Was Umbrella-Less but in His Element on Caribbean Tour",
+      "link": "https://www.nytimes.com/2026/11/07/world/europe/king-charles-chogm-umbrella-rain-diplomacy.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "In his twilight years, the British monarch is embracing his role as a global statesman, even when that involves heavy rain and difficult questions about his nation’s history."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/11/07/multimedia/07int-uk-king-trip-01-fhwt/07int-uk-king-trip-01-fhwt-mediumSquareAt3X.jpg",
+      "published": "Sun, 08 Nov 2026 05:55:55 +0000"
+    },
+    {
+      "title": "Alleged Poland shooter’s parents, sister found dead in home after town square rampage — as neighbors recall ‘strange’ behavior",
+      "link": "https://nypost.com/2026/11/08/world-news/alleged-poland-shooters-parents-sister-found-dead-in-home-after-krakow-rampage-as-neighbors-recall-strange-behavior/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Hours after the massacre, officers made another grim discovery at the shooter's family home."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fgather-outside-apartment-building-home-147918705_032910.jpg?w%3D1024",
+      "published": "Sun, 08 Nov 2026 05:22:03 -0500"
+    },
+    {
+      "title": "Polluted Delhi Tries ‘Green’ Fireworks to Clear the Air at Diwali",
+      "link": "https://www.nytimes.com/2026/11/08/world/asia/delhi-pollution-green-fireworks-diwali.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "India’s top court decreed that only more environmentally friendly fireworks could be set off this weekend, citing air quality concerns.",
+        "But environmental activists call it a “green wash.”"
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/11/08/multimedia/08int-diwali-pollution-01-qwjm/08int-diwali-pollution-01-qwjm-mediumSquareAt3X.jpg",
+      "published": "Sun, 08 Nov 2026 05:01:18 +0000"
+    },
+    {
+      "title": "Strong earthquake shakes Japan, shattering store windows and injuring at least 22",
+      "link": "https://nypost.com/2026/11/08/world-news/japan-earthquake-injures-at-least-22-shatters-store-windows/",
+      "source": "New York Post World",
+      "all_sources": [
+        "Al Jazeera",
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1,
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 50,
+        "center_pct": 0,
+        "right_pct": 50,
+        "total": 2
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "A magnitude 5.7 earthquake struck central Japan, injuring at least 22 people, shattering store windows, and slowing bullet train service."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fshattered-windows-seen-car-dealer-147970508.jpg?w%3D1024",
+      "published": "Sun, 08 Nov 2026 03:30:09 -0500"
+    },
+    {
+      "title": "Iran executes 3 men accused of links to US and Israel, protesting against regime",
+      "link": "https://nypost.com/2026/11/08/world-news/iran-executes-3-men-accused-of-links-to-us-and-israel-protesting-against-regime/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The ​executions are the latest in a ​series Iran has carried out in recent ⁠months over protests in January."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Firan-executes-three-men-armed-147970794.jpg?w%3D1024",
+      "published": "Sun, 08 Nov 2026 03:23:02 -0500"
+    },
+    {
+      "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+      "link": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d485/live/0685e840-dab9-11f1-b441-2b33b063138f.jpg",
+      "published": "Sat, 07 Nov 2026 21:36:16 GMT"
+    },
+    {
+      "title": "US offers $20m reward for information about Iran's nuclear programme",
+      "link": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b84/live/0f887590-dad0-11f1-93e1-3b657b665bcf.jpg",
+      "published": "Sat, 07 Nov 2026 18:14:38 GMT"
+    },
+    {
+      "title": "Trump confirms fresh US strikes on Iran defenses as talks turn to nuke inspectors",
+      "link": "https://nypost.com/2026/11/07/world-news/trump-confirms-fresh-us-strike-on-iran-defenses/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "President Trump confirmed Friday night that the US military carried out new strikes on Iranian air defense systems on Qeshm Island in the Strait of Hormuz – the first strikes since the midterm elections Tuesday.",
+        "In the same breath he told reporters “they want to make a deal.”"
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fpresident-donald-trump-spoke-friday-147863986.jpg?w%3D1024",
+      "published": "Sat, 07 Nov 2026 18:02:51 -0500"
+    },
+    {
+      "title": "A correspondent finds Cuba's people struggling",
+      "link": "https://www.npr.org/2026/11/07/nx-s1-6029398/a-correspondent-finds-cubas-people-struggling",
+      "source": "NPR World",
+      "all_sources": [
+        "NPR World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Reporting from Cuba comes with distinct challenges especially amid widespread power outages and fuel shortages."
+      ],
+      "image_url": null,
+      "published": "Sat, 07 Nov 2026 17:12:06 -0500"
+    },
+    {
+      "title": "Italian foreign minister says hackers leaked his personal data",
+      "link": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34a9/live/e340cb90-dabb-11f1-93e1-3b657b665bcf.jpg",
+      "published": "Sat, 07 Nov 2026 16:50:06 GMT"
+    },
+    {
+      "title": "More Than 50 Killed in Yemen in One of the Deadliest 24 Hours of the War",
+      "link": "https://www.nytimes.com/2026/11/07/world/middleeast/more-than-50-killed-in-yemen.html",
+      "source": "NYT World",
+      "all_sources": [
+        "BBC World",
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1,
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 50,
+        "center_pct": 50,
+        "right_pct": 0,
+        "total": 2
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Strikes show the heavy toll since fighting between the Houthis and the Saudi-backed government reignited in August, with civilians paying a heavy price."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2670/live/bfaac760-dacc-11f1-bda8-29fb69dbc026.jpg",
+      "published": "Sat, 07 Nov 2026 16:39:31 +0000"
+    },
+    {
+      "title": "Shocking footage shows moment Krakow police shot maniac who opened fire on town square, killing 6 and wounding 15",
+      "link": "https://nypost.com/2026/11/07/world-news/shocking-footage-shows-moment-krakow-police-shot-maniac-who-opened-fire-on-town-square/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Shocking footage shows the moment a maniac was shot by cops after he killed four women and two men while randomly firing from a car onto a busy market square in Krakow on Saturday afternoon."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fgunman-detained-police-video-taken-147886554.jpg?w%3D562",
+      "published": "Sat, 07 Nov 2026 16:01:09 -0500"
+    },
+    {
+      "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+      "link": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\"."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44f1/live/699ff730-daab-11f1-93e1-3b657b665bcf.jpg",
+      "published": "Sat, 07 Nov 2026 15:19:35 GMT"
+    },
+    {
+      "title": "Paris agitators defy police orders, renew nationwide protests centered in Paris",
+      "link": "https://www.foxnews.com/world/paris-agitators-defy-police-orders-renew-nationwide-protests-centered-paris",
+      "source": "Fox News World",
+      "all_sources": [
+        "Fox News World"
+      ],
+      "bias_breakdown": {
+        "Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Videos and photos show tear gas and fires throughout Paris as 70,000 security forces deploy against France protests despite police bans on gatherings."
+      ],
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Paris_tear_gas.jpg?ve=1&tl=1",
+      "published": "Sat, 07 Nov 2026 14:32:27 -0500"
     },
     {
       "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
@@ -673,564 +1245,6 @@
       ],
       "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0554/live/2786bc40-daa0-11f1-a523-f508a3e924cb.jpg",
       "published": "Sat, 07 Nov 2026 12:49:36 GMT"
-    },
-    {
-      "title": "This Israeli Vows to Oust Netanyahu. Here’s How.",
-      "link": "https://www.nytimes.com/2026/11/07/world/middleeast/eisenkot-israel-new-government.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Gadi Eisenkot is poised to get a chance to form a new government, replacing Benjamin Netanyahu as prime minister.",
-        "But the obstacles are formidable."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/11/06/multimedia/06int-israel-eisenkot-01-tjwp/06int-israel-eisenkot-01-tjwp-mediumSquareAt3X-v2.jpg",
-      "published": "Sat, 07 Nov 2026 12:42:56 +0000"
-    },
-    {
-      "title": "Islamist Militant Attack Forces Patients to Flee Ebola Clinic in Congo",
-      "link": "https://www.nytimes.com/2026/11/07/world/africa/congo-attack-ebola-isis-adf.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "At least 44 people were killed in a brutal assault by a group loyal to the Islamic State, officials said.",
-        "The area is a hot spot of the growing Ebola outbreak."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/11/07/multimedia/07int-congo-ebola-violence-twbp/07int-congo-ebola-violence-twbp-mediumSquareAt3X.jpg",
-      "published": "Sat, 07 Nov 2026 12:06:57 +0000"
-    },
-    {
-      "title": "Bomb Threats and Cyberattacks in Europe Inject Unease Into Everyday Life",
-      "link": "https://www.nytimes.com/2026/11/07/world/europe/bomb-threats-cyberattacks-europe-uncertainty.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "A cyberattack on supermarket fridges, bomb threats to planes and software vulnerabilities have Europe on edge as government officials encourage resilience and stockpiling."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/11/07/multimedia/07int-europe-security-01-zbtv/07int-europe-security-01-zbtv-mediumSquareAt3X.jpg",
-      "published": "Sat, 07 Nov 2026 10:32:52 +0000"
-    },
-    {
-      "title": "Why Are There Protests in France?",
-      "link": "https://www.nytimes.com/article/france-student-protests-why.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "For a fourth consecutive Saturday, tens of thousands of people are expected to demonstrate.",
-        "The authorities hope a large security presence will deter riots."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/11/03/multimedia/03int-france-schools-wtk-vphk/03int-france-schools-wtk-vphk-mediumSquareAt3X.jpg",
-      "published": "Sat, 07 Nov 2026 10:13:41 +0000"
-    },
-    {
-      "title": "Inside the Operation That Helped Ukraine Reverse Some Russian War Gains",
-      "link": "https://www.nytimes.com/2026/11/07/world/europe/ukraine-russia-war-operation-vivaldi.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "After months of secrecy, Ukrainian commanders let New York Times journalists join them in bunkers and training grounds used to reverse some Russian territorial gains."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/11/05/multimedia/05int-ukraine-battlefield-01-tkvw-promo/05int-ukraine-battlefield-01-tkvw-mediumSquareAt3X.jpg",
-      "published": "Sat, 07 Nov 2026 10:01:41 +0000"
-    },
-    {
-      "title": "King Charles Was Umbrella-Less but in His Element on Caribbean Tour",
-      "link": "https://www.nytimes.com/2026/11/07/world/europe/king-charles-chogm-umbrella-rain-diplomacy.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "In his twilight years, the British monarch is embracing his role as a global statesman, even when that involves heavy rain and difficult questions about his nation’s history."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/11/07/multimedia/07int-uk-king-trip-01-fhwt/07int-uk-king-trip-01-fhwt-mediumSquareAt3X.jpg",
-      "published": "Sat, 07 Nov 2026 09:57:14 +0000"
-    },
-    {
-      "title": "How Iranians are fighting despotic Islamist regime with personal acts of defiance",
-      "link": "https://nypost.com/2026/11/07/world-news/how-iranians-are-fighting-despotic-islamist-regime-with-personal-acts-of-defiance/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Iranian citizens, still traumatized by the massacre of tens of thousands of their own citizens at the hands of their despotic government, continue to fight the despotic regime by turning everyday activities into symbolic acts of defiance."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fstores-begun-secretly-selling-shirts-146663327.jpg?w%3D574",
-      "published": "Sat, 07 Nov 2026 08:48:50 -0500"
-    },
-    {
-      "title": "Albania is on fire as rioting mobsters and leftists say the country has been ‘sold to the Jews’",
-      "link": "https://nypost.com/2026/11/07/opinion/rioting-leftists-in-albania-say-its-been-sold-to-the-jews/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Fans of civilization should be Balk-an at these riots."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fnewspress-collage-zlgh3408d-1793984983999.jpg?quality%3D90%26",
-      "published": "Sat, 07 Nov 2026 08:00:00 -0500"
-    },
-    {
-      "title": "Russia pounds power facilities around Kyiv, damages major bridge",
-      "link": "https://nypost.com/2026/11/07/world-news/russia-pounds-power-facilities-around-kyiv-damages-major-bridge/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Explosions rocked the city as Russia fired multiple waves of ballistic missiles."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Ffirefighters-work-site-russian-missile-147838230.jpg?w%3D1024",
-      "published": "Sat, 07 Nov 2026 06:17:44 -0500"
-    },
-    {
-      "title": "Another Day of Protests Is Planned in France’s Autumn of Discontent",
-      "link": "https://www.nytimes.com/2026/11/07/world/europe/france-fourth-saturday-protests.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Two days after a general strike and huge demonstrations, students and workers aim to take to the streets again on Saturday."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/11/07/multimedia/07int-france-protest-photo-wmgh/07int-france-protest-photo-wmgh-mediumSquareAt3X.jpg",
-      "published": "Sat, 07 Nov 2026 05:01:04 +0000"
-    },
-    {
-      "title": "Top Gulf official offers glimmer of hope on Trump-Iran nuclear talks as threat of war hangs over region",
-      "link": "https://www.foxnews.com/world/gulf-official-glimmer-hope-trump-iran-nuclear-talks-threat-war-hangs-region",
-      "source": "Fox News World",
-      "all_sources": [
-        "Fox News World"
-      ],
-      "bias_breakdown": {
-        "Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "A senior United Arab Emirates official says he is cautiously optimistic about U.S.-Iran nuclear talks through Qatari mediation but won&apos;t rule out war."
-      ],
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/05/931/523/uae-arrival-scaled.jpg?ve=1&tl=1",
-      "published": "Sat, 07 Nov 2026 04:00:39 -0500"
-    },
-    {
-      "title": "China confirms discussions underway on historic Xi-Trump-Putin meeting",
-      "link": "https://nypost.com/2026/11/07/world-news/china-confirms-discussions-underway-on-historic-xi-trump-putin-meeting/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Beijing revealed for the first time that it is discussing a historic meeting between Chinese leader Xi Jinping, President Trump and Russian President Vladimir Putin."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fu-s-president-donald-j-147831287.jpg?w%3D1024",
-      "published": "Sat, 07 Nov 2026 00:54:33 -0500"
-    },
-    {
-      "title": "Palestinians Stream Back to Northern Gaza on Foot",
-      "link": "https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db",
-      "source": "WSJ World News",
-      "all_sources": [
-        "WSJ World News"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Israel allowed displaced Gazans to begin crossing a military zone that bisects the enclave after a deadlock over hostage releases was broken."
-      ],
-      "image_url": null,
-      "published": "Mon, 27 Jan 2025 14:23:00 -0500"
-    },
-    {
-      "title": "Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes",
-      "link": "https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863",
-      "source": "WSJ World News",
-      "all_sources": [
-        "WSJ World News"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in."
-      ],
-      "image_url": null,
-      "published": "Mon, 27 Jan 2025 12:32:00 -0500"
-    },
-    {
-      "title": "Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack",
-      "link": "https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e",
-      "source": "WSJ World News",
-      "all_sources": [
-        "WSJ World News"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said."
-      ],
-      "image_url": null,
-      "published": "Mon, 27 Jan 2025 12:12:00 -0500"
-    },
-    {
-      "title": "Suspected Sabotage of Deep-Sea Cable Triggers First NATO-Led Response",
-      "link": "https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba",
-      "source": "WSJ World News",
-      "all_sources": [
-        "WSJ World News"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The alliance mounted its first coordinated response to a suspected sabotage campaign against critical infrastructure after another cable was severed in the Baltic Sea."
-      ],
-      "image_url": null,
-      "published": "Mon, 27 Jan 2025 11:22:00 -0500"
-    },
-    {
-      "title": "Rwanda-Backed Rebels Enter Congo's Safe-Haven City",
-      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
-      "source": "WSJ World News",
-      "all_sources": [
-        "WSJ World News"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Residents of Goma reported gunfire and shelling after rebels overran Congolese troops.",
-        "U.N.",
-        "officials estimated that more than one million displaced people were now inside the city."
-      ],
-      "image_url": null,
-      "published": "Mon, 27 Jan 2025 10:07:00 -0500"
-    },
-    {
-      "title": "Cocaine-Funded Gangs Shake Colombia Years After Peace Pact",
-      "link": "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da",
-      "source": "WSJ World News",
-      "all_sources": [
-        "WSJ World News"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Attacks by powerful militias against civilians reflect the state’s inaction eight years after a peace accord removed a powerful rebel group from the field."
-      ],
-      "image_url": null,
-      "published": "Mon, 27 Jan 2025 07:00:00 -0500"
-    },
-    {
-      "title": "Italy Supports Saudi Arabia Joining Fighter-Jet Program, PM Meloni Says",
-      "link": "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1",
-      "source": "WSJ World News",
-      "all_sources": [
-        "WSJ World News"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The U.K., Italy and Japan have already partnered on the Global Combat Air Programme, which aims to put a new stealth fighter with supersonic capability in the skies by 2035."
-      ],
-      "image_url": null,
-      "published": "Mon, 27 Jan 2025 05:34:00 -0500"
-    },
-    {
-      "title": "Shippers Wary of Red Sea Routes Despite Houthi Pledge to End Targeting",
-      "link": "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2",
-      "source": "WSJ World News",
-      "all_sources": [
-        "WSJ World News"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The world’s top three container operators said they fear instability in Gaza and broader regional tensions mean continued danger."
-      ],
-      "image_url": null,
-      "published": "Mon, 27 Jan 2025 01:05:00 -0500"
-    },
-    {
-      "title": "Kim Jong Un Is Doing Everything He Can to Keep North Korea's Youth in Line",
-      "link": "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de",
-      "source": "WSJ World News",
-      "all_sources": [
-        "WSJ World News"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The dictator, eager to shut out the influence of Hollywood and K-pop, has been exalting a “shock brigade” of 300,000 teens and 20-somethings drafted into flood reconstruction."
-      ],
-      "image_url": null,
-      "published": "Mon, 27 Jan 2025 01:05:00 -0500"
-    },
-    {
-      "title": "As EV race heats up, Germany finds itself falling behind pack leaders",
-      "link": "https://www.csmonitor.com/World/Europe/2026/1102/germany-cars-automakers-volkswagen-ev-china-strikes?icid=rss",
-      "source": "Christian Science Monitor World",
-      "all_sources": [
-        "Christian Science Monitor World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Germany’s auto industry has hit a bump in the road, as its cars and manufacturing methods fall behind those of competitors in the U.S.",
-        "and China."
-      ],
-      "image_url": null,
-      "published": "Mon, 02 Nov 2026 16:35:24 EST"
-    },
-    {
-      "title": "Our World: The week of Nov. 2, 2026",
-      "link": "https://www.csmonitor.com/World/2026/1102/seychelles-tortoises-bbc-afghanistan-costa-rica-prison?icid=rss",
-      "source": "Christian Science Monitor World",
-      "all_sources": [
-        "Christian Science Monitor World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Our World is a roundup from our weekly print edition of noteworthy happenings, from our global correspondents and editors."
-      ],
-      "image_url": null,
-      "published": "Mon, 02 Nov 2026 05:00:17 EST"
     }
   ]
 }
