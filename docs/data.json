@@ -1,43 +1,45 @@
 {
-  "date": "2026-11-11",
-  "generated_at": "2026-11-11T15:52:22.619010",
+  "date": "2026-11-12",
+  "generated_at": "2026-11-12T16:35:20.931083",
   "stats": {
     "total": 50,
     "multi_source": 5,
     "trending": 0,
-    "blindspots": 0
+    "blindspots": 1
   },
   "stories": [
     {
-      "title": "Workers in Spain Stage a General Strike for the First Time in 14 Years",
-      "link": "https://www.nytimes.com/2026/11/11/world/europe/spain-general-strike.html",
-      "source": "NYT World",
+      "title": "Russian Ambassador to US Alexander Darchiev dies suddenly at 66",
+      "link": "https://www.foxnews.com/world/russian-ambassador-us-alexander-darchiev-dies-suddenly-66",
+      "source": "Fox News World",
       "all_sources": [
-        "NYT World"
+        "New York Post World",
+        "Fox News World"
       ],
       "bias_breakdown": {
-        "Lean Left": 1
+        "Lean Right": 1,
+        "Right": 1
       },
       "bias_bar": {
-        "left_pct": 100,
+        "left_pct": 0,
         "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
+        "right_pct": 100,
+        "total": 2
       },
-      "is_blindspot": false,
+      "is_blindspot": true,
       "is_trending": false,
       "bullet_points": [
-        "Workers in a wide range of industries walked off the job to protest rising rents and stagnant wages, which have become central issues in the campaign."
+        "Russia&apos;s ambassador to the United States Alexander Darchiev, 66, had been appointed by Putin to lead a rapprochement with the Trump administration."
       ],
-      "image_url": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-spain-strike-hcqm/11int-spain-strike-hcqm-mediumSquareAt3X.jpg",
-      "published": "Wed, 11 Nov 2026 15:34:08 +0000"
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fambassador-russian-federation-united-states-148363996.jpg",
+      "published": "Wed, 11 Nov 2026 14:02:20 -0500"
     },
     {
-      "title": "‘They see me as non-Western’: Top court to rule on Denmark’s housing law",
-      "link": "https://www.aljazeera.com/features/2026/11/11/they-see-me-as-non-western-top-court-to-rule-on-denmarks-housing-law?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "Two skulls likely belonging to enslaved people returned to Brazil after Harvard used them in eugenics studies",
+      "link": "https://www.theguardian.com/news/2026/nov/11/harvard-skulls-repatriated-brazil",
+      "source": "The Guardian World",
       "all_sources": [
-        "Al Jazeera"
+        "The Guardian World"
       ],
       "bias_breakdown": {
         "Lean Left": 1
@@ -51,87 +53,16 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Residents say Denmark’s ‘ghetto law’ is breaking up strong communities, as the Supreme Court prepares to rule."
+        "Remains believed to have belonged to Africans or Afro-Brazilians repatriated after being flown back by diplomats   Two skulls, including that of a man believed to have taken part in Brazil’s greatest slave revolt but whose remains were taken to the United States and used in racist eugenics studies at Harvard University, were repatriated on Wednesday.",
+        "The remains had been outside Brazil since the 19th century.",
+        "One was taken about 190 years ago from Salvador, the capital of the state of Bahia; the other, about 160 years ago, from Rio de Janeiro – and were welcomed back in moving, subdued ceremonies in both cities."
       ],
       "image_url": null,
-      "published": "Wed, 11 Nov 2026 15:15:10 +0000"
+      "published": "Wed, 11 Nov 2026 22:50:37 GMT"
     },
     {
-      "title": "Lots of Competition to Catholicism in Peru as Pope Returns for Visit",
-      "link": "https://www.nytimes.com/2026/11/11/world/americas/pope-leo-peru-evangelicals.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Pope Leo spent nearly two decades in Peru, rising to bishop and becoming a citizen.",
-        "But many Peruvians have turned to evangelical churches, seeking a more expressive and direct connection to God."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/11/11/multimedia/11-int-pope-evangelicals-promo/11-int-pope-evangelicals-bjql-mediumSquareAt3X.jpg",
-      "published": "Wed, 11 Nov 2026 15:10:05 +0000"
-    },
-    {
-      "title": "Qatar Grand Prix was ‘right decision’ despite regional tensions: MotoGP",
-      "link": "https://www.aljazeera.com/sports/2026/11/11/motogp-carlos-ezpeleta-deputy-ceo-qatar-grand-prix-yamaha-iran-war?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "MotoGP chief says &#039;it was normal that the riders showed their concerns&#039; but was surprised at Yamaha&#039;s ⁠⁠⁠⁠withdrawal."
-      ],
-      "image_url": null,
-      "published": "Wed, 11 Nov 2026 14:58:15 +0000"
-    },
-    {
-      "title": "Behind the Trump-Xi Bonhomie, a Fierce Spy War Rages",
-      "link": "https://www.nytimes.com/2026/11/11/world/asia/china-us-nvidia.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "That the United States suspected Nvidia’s leader was a Chinese spy target underscores the deep distrust between the two powers, even as their leaders try to stabilize ties."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-china-spying-diplo-01-gzlf/11int-china-spying-diplo-01-gzlf-mediumSquareAt3X.jpg",
-      "published": "Wed, 11 Nov 2026 14:57:07 +0000"
-    },
-    {
-      "title": "Kidnapper, 74, escapes from house arrest in Argentina by abseiling from balcony",
-      "link": "https://www.bbc.co.uk/news/articles/c933gn6710lyo?at_medium=RSS&at_campaign=rss",
+      "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
       "source": "BBC World",
       "all_sources": [
         "BBC World"
@@ -148,41 +79,41 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Leonardo Bertulazzi, a former member of the Marxist guerrilla group the Red Brigades, was about to be extradited to his home country of Italy."
+        "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living."
       ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a91e/live/b13e3560-ddd6-11f1-b865-d17d8611efca.jpg",
-      "published": "Wed, 11 Nov 2026 14:56:11 GMT"
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8f2/live/d0df2010-de11-11f1-a701-fddedf244c16.jpg",
+      "published": "Wed, 11 Nov 2026 22:07:37 GMT"
     },
     {
-      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
-      "link": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
+      "title": "El Salvador-backed air assault destroys Haiti gang headquarters amid search for missing troops",
+      "link": "https://www.foxnews.com/world/el-salvador-air-assault-destroys-haiti-gang-headquarters-search-missing-troops",
+      "source": "Fox News World",
       "all_sources": [
-        "BBC World"
+        "Fox News World"
       ],
       "bias_breakdown": {
-        "Center": 1
+        "Right": 1
       },
       "bias_bar": {
         "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
         "total": 1
       },
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces."
+        "Helicopters struck Haiti gang compound, dozens fled and President Bukele touted the assault amid a search for four missing Salvadoran personnel."
       ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ba2/live/c17cf610-dd8f-11f1-8c82-87885cae71d3.jpg",
-      "published": "Wed, 11 Nov 2026 14:51:26 GMT"
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/rendered-helicopter-attack-gif-final.gif",
+      "published": "Wed, 11 Nov 2026 20:04:45 -0500"
     },
     {
-      "title": "Italy vs France: UEFA Nations League – preview, team news, predictions",
-      "link": "https://www.aljazeera.com/sports/2026/11/11/italy-vs-france-uefa-nations-league-preview-team-news?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "Ex-member of radical Marxist group scales balcony, escapes house arrest in Argentina",
+      "link": "https://www.theguardian.com/world/2026/nov/11/red-brigades-leonardo-bertulazzi-escapes-house-arrest-argentina",
+      "source": "The Guardian World",
       "all_sources": [
-        "Al Jazeera"
+        "The Guardian World"
       ],
       "bias_breakdown": {
         "Lean Left": 1
@@ -196,17 +127,19 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Kylian Mbappe &#039;under treatment&#039; as Group A1 leaders France travel to Italy for a game at the San Siro, Milan."
+        "Leonardo Bertulazzi, 74, awaiting extradition to Italy, reportedly used harness to flee custody  A 74-year-old former member of  Italy ’s radical Marxist group the Red Brigades has escaped from house arrest in  Argentina , the country’s security ministry confirmed on Wednesday, after he reportedly hid his ankle monitor inside a tube of pork and lowered himself from a fifth-floor balcony.",
+        "Authorities placed Leonardo Bertulazzi under house arrest in Buenos Aires in 2024, prior to his extradition to Italy to serve a 27-year prison sentence.",
+        "He had received the sentence in 1987 for joining a subversive association and belonging to an armed group."
       ],
       "image_url": null,
-      "published": "Wed, 11 Nov 2026 14:43:46 +0000"
+      "published": "Wed, 11 Nov 2026 19:00:33 GMT"
     },
     {
-      "title": "Rubio backs blockade, Vance wants deal: Is Trump’s team split on Iran war?",
-      "link": "https://www.aljazeera.com/news/2026/11/11/is-trump-team-split-on-iran?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "U.S. Efforts to Tighten Blockade of Iran Rely on Reluctant Neighbors",
+      "link": "https://www.nytimes.com/2026/11/11/world/middleeast/us-blockade-iran-taskforce-iron-gate.html",
+      "source": "NYT World",
       "all_sources": [
-        "Al Jazeera"
+        "NYT World"
       ],
       "bias_breakdown": {
         "Lean Left": 1
@@ -220,17 +153,42 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Torn between military action and diplomacy, US appears to settle for drawn-out economic pressure campaign, blockade."
+        "Washington wants to intensify its economic pressure campaign on Iran by closing its land borders.",
+        "Neighboring states, fearing economic fallout, are pushing back."
       ],
-      "image_url": null,
-      "published": "Wed, 11 Nov 2026 14:10:47 +0000"
+      "image_url": "https://static01.nyt.com/images/2026/11/11/multimedia/00int-iran-blockade-01-fvqw/00int-iran-blockade-01-fvqw-mediumSquareAt3X.jpg",
+      "published": "Wed, 11 Nov 2026 18:02:52 +0000"
     },
     {
-      "title": "South Africans divided over Olympic swimmer’s switch to Netherlands",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/south-africans-divided-over-olympic-swimmers-switch-to-netherlands-2?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "Iran escalates in Hormuz, claims strike on Omani island it says 'enemy' uses for US military ops",
+      "link": "https://www.foxnews.com/world/iran-escalates-hormuz-claims-strike-omani-island-enemy-uses-us-military-ops",
+      "source": "Fox News World",
       "all_sources": [
-        "Al Jazeera"
+        "Fox News World"
+      ],
+      "bias_breakdown": {
+        "Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Iran claims its Revolutionary Guard struck navigation equipment on Oman&apos;s Didamar Island in the Strait of Hormuz, but Omani officials dispute damage."
+      ],
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/iran-boat.gif",
+      "published": "Wed, 11 Nov 2026 17:48:03 -0500"
+    },
+    {
+      "title": "Seeking to Broaden Ukraine Talks, U.S. Urges Russia to Include Europe",
+      "link": "https://www.nytimes.com/2026/11/11/world/europe/russia-ukraine-talks-abu-dhabi.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
       ],
       "bias_breakdown": {
         "Lean Left": 1
@@ -244,17 +202,41 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "South Africa’s most decorated Olympian is switching nations to swim for the Netherlands."
+        "As a round of negotiations ended in Abu Dhabi, President Trump’s envoys said they would go to Moscow as the Kremlin demands discussions on European security structures."
       ],
-      "image_url": null,
-      "published": "Wed, 11 Nov 2026 14:09:42 +0000"
+      "image_url": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-russia-ukraine-talks-wctl/11int-russia-ukraine-talks-wctl-mediumSquareAt3X.jpg",
+      "published": "Wed, 11 Nov 2026 17:40:41 +0000"
     },
     {
-      "title": "‘Our neighbours are gone’: Gaza survivors recount horrors of deadly floods",
-      "link": "https://www.aljazeera.com/features/2026/11/11/as-gaza-flood-waters-subside-palestinians-assess-human-and-material-damage?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "Fiery chaos erupts across Spain as protesters clash with police during massive nationwide strike",
+      "link": "https://www.foxnews.com/world/fiery-chaos-erupts-spain-protesters-clash-police-massive-nationwide-strike",
+      "source": "Fox News World",
       "all_sources": [
-        "Al Jazeera"
+        "Fox News World"
+      ],
+      "bias_breakdown": {
+        "Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Spain&apos;s first general strike in 14 years turned violent in Barcelona as protesters set fires and launched fireworks at riot police on Paseo de Gracia."
+      ],
+      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/spain-riots-police-protest.gif",
+      "published": "Wed, 11 Nov 2026 16:46:50 -0500"
+    },
+    {
+      "title": "Argentinian lawyer mocks UK’s sovereignty claim in Falklands oil case",
+      "link": "https://www.theguardian.com/uk-news/2026/nov/11/argentine-lawyer-mocks-uk-sovereignty-claim-in-falklands-oil-case",
+      "source": "The Guardian World",
+      "all_sources": [
+        "The Guardian World"
       ],
       "bias_breakdown": {
         "Lean Left": 1
@@ -268,10 +250,84 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "A deadly sandbank collapse buried families alive in Deir el-Balah, as survivors describe desperate rescue attempts."
+        "Lawyer says Britain wrong to believe in historic doctrine that crown has sovereignty over parts of oceans  Britain should not be permitted to act as a 17th-century colonial power treating the waters around the Falkland Islands as a  Dominium maris Britannici , Argentina has told an international tribunal.",
+        "Marcelo Kohen, representing Argentina at a hearing in Hamburg, mocked Britain for apparently believing in the historic doctrine that the British crown has sovereignty over expansive parts of the oceans.",
+        "Continue reading..."
       ],
       "image_url": null,
-      "published": "Wed, 11 Nov 2026 14:04:17 +0000"
+      "published": "Wed, 11 Nov 2026 16:05:45 GMT"
+    },
+    {
+      "title": "DNA links 4 grizzly bears to deadly attack on mother and daughter in Canada, officials say",
+      "link": "https://www.foxnews.com/world/dna-links-4-grizzly-bears-deadly-attack-mother-daughter-canada-officials-say",
+      "source": "Fox News World",
+      "all_sources": [
+        "Fox News World"
+      ],
+      "bias_breakdown": {
+        "Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "DNA evidence linked four grizzly bears to the deaths of Jennifer Balcarras and Selah Reed near Bella Coola, British Columbia, officials said."
+      ],
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/balcarras.png?ve=1&tl=1",
+      "published": "Wed, 11 Nov 2026 15:59:30 -0500"
+    },
+    {
+      "title": "France is criminalizing critics of Islam — instead of the rioters destroying their cities",
+      "link": "https://nypost.com/2026/11/11/opinion/french-author-michel-houellebecq-charged-with-hate-crime-for-criticizing-islam/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "In France, it seems it’s a greater crime to criticize immigration — or, god forbid, Islam — than to destroy cities and terrorize civilians."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Ffrench-author-poet-filmmaker-actor-148350677.jpg?w%3D1024",
+      "published": "Wed, 11 Nov 2026 14:49:53 -0500"
+    },
+    {
+      "title": "Trump, Netanyahu get into ‘shouting match from hell’ over Iran war, Israeli media reports",
+      "link": "https://nypost.com/2026/11/11/world-news/trump-netanyahu-get-into-shouting-match-from-hell-over-iran-war-report/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "President Trump and Israeli Prime Minister Benjamin Netanyahu got into a heated shouting match over the weekend over their different stances on the future of the Iran war, according to Israeli media."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fpresident-donald-trump-left-greets-145590026.jpg?w%3D1024",
+      "published": "Wed, 11 Nov 2026 14:20:10 -0500"
     },
     {
       "title": "Killing of journalist underscores deteriorating conditions in Ecuador",
@@ -300,11 +356,35 @@
       "published": "Wed, 11 Nov 2026 14:00:52 GMT"
     },
     {
-      "title": "Why is Pochettino the favourite to replace Carrick at Manchester United?",
-      "link": "https://www.aljazeera.com/sports/2026/11/11/why-is-pochettino-the-favourite-to-replace-carrick-at-manchester-united?traffic_source=rss",
-      "source": "Al Jazeera",
+      "title": "Israel's political shake-up enters new phase as former PM plays kingmaker — and deadline looms",
+      "link": "https://www.foxnews.com/world/israels-political-shake-up-enters-new-phase-former-pm-plays-kingmaker-deadline-looms",
+      "source": "Fox News World",
       "all_sources": [
-        "Al Jazeera"
+        "Fox News World"
+      ],
+      "bias_breakdown": {
+        "Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Benjamin Netanyahu called for unity, but Gadi Eisenkot canceled Likud talks after calling the outgoing prime minister&apos;s speech &quot;delusional.&quot;"
+      ],
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Israeli-Knesset-2026.jpg?ve=1&tl=1",
+      "published": "Wed, 11 Nov 2026 12:36:36 -0500"
+    },
+    {
+      "title": "Greetings from Senegal, where breakdancers are competing in the Youth Olympics",
+      "link": "https://www.npr.org/2026/11/11/g-s1-150228/senegal-youth-olympic-games-breakdancing",
+      "source": "NPR World",
+      "all_sources": [
+        "NPR World"
       ],
       "bias_breakdown": {
         "Lean Left": 1
@@ -318,179 +398,11 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "What would Mauricio Pochettino bring to the job if he replaces Michael Carrick in the Old Trafford hot seat?"
+        "Senegal's breakdancers have been practicing for their country's historic hosting of the Youth Olympic Games this month.",
+        "It's the first time Africa is hosting an Olympic event."
       ],
       "image_url": null,
-      "published": "Wed, 11 Nov 2026 13:56:53 +0000"
-    },
-    {
-      "title": "Trump ‘Foot Soldier’ statue mocks his Vietnam draft deferment",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/11/trump-foot-soldier-statue-mocks-his-vietnam-draft-deferment?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "An anonymous art collective called Secret Handshake has installed a golden statue of US President Donald Trump."
-      ],
-      "image_url": null,
-      "published": "Wed, 11 Nov 2026 13:20:49 +0000"
-    },
-    {
-      "title": "Kenya discharges last Ebola patient in major milestone towards virus-free status",
-      "link": "https://www.bbc.co.uk/news/articles/cwe9kzv0g0v7o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "all_sources": [
-        "BBC World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The country begins a 42-day countdown to being declared Ebola-free, provided no new cases are recorded."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1675/live/f68a02b0-ddcd-11f1-b441-2b33b063138f.jpg",
-      "published": "Wed, 11 Nov 2026 12:53:11 GMT"
-    },
-    {
-      "title": "Six thousand Italian schools hit by threats in suspected bomb hoax",
-      "link": "https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "all_sources": [
-        "BBC World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Emails containing the false warnings were sent to schools in Rome, Naples, Vicenza, Florence, Pisa, Trieste and other Italian cities, officials say."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/80c9/live/fc093bd0-ddc7-11f1-9053-236ccb99630c.jpg",
-      "published": "Wed, 11 Nov 2026 12:30:29 GMT"
-    },
-    {
-      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth",
-      "link": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "all_sources": [
-        "BBC World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5391/live/eb55ba30-dd67-11f1-a701-fddedf244c16.jpg",
-      "published": "Wed, 11 Nov 2026 11:47:22 GMT"
-    },
-    {
-      "title": "A Museum’s ‘Wanted’ Poster Campaign Brings Looted Painting Back to France",
-      "link": "https://www.nytimes.com/2026/11/11/world/europe/france-art-wanted-poster.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The Orléans Fine Arts Museum is on a quest to recover hundreds of works stolen during World War II — and the director wants your help."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-france-lost-art-1-tmqf/11int-france-lost-art-1-tmqf-mediumSquareAt3X.jpg",
-      "published": "Wed, 11 Nov 2026 10:03:50 +0000"
-    },
-    {
-      "title": "They’re in Ukraine. Why Do Their Phones Say They’re in Peru?",
-      "link": "https://www.nytimes.com/2026/11/11/world/europe/ukraine-lima-electronic-warefare-gps.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "GPS-linked devices have been insisting that Ukrainians are in Lima, the Peruvian capital.",
-        "The culprit is a jamming system built to thwart Russian airstrikes."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/11/09/multimedia/00int-ukraine-lima-zlbc/00int-ukraine-lima-zlbc-mediumSquareAt3X.jpg",
-      "published": "Wed, 11 Nov 2026 10:00:40 +0000"
-    },
-    {
-      "title": "Lebanon Faces Economic ‘Catastrophe’ After War and Years of Mismanagement",
-      "link": "https://www.nytimes.com/2026/11/11/world/middleeast/lebanon-economy-crisis-corruption-war.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Hezbollah’s conflict with Israel and the U.S.-Israel war with Iran have made systemic problems worse, causing the cost of living to soar and driving many Lebanese to despair."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/11/11/multimedia/11int-lebanon-economy-01-vlbp/11int-lebanon-economy-01-vlbp-mediumSquareAt3X.jpg",
-      "published": "Wed, 11 Nov 2026 09:31:18 +0000"
+      "published": "Wed, 11 Nov 2026 12:23:10 -0500"
     },
     {
       "title": "Inside Holocaust memorial in heart of Arab world as founder reveals what changed everything",
@@ -517,106 +429,6 @@
       "published": "Wed, 11 Nov 2026 09:24:26 -0500"
     },
     {
-      "title": "Russia and Ukraine agree to a large exchange of prisoners of war, officials say",
-      "link": "https://www.npr.org/2026/11/11/g-s1-152954/russia-ukraine-war-talks",
-      "source": "NPR World",
-      "all_sources": [
-        "NPR World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Russia and Ukraine have agreed to a large exchange of prisoners of war.",
-        "U.S.-mediated talks in Abu Dhabi led to this decision, marking the biggest humanitarian release since the war began in 2022."
-      ],
-      "image_url": null,
-      "published": "Wed, 11 Nov 2026 08:30:00 -0500"
-    },
-    {
-      "title": "House effectively ends Hegseth impeachment. And, 3 men accused of plotting U.K. attacks",
-      "link": "https://www.npr.org/2026/11/11/g-s1-152949/up-first-newsletter-pete-hegseth-jim-jordan-iran-backed-trio-us-bases",
-      "source": "NPR World",
-      "all_sources": [
-        "NPR World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Defense Secretary Pete Hegseth has been spared from the House's impeachment effort, at least for now.",
-        "And, federal prosecutors arrested three men accused of being Iran-backed operatives."
-      ],
-      "image_url": null,
-      "published": "Wed, 11 Nov 2026 07:21:59 -0500"
-    },
-    {
-      "title": "Iran-backed trio accused of plotting attacks on U.K. base hosting U.S. jets",
-      "link": "https://www.npr.org/2026/11/10/nx-s1-6036786/uk-iran-airbase-russia-spy",
-      "source": "NPR World",
-      "all_sources": [
-        "NPR World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Iran-backed operatives have been charged over nearly 20 attacks, including a plot on a U.K.",
-        "base housing U.S.",
-        "troops."
-      ],
-      "image_url": null,
-      "published": "Wed, 11 Nov 2026 05:02:54 -0500"
-    },
-    {
-      "title": "On Dakar’s Packed Beaches, Africa Welcomes Its First Youth Olympics",
-      "link": "https://www.nytimes.com/2026/11/11/world/africa/youth-olympics-senegal-dakar.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The 2026 Youth Olympic Games are taking place in Senegal, where the beaches and streets are teeming with sports fans and fitness fanatics."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/11/06/multimedia/00int-senegal-sports-promo/00int-senegal-sports-6-wpvh-mediumSquareAt3X.jpg",
-      "published": "Wed, 11 Nov 2026 05:00:21 +0000"
-    },
-    {
       "title": "Rebuild, or relocate? Displaced Nepali families remain in limbo weeks after flood.",
       "link": "https://www.csmonitor.com/World/Asia-South-Central/2026/1111/nepal-flood-rebuilding-homes?icid=rss",
       "source": "Christian Science Monitor World",
@@ -640,257 +452,6 @@
       ],
       "image_url": null,
       "published": "Wed, 11 Nov 2026 05:00:10 EST"
-    },
-    {
-      "title": "Spain's first general strike in 14 years demands solutions to housing crisis",
-      "link": "https://www.npr.org/2026/11/11/nx-s1-6037314/spain-general-strike",
-      "source": "NPR World",
-      "all_sources": [
-        "BBC World",
-        "NPR World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1,
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 50,
-        "center_pct": 50,
-        "right_pct": 0,
-        "total": 2
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Less than three weeks before a national election that could catapult the far right to power, Spain's workers are striking on Wednesday to demand that the government remedy the nation's housing crisis."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49d4/live/b795f200-ddc1-11f1-a50f-85eebf9e50e5.jpg",
-      "published": "Wed, 11 Nov 2026 04:54:54 -0500"
-    },
-    {
-      "title": "Ebola tops 11,000 cases in Congo's deadliest outbreak",
-      "link": "https://www.npr.org/2026/11/11/nx-s1-6037304/ebola-congo-outbreak",
-      "source": "NPR World",
-      "all_sources": [
-        "NPR World",
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1,
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 50,
-        "center_pct": 0,
-        "right_pct": 50,
-        "total": 2
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Congo's Ebola outbreak has topped 11,000 cases, the government said Wednesday, a stark figure that underscores the severity of the situation as the country grapples with the relentless spread of the disease."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fhealthcare-worker-carries-infant-infected-148134775.jpg?w%3D1024",
-      "published": "Wed, 11 Nov 2026 04:16:01 -0500"
-    },
-    {
-      "title": "Meghan's father Thomas Markle back in federal custody after allegedly removing ankle monitor",
-      "link": "https://www.bbc.co.uk/news/articles/c9j3433zy4vro?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "all_sources": [
-        "BBC World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The 82-year-old was placed under house detention in Florida last week after being charged over possession of child sex abuse material."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b0e/live/040fc640-dd79-11f1-93e1-3b657b665bcf.jpg",
-      "published": "Wed, 11 Nov 2026 02:41:16 GMT"
-    },
-    {
-      "title": "Hungarian authorities detain ex-PM Viktor Orbán’s brother for suspected human trafficking",
-      "link": "https://nypost.com/2026/11/11/world-news/hungarian-authorities-detain-viktor-orbans-younger-brother-for-suspected-human-trafficking/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Hungarian police detained Áron Orbán, brother of former PM Viktor Orbán, for alleged human trafficking involving 100+ Vietnamese nationals."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fviktor-orban-former-prime-minister-148317447.jpg?w%3D1024",
-      "published": "Wed, 11 Nov 2026 02:03:43 -0800"
-    },
-    {
-      "title": "4 grizzly bears linked by DNA to deadly attack on mother and daughter in Canada",
-      "link": "https://nypost.com/2026/11/11/world-news/4-grizzly-bears-linked-by-dna-to-deadly-attack-on-mother-and-daughter-in-canada/",
-      "source": "New York Post World",
-      "all_sources": [
-        "BBC World",
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Center": 1,
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 50,
-        "right_pct": 50,
-        "total": 2
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "DNA linked a female grizzly and three cubs to the fatal attack on Jenny Balcarras and her daughter in BC All four bears have been killed."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ce6/live/65c341e0-ddcf-11f1-a701-fddedf244c16.jpg",
-      "published": "Wed, 11 Nov 2026 01:12:20 -0800"
-    },
-    {
-      "title": "Vinícius Jr sends message to Sudan boy who received prosthetic legs after BBC report sparks appeal",
-      "link": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "all_sources": [
-        "BBC World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Double amputee Zaher told the BBC last year about his favourite footballer and a dream of being able to walk again."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3eec/live/34923590-d870-11f1-a701-fddedf244c16.jpg",
-      "published": "Wed, 11 Nov 2026 00:19:42 GMT"
-    },
-    {
-      "title": "South Korea bus wrecked after crashing into 32 vehicles, dozens injured",
-      "link": "https://nypost.com/2026/11/11/world-news/south-korea-bus-left-a-mangled-wreck-after-crashing-into-32-vehicles-dozens-injured/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "At least 57 people were being treated for injuries, including nine who were seriously hurt."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fwreckage-damaged-bus-scene-crashed-148290980.jpg?w%3D1024",
-      "published": "Tue, 10 Nov 2026 23:22:18 -0800"
-    },
-    {
-      "title": "US Soldier Is Arrested in UK on Suspicion of Spying for Russia",
-      "link": "https://www.nytimes.com/2026/11/10/world/europe/uk-us-army-arrest-espionage-russia.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World",
-        "Fox News World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1,
-        "Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 50,
-        "center_pct": 0,
-        "right_pct": 50,
-        "total": 2
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The 41-year-old man, who was not named, was in custody pending possible charges after a joint investigation with the F.B.I.",
-        "and U.S.",
-        "military intelligence."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/11/10/multimedia/10int-uk-soldier-1-qlpj/10int-uk-soldier-1-qlpj-mediumSquareAt3X.jpg",
-      "published": "Tue, 10 Nov 2026 22:24:05 +0000"
-    },
-    {
-      "title": "Treasury Secretary Scott Bessent moved onto military base from $12.5M mansion due to Iranian threats: report",
-      "link": "https://nypost.com/2026/11/11/world-news/us-treasury-chief-scott-bessent-moved-to-military-base-after-iranian-threats/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "US Treasury Secretary Scott Bessent relocated to a military base after Iranian threats against his life, according to the New York Times."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fus-treasury-secretary-scott-bessent-148281203.jpg?w%3D1024",
-      "published": "Tue, 10 Nov 2026 21:03:30 -0800"
-    },
-    {
-      "title": "Novaya Gazeta, Russia’s Bravest Newspaper, Closes",
-      "link": "https://www.nytimes.com/2026/11/10/world/europe/russia-novaya-gazeta-closure.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "For more than 30 years, the paper covered an increasingly repressive Russia.",
-        "“The process of silencing us started many years ago,” one of its journalists said."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/11/10/world/europe/10vid-russia-newspaper-cover-image/10vid-russia-newspaper-cover-image-mediumSquareAt3X.jpg",
-      "published": "Tue, 10 Nov 2026 20:53:41 +0000"
     },
     {
       "title": "Falkland Islanders face ‘devastating consequences’ if Argentina blocks oil project, says UK",
@@ -943,78 +504,6 @@
       "published": "Tue, 10 Nov 2026 16:59:56 -0500"
     },
     {
-      "title": "Mojtaba Khamenei aide's chilling '40 years' warning surfaces amid US push for Iran deal",
-      "link": "https://www.foxnews.com/world/mojtaba-khamenei-aide-chilling-40-years-warning-surfaces-us-push-iran-deal",
-      "source": "Fox News World",
-      "all_sources": [
-        "Fox News World"
-      ],
-      "bias_breakdown": {
-        "Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Mohsen Rezaei once warned that ceasefire talks could last decades, as JD Vance reportedly reached out to him about resuming U.S.-Iran peace talks."
-      ],
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/08/931/523/Mohsen-Rezaei.jpg?ve=1&tl=1",
-      "published": "Tue, 10 Nov 2026 16:33:04 -0500"
-    },
-    {
-      "title": "U.S. Received $12 Billion From Venezuela’s Oil, Report Shows",
-      "link": "https://www.nytimes.com/2026/11/10/world/americas/us-venezuela-oil-trump.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The workings of a U.S.-controlled bank account shed light on how Washington manages Venezuelan revenue after capturing the country’s president."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/11/10/multimedia/10venezuela-us-funds-tfkp/10venezuela-us-funds-tfkp-mediumSquareAt3X.jpg",
-      "published": "Tue, 10 Nov 2026 16:23:18 +0000"
-    },
-    {
-      "title": "More than 400,000 Russians killed in Ukraine war, leaked records reveal",
-      "link": "https://nypost.com/2026/11/10/world-news/more-than-400000-russians-killed-in-ukraine-war-leaked-records-reveal/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Russia's Ukraine war death toll is nine times greater than all Soviet and Russian fatalities in all wars combined since World War II."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fpeople-attend-funeral-vladimir-pozdnyakov-148256566.jpg?w%3D1024",
-      "published": "Tue, 10 Nov 2026 15:43:50 -0800"
-    },
-    {
       "title": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities",
       "link": "https://www.theguardian.com/world/2026/nov/10/lewis-hamilton-egypt-rafah-crossing-gaza-aid-facilities",
       "source": "The Guardian World",
@@ -1039,54 +528,6 @@
       ],
       "image_url": null,
       "published": "Tue, 10 Nov 2026 15:39:26 GMT"
-    },
-    {
-      "title": "Girl, 5, shoots and kills little sister, 3, after dad left loaded gun on kitchen counter",
-      "link": "https://nypost.com/2026/11/10/world-news/girl-5-shoots-and-kills-little-sister-3-after-dad-left-loaded-gun-on-kitchen-counter/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "“At this very delicate and tragic moment, the family has no interest whatsoever in making a statement,” the dad’s attorney told reporters."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F148234141.jpg?w%3D1024",
-      "published": "Tue, 10 Nov 2026 15:33:29 -0800"
-    },
-    {
-      "title": "Iran strikes Oman island the US uses to help ships sail through Hormuz",
-      "link": "https://nypost.com/2026/11/10/world-news/iran-strikes-omani-island-accused-of-helping-ships-sail-through-hormuz/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Iran attacked an Omani island base on Tuesday that it claimed was helping the US conduct its military escorts for tankers along the Strait of Hormuz, state media reported."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Firan-reportedly-hit-tiny-omani-148245002.jpg?w%3D779",
-      "published": "Tue, 10 Nov 2026 15:19:49 -0800"
     },
     {
       "title": "Iran war: US moves military aircraft from a second British air base",
@@ -1117,8 +558,545 @@
       "published": "Tue, 10 Nov 2026 15:14:28 EST"
     },
     {
-      "title": "TV anchor found dead with gunshot wound to head, officials arrest husband",
-      "link": "https://www.foxnews.com/world/tv-anchor-found-dead-gunshot-wound-head-officials-arrest-husband",
+      "title": "Expectations low as US gives Ukraine peace talks another try",
+      "link": "https://www.csmonitor.com/USA/Foreign-Policy/2026/1110/ukraine-peace-talks-us-russia-abu-dhabi-uae-donetsk?icid=rss",
+      "source": "Christian Science Monitor World",
+      "all_sources": [
+        "Christian Science Monitor World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Although a new round of U.S.-led talks are getting underway to end the war in Ukraine, observers say that prospects for resolution remain unlikely."
+      ],
+      "image_url": null,
+      "published": "Tue, 10 Nov 2026 05:00:23 EST"
+    },
+    {
+      "title": "Four people shot in Washington DC",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/four-people-shot-in-washington-dc?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "A major police operation is underway in Washington DC where four people have reportedly been shot"
+      ],
+      "image_url": null,
+      "published": "Thu, 12 Nov 2026 15:42:07 +0000"
+    },
+    {
+      "title": "Manchester United sacked manager Michael Carrick",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/12/manchester-united-sacked-manager-michael-carrick?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Michael Carrick has become the third recent Manchester United manager to be sacked midway through the season."
+      ],
+      "image_url": null,
+      "published": "Thu, 12 Nov 2026 15:21:43 +0000"
+    },
+    {
+      "title": "Millions of Ebola dollars missing with staff unpaid while virus spreads, charity says",
+      "link": "https://www.bbc.co.uk/news/articles/cx98757ymm6zo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Medical staff are going unpaid, lack proper training and are struggling with shortages of essential supplies, MSF warns"
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4358/live/fa767be0-de8d-11f1-9afe-1f03bfe02283.jpg",
+      "published": "Thu, 12 Nov 2026 15:18:20 GMT"
+    },
+    {
+      "title": "Spain approves housing reforms after nationwide strike over costs",
+      "link": "https://www.aljazeera.com/news/2026/11/12/spain-approves-housing-reforms-after-nationwide-strike-over-costs?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Spanish parliament passes new laws limiting evictions but their duration depends on the upcoming snap election outcome."
+      ],
+      "image_url": null,
+      "published": "Thu, 12 Nov 2026 15:02:30 +0000"
+    },
+    {
+      "title": "Trump heads to China amid Nvidia scandal: Will he get tougher on Beijing?",
+      "link": "https://www.aljazeera.com/news/2026/11/12/trump-heads-to-china-amid-nvidia-scandal-will-he-get-tougher-on-beijing?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Outgoing Nvidia chief credited with easing US-China chip ties but personal scandal unlikely to upend next week&#039;s talks."
+      ],
+      "image_url": null,
+      "published": "Thu, 12 Nov 2026 14:48:10 +0000"
+    },
+    {
+      "title": "LIVE: Jensen Huang resigns as Nvidia CEO as affairs raise security concerns",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/11/12/live-jensen-huang-resigns-as-nvidia-ceo-as-affairs-raise-security-concerns?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Jensen Huang, 63, has resigned as chief executive of AI giant Nvidia, according to the company."
+      ],
+      "image_url": null,
+      "published": "Thu, 12 Nov 2026 14:44:54 +0000"
+    },
+    {
+      "title": "Israel’s Arrest of Journalist Abed Abu Shehadeh Raises Concerns",
+      "link": "https://www.nytimes.com/2026/11/12/world/middleeast/israel-shin-bet-shehadeh-netanyahu.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Abed Abu Shehadeh, a Palestinian citizen of Israel, was detained without being charged with a crime, raising concerns that the domestic security service is overstepping its authority."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/11/12/world/12int-israel-arab-journalist-afnai/12int-israel-arab-journalist-afnai-mediumSquareAt3X.jpg",
+      "published": "Thu, 12 Nov 2026 14:43:08 +0000"
+    },
+    {
+      "title": "In China’s Spy Operations, Romance Can Be a Long Game",
+      "link": "https://www.nytimes.com/2026/11/12/world/asia/china-spy-espionage-romance.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Jensen Huang’s affair with a woman U.S.",
+        "officials say is a Chinese spy has drawn attention to the role of intimate relationships in espionage."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/11/12/multimedia/12int-china-espionage-01-qvpc/12int-china-espionage-01-qvpc-mediumSquareAt3X.jpg",
+      "published": "Thu, 12 Nov 2026 14:39:47 +0000"
+    },
+    {
+      "title": "Migrant caravan sets out from southern Mexico bound for US after midterms",
+      "link": "https://www.aljazeera.com/news/2026/11/12/migrant-caravan-sets-out-from-southern-mexico-bound-for-us-after-midterms?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Many migrants stranded in southern Mexico say the Democrats&#039; win in Congress has given them new hope of entering the US."
+      ],
+      "image_url": null,
+      "published": "Thu, 12 Nov 2026 14:38:42 +0000"
+    },
+    {
+      "title": "‘No war, no peace’: Can Iran break the deadlock with the US?",
+      "link": "https://www.aljazeera.com/news/2026/11/12/no-war-no-peace-can-iran-break-the-deadlock-with-the-us?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Sustainable stalemate or slow-motion strangulation?",
+        "The current &#039;equilibrium&#039; is inherently unstable, experts say."
+      ],
+      "image_url": null,
+      "published": "Thu, 12 Nov 2026 14:27:54 +0000"
+    },
+    {
+      "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+      "link": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World",
+        "NPR World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1,
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 50,
+        "center_pct": 50,
+        "right_pct": 0,
+        "total": 2
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d247/live/940d6f30-de7e-11f1-b88b-3f1671ea859d.jpg",
+      "published": "Thu, 12 Nov 2026 14:27:30 GMT"
+    },
+    {
+      "title": "‘Horrific crime’: Gaza doctor killed as Israel expands war on healthcare",
+      "link": "https://www.aljazeera.com/news/2026/11/12/horrific-crime-gaza-doctor-killed-as-israel-expands-war-on-healthcare?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Israel&#039;s military campaign and mass detentions collapse Palestinian healthcare in Gaza and the West Bank."
+      ],
+      "image_url": null,
+      "published": "Thu, 12 Nov 2026 14:23:01 +0000"
+    },
+    {
+      "title": "Zimbabwean author Simbarashe Kundizeza cleared of using AI to write prize-winning story",
+      "link": "https://www.theguardian.com/books/2026/nov/12/zimbabwean-author-simbarashe-kundizeza-cleared-ai-caine-prize-winning-story",
+      "source": "The Guardian World",
+      "all_sources": [
+        "The Guardian World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "After a month-long investigation it was concluded that Kundizeza’s story The Blue Fighter, which won the £10,000 Caine prize, was ‘human-written’  The Zimbabwean author Simbarashe Kundizeza has been cleared of using AI to write a prize-winning short story, after the prestigious Caine prize for African writers concluded that his entry was “human-written” after a month-long investigation.",
+        "Kundizeza’s story  The Blue Fighter , which charts the declining fortunes of a family after the father invests in fish tanks, was announced as the winner of the £10,000 prize on 6 October.",
+        "Continue reading..."
+      ],
+      "image_url": null,
+      "published": "Thu, 12 Nov 2026 13:14:38 GMT"
+    },
+    {
+      "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
+      "link": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/333a/live/e63a2ff0-dea1-11f1-93e1-3b657b665bcf.png",
+      "published": "Thu, 12 Nov 2026 13:02:46 GMT"
+    },
+    {
+      "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
+      "link": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "In a state Trump won two years ago by 22 points, Colom's victory extends a string of Democratic wins in the Senate."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/884a/live/97210150-de3d-11f1-a9ed-658311f31da9.jpg",
+      "published": "Thu, 12 Nov 2026 12:56:55 GMT"
+    },
+    {
+      "title": "Suspected bomb hoax threats force fresh evacuations of Italian schools",
+      "link": "https://www.bbc.co.uk/news/articles/cr894w453e90o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Schools across Italy have received bomb threats for the second day in a row, sparking fresh panic and evacuations."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f53d/live/8b18a0e0-de90-11f1-b441-2b33b063138f.jpg",
+      "published": "Thu, 12 Nov 2026 12:39:39 GMT"
+    },
+    {
+      "title": "Tourists Brave a Muddy Jungle Trek to See a Famed World War II Wreck",
+      "link": "https://www.nytimes.com/2026/11/12/world/asia/yamamoto-pearl-harbor-plane-bougainville-tourism.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Seven Chinese tourists, a dozen villagers and a couple of journalists forded streams and bushwhacked to the downed plane of Isoroku Yamamoto, the Japanese admiral.",
+        "Machetes proved handy."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/10/19/multimedia/00int-yamamoto-plane-still-promo-hgkc/00int-yamamoto-plane-still-promo-hgkc-mediumSquareAt3X.jpg",
+      "published": "Thu, 12 Nov 2026 11:55:23 +0000"
+    },
+    {
+      "title": "Jared Kushner, Steve Witkoff arrive at Kremlin for Putin talks",
+      "link": "https://nypost.com/2026/11/12/world-news/kushner-and-witkoff-go-to-kremlin-for-talks-with-putin-on-ukraine/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The negotiations are the 10th time Witkoff has met Putin in person during a conflict that has lasted longer than the Soviet Union's fight against Nazi Germany in World War II."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Frussian-president-vladimir-putin-left-148465982.jpg?w%3D1024",
+      "published": "Thu, 12 Nov 2026 11:19:35 -0500"
+    },
+    {
+      "title": "U.S. envoys meet with Putin in the Kremlin after Ukraine talks in Abu Dhabi",
+      "link": "https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks",
+      "source": "NPR World",
+      "all_sources": [
+        "BBC World",
+        "NPR World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1,
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 50,
+        "center_pct": 50,
+        "right_pct": 0,
+        "total": 2
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Jared Kushner and Steve Witkoff went to the Kremlin to brief Russian President Vladimir Putin and are scheduled to fly later to Ireland for talks with Ukrainian President Volodymyr Zelenskyy."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0196/live/ef110310-de9c-11f1-a701-fddedf244c16.jpg",
+      "published": "Thu, 12 Nov 2026 10:26:34 -0500"
+    },
+    {
+      "title": "Russian officials heading to Afghanistan for trade, investment talks with Taliban",
+      "link": "https://nypost.com/2026/11/12/world-news/russian-delegation-visits-afghanistan-to-discuss-trade-investment-with-the-taliban/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "A Russian delegation headed by Deputy Prime Minister Alexei Overchuk arrived in Kabul Thursday for trade and investment talks with the Taliban government."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Frussia-s-deputy-prime-minister-148473119.jpg?w%3D1024",
+      "published": "Thu, 12 Nov 2026 10:16:33 -0500"
+    },
+    {
+      "title": "British woman missing from cruise ship in Atlantic",
+      "link": "https://www.bbc.co.uk/news/articles/cmy0enrkwkklo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The 72-year-old was last seen aboard the Tui ship on Monday as it headed towards the Caribbean."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f65c/live/6b94c200-de7f-11f1-b88b-3f1671ea859d.jpg",
+      "published": "Thu, 12 Nov 2026 10:13:35 GMT"
+    },
+    {
+      "title": "Iran's shadow operations stretch across Europe as chilling spy convictions expose Tehran's reach",
+      "link": "https://www.foxnews.com/world/irans-shadow-operations-stretch-across-europe-chilling-spy-convictions-expose-tehrans-reach",
       "source": "Fox News World",
       "all_sources": [
         "Fox News World"
@@ -1135,14 +1113,38 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "The broadcaster’s husband claimed he was playing with a firearm when it discharged inside their home, according to a provincial official"
+        "Two Iranian men convicted of spying in Britain as France accuses the IRGC of cyberattacks and UAE officials warn of Iranian sleeper cells abroad."
       ],
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/pakistani-anchor-1.jpg?ve=1&tl=1",
-      "published": "Tue, 10 Nov 2026 14:59:04 -0500"
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/iran-military-rally-001.jpg?ve=1&tl=1",
+      "published": "Thu, 12 Nov 2026 10:10:49 -0500"
     },
     {
-      "title": "U.S. boycotts U.N. human rights review for second year running",
-      "link": "https://www.npr.org/2026/11/10/nx-s1-6034998/un-human-rights-us-geneva",
+      "title": "A.I. Weapons Need Data for Their Training. Ukraine Has a Lot to Offer.",
+      "link": "https://www.nytimes.com/2026/11/12/world/europe/ukraine-ai-weapons.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The Ukrainian government has opened up a trove of five million battlefield videos to defense companies at home and abroad."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/11/12/multimedia/12int-ukraine-avenger-labs-gftk/12int-ukraine-avenger-labs-gftk-mediumSquareAt3X.jpg",
+      "published": "Thu, 12 Nov 2026 10:00:57 +0000"
+    },
+    {
+      "title": "Indonesia's VP resigns as his eligibility and academic credentials are questioned",
+      "link": "https://www.npr.org/2026/11/12/g-s1-153190/indonesias-vp-resigns-as-his-eligibility-and-academic-credentials-are-questioned",
       "source": "NPR World",
       "all_sources": [
         "NPR World"
@@ -1159,22 +1161,21 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "has skipped a key U.N.",
-        "human rights review for the second year running.",
-        "Rights groups warn the absence risks undermining global accountability."
+        "Raka is the son of former President Joko Widodo.",
+        "The Constitutional Court and the Supreme Court ruled last month that the documents that Raka submitted regarding his overseas education didn't meet election requirements."
       ],
       "image_url": null,
-      "published": "Tue, 10 Nov 2026 13:53:34 -0500"
+      "published": "Thu, 12 Nov 2026 09:22:50 -0500"
     },
     {
-      "title": "Riot-torn France struggles with chaos at home as Macron eyes military mission thousands of miles away",
-      "link": "https://www.foxnews.com/world/riot-torn-france-struggles-chaos-home-macron-eyes-military-mission-thousands-miles-away",
-      "source": "Fox News World",
+      "title": "Trump threatens to double Mexico tariffs if migrant caravan reaches US",
+      "link": "https://nypost.com/2026/11/12/us-news/trump-threatens-to-double-mexico-tariffs-if-migrant-caravan-reaches-us/",
+      "source": "New York Post World",
       "all_sources": [
-        "Fox News World"
+        "New York Post World"
       ],
       "bias_breakdown": {
-        "Right": 1
+        "Lean Right": 1
       },
       "bias_bar": {
         "left_pct": 0,
@@ -1185,58 +1186,60 @@
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "French President Emmanuel Macron&apos;s Lebanon military force plan hits resistance from Italy as Marco Rubio floats a civilian alternative to UNIFIL."
+        "President Trump vowed Thursday that he would double all current US tariffs on Mexico if America’s southern neighbor allowed a caravan of more than 1,000 migrants to reach the border."
       ],
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/06/931/523/macron-military.jpeg?ve=1&tl=1",
-      "published": "Tue, 10 Nov 2026 11:22:36 -0500"
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fgod-us-seek-continue-journey-148423393_df9efc.jpg?w%3D1024",
+      "published": "Thu, 12 Nov 2026 08:16:43 -0500"
     },
     {
-      "title": "'Like gods reigning over humans': Many defectors see daughter of North Korea's Kim as heir apparent",
-      "link": "https://www.npr.org/2026/11/10/g-s1-152795/like-gods-reigning-over-humans-many-defectors-see-daughter-of-north-koreas-kim-as-heir-apparent",
-      "source": "NPR World",
+      "title": "Missing teen is found alive after 6 days in the Australian woodlands",
+      "link": "https://nypost.com/2026/11/12/world-news/missing-australian-teen-found-alive-after-6-days-in-woodlands/",
+      "source": "New York Post World",
       "all_sources": [
-        "NPR World"
+        "BBC World",
+        "New York Post World"
       ],
       "bias_breakdown": {
-        "Lean Left": 1
+        "Center": 1,
+        "Lean Right": 1
       },
       "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
+        "left_pct": 0,
+        "center_pct": 50,
+        "right_pct": 50,
+        "total": 2
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "A 17-year-old boy with autism was found alive Thursday after six days lost in eastern Australian woodlands."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5218/live/acdfe640-de84-11f1-93e1-3b657b665bcf.png",
+      "published": "Thu, 12 Nov 2026 07:49:40 -0500"
+    },
+    {
+      "title": "Oranges investigated after four girls die in suspected Uganda school poisoning",
+      "link": "https://www.bbc.co.uk/news/articles/ck9d71wyn7wwo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
         "right_pct": 0,
         "total": 1
       },
       "is_blindspot": false,
       "is_trending": false,
       "bullet_points": [
-        "Little is known about her except that she's reportedly about 13 and named Kim Ju Ae, but Korea's spy agency says she's likely her father's heir."
+        "The girls started vomiting after eating oranges brought in by a fellow pupil - police are travelling to the village they came from."
       ],
-      "image_url": null,
-      "published": "Tue, 10 Nov 2026 09:16:53 -0500"
-    },
-    {
-      "title": "Indonesia's VP offers resignation as questions mount over his eligibility",
-      "link": "https://www.npr.org/2026/11/10/g-s1-152788/indonesias-vp-offers-resignation-as-questions-mount-over-his-eligibility",
-      "source": "NPR World",
-      "all_sources": [
-        "NPR World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "His resignation offer comes amid a widening political rift between Prabowo and Widodo and a separate investigation into allegations that senior police officials wiretapped the president."
-      ],
-      "image_url": null,
-      "published": "Tue, 10 Nov 2026 09:01:14 -0500"
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7574/live/b4ca5c60-de65-11f1-8771-4778a0df4e09.jpg",
+      "published": "Thu, 12 Nov 2026 07:45:52 GMT"
     }
   ]
 }
