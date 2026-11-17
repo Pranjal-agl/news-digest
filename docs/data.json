@@ -1,67 +1,72 @@
 {
-  "date": "2026-11-16",
-  "generated_at": "2026-11-16T17:57:41.204738",
+  "date": "2026-11-17",
+  "generated_at": "2026-11-17T17:23:49.344961",
   "stats": {
     "total": 50,
-    "multi_source": 3,
-    "trending": 1,
+    "multi_source": 2,
+    "trending": 2,
     "blindspots": 0
   },
   "stories": [
     {
-      "title": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
-      "link": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda",
-      "source": "The Guardian World",
+      "title": "Trump arrives in Philippines to kick off Asia trip",
+      "link": "https://www.npr.org/2026/11/17/nx-s1-6043702/trump-arrives-philippines",
+      "source": "NPR World",
       "all_sources": [
         "BBC World",
         "NYT World",
-        "The Guardian World"
+        "NPR World",
+        "NPR World",
+        "NPR World"
       ],
       "bias_breakdown": {
-        "Lean Left": 2,
+        "Lean Left": 4,
         "Center": 1
       },
       "bias_bar": {
-        "left_pct": 67,
-        "center_pct": 33,
+        "left_pct": 80,
+        "center_pct": 20,
         "right_pct": 0,
-        "total": 3
+        "total": 5
       },
       "is_blindspot": false,
       "is_trending": true,
       "bullet_points": [
-        "Germany, Austria, Netherlands, Denmark and Greece likely to face challenges to policy criticised as ‘grave moral failing’  Five EU member states have announced plans to set up an offshore centre in Rwanda for people with no legal right to stay in Europe, in a pilot scheme that is expected to face legal challenges and has been denounced as “a grave moral failing”.",
-        "The five countries – Germany, Austria, the Netherlands, Denmark and Greece – are the first to seek to use the EU’s  newly agreed returns law  that allows   people who have exhausted all avenues of appeal against their removal from Europe to be sent to a third country.",
-        "Continue reading..."
+        "Manila is President Trump's first stop on a three-day trip that will later take him to China for historic three-way nuclear talks with Chinese President Xi Jinping and Russian President Vladimir Putin."
       ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7397/live/2ac14ca0-e1d9-11f1-b8c8-67fa35f5afdb.jpg",
-      "published": "Mon, 16 Nov 2026 16:21:40 GMT"
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b939/live/dca6f2e0-e291-11f1-99b6-a35a62fa4264.jpg",
+      "published": "Tue, 17 Nov 2026 05:43:55 -0500"
     },
     {
-      "title": "Two skulls likely belonging to enslaved people returned to Brazil after Harvard used them in eugenics studies",
-      "link": "https://www.theguardian.com/news/2026/nov/11/harvard-skulls-repatriated-brazil",
-      "source": "The Guardian World",
+      "title": "Ukraine strikes major Russian bridge with drones and missiles as aerial attacks escalate",
+      "link": "https://www.npr.org/2026/11/17/g-s1-153946/russia-ukraine-war",
+      "source": "NPR World",
       "all_sources": [
-        "The Guardian World"
+        "BBC World",
+        "NPR World",
+        "New York Post World",
+        "Fox News World",
+        "Fox News World"
       ],
       "bias_breakdown": {
-        "Lean Left": 1
+        "Lean Left": 1,
+        "Center": 1,
+        "Lean Right": 1,
+        "Right": 2
       },
       "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
+        "left_pct": 20,
+        "center_pct": 20,
+        "right_pct": 60,
+        "total": 5
       },
       "is_blindspot": false,
-      "is_trending": false,
+      "is_trending": true,
       "bullet_points": [
-        "Remains believed to have belonged to Africans or Afro-Brazilians repatriated after being flown back by diplomats   Two skulls, including that of a man believed to have taken part in Brazil’s greatest slave revolt but whose remains were taken to the United States and used in racist eugenics studies at Harvard University, were repatriated on Wednesday.",
-        "The remains had been outside Brazil since the 19th century.",
-        "One was taken about 190 years ago from Salvador, the capital of the state of Bahia; the other, about 160 years ago, from Rio de Janeiro – and were welcomed back in moving, subdued ceremonies in both cities."
+        "A Ukrainian drone and missile attack prepared over several weeks struck a vital Russian rail and road bridge to the occupied Crimean Peninsula, Ukrainian President Volodymyr Zelenskyy said Tuesday."
       ],
-      "image_url": null,
-      "published": "Wed, 11 Nov 2026 22:50:37 GMT"
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/222d/live/db8315b0-e278-11f1-99a1-253766e7ad8b.png",
+      "published": "Tue, 17 Nov 2026 04:50:45 -0500"
     },
     {
       "title": "Rebuild, or relocate? Displaced Nepali families remain in limbo weeks after flood.",
@@ -87,6 +92,883 @@
       ],
       "image_url": null,
       "published": "Wed, 11 Nov 2026 05:00:10 EST"
+    },
+    {
+      "title": "Jensen Huang pushes Nvidia comeback after board rejects pressure to reinstate ex-boss",
+      "link": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/40ef/live/51fc1a30-e2aa-11f1-99a1-253766e7ad8b.jpg",
+      "published": "Tue, 17 Nov 2026 17:19:56 GMT"
+    },
+    {
+      "title": "Carney and Xi Announce Canada-China Trade Pact",
+      "link": "https://www.nytimes.com/2026/11/17/world/canada/carney-china-xi-trade-apec.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The agreement between Canada and China and the cordial relations on display by their leaders contrast with the current Canada-U.S.",
+        "relationship."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/11/17/multimedia/17int-canada-china-trade-qwgf/17int-canada-china-trade-qwgf-mediumSquareAt3X.jpg",
+      "published": "Tue, 17 Nov 2026 17:19:20 +0000"
+    },
+    {
+      "title": "From Failed Businessman to Accused Plotter in the Killing of Haiti’s Leader",
+      "link": "https://www.nytimes.com/2026/11/17/world/christian-sanon-trial-haiti-president-assassination.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Prosecutors say Christian Sanon was a con man who oversaw a plan to assassinate the country’s president.",
+        "His defense says he played no part in the plot’s fatal outcome."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/11/17/multimedia/17haiti-assassination-pastor-zgtf/17haiti-assassination-pastor-zgtf-mediumSquareAt3X.jpg",
+      "published": "Tue, 17 Nov 2026 17:18:40 +0000"
+    },
+    {
+      "title": "Ukraine Attacks Kerch Bridge Linking Russia to Occupied Crimea",
+      "link": "https://www.nytimes.com/2026/11/17/world/europe/ukraine-kyiv-russia-kerch-bridge-crimea.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Destroying the structure, the only one connecting Russia to the occupied Crimean Peninsula, has long been a top objective for Kyiv."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/11/17/multimedia/17int-russia-ukraine-bridges-ltwc/17int-russia-ukraine-bridges-ltwc-mediumSquareAt3X.jpg",
+      "published": "Tue, 17 Nov 2026 17:11:53 +0000"
+    },
+    {
+      "title": "CAIR defends civil rights work against Trump’s ‘smear’",
+      "link": "https://www.aljazeera.com/news/2026/11/17/cair-defends-civil-rights-work-against-trumps-smear?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The country&#039;s largest Muslim advocacy group urges Trump to address rising hate crimes against Muslims."
+      ],
+      "image_url": null,
+      "published": "Tue, 17 Nov 2026 17:09:49 +0000"
+    },
+    {
+      "title": "Yemeni parliament approves law designating Houthis as ‘terrorists’",
+      "link": "https://www.aljazeera.com/news/2026/11/17/yemeni-parliament-approves-law-designating-houthis-as-terrorists?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The law targets the group&#039;s financing and activities as Houthis make advances in southwestern Yemen."
+      ],
+      "image_url": null,
+      "published": "Tue, 17 Nov 2026 16:53:25 +0000"
+    },
+    {
+      "title": "Photos: Tens of thousands rally in France over living standards and wages",
+      "link": "https://www.aljazeera.com/gallery/2026/11/17/photos-tens-of-thousands-rally-in-france-over-living-standards-and-wages?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "France witnesses its third major public sector strike since September, as protests highlight wage and service concerns."
+      ],
+      "image_url": null,
+      "published": "Tue, 17 Nov 2026 16:39:01 +0000"
+    },
+    {
+      "title": "Thousands demand cancellation of Nathan Cofnas talk at Oxford University",
+      "link": "https://www.aljazeera.com/news/2026/11/17/thousands-demand-cancellation-of-nathan-cofnas-talk-at-oxford-university?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Online petition with more than 32,000 signatures demands the university &#039;cancel Nathan Cofnas&#039;s invitation to speak&#039;."
+      ],
+      "image_url": null,
+      "published": "Tue, 17 Nov 2026 16:38:28 +0000"
+    },
+    {
+      "title": "Election-winning student movement enters Serbia’s new parliament",
+      "link": "https://www.aljazeera.com/news/2026/11/17/election-winning-student-movement-enters-serbias-new-parliament?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Hundreds hail Student List lawmakers as the new parliament meets for the first time."
+      ],
+      "image_url": null,
+      "published": "Tue, 17 Nov 2026 16:13:48 +0000"
+    },
+    {
+      "title": "Trump announces critical minerals agreements at Quad meeting in Manila",
+      "link": "https://www.aljazeera.com/news/2026/11/17/trump-announces-critical-minerals-agreements-at-quad-meeting-in-manila?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "US President Trump says the deals will prevent &#039;coercion by any single foreign supplier&#039;."
+      ],
+      "image_url": null,
+      "published": "Tue, 17 Nov 2026 15:59:41 +0000"
+    },
+    {
+      "title": "They’re Young and Frustrated and Want France to Change. They Disagree on How.",
+      "link": "https://www.nytimes.com/2026/11/17/world/europe/france-sarre-montangon-protests.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "One is a left-wing student leader, the other a young far-right activist.",
+        "Together, Soumaya Sarré and Louise Montangon reflect the polarization of France, where more protests and strikes took place on Tuesday."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/11/17/multimedia/17int-france-leaders-01-gcvm/17int-france-leaders-01-gcvm-mediumSquareAt3X.jpg",
+      "published": "Tue, 17 Nov 2026 15:55:02 +0000"
+    },
+    {
+      "title": "BBC reports from Kyiv bridge hit by Russian attack",
+      "link": "https://www.bbc.co.uk/news/videos/cmlywvww3pzlo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The BBC's Sarah Rainsford spoke to residents near the site of the overnight strike."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea8f/live/0f7d2750-e299-11f1-99a1-253766e7ad8b.jpg",
+      "published": "Tue, 17 Nov 2026 15:54:15 GMT"
+    },
+    {
+      "title": "Jerusalem Daily: Deadly settler pogroms persist",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/jerusalem-daily-deadly-settler-pogroms-persist?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "A Palestinian woman was killed in a settler shooting near Jericho, while Arab MPs in Israel seek Netanyahu probe."
+      ],
+      "image_url": null,
+      "published": "Tue, 17 Nov 2026 15:49:11 +0000"
+    },
+    {
+      "title": "Serbian actress and former MP doused with yoghurt outside parliament",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/17/serbian-actress-and-former-mp-doused-with-yoghurt-outside-parliament?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Serbian actress and former MP Lidija Vukicevic, who is backing the ruling SNS party, had yoghurt poured over her as."
+      ],
+      "image_url": null,
+      "published": "Tue, 17 Nov 2026 15:46:45 +0000"
+    },
+    {
+      "title": "How the attack on Crimean Bridge unfolded",
+      "link": "https://www.bbc.co.uk/news/articles/crz9dgz28zwdo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "One of the key symbols of Russia's occupation of Ukraine has suffered major damage after a seven-stage attack by Kyiv."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82dd/live/f7995500-e29d-11f1-99a1-253766e7ad8b.jpg",
+      "published": "Tue, 17 Nov 2026 15:38:10 GMT"
+    },
+    {
+      "title": "Palestinian woman, 72, shot dead by Israeli settlers in West Bank, health ministry says",
+      "link": "https://www.bbc.co.uk/news/articles/cqrlg377638yo?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Palestinians say there was an attack by settlers in al-Duyuk al-Tahta, while the Israeli military says the settlers fired after being attacked."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d277/live/17a72100-e286-11f1-a094-5fdc692f3e33.jpg",
+      "published": "Tue, 17 Nov 2026 15:36:11 GMT"
+    },
+    {
+      "title": "Houthi advance on Aden may spur resurgence of Yemen’s southern separatists",
+      "link": "https://www.aljazeera.com/news/2026/11/17/houthi-advance-on-aden-sparks-resurgence-of-yemens-southern-separatists?traffic_source=rss",
+      "source": "Al Jazeera",
+      "all_sources": [
+        "Al Jazeera"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Southern separatists try to regain power to defend Aden as Saudi Arabia reshuffles its military command against Houthis."
+      ],
+      "image_url": null,
+      "published": "Tue, 17 Nov 2026 15:26:55 +0000"
+    },
+    {
+      "title": "Tracking China’s War of Words Against Japan",
+      "link": "https://www.nytimes.com/2026/11/17/world/asia/china-japan-propaganda-xi-takaichi.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Beijing is running a concerted campaign to paint Japan as an aggressor and resurgent military threat, according to a Times analysis."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/11/16/multimedia/00int-china-japan-language-02-btpw/00int-china-japan-language-02-btpw-mediumSquareAt3X.jpg",
+      "published": "Tue, 17 Nov 2026 15:02:05 +0000"
+    },
+    {
+      "title": "These Ukrainians Aren’t in Combat. But They Deal With War Every Day.",
+      "link": "https://www.nytimes.com/2026/11/17/world/europe/ukraine-war-civilians.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "A doctor, a gravedigger, a therapist and a pathologist share their war experiences."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/03/17/multimedia/00Int-Ukraine-Characters-05-mchq/00Int-Ukraine-Characters-05-mchq-mediumSquareAt3X.jpg",
+      "published": "Tue, 17 Nov 2026 13:09:11 +0000"
+    },
+    {
+      "title": "Meghan Markle’s dad, Thomas, charged with child abuse offenses in the Philippines",
+      "link": "https://nypost.com/2026/11/17/world-news/thomas-markle-charged-with-child-abuse-offenses-in-the-philippines/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Thomas Markle Sr.",
+        "was charged on Tuesday with child abuse offenses in the Philippines, days after his arrest in Florida for possession of child pornography."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F2026-clearwater-florida-markle-estranged-148495423.jpg?w%3D819",
+      "published": "Tue, 17 Nov 2026 11:53:16 -0500"
+    },
+    {
+      "title": "Nvidia partner Megaspeed being investigated by US government over chip exports",
+      "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a77e/live/31ebc580-e267-11f1-900c-895604014268.jpg",
+      "published": "Tue, 17 Nov 2026 11:17:32 GMT"
+    },
+    {
+      "title": "Trump Will Miss Most of the ASEAN Summit",
+      "link": "https://www.nytimes.com/2026/11/17/world/asia/trump-manila-asean-late.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "President Trump arrived in Manila as the meeting was wrapping up, a sign of how U.S.",
+        "policy has left the region balancing between Washington and Beijing."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/11/16/multimedia/00int-asean-trump-01-ptql/00int-asean-trump-01-ptql-mediumSquareAt3X.jpg",
+      "published": "Tue, 17 Nov 2026 10:51:03 +0000"
+    },
+    {
+      "title": "Model stabbed to death by abusive ex — who then posted sick pic of body to her Instagram",
+      "link": "https://nypost.com/2026/11/17/world-news/model-stabbed-to-death-by-abusive-ex-who-then-posted-sick-pic-of-her-body-on-her-instagram/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "A Russian model was stabbed to death by her abusive ex – who then killed himself after posting a sickening image of her body on her Instagram, according to reports.",
+        "Anastasia Drozdova, 28, had finally had enough of on-off boyfriend Dmitry Zadvornykh, 38, and dumped him in September, initially hiding out in Turkey before returning..."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fformer-partner-38-year-old-149065218.jpg?w%3D791",
+      "published": "Tue, 17 Nov 2026 10:22:10 -0500"
+    },
+    {
+      "title": "Congo Ebola Outbreak: How Fear and Mistrust Drive Community Spread",
+      "link": "https://www.nytimes.com/2026/11/17/world/africa/congo-ebola-community-transmission.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "As the Ebola virus spreads in eastern Congo, health teams struggle to curb fatal delays in seeking medical care and the widespread desire to treat sick relatives at home."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/11/17/multimedia/17int-ebola-family-promo-jblp/17int-ebola-family-promo-jblp-mediumSquareAt3X.jpg",
+      "published": "Tue, 17 Nov 2026 10:07:56 +0000"
+    },
+    {
+      "title": "Kim Jong Un smokes cigarette, watches daughter ski from armchair at North Korea resort",
+      "link": "https://nypost.com/2026/11/17/world-news/kim-jong-un-inspects-north-korean-tourism-zone-amid-china-trip-speculation/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Kim Jong Un inspected construction of a tourism zone near the Chinese border in recent days, state media reported on Tuesday."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F15-16-visit-samjiyon-city-149049479.jpg?w%3D1024",
+      "published": "Tue, 17 Nov 2026 10:07:17 -0500"
+    },
+    {
+      "title": "After UN peacekeeping mission ends, Morocco says Western Sahara dispute enters new phase",
+      "link": "https://www.foxnews.com/world/after-un-peacekeeping-mission-ends-morocco-says-western-sahara-dispute-enters-new-phase",
+      "source": "Fox News World",
+      "all_sources": [
+        "Fox News World"
+      ],
+      "bias_breakdown": {
+        "Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Western Sahara talks enter a new phase as a senior Sahrawi official says Morocco will implement its autonomy proposal even if the Polisario Front refuses to agree."
+      ],
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/us-moroccan-military-exercise-morocco-fox-news-001.jpeg?ve=1&tl=1",
+      "published": "Tue, 17 Nov 2026 09:59:36 -0500"
+    },
+    {
+      "title": "Married teacher had baby with boy, 12, she abused before being caught on camera",
+      "link": "https://nypost.com/2026/11/17/world-news/married-teacher-had-baby-with-boy-12-she-abused-before-being-caught-on-camera/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "A depraved married teacher had a baby with a boy she started abusing when he was just 12 — only stopping when the boy&#8217;s mom caught them having sex on a home video camera.",
+        "Naomi Tekea Craig, 34, sobbed in an Australian court Tuesday as she was sentenced to 8 ½ years in prison after..."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fwa-schoolteacher-gave-birth-13-149079827.jpg?w%3D634",
+      "published": "Tue, 17 Nov 2026 09:52:56 -0500"
+    },
+    {
+      "title": "Suspect busted for terrifying home invasion of Canadian CEO and his family",
+      "link": "https://nypost.com/2026/11/17/world-news/suspected-busted-for-terrifying-home-invasion-of-canadian-ceo-and-his-family/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "\"We said that we would spare no resources in our efforts to locate and arrest him, and the others responsible for this violent home invasion,\" police said."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fwww-linkedin-com-maggie-zohil-146953064_01c354.jpg",
+      "published": "Tue, 17 Nov 2026 09:27:54 -0500"
+    },
+    {
+      "title": "Indian woman gang-raped while pregnant in 2002 'heartbroken' after two perpetrators bailed",
+      "link": "https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC World",
+      "all_sources": [
+        "BBC World"
+      ],
+      "bias_breakdown": {
+        "Center": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 100,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Bilkis Bano has spoken of her \"pain, shock and disbelief\" at the top court order and vowed to fight back."
+      ],
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9c83/live/904d30a0-e1a4-11f1-973a-a76c1b2f887a.jpg",
+      "published": "Tue, 17 Nov 2026 09:27:44 GMT"
+    },
+    {
+      "title": "Bahrain intercepts Iranian drones targeting US radar after 2-month lull in Gulf strikes",
+      "link": "https://www.foxnews.com/world/bahrain-intercepts-iranian-drones-targeting-us-radar-after-2-month-lull-gulf-strikes",
+      "source": "Fox News World",
+      "all_sources": [
+        "Fox News World"
+      ],
+      "bias_breakdown": {
+        "Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Iran&apos;s IRGC claims it struck a U.S.",
+        "radar system at the Sheikh Isa base in Bahrain, home to the Fifth Fleet, the third attack in five days after a lull."
+      ],
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/iranian-drone.jpg?ve=1&tl=1",
+      "published": "Tue, 17 Nov 2026 07:42:29 -0500"
+    },
+    {
+      "title": "Trump is in Asia ahead of Xi, Putin summit. And, tech leaders want Huang back at Nvidia",
+      "link": "https://www.npr.org/2026/11/17/g-s1-153950/up-first-newsletter-faa-ground-stop-trump-asia-trip-nvidia-lindsay-clancy",
+      "source": "NPR World",
+      "all_sources": [
+        "NPR World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Trump says he plans to discuss Ukraine during his Asia trip, which contradicts what the White House previously announced.",
+        "And, Silicon Valley leaders are pushing for Jensen Huang's return to Nvidia."
+      ],
+      "image_url": null,
+      "published": "Tue, 17 Nov 2026 07:20:57 -0500"
+    },
+    {
+      "title": "Serbian military jet crashes, killing pilot: report",
+      "link": "https://nypost.com/2026/11/17/world-news/serbian-military-jet-crashes-killing-pilot-report/",
+      "source": "New York Post World",
+      "all_sources": [
+        "New York Post World"
+      ],
+      "bias_breakdown": {
+        "Lean Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "A Serbian military jet crashed on Tuesday northwest of Belgrade, killing the pilot, the defense ministry said."
+      ],
+      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Ffighter-jet-crashes-serbia-pilot-149073569.jpg?w%3D1024",
+      "published": "Tue, 17 Nov 2026 06:10:10 -0500"
+    },
+    {
+      "title": "State Department presses Egypt to respect religious freedom as Christian convert faces possible execution",
+      "link": "https://www.foxnews.com/world/state-department-presses-egypt-respect-religious-freedom-christian-convert-faces-possible-execution",
+      "source": "Fox News World",
+      "all_sources": [
+        "Fox News World"
+      ],
+      "bias_breakdown": {
+        "Right": 1
+      },
+      "bias_bar": {
+        "left_pct": 0,
+        "center_pct": 0,
+        "right_pct": 100,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "The State Department is pressing Egypt to protect religious freedom as a Christian convert faces possible execution or 25 years in prison, raising concerns over his trial."
+      ],
+      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/cross-man-on-trial-split.jpg?ve=1&tl=1",
+      "published": "Tue, 17 Nov 2026 06:00:46 -0500"
+    },
+    {
+      "title": "Leaked Records Show Deutsche Bank Courting Russian Oligarchs",
+      "link": "https://www.nytimes.com/2026/11/17/world/europe/deutsche-bank-russia-oligarchs-leaked-documents.html",
+      "source": "NYT World",
+      "all_sources": [
+        "NYT World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "“As you know we have a large Russian Oligarchs client population,” an analyst wrote as the bank braced for sanctions against wealthy clients."
+      ],
+      "image_url": "https://static01.nyt.com/images/2026/11/18/multimedia/17int-russia-deutschebank-01-gkjc/17int-russia-deutschebank-01-gkjc-mediumSquareAt3X.jpg",
+      "published": "Tue, 17 Nov 2026 06:00:12 +0000"
+    },
+    {
+      "title": "European-made pesticides named in 1,605 poisoning reports in Brazil last year",
+      "link": "https://www.theguardian.com/environment/2026/nov/17/european-made-pesticides-named-1605-brazil-poisoning-reports",
+      "source": "The Guardian World",
+      "all_sources": [
+        "The Guardian World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "About a third of cases involved chemicals banned for use on EU farms, according to investigation by Unearthed and Public Eye   Pesticides sold by European chemical companies were named in more than 1,600 poisoning reports in Brazil last year, an investigation has found.",
+        "About a third of the cases involved chemicals banned from use on farms in the EU because of the risks they pose to people and the environment.",
+        "But European companies are not banned from manufacturing these chemicals, as long as they export them overseas to countries where they are legally allowed to be used."
+      ],
+      "image_url": null,
+      "published": "Tue, 17 Nov 2026 06:00:05 GMT"
+    },
+    {
+      "title": "Five EU states announce plans for immigration ‘return hubs’ in Rwanda",
+      "link": "https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda",
+      "source": "The Guardian World",
+      "all_sources": [
+        "The Guardian World"
+      ],
+      "bias_breakdown": {
+        "Lean Left": 1
+      },
+      "bias_bar": {
+        "left_pct": 100,
+        "center_pct": 0,
+        "right_pct": 0,
+        "total": 1
+      },
+      "is_blindspot": false,
+      "is_trending": false,
+      "bullet_points": [
+        "Germany, Austria, Netherlands, Denmark and Greece likely to face challenges to policy criticised as ‘grave moral failing’  Five EU member states have announced plans to set up an offshore centre in Rwanda for people with no legal right to stay in Europe, in a pilot scheme that is expected to face legal challenges and has been denounced as “a grave moral failing”.",
+        "The five countries – Germany, Austria, the Netherlands, Denmark and Greece – are the first to seek to use the EU’s  newly agreed returns law  that allows   people who have exhausted all avenues of appeal against their removal from Europe to be sent to a third country.",
+        "Continue reading..."
+      ],
+      "image_url": null,
+      "published": "Tue, 17 Nov 2026 01:10:59 GMT"
     },
     {
       "title": "Lewis Hamilton visits Egypt’s Rafah crossing and Gaza aid facilities",
@@ -139,30 +1021,6 @@
       ],
       "image_url": null,
       "published": "Tue, 10 Nov 2026 15:14:28 EST"
-    },
-    {
-      "title": "Expectations low as US gives Ukraine peace talks another try",
-      "link": "https://www.csmonitor.com/USA/Foreign-Policy/2026/1110/ukraine-peace-talks-us-russia-abu-dhabi-uae-donetsk?icid=rss",
-      "source": "Christian Science Monitor World",
-      "all_sources": [
-        "Christian Science Monitor World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Although a new round of U.S.-led talks are getting underway to end the war in Ukraine, observers say that prospects for resolution remain unlikely."
-      ],
-      "image_url": null,
-      "published": "Tue, 10 Nov 2026 05:00:23 EST"
     },
     {
       "title": "Near the Siberian border, a ‘no limits’ China-Russia partnership drives trade",
@@ -240,55 +1098,6 @@
       "published": "Thu, 12 Nov 2026 11:51:06 EST"
     },
     {
-      "title": "U.S. envoys meet with Putin in Moscow on Ukraine talks, then see Zelenskyy in Dublin",
-      "link": "https://www.npr.org/2026/11/12/nx-s1-6038809/us-envoys-meet-putin-russia-ukraine-war-talks",
-      "source": "NPR World",
-      "all_sources": [
-        "NPR World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "U.S.",
-        "envoys have met with Russian President Vladimir Putin in the Kremlin and with Ukrainian President Volodymyr Zelenskyy in Ireland as Washington seeks new momentum in peace efforts."
-      ],
-      "image_url": null,
-      "published": "Thu, 12 Nov 2026 10:26:34 -0500"
-    },
-    {
-      "title": "Iran's shadow operations stretch across Europe as chilling spy convictions expose Tehran's reach",
-      "link": "https://www.foxnews.com/world/irans-shadow-operations-stretch-across-europe-chilling-spy-convictions-expose-tehrans-reach",
-      "source": "Fox News World",
-      "all_sources": [
-        "Fox News World"
-      ],
-      "bias_breakdown": {
-        "Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Two Iranian men convicted of spying in Britain as France accuses the IRGC of cyberattacks and UAE officials warn of Iranian sleeper cells abroad."
-      ],
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/01/931/523/iran-military-rally-001.jpg?ve=1&tl=1",
-      "published": "Thu, 12 Nov 2026 10:10:49 -0500"
-    },
-    {
       "title": "Trump Says Colombia Will Accept Deportees, Ending Tariff Standoff",
       "link": "https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497",
       "source": "WSJ World News",
@@ -311,301 +1120,6 @@
       ],
       "image_url": null,
       "published": "Sun, 26 Jan 2025 22:59:00 -0500"
-    },
-    {
-      "title": "Blinken warns US ground invasion of Iran would be 'absolute disaster' as Tehran escalates attacks",
-      "link": "https://www.foxnews.com/world/blinken-warns-us-ground-invasion-iran-would-be-disaster-tehran-escalates-attacks",
-      "source": "Fox News World",
-      "all_sources": [
-        "Fox News World"
-      ],
-      "bias_breakdown": {
-        "Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Former Secretary of State Antony Blinken warned a U.S.",
-        "ground invasion of Iran would be an &quot;absolute disaster&quot; as Tehran launched drones at Bahrain."
-      ],
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/blinken-iran.jpg?ve=1&tl=1",
-      "published": "Sun, 15 Nov 2026 19:17:38 -0500"
-    },
-    {
-      "title": "TikToker arrested after big cat mauls teen to death during video shoot at private farm",
-      "link": "https://www.foxnews.com/world/tiktoker-arrested-big-cat-mauls-teen-death-video-shoot-private-farm",
-      "source": "Fox News World",
-      "all_sources": [
-        "Fox News World"
-      ],
-      "bias_breakdown": {
-        "Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "A TikToker and farm owner were arrested after a big cat fatally mauled a teenage worker during a video shoot in Pakistan, Lahore officials said."
-      ],
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/pakistan-tiger-attack.jpg?ve=1&tl=1",
-      "published": "Sun, 15 Nov 2026 19:14:22 -0500"
-    },
-    {
-      "title": "Israel kills top Hamas commander who had plans to ‘carry out terror attacks’",
-      "link": "https://nypost.com/2026/11/15/world-news/israel-kills-top-hamas-commander-with-plans-to-carry-out-terror-attacks-officials/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "A top Hamas commander with plans “to advance and carry out terror attacks” was killed by Israeli forces on Sunday – only two months after replacing his predecessor, military officials said.&nbsp; Samir Mahmoud Hassan Abu Younis, who had allegedly directed attacks against Israeli civilians and soldiers, was killed in an early morning airstrike in southern..."
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Fhamas-commander-killed-comp_3570c7.jpg?w%3D1024",
-      "published": "Sun, 15 Nov 2026 17:59:17 -0500"
-    },
-    {
-      "title": "Major Red Sea strait falls under full Houthi control as Yemeni forces retreat",
-      "link": "https://nypost.com/2026/11/15/world-news/major-red-sea-strait-falls-under-full-houthi-control-as-yemeni-forces-retreat/",
-      "source": "New York Post World",
-      "all_sources": [
-        "BBC World",
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Center": 1,
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 50,
-        "right_pct": 50,
-        "total": 2
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The Saudi-backed Yemeni government suffered a major blow Sunday when it withdrew from the Bab el-Mandeb Strait, relinquishing full control to the Iran-backed Houthi terror group."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0bf/live/84ae2db0-e165-11f1-9e72-69608c7a1547.jpg",
-      "published": "Sun, 15 Nov 2026 17:33:03 -0500"
-    },
-    {
-      "title": "What to expect from Trump and Xi's upcoming meeting in China",
-      "link": "https://www.npr.org/2026/11/15/nx-s1-6038814/what-to-expect-from-trump-and-xis-upcoming-meeting-in-china",
-      "source": "NPR World",
-      "all_sources": [
-        "NPR World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Preview of what to expect as President Trump meets with Chinese leader Xi Jinping and Russian President Vladimir Putin at the Asia-Pacific Economic Cooperation summit in Shenzhen, China this week."
-      ],
-      "image_url": null,
-      "published": "Sun, 15 Nov 2026 17:11:26 -0500"
-    },
-    {
-      "title": "French President Macron admits, ‘I’m still a child’– while much-older wife says he needs to be ‘psychoanalyzed’: book",
-      "link": "https://nypost.com/2026/11/15/world-news/emmanuel-macron-admits-im-still-a-child-while-much-older-wife-says-he-needs-to-be-psychoanalyzed-book/",
-      "source": "New York Post World",
-      "all_sources": [
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "French President Emmanuel Macron admits in a bombshell new book that he is \"still a child'' -- and his much-older wife says he has granny issues and needs to be \"pscyhoanalyzed.''"
-      ],
-      "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Ffrench-president-emmanuel-macron-wife-146749256_99bf53.jpg?w%3D1024",
-      "published": "Sun, 15 Nov 2026 17:10:55 -0500"
-    },
-    {
-      "title": "Who makes Sydney Sweeney's American Eagle jeans — and under what conditions?",
-      "link": "https://www.npr.org/2026/11/15/nx-s1-6013327/sydney-sweeney-jeans-american-eagle-garment-industry",
-      "source": "NPR World",
-      "all_sources": [
-        "NPR World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Sydney Sweeney has great jeans, American Eagle Outfitters tells us.",
-        "But who made them?",
-        "And what are working conditions like in the garment factories of Pakistan and Bangladesh?"
-      ],
-      "image_url": null,
-      "published": "Sun, 15 Nov 2026 17:07:55 -0500"
-    },
-    {
-      "title": "Iran vows ‘we will find you’ to 2 US Navy officers the day warship returns from Middle East",
-      "link": "https://www.foxnews.com/world/iran-vows-we-find-you-2-us-navy-officers-day-warship-returns-from-middle-east",
-      "source": "Fox News World",
-      "all_sources": [
-        "Fox News World"
-      ],
-      "bias_breakdown": {
-        "Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Iran&apos;s embassy in South Africa posted a &quot;We will find you&quot; threat targeting two USS Spruance officers as the destroyer returned to San Diego."
-      ],
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/spruance-san-diego.jpg?ve=1&tl=1",
-      "published": "Sun, 15 Nov 2026 15:58:36 -0500"
-    },
-    {
-      "title": "NATO ally foils arson attack on drone factory — and says Russia is to blame",
-      "link": "https://nypost.com/2026/11/15/world-news/estonia-closes-all-russia-border-crossings-after-suspected-arson-attack/",
-      "source": "New York Post World",
-      "all_sources": [
-        "BBC World",
-        "New York Post World"
-      ],
-      "bias_breakdown": {
-        "Center": 1,
-        "Lean Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 50,
-        "right_pct": 50,
-        "total": 2
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "\"Russia must understand that hostile actions against Estonia come with consequences,\" Estonia's Foreign Minister said Sunday."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/775e/live/126ac8e0-e1be-11f1-a339-49d4d3ed4c86.jpg",
-      "published": "Sun, 15 Nov 2026 15:42:14 -0500"
-    },
-    {
-      "title": "Putin's war machine tied to troubling recruitment of young women as new deals emerge",
-      "link": "https://www.foxnews.com/world/putins-war-machine-tied-troubling-recruitment-young-women-new-deals-emerge",
-      "source": "Fox News World",
-      "all_sources": [
-        "Fox News World"
-      ],
-      "bias_breakdown": {
-        "Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Two African governments signed deals with Russia&apos;s Alabuga drone factory zone as a Ukrainian probe alleges deceptive recruitment of young African women."
-      ],
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/10/931/523/unmanned-drone-military-drills.jpg?ve=1&tl=1",
-      "published": "Sun, 15 Nov 2026 09:00:46 -0500"
-    },
-    {
-      "title": "Robot dogs mounted with rifles deployed in anti-gang stadium operation in Haiti",
-      "link": "https://www.foxnews.com/world/robot-dogs-mounted-rifles-deployed-anti-gang-stadium-operation-haiti",
-      "source": "Fox News World",
-      "all_sources": [
-        "Fox News World"
-      ],
-      "bias_breakdown": {
-        "Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "El Salvador President Nayib Bukele shared video of armed robot dogs storming Sylvio Cator Stadium as forces joined Haitian police in a gang crackdown on the violent island nation."
-      ],
-      "image_url": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/robot-el-salvdor.gif",
-      "published": "Sat, 14 Nov 2026 19:51:47 -0500"
-    },
-    {
-      "title": "Two Americans drown after Caribbean current pulls them out to sea",
-      "link": "https://www.foxnews.com/world/two-americans-drowned-strong-current-ripped-them-bahaman-sea-police-say",
-      "source": "Fox News World",
-      "all_sources": [
-        "Fox News World"
-      ],
-      "bias_breakdown": {
-        "Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Two American tourists drowned off Birimi island after swimming beyond a warning sign area and being swept out by a strong current, Bahamas police said."
-      ],
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Bahamas_Bimini.jpg?ve=1&tl=1",
-      "published": "Sat, 14 Nov 2026 13:42:12 -0500"
     },
     {
       "title": "Choking fires, deadly heat and devastating floods: 2026 in extreme weather",
@@ -632,54 +1146,6 @@
       ],
       "image_url": null,
       "published": "Sat, 14 Nov 2026 13:00:44 GMT"
-    },
-    {
-      "title": "Fuel crisis and protests pressure Chile's far-right president",
-      "link": "https://www.npr.org/2026/11/14/nx-s1-6040144/chile-protests-fuel-kast-students",
-      "source": "NPR World",
-      "all_sources": [
-        "NPR World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Chile's far-right President José Antonio Kast is facing mounting public anger, as rising fuel prices trigger transport strikes and protests across the country."
-      ],
-      "image_url": null,
-      "published": "Sat, 14 Nov 2026 11:05:12 -0500"
-    },
-    {
-      "title": "Inside Arab nation's battle against radicalism as top official warns of threat brewing on Europe's streets",
-      "link": "https://www.foxnews.com/world/inside-arab-nations-battle-against-radicalism-top-official-warns-threat-brewing-europes-streets",
-      "source": "Fox News World",
-      "all_sources": [
-        "Fox News World"
-      ],
-      "bias_breakdown": {
-        "Right": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 0,
-        "right_pct": 100,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "A senior United Arab Emirates official warns that European protests have crossed into national security threats, urging coexistence education first."
-      ],
-      "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/pope_uae.jpg?ve=1&tl=1",
-      "published": "Sat, 14 Nov 2026 07:00:53 -0500"
     },
     {
       "title": "Palestinians Stream Back to Northern Gaza on Foot",
@@ -776,467 +1242,6 @@
       ],
       "image_url": null,
       "published": "Mon, 27 Jan 2025 11:22:00 -0500"
-    },
-    {
-      "title": "Rwanda-Backed Rebels Enter Congo's Safe-Haven City",
-      "link": "https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8",
-      "source": "WSJ World News",
-      "all_sources": [
-        "WSJ World News"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Residents of Goma reported gunfire and shelling after rebels overran Congolese troops.",
-        "U.N.",
-        "officials estimated that more than one million displaced people were now inside the city."
-      ],
-      "image_url": null,
-      "published": "Mon, 27 Jan 2025 10:07:00 -0500"
-    },
-    {
-      "title": "Cocaine-Funded Gangs Shake Colombia Years After Peace Pact",
-      "link": "https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da",
-      "source": "WSJ World News",
-      "all_sources": [
-        "WSJ World News"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Attacks by powerful militias against civilians reflect the state’s inaction eight years after a peace accord removed a powerful rebel group from the field."
-      ],
-      "image_url": null,
-      "published": "Mon, 27 Jan 2025 07:00:00 -0500"
-    },
-    {
-      "title": "Italy Supports Saudi Arabia Joining Fighter-Jet Program, PM Meloni Says",
-      "link": "https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1",
-      "source": "WSJ World News",
-      "all_sources": [
-        "WSJ World News"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The U.K., Italy and Japan have already partnered on the Global Combat Air Programme, which aims to put a new stealth fighter with supersonic capability in the skies by 2035."
-      ],
-      "image_url": null,
-      "published": "Mon, 27 Jan 2025 05:34:00 -0500"
-    },
-    {
-      "title": "Shippers Wary of Red Sea Routes Despite Houthi Pledge to End Targeting",
-      "link": "https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2",
-      "source": "WSJ World News",
-      "all_sources": [
-        "WSJ World News"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The world’s top three container operators said they fear instability in Gaza and broader regional tensions mean continued danger."
-      ],
-      "image_url": null,
-      "published": "Mon, 27 Jan 2025 01:05:00 -0500"
-    },
-    {
-      "title": "Kim Jong Un Is Doing Everything He Can to Keep North Korea's Youth in Line",
-      "link": "https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de",
-      "source": "WSJ World News",
-      "all_sources": [
-        "WSJ World News"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The dictator, eager to shut out the influence of Hollywood and K-pop, has been exalting a “shock brigade” of 300,000 teens and 20-somethings drafted into flood reconstruction."
-      ],
-      "image_url": null,
-      "published": "Mon, 27 Jan 2025 01:05:00 -0500"
-    },
-    {
-      "title": "Israeli court upholds detention of Palestinian land activist Ghassan Najjar",
-      "link": "https://www.aljazeera.com/news/2026/11/16/israeli-court-upholds-detention-of-palestinian-land-activist-ghassan-najjar?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Occupied West Bank land defender is set to remain in detention until at least February 26 next year."
-      ],
-      "image_url": null,
-      "published": "Mon, 16 Nov 2026 17:49:16 +0000"
-    },
-    {
-      "title": "Pope Endures Grueling Travel in South America Weeks After Surgery",
-      "link": "https://www.nytimes.com/2026/11/16/world/europe/pope-leo-peru-health.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "When doctors operated on Pope Leo XIV’s lung in October, some wondered if he’d postpone a long-planned trip to South America.",
-        "It’s gone well so far."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/11/16/multimedia/16int-pope-1-cjbk/16int-pope-1-cjbk-mediumSquareAt3X-v2.jpg",
-      "published": "Mon, 16 Nov 2026 17:37:25 +0000"
-    },
-    {
-      "title": "Silicon Valley insiders urge Nvidia to restore Jensen Huang’s CEO role",
-      "link": "https://www.aljazeera.com/economy/2026/11/16/silicon-valley-insiders-urge-nvidia-to-restore-jensen-huangs-ceo-role?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Nvidia faces a potential 30 percent value loss in value without Jensen Huang, market analysts say, amid a stock downturn."
-      ],
-      "image_url": null,
-      "published": "Mon, 16 Nov 2026 17:24:26 +0000"
-    },
-    {
-      "title": "Airstrikes on Iran Missile Sites May Shed Light on Justification for Dams",
-      "link": "https://www.nytimes.com/2026/11/16/world/middleeast/iran-dams-missile-sites-environmentalists.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Environmentalists have long puzzled over a wide network of water projects lacking any obvious justification.",
-        "Then their areas were targeted in airstrikes."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/11/10/world/00int-iran-environmentalists-fniwa/00int-iran-environmentalists-fniwa-mediumSquareAt3X.jpg",
-      "published": "Mon, 16 Nov 2026 17:24:04 +0000"
-    },
-    {
-      "title": "Iraq deploys army to stronghold of Iran-backed Kataib Hezbollah",
-      "link": "https://www.aljazeera.com/news/2026/11/16/iran-deploys-army-to-stronghold-of-iran-backed-kataib-hezbollah?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "US pressure on Iraq to curb Tehran&#039;s influence leaves potential for direct confrontation with Iran-linked armed group."
-      ],
-      "image_url": null,
-      "published": "Mon, 16 Nov 2026 17:18:14 +0000"
-    },
-    {
-      "title": "LIVE: Germany vs Netherlands – UEFA Nations League",
-      "link": "https://www.aljazeera.com/sports/liveblog/2026/11/16/live-germany-vs-netherlands-uefa-nations-league?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Previews, team news and live text commentary as Germany host the Netherlands in league&#039;s final Group A2 football match."
-      ],
-      "image_url": null,
-      "published": "Mon, 16 Nov 2026 17:15:12 +0000"
-    },
-    {
-      "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
-      "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "all_sources": [
-        "BBC World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78e4/live/4bc24280-e1d2-11f1-b8c8-67fa35f5afdb.jpg",
-      "published": "Mon, 16 Nov 2026 17:07:55 GMT"
-    },
-    {
-      "title": "Iran braces for natural gas shortages during winter energy imbalance",
-      "link": "https://www.aljazeera.com/news/2026/11/16/iran-braces-for-natural-gas-shortages-during-winter-energy-imbalance?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The gas infrastructure in Iran has suffered from underdevelopment and sanctions, and now damage from the war."
-      ],
-      "image_url": null,
-      "published": "Mon, 16 Nov 2026 16:58:46 +0000"
-    },
-    {
-      "title": "Israeli forces demolish the homes of two Palestinian prisoners",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/israeli-forces-demolish-the-homes-of-two-palestinian-prisoners?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Israeli forces demolished the homes of two Palestinian prisoners as Al Jazeera’s Nida Ibrahim was reporting"
-      ],
-      "image_url": null,
-      "published": "Mon, 16 Nov 2026 16:56:54 +0000"
-    },
-    {
-      "title": "Jerusalem Daily: Eisenkot wants Netanyahu out",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/jerusalem-daily-eisenkot-wants-netanyahu-out?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Israeli opposition leader Gadi Eisenkot appears to be pushing to oust Benjamin Netanyahu as Prime Minister."
-      ],
-      "image_url": null,
-      "published": "Mon, 16 Nov 2026 16:56:46 +0000"
-    },
-    {
-      "title": "UEFA backs France’s Philippe Diallo to challenge Infantino in FIFA election",
-      "link": "https://www.aljazeera.com/sports/2026/11/16/uefa-backs-frances-philippe-diallo-to-challenge-infantino-in-fifa-election?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "French Football Federation chief Diallo emerges as a strong challenger in FIFA&#039;s upcoming presidential election."
-      ],
-      "image_url": null,
-      "published": "Mon, 16 Nov 2026 16:46:05 +0000"
-    },
-    {
-      "title": "Oil tankers hit sea mines in the Strait of Hormuz",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/16/oil-tankers-hit-sea-mines-in-the-strait-of-hormuz?traffic_source=rss",
-      "source": "Al Jazeera",
-      "all_sources": [
-        "Al Jazeera"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Oil tankers hit sea mines in the Strait of Hormuz"
-      ],
-      "image_url": null,
-      "published": "Mon, 16 Nov 2026 15:37:49 +0000"
-    },
-    {
-      "title": "Bahrain Convicts Dozens of Shiite Clerics in Sweeping Terrorism Trial",
-      "link": "https://www.nytimes.com/2026/11/16/world/middleeast/bahrain-shiite-clerics-convicted.html",
-      "source": "NYT World",
-      "all_sources": [
-        "NYT World"
-      ],
-      "bias_breakdown": {
-        "Lean Left": 1
-      },
-      "bias_bar": {
-        "left_pct": 100,
-        "center_pct": 0,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "The defendants were accused of colluding with Iran.",
-        "Rights groups said the case was marred by torture allegations and raised concerns about religious persecution."
-      ],
-      "image_url": "https://static01.nyt.com/images/2026/11/06/multimedia/00int-bahrain-top-kjqv/00int-bahrain-top-kjqv-mediumSquareAt3X.jpg",
-      "published": "Mon, 16 Nov 2026 15:25:21 +0000"
-    },
-    {
-      "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
-      "link": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_medium=RSS&at_campaign=rss",
-      "source": "BBC World",
-      "all_sources": [
-        "BBC World"
-      ],
-      "bias_breakdown": {
-        "Center": 1
-      },
-      "bias_bar": {
-        "left_pct": 0,
-        "center_pct": 100,
-        "right_pct": 0,
-        "total": 1
-      },
-      "is_blindspot": false,
-      "is_trending": false,
-      "bullet_points": [
-        "Russia said Ukraine had launched over 2,000 drones over the course of a day, while Kyiv came under a record 17 air raid alerts."
-      ],
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f174/live/bc6fa8f0-e1c4-11f1-a094-5fdc692f3e33.jpg",
-      "published": "Mon, 16 Nov 2026 14:58:12 GMT"
     }
   ]
 }
