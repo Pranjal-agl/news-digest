@@ -1,42 +1,32 @@
-# News Digest - 2026-11-19
+# News Digest - 2026-11-20
 
-**50 stories** · 7 with multi-source coverage · 1 blindspot
+**50 stories** · 4 with multi-source coverage · 1 blindspot
 
 ---
 
-## 1. 🔍 Kim Jong Un’s nuclear program draws ‘serious concern’ ahead of Trump’s historic summit with Xi, Putin
+## 1. 🔍 Russia's Putin vows a response 'far more painful' after Ukraine attacks prized bridge in Crimea
 
-**Source:** [New York Post World](https://nypost.com/2026/11/18/world-news/kim-jong-uns-nuclear-program-draws-serious-concern-ahead-of-trumps-summit-with-xi-putin/)
+**Source:** [Fox News World](https://www.foxnews.com/world/russia-putin-vows-response-far-more-painful-ukraine-attacks-prized-bridge-crimea)
 
-**Also covered by:** Fox News World
+**Also covered by:** New York Post World
 
 **Bias breakdown:** Lean Right: 1 · Right: 1
 
 **Blindspot:** all covering sources lean the same direction
 
-- The IAEA warned that North Korea has expanded its Yongbyon nuclear site ahead of President Donald Trump's upcoming summit with Xi Jinping and Vladimir Putin.
+- Russian President Vladimir Putin said I "believe our response will be far more painful than what the Kyiv regime did" to the Kerch Strait bridge this week.
 
 ## 2. Florida pastor found guilty over 2021 assassination of Haitian president
 
 **Source:** [The Guardian World](https://www.theguardian.com/us-news/2026/nov/18/florida-pastor-guilty-haiti-president-assassination)
 
-**Also covered by:** BBC World
-
-**Bias breakdown:** Lean Left: 1 · Center: 1
+**Bias breakdown:** Lean Left: 1
 
 - Christian Emmanuel Sanon faces life in prison after conviction on charges arising from killing of Jovenel Moïse  A Florida pastor with dual Haitian-American citizenship was convicted on Wednesday of US charges arising from the 2021 assassination of the Haitian president Jovenel Moïse.
 - Christian Emmanuel Sanon was found guilty on charges including conspiring to kill Moïse after a nearly eight-week trial in federal court in Miami.
 - He had faced a total of eight charges including conspiracy to kidnap or kill a person outside the United States.
 
-## 3. Bukele gets hero’s welcome from afar as thousands rally in Haiti after gang crackdown
-
-**Source:** [Fox News World](https://www.foxnews.com/world/bukele-gets-heros-welcome-thousands-rally-haiti-gang-crackdown)
-
-**Bias breakdown:** Right: 1
-
-- Thousands marched in Haiti to thank Nayib Bukele for sending troops to battle violent gangs, prompting an emotional response from the Salvadoran president.
-
-## 4. Hegseth uses Venezuela visit to boast of Maduro’s capture by US military
+## 3. Hegseth uses Venezuela visit to boast of Maduro’s capture by US military
 
 **Source:** [The Guardian World](https://www.theguardian.com/world/2026/nov/18/pete-hegseth-venezuela-nicolas-maduro-military)
 
@@ -46,86 +36,16 @@
 - Maduro was controversially seized by Delta Force operatives in the early hours of 3 January, setting in motion an improbable rapprochement between Washington and Venezuela’s anti-imperialist “Chavista” regime, which has ruled since 1999.
 - Continue reading...
 
-## 5. Iran warns Bahrain monarchy its survival is at risk amid push to 'evict' US Fifth Fleet
-
-**Source:** [Fox News World](https://www.foxnews.com/world/iran-warns-bahrain-monarchy-survival-risk-amid-push-evict-us-fifth-fleet)
-
-**Bias breakdown:** Right: 1
-
-- Iran's Islamic Revolutionary Guard Corps warned Bahrain's monarchy its survival is in doubt as drones and missiles hit the U.S.
-- Navy's Fifth Fleet home.
-
-## 6. Muslims poised to outnumber Christians globally by 2035 amid demographic shifts
-
-**Source:** [Fox News World](https://www.foxnews.com/world/muslims-poised-outnumber-christians-globally-2035-amid-demographic-shifts)
-
-**Bias breakdown:** Right: 1
-
-- Pew Research Center study projects Muslims will outnumber Christians worldwide by 2035, driven by higher fertility rates and younger populations.
-
-## 7. Iranian dissident Masih Alinejad sues Tehran over assassination plots: ‘They couldn’t break me’
-
-**Source:** [New York Post World](https://nypost.com/2026/11/18/world-news/iranian-dissident-masih-alinejad-sues-tehran-over-assassination-plots/)
-
-**Bias breakdown:** Lean Right: 1
-
-- Exiled activist Masih Alinejad is suing Iran in US federal court over three failed assassination and kidnapping plots targeting her in New York.
-
-## 8. Irish activist indicted in US over alleged destruction of $60M military plane
-
-**Source:** [Fox News World](https://www.foxnews.com/world/irish-activist-indicted-us-alleged-destruction-60m-military-plane)
-
-**Bias breakdown:** Right: 1
-
-- United States prosecutors say Daithi O'Corrain spent months planning the Shannon Airport attack that left a $60 million C-130H Hercules beyond repair
-
-## 9. Iran and US trade tit-for-tat strikes as wild video shows hit on UAE oil tanker
-
-**Source:** [New York Post World](https://nypost.com/2026/11/18/world-news/uae-oil-tanker-struck-in-strait-of-hormuz-amid-us-iran-attacks/)
-
-**Bias breakdown:** Lean Right: 1
-
-- Search and rescue operations are underway for an unaccounted-for crew member, as 11 others sustained injuries.
-
-## 10. Shocking video shows Putin’s prized Crimea bridge in total ruin following Ukraine strikes
-
-**Source:** [New York Post World](https://nypost.com/2026/11/18/world-news/commuter-video-shows-putins-collapsed-crimea-bridge/)
-
-**Also covered by:** BBC World
-
-**Bias breakdown:** Center: 1 · Lean Right: 2
-
-- Commuters in the annexed Crimean peninsula were greeted with shock after seeing a whole section of Russian President Vladimir Putin's prized bridge collapsed on Tuesday, new video shows.
-
-## 11. Japan scrambles fighter jets after Russian aircraft breach airspace amid rising Pacific tensions
-
-**Source:** [Fox News World](https://www.foxnews.com/world/japan-scrambles-fighter-jets-russian-aircraft-breach-airspace-rising-pacific-tensions)
-
-**Bias breakdown:** Right: 1
-
-- Suspected Russian aircraft entered Japanese airspace near Okinoshima, and Prime Minister Sanae Takaichi warned of instability at the Quad Leaders Summit.
-
-## 12. Beijing and Moscow present a united front at APEC
+## 4. Beijing and Moscow present a united front at APEC
 
 **Source:** [Christian Science Monitor World](https://www.csmonitor.com/World/Asia-Pacific/2026/1118/xi-putin-trump-APEC-china?icid=rss)
 
-**Also covered by:** NPR World
-
-**Bias breakdown:** Lean Left: 1 · Center: 1
+**Bias breakdown:** Center: 1
 
 - Chinese leader Xi Jinping and Russian President Vladimir Putin both critiqued U.S.
 - leadership in speeches delivered at APEC on Wednesday.
 
-## 13. US races to build bunkers across Middle East as Iranian strikes threaten American troops
-
-**Source:** [Fox News World](https://www.foxnews.com/world/us-races-build-bunkers-across-middle-east-iranian-strikes-threaten-american-troops)
-
-**Bias breakdown:** Right: 1
-
-- The U.S.
-- Army is hiring contractors to build 17 reinforced concrete bunkers in Israel, Saudi Arabia and Lebanon amid Iranian missile and drone attacks.
-
-## 14. World leaders gather in Shenzhen, China’s youthful, business-friendly melting pot
+## 5. World leaders gather in Shenzhen, China’s youthful, business-friendly melting pot
 
 **Source:** [Christian Science Monitor World](https://www.csmonitor.com/World/Asia-Pacific/2026/1118/Shenzhen-China-modern-young-city-APEC-summit?icid=rss)
 
@@ -133,7 +53,7 @@
 
 - With an average resident age of 32, Shenzhen is the youngest of China’s top-tier cities, and local policies are designed to lure talented transplants.
 
-## 15. Karl Kani dressed hip-hop royalty for decades. Now he's telling his own story
+## 6. Karl Kani dressed hip-hop royalty for decades. Now he's telling his own story
 
 **Source:** [NPR World](https://www.npr.org/2026/11/18/g-s1-154227/karl-kani-a-life-by-design)
 
@@ -141,55 +61,19 @@
 
 - On NPR's  Morning Edition , fashion designer Karl Kani talks about his new memoir, dressing some of hip-hop's biggest stars and why skinny jeans aren't for everyone.
 
-## 16. Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling
+## 7. Fears grow that US will put Nobel-winning judge under sanctions after Myanmar genocide ruling
 
 **Source:** [The Guardian World](https://www.theguardian.com/world/2026/nov/18/us-sanctions-icj-judges-myanmar-genocide-ruling-israel-gaza-court)
 
-**Also covered by:** BBC World, Deutsche Welle Top Stories, NYT World, NYT World, NPR World, Al Jazeera, New York Post World
+**Also covered by:** Deutsche Welle Top Stories
 
-**Bias breakdown:** Lean Left: 5 · Center: 2 · Lean Right: 1
+**Bias breakdown:** Lean Left: 1 · Center: 1
 
 - A ruling against Myanmar could set precedent for court’s judgment on Israel’s actions in Gaza  Fears are growing that the US could impose sanctions on judges at the international court of justice, including this year’s  Nobel peace prize winner, Navi Pillay , if the  court rules on Thursday that the Myanmar government committed genocide  against the Rohingya.
 - The ICJ has never found a state responsible for committing genocide, and a significant factor in previous cases has been how to prove “intent” in a crime defined as acts committed with the “intent to destroy, in whole or in part” a national, ethnical, racial or religious group.
 - Continue reading...
 
-## 17. Mary Peltola flips Alaska's Senate seat. And, Nvidia won't reinstate Jensen Huang
-
-**Source:** [NPR World](https://www.npr.org/2026/11/18/g-s1-154145/up-first-newsletter-mary-peltola-alaska-trump-asia-nvidia-tech-issues-ai)
-
-**Bias breakdown:** Lean Left: 1
-
-- Former Democratic Rep.
-- Mary Peltola has won one of the U.S.' most watched Senate races.
-- And, Nvidia's board says it doesn't plan to reinstate former CEO Jensen Huang despite pressure from his allies.
-
-## 18. Former U.S. ambassador on Trump's joint summit with leaders of China and Russia
-
-**Source:** [NPR World](https://www.npr.org/2026/11/18/nx-s1-6044067/former-u-s-ambassador-on-trumps-joint-summit-with-leaders-of-china-and-russia)
-
-**Bias breakdown:** Lean Left: 1
-
-- NPR's Leila Fadel speaks to Nicholas Burns, former U.S.
-- ambassador to China and NATO, about President Trump's planned meeting with the leaders of China and Russia.
-
-## 19. Greetings from a Berlin square, where an artist's statue watches over children at play
-
-**Source:** [NPR World](https://www.npr.org/2026/11/18/nx-s1-6043021/berlin-kollwitzplatz-statue)
-
-**Bias breakdown:** Lean Left: 1
-
-- Children frolic around the ever-watchful and calm Käthe Kollwitz cast in bronze, in a square named after the German artist, whose work often depicted children in the wake of World War I.
-
-## 20. Trump lands in China with key meetings with Xi and Putin on the agenda
-
-**Source:** [NPR World](https://www.npr.org/2026/11/18/nx-s1-6045518/trump-china-xi-putin)
-
-**Bias breakdown:** Lean Left: 1
-
-- Xi paid Trump a special honor by greeting him on the tarmac after Air Force One arrived in Shenzhen, reciprocating a gesture made by the U.S.
-- president during Xi's visit to Washington in September.
-
-## 21. European Commission accused of sugarcoating figures to release funds to Egypt
+## 8. European Commission accused of sugarcoating figures to release funds to Egypt
 
 **Source:** [The Guardian World](https://www.theguardian.com/world/2026/nov/18/european-commission-accused-sugarcoating-figures-egypt-loans)
 
@@ -199,7 +83,7 @@
 - The charge relates to a €7.4bn deal  promised by Ursula von der Leyen , the European Commission president, to al-Sisi on a high-profile visit to Cairo in 2024.
 - The three-year “strategic and comprehensive partnership” was intended to bolster Egypt’s shaky economy, deter migrants from coming to Europe and shore up a region reeling from the 7 October attacks and Israel’s war on Gaza.
 
-## 22. Caribbean nations fear economic impact of shuttering citizenship program after EU threats
+## 9. Caribbean nations fear economic impact of shuttering citizenship program after EU threats
 
 **Source:** [The Guardian World](https://www.theguardian.com/world/2026/nov/17/st-kitts-nevis-citizenship-investment)
 
@@ -209,27 +93,7 @@
 - On Friday, Terrance Drew, the prime minister of the twin-island Caribbean nation, announced he would wind down the citizenship-by-investment (CBI) programme, after the European Union threatened to end visa-free access for St Kitts and Nevis.
 - Continue reading...
 
-## 23. Isolated Brazilian tribe emerges amid alarm over threats to group’s way of life
-
-**Source:** [The Guardian World](https://www.theguardian.com/world/2026/nov/17/brazil-amazon-isolated-indigenous-people)
-
-**Bias breakdown:** Lean Left: 1
-
-- Indigenous Awá people of Amazon make contact with villagers and accept food to take back to territory  About 20 Indigenous people emerged from isolation in Brazil’s Amazon rainforest, several organizations reported on Tuesday, raising the alarm about increased invasions into the tribe’s territory.
-- According to the NGO Survival International, members of the Awá people, who live in voluntary isolation, arrived on Monday in a village and made contact with a government team in a “historic encounter”.
-- Continue reading...
-
-## 24. Eight-year-old Haitian boy returns home after release from ICE custody
-
-**Source:** [The Guardian World](https://www.theguardian.com/us-news/2026/nov/17/haitian-child-ice-custody-release)
-
-**Bias breakdown:** Lean Left: 1
-
-- Child reunited with family after he was detained by immigration agents in San Diego and transferred to Texas  An eight-year-old Haitian boy who was put into restraints and detained by immigration agents in San Diego on 4 November and transferred to a facility in  Texas  has been reunited with his family in  California .
-- Representative Juan Vargas shared a photograph of the boy and his family in a social media post on Monda, writing: “11 days ago, an 8-year-old in San Diego was taken into federal custody during an immigration check-in.
-- He was separated from his loved ones and held in a facility in Texas.
-
-## 25. With few alternatives, Gazans shelter in collapsing buildings
+## 10. With few alternatives, Gazans shelter in collapsing buildings
 
 **Source:** [Christian Science Monitor World](https://www.csmonitor.com/World/Middle-East/2026/1117/gaza-war-housing-shortage-collapsed-buildings-al-saada?icid=rss)
 
@@ -238,7 +102,7 @@
 - Facing a severe lack of housing, most Gazans live in tents.
 - Some, however, are taking their chances in buildings dangerously damaged by the Israeli military.
 
-## 26. Some Filipinos, feeling ‘bullied’ by China, are reassured by Trump’s visit
+## 11. Some Filipinos, feeling ‘bullied’ by China, are reassured by Trump’s visit
 
 **Source:** [Christian Science Monitor World](https://www.csmonitor.com/World/Asia-Pacific/2026/1117/asean-philippines-china-trump-security?icid=rss)
 
@@ -247,167 +111,118 @@
 - Security issues – including China’s expanding patrols in traditional fishing grounds – are top of mind as the U.S.
 - president kicks off his Asia trip in Manila, Philippines.
 
-## 27. Five EU states announce plans for immigration ‘return hubs’ in Rwanda
+## 12. Zelenskyy presses US for expanded Russia talks as Kushner announces breakthrough
 
-**Source:** [The Guardian World](https://www.theguardian.com/world/2026/nov/16/eu-states-immigration-return-hubs-rwanda)
+**Source:** [Fox News World](https://www.foxnews.com/world/zelenskyy-presses-us-expanded-russia-talks-kushner-announces-breakthrough)
 
-**Bias breakdown:** Lean Left: 1
+**Bias breakdown:** Right: 1
 
-- Germany, Austria, Netherlands, Denmark and Greece likely to face challenges to policy criticised as ‘grave moral failing’  Five EU member states have announced plans to set up an offshore centre in Rwanda for people with no legal right to stay in Europe, in a pilot scheme that is expected to face legal challenges and has been denounced as “a grave moral failing”.
-- The five countries – Germany, Austria, the Netherlands, Denmark and Greece – are the first to seek to use the EU’s  newly agreed returns law  that allows   people who have exhausted all avenues of appeal against their removal from Europe to be sent to a third country.
-- Continue reading...
+- Jared Kushner said Russia agreed to multilateral Ukraine war talks involving Europe after Zelenskyy urged the Trump administration to move quickly.
 
-## 28. After Deadly Train Crash, Spain Asks: Did It Grow Too Much, Too Quickly?
+## 13. Iranians are escalating attacks on Strait of Hormuz because they believe they can force Trump into a deal: experts
 
-**Source:** [NYT World](https://www.nytimes.com/2026/11/19/world/europe/spain-trains-infrastructure.html)
+**Source:** [New York Post World](https://nypost.com/2026/11/19/world-news/iranians-are-escalating-attacks-on-hormuz-because-they-believe-they-can-force-trump-into-a-deal/)
 
-**Bias breakdown:** Lean Left: 1
+**Bias breakdown:** Lean Right: 1
 
-- As an election nears, a railway disaster in Spain has set off debate over whether maintenance of its infrastructure kept pace with its booming population.
+- Iran is escalating its attacks in the Middle East as a means to reclaim its control over the Strait of Hormuz and force the US into action for a conclusive end to the war, according to multiple reports.
 
-## 29. Susan Smith denied parole again 32 years after drowning her two sons
+## 14. Trilateral meeting brings lofty goals – but no certainty on ending wars
 
-**Source:** [BBC World](https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo?at_medium=RSS&at_campaign=rss)
+**Source:** [Christian Science Monitor World](https://www.csmonitor.com/World/Asia-Pacific/2026/1119/trump-xi-putin-trilateral-peace-nuclear?icid=rss)
 
 **Bias breakdown:** Center: 1
 
-- This is the second time Smith has requested to be released from prison for killing the two boys, who were both under the age of four at the time.
+- The world’s largest nuclear powers sat down for their first-ever trilateral meeting, talking peace and stability, and refining the international order.
 
-## 30. Trump, Xi and Putin Seek to Project Power at Their First Summit
+## 15. Step toward accountability: Top UN court finds Myanmar guilty of Rohingya genocide
 
-**Source:** [NYT World](https://www.nytimes.com/live/2026/11/18/world/trump-xi-putin-apec)
+**Source:** [Christian Science Monitor World](https://www.csmonitor.com/World/Asia-South-Central/2026/1119/rohingya-myanmar-genocide-ruling-un-court?icid=rss)
 
-**Also covered by:** Fox News World
+**Also covered by:** NYT World
 
-**Bias breakdown:** Lean Left: 1 · Right: 1
+**Bias breakdown:** Lean Left: 1 · Center: 1
 
-- The meeting in China appeared to be largely symbolic.
-- After President Trump departed, President Vladimir V.
-- Putin said that Russia would not negotiate with Ukraine on a cease-fire.
+- Rohingya refugees around the world welcomed the ruling, which comes after a yearslong legal battle and decades of persecution in western Myanmar.
 
-## 31. The Rohingya Crisis Over the Years
+## 16. After Bridge Attack, Putin Says He Will ‘Not Be Negotiating’ Ukraine Cease-Fire
 
-**Source:** [NYT World](https://www.nytimes.com/2026/11/19/world/asia/rohingya-camps-photos-bangladesh.html)
+**Source:** [NYT World](https://www.nytimes.com/2026/11/19/world/europe/putin-shenzhen-crimea-bridge.html)
 
 **Bias breakdown:** Lean Left: 1
 
-- After government troops and mobs rampaged through Rohingya communities in Myanmar in 2017, refugees fled to to Bangladesh.
+- The Russian leader invited European representatives to Moscow to discuss giving them a role in negotiations.
+- It was unclear how serious the offer was.
 
-## 32. Saudi Sovereign Wealth Fund Tower Damaged as Houthis Attack Riyadh
+## 17. Moment rapist husband reveals ‘wife-sharing’ fetish after inviting men to assault spouse in chilling police interview
 
-**Source:** [NYT World](https://www.nytimes.com/2026/11/19/world/middleeast/saudi-pif-riyadh-tower-houthis-attack.html)
+**Source:** [New York Post World](https://nypost.com/2026/11/19/world-news/rapist-philip-young-admits-to-wife-sharing-fetish-in-police-interview/)
 
-**Also covered by:** New York Post World
+**Bias breakdown:** Lean Right: 1
 
-**Bias breakdown:** Lean Left: 1 · Lean Right: 1
+- "I'm monogamous.
+- I'm not interested in being with other women.
+- But part of my fantasy is her with other men," the husband says.
 
-- An aerial attack by the Yemeni militia affected several floors of a skyscraper that is home to the Public Investment Fund, without causing injuries, according to Saudi authorities.
+## 18. Meghan Markle’s estranged dad, Thomas, deemed competent to face child porn charges: independent psychiatric report
 
-## 33. Greenland Pulls Closer to the U.S. — by an Hour
+**Source:** [New York Post World](https://nypost.com/2026/11/19/world-news/meghan-markles-dad-thomas-markle-competent-to-face-child-porn-charges-report/)
 
-**Source:** [NYT World](https://www.nytimes.com/2026/11/19/world/europe/greenland-time-zone-change-us.html)
+**Bias breakdown:** Lean Right: 1
 
-**Bias breakdown:** Lean Left: 1
+- A psychiatrist found with a reasonable degree of medical certainty that Markle Sr.
+- has “sufficient ability to understand the nature and consequences of the charges against him.”
 
-- Greenland’s politicians voted to change the Arctic island’s time zone to be farther from Denmark, its former colonial power, and closer to the United States.
+## 19. Taiwan reports 2 Russian military aircraft nearby for second time this week
 
-## 34. Dozens missing after boat carrying migrants sinks off Senegal's coast
+**Source:** [New York Post World](https://nypost.com/2026/11/19/world-news/taiwan-reports-2-russian-military-aircraft-nearby-for-second-time-this-week/)
 
-**Source:** [BBC World](https://www.bbc.co.uk/news/articles/c58j484089ewo?at_medium=RSS&at_campaign=rss)
+**Bias breakdown:** Lean Right: 1
 
-**Bias breakdown:** Center: 1
+- Major semiconductor ​producer Taiwan has joined Western countries in placing wide economic sanctions on ⁠Russia since it invaded Ukraine in 2022.
 
-- At least four bodies have been recovered from the boat which was reportedly carrying between 50 and 100 people.
+## 20. Trump says he won’t strike Iran again before 2027, as envoy says Israel may ‘go it alone’ against Tehran regime
 
-## 35. As Burnham heads to Brussels, are new Brexit wars about to begin?
+**Source:** [New York Post World](https://nypost.com/2026/11/19/us-news/trump-not-rushing-into-iran-decision-says-we-will-see-what-happens-in-2027/)
 
-**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/19/as-burnham-heads-to-brussels-are-new-brexit-wars-about-to-begin?traffic_source=rss)
+**Bias breakdown:** Lean Right: 1
 
-**Bias breakdown:** Lean Left: 1
+- President Trump indicated Thursday that he’s not committing to any more strikes on Iran for the rest of this year, despite reported pressure from Israel to launch another bombing campaign.
 
-- The UK premier is heading to Brussels for the second round of EU talks aimed at deepening post-Brexit cooperation.
+## 21. Iran regime's execution spree continues as twins face death penalty, decades in prison after alleged torture
 
-## 36. Putin pitches Arctic route, calls for investment: Will it work?
+**Source:** [Fox News World](https://www.foxnews.com/world/iran-regime-execution-spree-continues-twins-face-death-penalty-decades-prison-alleged-torture)
 
-**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/19/putin-pitches-arctic-route-calls-for-investment-will-it-work?traffic_source=rss)
+**Bias breakdown:** Right: 1
 
-**Bias breakdown:** Lean Left: 1
+- Two Iranian twin sisters allege the judge hearing their torture complaint was the official who assaulted them during interrogation, their cousin says.
 
-- Analysts say some Asian investors may show interest, but the route is unlikely to be a viable global shipping lane.
+## 22. Iran-backed Houthi 'terrorist attack' hits Riyadh's tallest skyscraper and HQ of Saudi Public Investment Fund
 
-## 37. A geography of hearts: Turkiye and Lebanon, building the Levant together
+**Source:** [Fox News World](https://www.foxnews.com/world/iran-backed-houthi-terrorist-attack-hits-riyadh-tallest-skyscraper-hq-saudi-public-investment-fund)
 
-**Source:** [Al Jazeera](https://www.aljazeera.com/opinions/2026/11/19/a-geography-of-hearts-turkiye-and-lebanon-building-the-levant-together?traffic_source=rss)
+**Bias breakdown:** Right: 1
 
-**Bias breakdown:** Lean Left: 1
+- A suspected Houthi missile strike hit the Saudi Public Investment Fund Tower in Riyadh, destroying windows across up to eight floors, reports said.
 
-- Turkiye and Lebanon can build a stronger Levant through partnership, sovereignty and mutual respect.
+## 23. Trump, Putin, Xi issue 4-point declaration after historic summit
 
-## 38. Somalia expels UAE ambassador, accuses Abu Dhabi of violating sovereignty
+**Source:** [Fox News World](https://www.foxnews.com/world/trump-putin-xi-issue-4-point-declaration-historic-summit)
 
-**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/19/somalia-expels-uae-ambassador-accuses-abu-dhabi-of-violating-sovereignty?traffic_source=rss)
+**Bias breakdown:** Right: 1
 
-**Bias breakdown:** Lean Left: 1
+- Donald Trump, Vladimir Putin and Xi Jinping signed a joint peace declaration at APEC in China, a historic first for the three nations' heads of state.
 
-- Somalia says the UAE is interfering in its internal affairs with actions that amount to an 'open invasion'.
+## 24. China could exploit US technology to threaten American forces, congressional watchdog leaders warn
 
-## 39. ‘Gaza Syndrome’: Israel’s Soldiers Haunted by Genocide – Cost of War
+**Source:** [Fox News World](https://www.foxnews.com/world/china-could-exploit-us-technology-threaten-american-forces-congressional-watchdog-leaders-warn)
 
-**Source:** [Al Jazeera](https://www.aljazeera.com/video/al-jazeera-originals/2026/11/19/gaza-syndrome-israels-soldiers-haunted-by-genocide-cost-of-war?traffic_source=rss)
+**Bias breakdown:** Right: 1
 
-**Bias breakdown:** Lean Left: 1
+- China could gain access to American chips and AI infrastructure without companies’ knowledge, congressional watchdog leaders warn, potentially advancing weapons that threaten U.S.
+- forces.
 
-- The trauma Israeli soldiers bring home — and the consequences of Israel’s genocide in Gaza.
-
-## 40. Canada’s beloved Tim Hortons brews ire over ‘excessive’ Israeli data deal
-
-**Source:** [Al Jazeera](https://www.aljazeera.com/features/2026/11/19/canadas-beloved-tim-hortons-brews-ire-over-excessive-israeli-data-deal?traffic_source=rss)
-
-**Bias breakdown:** Lean Left: 1
-
-- Advocates raised concerns about consumer privacy and data-sharing, involving a firm with ties to Israel's military.
-
-## 41. FIFA Under-17 World Cup 2026 gets under way in Qatar despite USA withdrawal
-
-**Source:** [Al Jazeera](https://www.aljazeera.com/sports/2026/11/19/fifa-under-17-world-cup-2026-gets-under-way-in-qatar-despite-usa-withdrawal?traffic_source=rss)
-
-**Bias breakdown:** Lean Left: 1
-
-- The 25-day tournament will feature 48 teams, with Dominican Republic replacing USA as FIFA plays down security concerns.
-
-## 42. Venezuela signs military deal with US less than a year after Maduro's removal
-
-**Source:** [BBC World](https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss)
-
-**Bias breakdown:** Center: 1
-
-- The US Secretary of Defence says Venezuela has "gone from our most aggressive regional threat to a compliant security partner".
-
-## 43. Where Roots Lie: Surviving Child Grooming and Exploitation
-
-**Source:** [Al Jazeera](https://www.aljazeera.com/video/witness/2026/11/19/where-roots-lie-surviving-child-grooming-and-exploitation?traffic_source=rss)
-
-**Bias breakdown:** Lean Left: 1
-
-- Sosa, a survivor of trafficking and gang exploitation in the UK, returns to Nigeria to search for his missing mother.
-
-## 44. US consortium wins huge Kenya mining deal, beating Chinese rivals
-
-**Source:** [BBC World](https://www.bbc.co.uk/news/articles/cm9q84gp0gr3o?at_medium=RSS&at_campaign=rss)
-
-**Bias breakdown:** Center: 1
-
-- The Mrima Hill site is estimated to hold deposits of critical minerals worth more than $60bn (£45bn).
-
-## 45. Behind Trump Meeting, Xi and Putin Share a Vision of Usurping U.S. Power
-
-**Source:** [NYT World](https://www.nytimes.com/2026/11/19/world/asia/xi-putin-trump-meeting-china-russia.html)
-
-**Bias breakdown:** Lean Left: 1
-
-- President Trump joined the Chinese and Russian leaders for a summit in Shenzhen, even though the two autocrats are trying to reverse America’s victory in the Cold War.
-
-## 46. Race to replant five South African baobabs after export blocked
+## 25. Race to replant five South African baobabs after export blocked
 
 **Source:** [The Guardian World](https://www.theguardian.com/environment/2026/nov/19/baobab-five-trees-south-africa-dug-up-export-blocked-georgia-aoe)
 
@@ -417,15 +232,7 @@
 - The baobabs arrived at a reserve in Timbavati, in north-eastern South Africa, on Wednesday, where they will be replanted and supported by cables to help them recover.
 - The trees had been stranded at a warehouse in Durban since July, when they were intercepted by authorities who said they had been moved without the necessary permissions.
 
-## 47. Police investigating claims Jeffrey Epstein sex trafficked women at King Charles’ Balmoral estate
-
-**Source:** [New York Post World](https://nypost.com/2026/11/19/world-news/police-investigating-claims-jeffrey-epstein-sex-trafficked-women-at-king-charles-balmoral-estate/)
-
-**Bias breakdown:** Lean Right: 1
-
-- Scotland’s top cop confirmed Thursday that police are actively investigating claims that women were trafficked to the king’s private Balmoral estate — where former prince Andrew spent time with convicted pedophile Jeffery Epstein.
-
-## 48. Syria's Christian leaders warn of 'grave' threat to community's future amid wave of attacks
+## 26. Syria's Christian leaders warn of 'grave' threat to community's future amid wave of attacks
 
 **Source:** [Fox News World](https://www.foxnews.com/world/syrias-christian-leaders-warn-grave-threat-communitys-future-amid-wave-attacks)
 
@@ -433,19 +240,206 @@
 
 - Syria's top Christian leaders warn that escalating attacks, kidnappings and violence threaten their community's future, as the State Department voices concern over religious persecution.
 
-## 49. Colombia’s President Is Acquiring a Reputation for Courting Controversy
+## 27. The U.N.'s top court rules Myanmar committed genocide against the Rohingya
 
-**Source:** [NYT World](https://www.nytimes.com/2026/11/19/world/americas/colombia-president-espriella-crime.html)
+**Source:** [NPR World](https://www.npr.org/2026/11/19/g-s1-154340/un-court-myanmar-genocide-rohingya)
 
 **Bias breakdown:** Lean Left: 1
 
-- Colombia’s new leader, Abelardo De La Espriella, presents himself as a warrior against criminal groups and woke culture, and courts controversy at every turn.
+- The International Court of Justice found that Myanmar security forces "acted with genocidal intent" against the Rohingya during military operations in the northern Rakhine state in 2017.
 
-## 50. Survivors of Uganda's deadly landslide seek justice at the UN
+## 28. Anthropic raises more than $100B in IPO. And, Dems nominate Jeffries for House speaker
 
-**Source:** [BBC World](https://www.bbc.co.uk/news/articles/c920xgxp5785o?at_medium=RSS&at_campaign=rss)
+**Source:** [NPR World](https://www.npr.org/2026/11/19/g-s1-154344/up-first-newsletter-house-democrats-trump-xi-putin-anthropic)
+
+**Bias breakdown:** Lean Left: 1
+
+- Despite growing concern over a possible AI bubble, Anthropic had a record-breaking initial public offering.
+- And, Hakeem Jeffries could become the first Black Speaker of the House.
+
+## 29. Israeli shepherds report suspected 'agricultural terror' targeting livestock
+
+**Source:** [Fox News World](https://www.foxnews.com/world/israeli-shepherds-report-suspected-agricultural-terror-targeting-livestock)
+
+**Bias breakdown:** Right: 1
+
+- An official source says dozens of animal poisoning cases have emerged in the West Bank, with contaminated cisterns and food bait found across grazing areas.
+
+## 30. Top House Democrat questions what Trump accomplished in Xi-Putin summit
+
+**Source:** [NPR World](https://www.npr.org/2026/11/19/nx-s1-6046487/gregory-meeks-trump-xi-putin-summit)
+
+**Bias breakdown:** Lean Left: 1
+
+- Rep.
+- Gregory Meeks raises concerns about U.S.
+- alliances after Trump's summit with Xi and Putin.
+
+## 31. Why, despite midterms, a reset in US-global diplomacy could take a long time
+
+**Source:** [Christian Science Monitor World](https://www.csmonitor.com/World/2026/1119/midterms-us-europe-reset-relations-congress-democratic?icid=rss)
 
 **Bias breakdown:** Center: 1
 
-- Survivors reject relocation plans they say ignore their safety, land rights and livelihoods.
+- A Democratic Congress could help to change the way the U.S.
+- interacts with other parts of the world.
+
+## 32. Iran's attacks on ships in the Strait of Hormuz escalate
+
+**Source:** [NPR World](https://www.npr.org/2026/11/19/nx-s1-6044206/irans-attacks-on-ships-in-the-strait-of-hormuz-escalate)
+
+**Bias breakdown:** Lean Left: 1
+
+- Iran takes the offensive with attacks on ships in the Strait of Hormuz and airstrikes on several countries around the Persian Gulf.
+
+## 33. Trump, Xi and Putin meet as global alliances hang in the balance
+
+**Source:** [NPR World](https://www.npr.org/2026/11/18/nx-s1-6040432/trump-xi-and-putin-shenzhen-china-russia-usa)
+
+**Also covered by:** Fox News World
+
+**Bias breakdown:** Lean Left: 1 · Right: 1
+
+- President Trump, China's Xi Jinping and Russia's Vladimir Putin have gathered in Shenzhen, China, for a historic trilateral meeting, with Ukraine, Iran and nuclear disarmament on the agenda.
+
+## 34. One in four women globally unable to refuse sex within marriage, says UN
+
+**Source:** [The Guardian World](https://www.theguardian.com/global-development/2026/nov/19/women-girls-rights-rape-sexual-violence-africa-marriage-unfpa)
+
+**Bias breakdown:** Lean Left: 1
+
+- Almost half of women in west and central Africa cannot withhold consent, with girls worst affected, UNFPA finds  One in four women around the world have no power of consent if their husband or partner demands sex, according to a UN report.
+- In west and central Africa, almost half of women (45%) are not able to say no in their own marriage, while a third of women (33%) in east and southern Africa and in Arab states face the same predicament.
+- In Latin America and the Caribbean, one in 10 women are not able to refuse sex, said  the report  by the UN Population Fund ( UNFPA ) published on Thursday.
+
+## 35. Trump Says Colombia Will Accept Deportees, Ending Tariff Standoff
+
+**Source:** [WSJ World News](https://www.wsj.com/articles/trump-says-colombia-will-face-25-tariffs-amid-fight-over-deportation-flights-e32dc497)
+
+**Bias breakdown:** Center: 1
+
+- The president has made immigration an early priority to start second term, with ICE making more than 900 arrests Sunday.
+
+## 36. Palestinians Stream Back to Northern Gaza on Foot
+
+**Source:** [WSJ World News](https://www.wsj.com/articles/palestinians-flock-back-to-northern-gaza-on-foot-after-hostage-release-breakthrough-3f60e2db)
+
+**Bias breakdown:** Center: 1
+
+- Israel allowed displaced Gazans to begin crossing a military zone that bisects the enclave after a deadlock over hostage releases was broken.
+
+## 37. Leading China Property Developer Reports Huge loss, in Sign of Widening Real-Estate Woes
+
+**Source:** [WSJ World News](https://www.wsj.com/articles/even-chinas-property-stalwart-isnt-immune-from-the-crisis-19799863)
+
+**Bias breakdown:** Center: 1
+
+- Troubles at Vanke raise questions about the continued spread of the property crisis and whether the Chinese state will step in.
+
+## 38. Freed Israeli Hostages Still Had Shrapnel in Their Bodies From Oct. 7 Attack
+
+**Source:** [WSJ World News](https://www.wsj.com/articles/freed-israeli-hostages-still-had-shrapnel-in-their-bodies-from-oct-7-attack-3de8cd1e)
+
+**Bias breakdown:** Center: 1
+
+- Some of the women were held alone for extended periods and spent eight months in tunnels, an Israeli medical official said.
+
+## 39. Suspected Sabotage of Deep-Sea Cable Triggers First NATO-Led Response
+
+**Source:** [WSJ World News](https://www.wsj.com/articles/suspected-sabotage-of-deep-sea-cable-triggers-first-nato-led-response-337119ba)
+
+**Bias breakdown:** Center: 1
+
+- The alliance mounted its first coordinated response to a suspected sabotage campaign against critical infrastructure after another cable was severed in the Baltic Sea.
+
+## 40. Rwanda-Backed Rebels Enter Congo's Safe-Haven City
+
+**Source:** [WSJ World News](https://www.wsj.com/articles/rwanda-backed-rebels-enter-congo-safe-haven-city-aid-hub-09fdccb8)
+
+**Bias breakdown:** Center: 1
+
+- Residents of Goma reported gunfire and shelling after rebels overran Congolese troops.
+- U.N.
+- officials estimated that more than one million displaced people were now inside the city.
+
+## 41. Cocaine-Funded Gangs Shake Colombia Years After Peace Pact
+
+**Source:** [WSJ World News](https://www.wsj.com/articles/cocaine-funded-gangs-shake-colombia-years-after-peace-pact-a45a28da)
+
+**Bias breakdown:** Center: 1
+
+- Attacks by powerful militias against civilians reflect the state’s inaction eight years after a peace accord removed a powerful rebel group from the field.
+
+## 42. Italy Supports Saudi Arabia Joining Fighter-Jet Program, PM Meloni Says
+
+**Source:** [WSJ World News](https://www.wsj.com/articles/italy-supports-saudi-arabia-joining-gcap-fighter-jet-program-pm-meloni-says-bbd9cec1)
+
+**Bias breakdown:** Center: 1
+
+- The U.K., Italy and Japan have already partnered on the Global Combat Air Programme, which aims to put a new stealth fighter with supersonic capability in the skies by 2035.
+
+## 43. Shippers Wary of Red Sea Routes Despite Houthi Pledge to End Targeting
+
+**Source:** [WSJ World News](https://www.wsj.com/articles/shippers-wary-of-red-sea-routes-despite-houthi-pledge-to-end-targeting-4dde35c2)
+
+**Bias breakdown:** Center: 1
+
+- The world’s top three container operators said they fear instability in Gaza and broader regional tensions mean continued danger.
+
+## 44. Kim Jong Un Is Doing Everything He Can to Keep North Korea's Youth in Line
+
+**Source:** [WSJ World News](https://www.wsj.com/articles/kim-jong-un-is-doing-everything-he-can-to-keep-north-koreas-youth-in-line-0866a1de)
+
+**Bias breakdown:** Center: 1
+
+- The dictator, eager to shut out the influence of Hollywood and K-pop, has been exalting a “shock brigade” of 300,000 teens and 20-somethings drafted into flood reconstruction.
+
+## 45. Israelis voted for change. Can Gadi Eisenkot deliver?
+
+**Source:** [Christian Science Monitor World](https://www.csmonitor.com/World/Middle-East/2026/1116/israel-elections-eisenkot-netanyahu-arab-palestinian?icid=rss)
+
+**Bias breakdown:** Center: 1
+
+- Opposition parties say they want to end Benjamin Netanyahu’s long run as Israel’s prime minister.
+- But they’re far from unified.
+
+## 46. Russia is targeting winter energy. Ukrainians are preparing backup heat.
+
+**Source:** [Christian Science Monitor World](https://www.csmonitor.com/World/Europe/2026/1116/ukraine-winter-power-outage-heat-energy-solar-batteries?icid=rss)
+
+**Bias breakdown:** Center: 1
+
+- With winter looming and Russia stepping up attacks on Ukrainian energy infrastructure, Ukrainians are preparing decentralized heating solutions now.
+
+## 47. Our World: The week of Nov. 16, 2026
+
+**Source:** [Christian Science Monitor World](https://www.csmonitor.com/World/2026/1116/russia-data-centers-london-retail-south-korea-shipyards-ghana?icid=rss)
+
+**Bias breakdown:** Center: 1
+
+- Our World is a roundup from our weekly print edition of noteworthy happenings, from our global correspondents and editors.
+
+## 48. Anthropic shares fall a day after blockbuster opening
+
+**Source:** [BBC World](https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss)
+
+**Bias breakdown:** Center: 1
+
+- Other tech companies have also taken a hit as share markets broadly slump.
+
+## 49. Qatar and Germany deepen strategic ties during emir’s Berlin visit
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/20/qatar-and-germany-deepen-strategic-ties-during-emirs-berlin-visit?traffic_source=rss)
+
+**Bias breakdown:** Lean Left: 1
+
+- German chancellor says Qatar pledged $16.5bn in new investments as the two countries deepen defence and technology ties.
+
+## 50. US Senate passes bill to speed up energy project approvals
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/20/us-senate-passes-bill-to-speed-up-energy-project-approvals?traffic_source=rss)
+
+**Bias breakdown:** Lean Left: 1
+
+- The legislation aims to lower energy bills by making energy project approvals faster and limiting court challenges.
 
