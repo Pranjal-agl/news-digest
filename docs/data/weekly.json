@@ -1,0 +1,1567 @@
+{
+ "start": "2026-11-17",
+ "end": "2026-11-23",
+ "days": 1,
+ "coverage": {
+  "left": 73,
+  "center": 31,
+  "right": 48,
+  "left_pct": 48,
+  "center_pct": 20,
+  "right_pct": 32
+ },
+ "stats": {
+  "stories": 60,
+  "blindspots": 7,
+  "blindspot_left": 2,
+  "blindspot_right": 5
+ },
+ "stories": [
+  {
+   "id": "dec82cd1de",
+   "title": "Ukraine was behind attack on Russian warship off Libya: Zelensky",
+   "link": "https://thehill.com/policy/defense/6237786-ukraine-drones-sink-russian-ship-zelensky/",
+   "source": "The Hill",
+   "summary": "Ukrainian drones sank a Russian naval ship in a Libyan port ​on Sunday, according to President Volodymyr ‌Zelensky. In videos released by the Ukrainian leader on Monday, the corvette known as the Merkury — one of Russia’s newest vessels — is shown being attacked at the Benghazi naval base. Ukraine's SBU security service captured the...",
+   "image_url": "https://thehill.com/wp-content/uploads/sites/2/2026/07/AP26194671347834-e1785179185820.jpg?w=900",
+   "published": "2026-11-22T17:20:17+00:00",
+   "updated": "2026-11-23T18:25:55+00:00",
+   "first_reported": {
+    "source": "Breitbart",
+    "published": "2026-11-22T17:20:17+00:00"
+   },
+   "all_sources": [
+    "Breitbart",
+    "New York Post",
+    "The Hill",
+    "Fox News",
+    "Deutsche Welle",
+    "CBC News",
+    "NPR",
+    "HuffPost",
+    "BBC News",
+    "The Independent",
+    "Daily Mail",
+    "New York Times",
+    "Al Jazeera"
+   ],
+   "source_count": 13,
+   "article_count": 18,
+   "bias_breakdown": {
+    "Left": 1,
+    "Lean Left": 5,
+    "Center": 3,
+    "Lean Right": 2,
+    "Right": 2
+   },
+   "bias_bar": {
+    "left_pct": 46,
+    "center_pct": 23,
+    "right_pct": 31,
+    "left": 6,
+    "center": 3,
+    "right": 4,
+    "unrated": 0,
+    "total": 13
+   },
+   "blindspot": null,
+   "is_blindspot": false,
+   "ownership_breakdown": {
+    "Media Conglomerate": 4,
+    "Government": 4,
+    "Corporation": 2,
+    "Other": 1,
+    "Independent": 1,
+    "Individual": 1
+   },
+   "topic": "Conflict",
+   "places": [
+    {
+     "name": "Ukraine",
+     "region": "Europe"
+    },
+    {
+     "name": "Russia",
+     "region": "Europe"
+    },
+    {
+     "name": "Libya",
+     "region": "Africa"
+    },
+    {
+     "name": "Poland",
+     "region": "Europe"
+    }
+   ],
+   "region": "Europe",
+   "score": 17.983,
+   "is_trending": true,
+   "bullet_points": [
+    "Ukrainian drones sank a Russian naval ship in a Libyan port ​on Sunday, according to President Volodymyr ‌Zelensky.",
+    "Ukraine carried out an attack on a Russian warship moored at a port in Libya, President Volodymyr Zelenskyy said, claiming that sea drones sank the navy vessel in a surprise assault.",
+    "Ukraine says it sank the Russian warship Merkury off the coast of Libya."
+   ],
+   "date": "2026-11-23"
+  },
+  {
+   "id": "26e0edb3cf",
+   "title": "Nvidia reinstates Jensen Huang as CEO",
+   "link": "https://www.cbc.ca/news/business/jensen-huang-reinstated-nvidia-9.7432353?cmp=rss",
+   "source": "CBC News",
+   "summary": "Nvidia's board reinstated Jensen Huang as its president and CEO on Monday in a surprise move shortly after rejecting his offer to return. It's the latest twist in the fallout from Huang's admission of an affair with a woman suspected of being a Chinese spy.",
+   "image_url": "https://i.cbc.ca/ais/335994d6-980a-4c1e-a9b4-abbcb9a1b34c,1795443564678/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C656%2C3000%2C1687%29%3B",
+   "published": "2026-11-22T11:03:04+00:00",
+   "updated": "2026-11-23T19:35:13+00:00",
+   "first_reported": {
+    "source": "New York Times",
+    "published": "2026-11-22T11:03:04+00:00"
+   },
+   "all_sources": [
+    "New York Times",
+    "Breitbart",
+    "Deutsche Welle",
+    "CBC News",
+    "Al Jazeera",
+    "The Hill",
+    "The Independent",
+    "BBC News",
+    "Washington Examiner"
+   ],
+   "source_count": 9,
+   "article_count": 16,
+   "bias_breakdown": {
+    "Lean Left": 4,
+    "Center": 3,
+    "Lean Right": 1,
+    "Right": 1
+   },
+   "bias_bar": {
+    "left_pct": 45,
+    "center_pct": 33,
+    "right_pct": 22,
+    "left": 4,
+    "center": 3,
+    "right": 2,
+    "unrated": 0,
+    "total": 9
+   },
+   "blindspot": null,
+   "is_blindspot": false,
+   "ownership_breakdown": {
+    "Government": 4,
+    "Individual": 2,
+    "Corporation": 1,
+    "Other": 1,
+    "Media Conglomerate": 1
+   },
+   "topic": "Politics",
+   "places": [
+    {
+     "name": "China",
+     "region": "Asia-Pacific"
+    },
+    {
+     "name": "US",
+     "region": "Americas"
+    }
+   ],
+   "region": "Asia-Pacific",
+   "score": 14.348,
+   "is_trending": true,
+   "bullet_points": [
+    "Shares of Nvidia surged on Monday morning after the company’s board of directors reinstated Jensen Huang as CEO.",
+    "Nvidia reinstated Jensen Huang as chief executive Monday, days after President Trump called for his return.",
+    "Jensen Huang is reinstated as NVIDIA’s CEO after reports he was targeted in an alleged foreign intelligence operation."
+   ],
+   "date": "2026-11-23"
+  },
+  {
+   "id": "e3bce82e41",
+   "title": "COP31 climate talks collapse after member states reject deal for not mentioning fossil fuels",
+   "link": "https://www.cbc.ca/news/world/cop31-talks-collapse-fossil-fuel-9.7431847?cmp=rss",
+   "source": "CBC News",
+   "summary": "Climate talks collapsed on Sunday at COP31 in Turkey, ending the longest ever United Nations climate summit with no deal to show for it.",
+   "image_url": "https://i.cbc.ca/ais/b8ccf557-7b6b-4ab6-bef7-d49a4c07c3e8,1795367412925/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C190%2C3639%2C2046%29%3B",
+   "published": "2026-11-22T16:33:22+00:00",
+   "updated": "2026-11-23T19:27:13+00:00",
+   "first_reported": {
+    "source": "NPR",
+    "published": "2026-11-22T16:33:22+00:00"
+   },
+   "all_sources": [
+    "NPR",
+    "HuffPost",
+    "CBC News",
+    "The Hill",
+    "BBC News",
+    "Breitbart",
+    "Deutsche Welle",
+    "New York Times",
+    "Al Jazeera"
+   ],
+   "source_count": 9,
+   "article_count": 13,
+   "bias_breakdown": {
+    "Left": 1,
+    "Lean Left": 4,
+    "Center": 3,
+    "Right": 1
+   },
+   "bias_bar": {
+    "left_pct": 56,
+    "center_pct": 33,
+    "right_pct": 11,
+    "left": 5,
+    "center": 3,
+    "right": 1,
+    "unrated": 0,
+    "total": 9
+   },
+   "blindspot": "right",
+   "is_blindspot": true,
+   "ownership_breakdown": {
+    "Government": 4,
+    "Corporation": 2,
+    "Independent": 1,
+    "Media Conglomerate": 1,
+    "Other": 1
+   },
+   "topic": "Climate & Environment",
+   "places": [
+    {
+     "name": "Turkey",
+     "region": "Europe"
+    }
+   ],
+   "region": "Europe",
+   "score": 14.036,
+   "is_trending": true,
+   "bullet_points": [
+    "The COP31 summit in Antalya was the longest-running climate talks in UN history.",
+    "United Nations climate talks in Turkey have failed to reach an overarching agreement due to disagreements over mentioning fossil fuels.",
+    "Climate talks collapsed on Sunday at COP31 in Turkey, ending the longest ever United Nations climate summit with no deal to show for it."
+   ],
+   "date": "2026-11-23"
+  },
+  {
+   "id": "3bd0ec532c",
+   "title": "Fire at Indonesian candy factory leaves 3 dead, dozens of workers missing",
+   "link": "https://www.cbc.ca/news/world/indonesian-candy-factory-fire-9.7431686?cmp=rss",
+   "source": "CBC News",
+   "summary": "A fire swept through a candy factory in Indonesia's Banten province Saturday, leaving three people dead and rescue teams searching for 36 workers who remained unaccounted for, officials said.",
+   "image_url": "https://i.cbc.ca/ais/892d714f-f537-4f21-a547-06c24aa73167,1795334870929/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C112%2C1078%2C606%29%3B",
+   "published": "2026-11-22T09:45:17+00:00",
+   "updated": "2026-11-23T19:38:00+00:00",
+   "first_reported": {
+    "source": "New York Post",
+    "published": "2026-11-22T09:45:17+00:00"
+   },
+   "all_sources": [
+    "New York Post",
+    "CBC News",
+    "Fox News",
+    "BBC News",
+    "Sky News",
+    "Al Jazeera",
+    "New York Times"
+   ],
+   "source_count": 7,
+   "article_count": 8,
+   "bias_breakdown": {
+    "Lean Left": 4,
+    "Center": 1,
+    "Lean Right": 1,
+    "Right": 1
+   },
+   "bias_bar": {
+    "left_pct": 57,
+    "center_pct": 14,
+    "right_pct": 29,
+    "left": 4,
+    "center": 1,
+    "right": 2,
+    "unrated": 0,
+    "total": 7
+   },
+   "blindspot": null,
+   "is_blindspot": false,
+   "ownership_breakdown": {
+    "Government": 3,
+    "Media Conglomerate": 2,
+    "Telecom": 1,
+    "Corporation": 1
+   },
+   "topic": "World",
+   "places": [
+    {
+     "name": "Indonesia",
+     "region": "Asia-Pacific"
+    }
+   ],
+   "region": "Asia-Pacific",
+   "score": 10.408,
+   "is_trending": true,
+   "bullet_points": [
+    "Rescuers are searching for around 30 missing workers after a candy factory fire killed at least 24 people in Banten.",
+    "A massive fire tore through PT Fonusa Agung Mulia's candy factory in Indonesia's Banten, killing at least three with up to 50 workers missing.",
+    "About 300 workers were inside the factory when the fire erupted."
+   ],
+   "date": "2026-11-23"
+  },
+  {
+   "id": "f23a95a408",
+   "title": "Don Toliver Concert in Manchester Is Evacuated Over ‘Unknown Substance’",
+   "link": "https://www.nytimes.com/2026/11/23/world/europe/manchester-don-toliver-concert-evacuation-uk.html",
+   "source": "New York Times",
+   "summary": "The American rapper was performing in Manchester on Sunday when people in the crowd began experiencing effects from the substance, prompting an emergency response.",
+   "image_url": "https://static01.nyt.com/images/2026/11/23/multimedia/23xp-manchester-01-tfcg/23xp-manchester-01-tfcg-mediumSquareAt3X.jpg",
+   "published": "2026-11-23T09:05:51+00:00",
+   "updated": "2026-11-23T19:07:37+00:00",
+   "first_reported": {
+    "source": "HuffPost",
+    "published": "2026-11-23T09:05:51+00:00"
+   },
+   "all_sources": [
+    "HuffPost",
+    "Breitbart",
+    "New York Times",
+    "Al Jazeera"
+   ],
+   "source_count": 4,
+   "article_count": 4,
+   "bias_breakdown": {
+    "Left": 1,
+    "Lean Left": 2,
+    "Right": 1
+   },
+   "bias_bar": {
+    "left_pct": 75,
+    "center_pct": 0,
+    "right_pct": 25,
+    "left": 3,
+    "center": 0,
+    "right": 1,
+    "unrated": 0,
+    "total": 4
+   },
+   "blindspot": "right",
+   "is_blindspot": true,
+   "ownership_breakdown": {
+    "Corporation": 2,
+    "Other": 1,
+    "Government": 1
+   },
+   "topic": "World",
+   "places": [
+    {
+     "name": "UK",
+     "region": "Europe"
+    },
+    {
+     "name": "US",
+     "region": "Americas"
+    }
+   ],
+   "region": "Europe",
+   "score": 6.09,
+   "is_trending": true,
+   "bullet_points": [
+    "Around 12,000 fans were hastily evacuated from rapper Don Toliver's show in the north of England on Sunday night after an \"unknown substance\" was released into the crowd.",
+    "The American rapper was performing in Manchester on Sunday when people in the crowd began experiencing effects from the substance, prompting an emergency response.",
+    "More than 12,000 people were evacuated from Manchester’s Co-op Live arena"
+   ],
+   "date": "2026-11-23"
+  },
+  {
+   "id": "5b09301f10",
+   "title": "Carney shares stage with Trump impersonator: 'Fake news'",
+   "link": "https://thehill.com/policy/international/6236751-carney-trump-impersonators-dinner/",
+   "source": "The Hill",
+   "summary": "Canadian Prime Minister Mark Carney on Saturday shared the stage with two impersonators –– one of himself and the other of President Trump –– at the annual Parliamentary Press Gallery dinner in Ottawa. Carney announced that he was \"pressing the emergency comedy button\" before comedian Mark McKinney appeared as Carney. Comedian Mark Critch, as Trump,...",
+   "image_url": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26327065080138-e1795445420544.jpg?w=900",
+   "published": "2026-11-23T10:16:09+00:00",
+   "updated": "2026-11-23T17:17:03+00:00",
+   "first_reported": {
+    "source": "The Independent",
+    "published": "2026-11-23T10:16:09+00:00"
+   },
+   "all_sources": [
+    "The Independent",
+    "The Hill",
+    "BBC News",
+    "New York Post"
+   ],
+   "source_count": 4,
+   "article_count": 4,
+   "bias_breakdown": {
+    "Lean Left": 1,
+    "Center": 2,
+    "Lean Right": 1
+   },
+   "bias_bar": {
+    "left_pct": 25,
+    "center_pct": 50,
+    "right_pct": 25,
+    "left": 1,
+    "center": 2,
+    "right": 1,
+    "unrated": 0,
+    "total": 4
+   },
+   "blindspot": null,
+   "is_blindspot": false,
+   "ownership_breakdown": {
+    "Media Conglomerate": 2,
+    "Individual": 1,
+    "Government": 1
+   },
+   "topic": "Politics",
+   "places": [
+    {
+     "name": "Canada",
+     "region": "Americas"
+    },
+    {
+     "name": "US",
+     "region": "Americas"
+    }
+   ],
+   "region": "Americas",
+   "score": 5.886,
+   "is_trending": true,
+   "bullet_points": [
+    "Canadian Prime Minister Mark Carney on Saturday shared the stage with two impersonators –– one of himself and the other of President Trump –– at the annual Parliamentary Press Gallery dinner in Ottawa.",
+    "The impersonator, Canadian comedian Mark Critch, poked fun at the US president's search for a new press secretary and US-Canada trade talks.",
+    "Because I'm crazy,\" comedian Mark Critch quipped as Trump at Ottawa's annual press-gallery dinner."
+   ],
+   "date": "2026-11-23"
+  },
+  {
+   "id": "66d64f433a",
+   "title": "Iranian singer receives 74 lashes over online concert without hijab",
+   "link": "https://www.dailymail.com/news/article-16315343/Iranian-singer-receives-74-lashes-online-concert-without-hijab.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+   "source": "Daily Mail",
+   "summary": "Popular Iranian singer Parastoo Ahmadi received 74 lashes on Monday for performing without a hijab.",
+   "image_url": "https://i.dailymail.com/1s/2026/11/23/15/112677273-0-image-a-4_1795446235145.jpg",
+   "published": "2026-11-23T15:06:10+00:00",
+   "updated": "2026-11-23T19:32:44+00:00",
+   "first_reported": {
+    "source": "Daily Mail",
+    "published": "2026-11-23T15:06:10+00:00"
+   },
+   "all_sources": [
+    "Daily Mail",
+    "BBC News",
+    "CBC News"
+   ],
+   "source_count": 3,
+   "article_count": 3,
+   "bias_breakdown": {
+    "Lean Left": 1,
+    "Center": 1,
+    "Lean Right": 1
+   },
+   "bias_bar": {
+    "left_pct": 34,
+    "center_pct": 33,
+    "right_pct": 33,
+    "left": 1,
+    "center": 1,
+    "right": 1,
+    "unrated": 0,
+    "total": 3
+   },
+   "blindspot": null,
+   "is_blindspot": false,
+   "ownership_breakdown": {
+    "Government": 2,
+    "Media Conglomerate": 1
+   },
+   "topic": "World",
+   "places": [
+    {
+     "name": "Iran",
+     "region": "Middle East"
+    }
+   ],
+   "region": "Middle East",
+   "score": 5.187,
+   "is_trending": true,
+   "bullet_points": [
+    "Popular Iranian singer Parastoo Ahmadi received 74 lashes on Monday for performing without a hijab.",
+    "An Iranian singer and four members of her production team have each received 74 lashes after being sentenced for \"offending public decency ‌by producing and publishing obscene and immoral content online,\" an Iranian news website said on Monday.",
+    "Parastoo Ahmadi, three musicians and a producer were reportedly given 74 lashes in Qom."
+   ],
+   "date": "2026-11-23"
+  },
+  {
+   "id": "2b5f9ee639",
+   "title": "Trump orders the Army not to detonate bomb-making chemicals in Iowa without court approval",
+   "link": "https://www.independent.co.uk/news/world/americas/army-iowa-trump-washington-b3090172.html",
+   "source": "The Independent",
+   "summary": "President Donald Trump says he will defer to a federal appeals court on whether to proceed with detonating degraded bomb-making material at an Iowa ammunition plant",
+   "image_url": "https://static.independent.co.uk/2026/11/19/05/Iowa_Army_Lead_Detonation_99168.jpg?width=1200&auto=webp&crop=3%3A2",
+   "published": "2026-11-22T18:29:46+00:00",
+   "updated": "2026-11-23T18:35:50+00:00",
+   "first_reported": {
+    "source": "BBC News",
+    "published": "2026-11-22T18:29:46+00:00"
+   },
+   "all_sources": [
+    "BBC News",
+    "The Independent",
+    "CBC News"
+   ],
+   "source_count": 3,
+   "article_count": 4,
+   "bias_breakdown": {
+    "Lean Left": 2,
+    "Center": 1
+   },
+   "bias_bar": {
+    "left_pct": 67,
+    "center_pct": 33,
+    "right_pct": 0,
+    "left": 2,
+    "center": 1,
+    "right": 0,
+    "unrated": 0,
+    "total": 3
+   },
+   "blindspot": "right",
+   "is_blindspot": true,
+   "ownership_breakdown": {
+    "Government": 2,
+    "Individual": 1
+   },
+   "topic": "Politics",
+   "places": [
+    {
+     "name": "US",
+     "region": "Americas"
+    }
+   ],
+   "region": "Americas",
+   "score": 5.024,
+   "is_trending": true,
+   "bullet_points": [
+    "President Donald Trump says he will defer to a federal appeals court on whether to proceed with detonating degraded bomb-making material at an Iowa ammunition plant",
+    "The Army says \"swift action\" is necessary to protect its personnel and nearby communities around its ammunition plant in Iowa.",
+    "Some schools in the path of the plume have canceled classes and residents have been urged to leave their homes."
+   ],
+   "date": "2026-11-23"
+  },
+  {
+   "id": "f57582a725",
+   "title": "Moscow Accuses Neighbouring Estonia of 'Russophobia' for Border Closure",
+   "link": "https://www.breitbart.com/europe/2026/11/23/moscow-accuses-neighbouring-estonia-of-russophobia-for-border-closure/",
+   "source": "Breitbart",
+   "summary": "The Kremlin has accused Estonia of Russophobia after the European country announced it would close its road borders with Russia.",
+   "image_url": "https://static.independent.co.uk/2026/11/23/11/2305986990..?width=1200&auto=webp&crop=3%3A2",
+   "published": "2026-11-23T15:42:27+00:00",
+   "updated": "2026-11-23T19:20:30+00:00",
+   "first_reported": {
+    "source": "The Independent",
+    "published": "2026-11-23T15:42:27+00:00"
+   },
+   "all_sources": [
+    "The Independent",
+    "Breitbart",
+    "Al Jazeera"
+   ],
+   "source_count": 3,
+   "article_count": 3,
+   "bias_breakdown": {
+    "Lean Left": 2,
+    "Right": 1
+   },
+   "bias_bar": {
+    "left_pct": 67,
+    "center_pct": 0,
+    "right_pct": 33,
+    "left": 2,
+    "center": 0,
+    "right": 1,
+    "unrated": 0,
+    "total": 3
+   },
+   "blindspot": null,
+   "is_blindspot": false,
+   "ownership_breakdown": {
+    "Individual": 1,
+    "Other": 1,
+    "Government": 1
+   },
+   "topic": "Migration",
+   "places": [
+    {
+     "name": "Russia",
+     "region": "Europe"
+    },
+    {
+     "name": "Ukraine",
+     "region": "Europe"
+    }
+   ],
+   "region": "Europe",
+   "score": 4.411,
+   "is_trending": true,
+   "bullet_points": [
+    "The allegation comes after Estonia announced it will close its land borders with Russia.",
+    "The Kremlin has accused Estonia of Russophobia after the European country announced it would close its road borders with Russia.",
+    "Moscow accuses Tallinn of 'hostile actions' citing border closure and claiming it is allowing Ukraine to launch attacks."
+   ],
+   "date": "2026-11-23"
+  },
+  {
+   "id": "ef614842ee",
+   "title": "Israel’s leading contender for prime minister clashes with Netanyahu over Iran strikes",
+   "link": "https://www.foxnews.com/world/israels-leading-contender-prime-minister-clashes-netanyahu-over-iran-strikes",
+   "source": "Fox News",
+   "summary": "Gadi Eisenkot says Iran poses no immediate threat before a new government forms, as Netanyahu pushes back and Trump weighs renewed strikes on Tehran.",
+   "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/netanyahu-trump-eisenkot-split.jpg?ve=1&tl=1",
+   "published": "2026-11-23T15:49:34+00:00",
+   "updated": "2026-11-23T18:54:41+00:00",
+   "first_reported": {
+    "source": "The Independent",
+    "published": "2026-11-23T15:49:34+00:00"
+   },
+   "all_sources": [
+    "The Independent",
+    "Fox News",
+    "New York Times"
+   ],
+   "source_count": 3,
+   "article_count": 3,
+   "bias_breakdown": {
+    "Lean Left": 2,
+    "Right": 1
+   },
+   "bias_bar": {
+    "left_pct": 67,
+    "center_pct": 0,
+    "right_pct": 33,
+    "left": 2,
+    "center": 0,
+    "right": 1,
+    "unrated": 0,
+    "total": 3
+   },
+   "blindspot": null,
+   "is_blindspot": false,
+   "ownership_breakdown": {
+    "Individual": 1,
+    "Media Conglomerate": 1,
+    "Corporation": 1
+   },
+   "topic": "Politics",
+   "places": [
+    {
+     "name": "Israel",
+     "region": "Middle East"
+    },
+    {
+     "name": "Iran",
+     "region": "Middle East"
+    },
+    {
+     "name": "US",
+     "region": "Americas"
+    }
+   ],
+   "region": "Middle East",
+   "score": 4.338,
+   "is_trending": true,
+   "bullet_points": [
+    "The Israeli prime minister, Benjamin Netanyahu, calls renewing strikes a matter of national security.",
+    "The Israeli prime minister is reported to be pushing a reluctant White House into new military action.",
+    "Gadi Eisenkot says Iran poses no immediate threat before a new government forms, as Netanyahu pushes back and Trump weighs renewed strikes on Tehran."
+   ],
+   "date": "2026-11-23"
+  },
+  {
+   "id": "0e298c8adc",
+   "title": "German police respond to multiple school bomb threats",
+   "link": "https://www.dw.com/en/german-police-respond-to-multiple-school-bomb-threats/a-80018842?maca=en-rss-en-top-1022-rdf",
+   "source": "Deutsche Welle",
+   "summary": "Police in Germany are responding to bomb threats against a series of schools, but say that at present they don't believe them to be credible. Danish authorities are reporting a similar series of apparent hoaxes.",
+   "image_url": "https://static.independent.co.uk/2026/11/23/10/2303993627..?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
+   "published": "2026-11-23T11:01:00+00:00",
+   "updated": "2026-11-23T15:07:59+00:00",
+   "first_reported": {
+    "source": "Deutsche Welle",
+    "published": "2026-11-23T11:01:00+00:00"
+   },
+   "all_sources": [
+    "Deutsche Welle",
+    "The Independent",
+    "Al Jazeera"
+   ],
+   "source_count": 3,
+   "article_count": 3,
+   "bias_breakdown": {
+    "Lean Left": 2,
+    "Center": 1
+   },
+   "bias_bar": {
+    "left_pct": 67,
+    "center_pct": 33,
+    "right_pct": 0,
+    "left": 2,
+    "center": 1,
+    "right": 0,
+    "unrated": 0,
+    "total": 3
+   },
+   "blindspot": "right",
+   "is_blindspot": true,
+   "ownership_breakdown": {
+    "Government": 2,
+    "Individual": 1
+   },
+   "topic": "Crime & Justice",
+   "places": [
+    {
+     "name": "Germany",
+     "region": "Europe"
+    }
+   ],
+   "region": "Europe",
+   "score": 4.251,
+   "is_trending": true,
+   "bullet_points": [
+    "Hundreds of schools have received bomb threats via email.",
+    "Police in Germany are responding to bomb threats against a series of schools, but say that at present they don't believe them to be credible.",
+    "Bomb threats follow hoax emails sent to schools across Europe earlier in November."
+   ],
+   "date": "2026-11-23"
+  },
+  {
+   "id": "59a966b49a",
+   "title": "India pledges $1.6bn to Nepal in reset of ties",
+   "link": "https://www.bbc.co.uk/news/articles/cwx2ervemj4ko?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "summary": "As Nepal rebuilds after deadly floods, its prime minister sets contentious issues aside to secure Indian funding, port access and a new train service.",
+   "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25f9/live/8fa3a390-e71d-11f1-914b-6d226d813a52.jpg",
+   "published": "2026-11-23T13:39:30+00:00",
+   "updated": "2026-11-23T18:12:55+00:00",
+   "first_reported": {
+    "source": "BBC News",
+    "published": "2026-11-23T13:39:30+00:00"
+   },
+   "all_sources": [
+    "BBC News",
+    "Deutsche Welle",
+    "Al Jazeera"
+   ],
+   "source_count": 3,
+   "article_count": 3,
+   "bias_breakdown": {
+    "Lean Left": 1,
+    "Center": 2
+   },
+   "bias_bar": {
+    "left_pct": 33,
+    "center_pct": 67,
+    "right_pct": 0,
+    "left": 1,
+    "center": 2,
+    "right": 0,
+    "unrated": 0,
+    "total": 3
+   },
+   "blindspot": null,
+   "is_blindspot": false,
+   "ownership_breakdown": {
+    "Government": 3
+   },
+   "topic": "Politics",
+   "places": [
+    {
+     "name": "India",
+     "region": "South Asia"
+    },
+    {
+     "name": "Nepal",
+     "region": "South Asia"
+    }
+   ],
+   "region": "South Asia",
+   "score": 4.224,
+   "is_trending": true,
+   "bullet_points": [
+    "On his first foreign bilateral visit, rapper-turned-Prime Minister Balendra Shah sought deeper ties with Nepal's neighbor and largest trading partner, while steering clear of sticky territorial issues.",
+    "Nepal's Prime Minister Balendra Shah is in New Delhi for a two-day visit — his first since coming to power in March.",
+    "As Nepal rebuilds after deadly floods, its prime minister sets contentious issues aside to secure Indian funding, port access and a new train service."
+   ],
+   "date": "2026-11-23"
+  },
+  {
+   "id": "57fa941fb5",
+   "title": "US and UK to host Women's World Cups in 2031 and 2035",
+   "link": "https://www.dw.com/en/us-and-uk-to-host-women-s-world-cups-in-2031-and-2035/a-80023786?maca=en-rss-en-top-1022-rdf",
+   "source": "Deutsche Welle",
+   "summary": "FIFA has confirmed the United States, Mexico, Costa Rica and Jamaica will host the 2031 Women's World Cup — the first to feature 48 teams. The UK will stage the 2035 edition, its first World Cup since 1966.",
+   "image_url": "https://i.cbc.ca/ais/6849cdcd-b3ce-4f74-ae9c-f547d5e6112b,1795453589948/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1180%2C663%29%3B",
+   "published": "2026-11-23T15:28:29+00:00",
+   "updated": "2026-11-23T17:13:20+00:00",
+   "first_reported": {
+    "source": "CBC News",
+    "published": "2026-11-23T15:28:29+00:00"
+   },
+   "all_sources": [
+    "CBC News",
+    "Deutsche Welle",
+    "The Hill"
+   ],
+   "source_count": 3,
+   "article_count": 3,
+   "bias_breakdown": {
+    "Lean Left": 1,
+    "Center": 2
+   },
+   "bias_bar": {
+    "left_pct": 33,
+    "center_pct": 67,
+    "right_pct": 0,
+    "left": 1,
+    "center": 2,
+    "right": 0,
+    "unrated": 0,
+    "total": 3
+   },
+   "blindspot": null,
+   "is_blindspot": false,
+   "ownership_breakdown": {
+    "Government": 2,
+    "Media Conglomerate": 1
+   },
+   "topic": "Sports",
+   "places": [
+    {
+     "name": "US",
+     "region": "Americas"
+    },
+    {
+     "name": "UK",
+     "region": "Europe"
+    },
+    {
+     "name": "Mexico",
+     "region": "Americas"
+    }
+   ],
+   "region": "Americas",
+   "score": 4.065,
+   "is_trending": true,
+   "bullet_points": [
+    "FIFA has confirmed the United States, Mexico, Costa Rica and Jamaica will host the 2031 Women's World Cup — the first to feature 48 teams.",
+    "The United States will host Women's World Cup matches in 2031, five years after the men's tournament brought millions of international travelers to the country this summer and earned FIFA its most profitable Cup in history.",
+    "FIFA on Monday confirmed the United States will lead a four-nation, regional co-hosting of the 2031 Women's World Cup, and a UK project led by England was ratified for the 2035 edition."
+   ],
+   "date": "2026-11-23"
+  },
+  {
+   "id": "ba920d31a5",
+   "title": "Trump dares Iran to breach US port blockade as Tehran reportedly readies 14 oil tankers",
+   "link": "https://www.foxnews.com/world/trump-dares-iran-breach-us-port-blockade-tehran-reportedly-readies-14-oil-tankers",
+   "source": "Fox News",
+   "summary": "Iran reportedly positioned 14 tankers at Kharg Island to breach the U.S. blockade, as President Donald Trump dared Tehran to test American naval forces in the Gulf.",
+   "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/trump-iran-hormuz.jpg?ve=1&tl=1",
+   "published": "2026-11-22T22:43:24+00:00",
+   "updated": "2026-11-23T13:04:11+00:00",
+   "first_reported": {
+    "source": "Fox News",
+    "published": "2026-11-22T22:43:24+00:00"
+   },
+   "all_sources": [
+    "Fox News",
+    "Breitbart",
+    "Al Jazeera"
+   ],
+   "source_count": 3,
+   "article_count": 4,
+   "bias_breakdown": {
+    "Lean Left": 1,
+    "Right": 2
+   },
+   "bias_bar": {
+    "left_pct": 33,
+    "center_pct": 0,
+    "right_pct": 67,
+    "left": 1,
+    "center": 0,
+    "right": 2,
+    "unrated": 0,
+    "total": 3
+   },
+   "blindspot": null,
+   "is_blindspot": false,
+   "ownership_breakdown": {
+    "Media Conglomerate": 1,
+    "Other": 1,
+    "Government": 1
+   },
+   "topic": "Politics",
+   "places": [
+    {
+     "name": "Iran",
+     "region": "Middle East"
+    },
+    {
+     "name": "US",
+     "region": "Americas"
+    }
+   ],
+   "region": "Middle East",
+   "score": 3.657,
+   "is_trending": true,
+   "bullet_points": [
+    "Iran reportedly positioned 14 tankers at Kharg Island to breach the U.S. blockade, as President Donald Trump dared Tehran to test American naval forces in the Gulf.",
+    "Iran threatens response to any attack amid naval blockade",
+    "President Donald Trump dared Iran on Sunday to challenge the U.S. naval blockade, warning that Iranian vessels attempting to break it would end up at the “bottom of the sea,” while signaling that major American strikes could resume after the New Year if negotiations fail."
+   ],
+   "date": "2026-11-23"
+  },
+  {
+   "id": "2cb2f93d81",
+   "title": "Who Is the Mexican Drug Kingpin Known as El Chapo Isidro?",
+   "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-drug-kingpin.html",
+   "source": "New York Times",
+   "summary": "The kingpin, Fausto Isidro Meza Flores, was captured in a violent operation in Mexico. He was one of the F.B.I.’s 10 most wanted fugitives.",
+   "image_url": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-cartel-arrest-zqtf/21int-cartel-arrest-zqtf-mediumSquareAt3X.jpg",
+   "published": "2026-11-21T21:12:24+00:00",
+   "updated": "2026-11-23T19:15:22+00:00",
+   "first_reported": {
+    "source": "New York Times",
+    "published": "2026-11-21T21:12:24+00:00"
+   },
+   "all_sources": [
+    "New York Times",
+    "BBC News"
+   ],
+   "source_count": 2,
+   "article_count": 6,
+   "bias_breakdown": {
+    "Lean Left": 1,
+    "Center": 1
+   },
+   "bias_bar": {
+    "left_pct": 50,
+    "center_pct": 50,
+    "right_pct": 0,
+    "left": 1,
+    "center": 1,
+    "right": 0,
+    "unrated": 0,
+    "total": 2
+   },
+   "blindspot": null,
+   "is_blindspot": false,
+   "ownership_breakdown": {
+    "Corporation": 1,
+    "Government": 1
+   },
+   "topic": "Crime & Justice",
+   "places": [
+    {
+     "name": "Mexico",
+     "region": "Americas"
+    },
+    {
+     "name": "US",
+     "region": "Americas"
+    }
+   ],
+   "region": "Americas",
+   "score": 4.152,
+   "is_trending": false,
+   "bullet_points": [
+    "The arrest of Fausto Isidro Meza Flores, who is known as El Chapo Isidro and was one of the F.B.I.’s 10 most wanted, was a victory for the Mexican government.",
+    "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
+    "U.S. and Mexican authorities shared intelligence for weeks to track Fausto Isidro Meza Flores, a drug cartel leader that a U.S. official called the most dangerous man in Mexico."
+   ],
+   "date": "2026-11-23"
+  },
+  {
+   "id": "205809fc50",
+   "title": "Tajikistan follows US call, withdraws from ICC",
+   "link": "https://www.dw.com/en/tajikistan-follows-us-call-withdraws-from-icc/a-80023903?maca=en-rss-en-top-1022-rdf",
+   "source": "Deutsche Welle",
+   "summary": "Tajikistan has initiated its withdrawal from the International Criminal Court as the US calls for it to be \"dismantled.\" The decision was made during a recent visit from Russian President Vladimir Putin.",
+   "image_url": null,
+   "published": "2026-11-23T17:36:17+00:00",
+   "updated": "2026-11-23T18:40:00+00:00",
+   "first_reported": {
+    "source": "Al Jazeera",
+    "published": "2026-11-23T17:36:17+00:00"
+   },
+   "all_sources": [
+    "Al Jazeera",
+    "Deutsche Welle"
+   ],
+   "source_count": 2,
+   "article_count": 2,
+   "bias_breakdown": {
+    "Lean Left": 1,
+    "Center": 1
+   },
+   "bias_bar": {
+    "left_pct": 50,
+    "center_pct": 50,
+    "right_pct": 0,
+    "left": 1,
+    "center": 1,
+    "right": 0,
+    "unrated": 0,
+    "total": 2
+   },
+   "blindspot": null,
+   "is_blindspot": false,
+   "ownership_breakdown": {
+    "Government": 2
+   },
+   "topic": "Crime & Justice",
+   "places": [
+    {
+     "name": "Russia",
+     "region": "Europe"
+    },
+    {
+     "name": "US",
+     "region": "Americas"
+    }
+   ],
+   "region": "Europe",
+   "score": 3.104,
+   "is_trending": false,
+   "bullet_points": [
+    "The ICC found that Tajikistan failed to comply with its request to arrest Russian President Vladimir Putin.",
+    "Tajikistan has initiated its withdrawal from the International Criminal Court as the US calls for it to be \"dismantled.",
+    "The decision was made during a recent visit from Russian President Vladimir Putin."
+   ],
+   "date": "2026-11-23"
+  },
+  {
+   "id": "f4c13911cb",
+   "title": "Costa Concordia’s ‘Captain Coward’ released from prison early after crashing ship, leaving 32 dead",
+   "link": "https://nypost.com/2026/11/22/world-news/costa-concordia-captain-francesco-schettino-released-from-prison-early-after-crashing-ship-leaving-32-dead/",
+   "source": "New York Post",
+   "summary": "The disgraced Italian cruise ship skipper who abandoned the doomed Costa Concordia, leaving 32 dead off the coast of Italy, has been freed from his prison sentence 7 years early.",
+   "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F2012-reports-state-overnight-break-32507631.jpg?w%3D1024",
+   "published": "2026-11-22T06:34:34+00:00",
+   "updated": "2026-11-23T19:18:06+00:00",
+   "first_reported": {
+    "source": "New York Post",
+    "published": "2026-11-22T06:34:34+00:00"
+   },
+   "all_sources": [
+    "New York Post",
+    "Fox News"
+   ],
+   "source_count": 2,
+   "article_count": 2,
+   "bias_breakdown": {
+    "Lean Right": 1,
+    "Right": 1
+   },
+   "bias_bar": {
+    "left_pct": 0,
+    "center_pct": 0,
+    "right_pct": 100,
+    "left": 0,
+    "center": 0,
+    "right": 2,
+    "unrated": 0,
+    "total": 2
+   },
+   "blindspot": "left",
+   "is_blindspot": true,
+   "ownership_breakdown": {
+    "Media Conglomerate": 2
+   },
+   "topic": "Crime & Justice",
+   "places": [
+    {
+     "name": "Italy",
+     "region": "Europe"
+    }
+   ],
+   "region": "Europe",
+   "score": 2.947,
+   "is_trending": false,
+   "bullet_points": [
+    "The disgraced Italian cruise ship skipper who abandoned the doomed Costa Concordia, leaving 32 dead off the coast of Italy, has been freed from his prison sentence 7 years early.",
+    "Costa Concordia captain Francesco Schettino is out of a Rome prison after 9 years, set to serve the remaining 7 years on supervised probation, lawyer says."
+   ],
+   "date": "2026-11-23"
+  },
+  {
+   "id": "fc35623ed9",
+   "title": "Turkey: Authorities search for lioness on the loose in Istanbul",
+   "link": "https://www.dw.com/en/turkey-authorities-search-for-lioness-on-the-loose-in-istanbul/a-80020913?maca=en-rss-en-top-1022-rdf",
+   "source": "Deutsche Welle",
+   "summary": "A lioness was on the loose in northern Istanbul, with wildlife advocates demanding answers over how the animal entered the country and who was keeping it in captivity.",
+   "image_url": "https://static.independent.co.uk/2026/11/23/11/18/Screenshot-2026-11-23-at-11-08-59.png?width=1200&auto=webp&trim=0%2C19%2C0%2C19",
+   "published": "2026-11-23T11:50:46+00:00",
+   "updated": "2026-11-23T16:05:00+00:00",
+   "first_reported": {
+    "source": "The Independent",
+    "published": "2026-11-23T11:50:46+00:00"
+   },
+   "all_sources": [
+    "The Independent",
+    "Deutsche Welle"
+   ],
+   "source_count": 2,
+   "article_count": 2,
+   "bias_breakdown": {
+    "Lean Left": 1,
+    "Center": 1
+   },
+   "bias_bar": {
+    "left_pct": 50,
+    "center_pct": 50,
+    "right_pct": 0,
+    "left": 1,
+    "center": 1,
+    "right": 0,
+    "unrated": 0,
+    "total": 2
+   },
+   "blindspot": null,
+   "is_blindspot": false,
+   "ownership_breakdown": {
+    "Individual": 1,
+    "Government": 1
+   },
+   "topic": "World",
+   "places": [
+    {
+     "name": "Turkey",
+     "region": "Europe"
+    }
+   ],
+   "region": "Europe",
+   "score": 2.81,
+   "is_trending": false,
+   "bullet_points": [
+    "A lioness was on the loose in northern Istanbul, with wildlife advocates demanding answers over how the animal entered the country and who was keeping it in captivity.",
+    "The animal is believed to have escaped from a private residence in the area."
+   ],
+   "date": "2026-11-23"
+  },
+  {
+   "id": "6bc6938e2c",
+   "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
+   "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+   "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11c4/live/b30a2e00-e635-11f1-bcaa-b74b42067918.jpg",
+   "published": "2026-11-23T00:33:36+00:00",
+   "updated": "2026-11-23T15:39:33+00:00",
+   "first_reported": {
+    "source": "BBC News",
+    "published": "2026-11-23T00:33:36+00:00"
+   },
+   "all_sources": [
+    "BBC News",
+    "New York Times"
+   ],
+   "source_count": 2,
+   "article_count": 2,
+   "bias_breakdown": {
+    "Lean Left": 1,
+    "Center": 1
+   },
+   "bias_bar": {
+    "left_pct": 50,
+    "center_pct": 50,
+    "right_pct": 0,
+    "left": 1,
+    "center": 1,
+    "right": 0,
+    "unrated": 0,
+    "total": 2
+   },
+   "blindspot": null,
+   "is_blindspot": false,
+   "ownership_breakdown": {
+    "Government": 1,
+    "Corporation": 1
+   },
+   "topic": "World",
+   "places": [
+    {
+     "name": "Italy",
+     "region": "Europe"
+    }
+   ],
+   "region": "Europe",
+   "score": 2.765,
+   "is_trending": false,
+   "bullet_points": [
+    "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
+    "As the chairman of his family’s company, Mr. Bulgari embraced maximalist aesthetics that recalled ancient Rome.",
+    "After the 2008 financial crisis, he steered the sale of the business to LVMH."
+   ],
+   "date": "2026-11-23"
+  },
+  {
+   "id": "08c2f050ab",
+   "title": "Israeli Political Leaders Denounce ‘Jewish Terrorism’ After West Bank Attacks",
+   "link": "https://www.nytimes.com/2026/11/22/world/middleeast/israeli-political-leaders-decry-jewish-terrorism-after-west-bank-attacks.html",
+   "source": "New York Times",
+   "summary": "Extremist settlers carried out a spate of violent raids in Palestinian villages over the weekend, spurring opponents of the Netanyahu government to demand a forceful response.",
+   "image_url": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-westbank-settler-violence01-photo-vqmk/22int-westbank-settler-violence01-photo-vqmk-mediumSquareAt3X.jpg",
+   "published": "2026-11-22T17:24:08+00:00",
+   "updated": "2026-11-23T17:15:17+00:00",
+   "first_reported": {
+    "source": "HuffPost",
+    "published": "2026-11-22T17:24:08+00:00"
+   },
+   "all_sources": [
+    "HuffPost",
+    "New York Times"
+   ],
+   "source_count": 2,
+   "article_count": 2,
+   "bias_breakdown": {
+    "Left": 1,
+    "Lean Left": 1
+   },
+   "bias_bar": {
+    "left_pct": 100,
+    "center_pct": 0,
+    "right_pct": 0,
+    "left": 2,
+    "center": 0,
+    "right": 0,
+    "unrated": 0,
+    "total": 2
+   },
+   "blindspot": "right",
+   "is_blindspot": true,
+   "ownership_breakdown": {
+    "Corporation": 2
+   },
+   "topic": "Conflict",
+   "places": [
+    {
+     "name": "Israel",
+     "region": "Middle East"
+    },
+    {
+     "name": "Gaza",
+     "region": "Middle East"
+    }
+   ],
+   "region": "Middle East",
+   "score": 2.761,
+   "is_trending": false,
+   "bullet_points": [
+    "The Israeli militant settlers’ attacks on Palestinian villages come as the opposition leader is asked to form a government.",
+    "Extremist settlers carried out a spate of violent raids in Palestinian villages over the weekend, spurring opponents of the Netanyahu government to demand a forceful response."
+   ],
+   "date": "2026-11-23"
+  },
+  {
+   "id": "e558d762c5",
+   "title": "Poland says Russia allegedly twice tried to kill a Ukrainian American rapper",
+   "link": "https://nypost.com/2026/11/23/world-news/poland-says-russia-allegedly-twice-tried-to-kill-a-ukrainian-american-rapper/",
+   "source": "New York Post",
+   "summary": "Denmark has expelled a Russian official after it said it had thwarted an alleged plot to kill a Ukrainian American citizen on Danish soil.",
+   "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F149811051.jpg?quality%3D90%26strip%3Dall",
+   "published": "2026-11-23T11:19:13+00:00",
+   "updated": "2026-11-23T14:51:55+00:00",
+   "first_reported": {
+    "source": "Breitbart",
+    "published": "2026-11-23T11:19:13+00:00"
+   },
+   "all_sources": [
+    "Breitbart",
+    "New York Post"
+   ],
+   "source_count": 2,
+   "article_count": 2,
+   "bias_breakdown": {
+    "Lean Right": 1,
+    "Right": 1
+   },
+   "bias_bar": {
+    "left_pct": 0,
+    "center_pct": 0,
+    "right_pct": 100,
+    "left": 0,
+    "center": 0,
+    "right": 2,
+    "unrated": 0,
+    "total": 2
+   },
+   "blindspot": "left",
+   "is_blindspot": true,
+   "ownership_breakdown": {
+    "Other": 1,
+    "Media Conglomerate": 1
+   },
+   "topic": "World",
+   "places": [
+    {
+     "name": "Russia",
+     "region": "Europe"
+    },
+    {
+     "name": "Poland",
+     "region": "Europe"
+    },
+    {
+     "name": "Ukraine",
+     "region": "Europe"
+    },
+    {
+     "name": "US",
+     "region": "Americas"
+    }
+   ],
+   "region": "Europe",
+   "score": 2.563,
+   "is_trending": false,
+   "bullet_points": [
+    "WARSAW, Poland -- Denmark has expelled a Russian official after it said it had thwarted an alleged plot to kill a Ukrainian American citizen on Danish soil.",
+    "The case took a new twist Sunday when Polish authorities revealed that the same man was allegedly targeted by Moscow’s intelligence services last summer in Poland."
+   ],
+   "date": "2026-11-23"
+  },
+  {
+   "id": "b061e9fbfb",
+   "title": "Russia is preparing to launch a nuclear space weapon — as soon as next month, intelligence warns",
+   "link": "https://nypost.com/2026/11/23/world-news/russia-is-preparing-to-launch-a-nuclear-space-weapon-as-soon-as-next-month-intelligence-warns/",
+   "source": "New York Post",
+   "summary": "Western intelligence says Russia may soon launch a satellite capable of carrying a nuclear warhead, despite treaty bans and Kremlin denials.",
+   "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Frussia-space-nuclear-weapon-comp.jpg?quality%3D90%26strip%3Dall",
+   "published": "2026-11-23T10:42:36+00:00",
+   "updated": "2026-11-23T13:34:02+00:00",
+   "first_reported": {
+    "source": "The Independent",
+    "published": "2026-11-23T10:42:36+00:00"
+   },
+   "all_sources": [
+    "The Independent",
+    "New York Post"
+   ],
+   "source_count": 2,
+   "article_count": 2,
+   "bias_breakdown": {
+    "Lean Left": 1,
+    "Lean Right": 1
+   },
+   "bias_bar": {
+    "left_pct": 50,
+    "center_pct": 0,
+    "right_pct": 50,
+    "left": 1,
+    "center": 0,
+    "right": 1,
+    "unrated": 0,
+    "total": 2
+   },
+   "blindspot": null,
+   "is_blindspot": false,
+   "ownership_breakdown": {
+    "Individual": 1,
+    "Media Conglomerate": 1
+   },
+   "topic": "Science",
+   "places": [
+    {
+     "name": "Russia",
+     "region": "Europe"
+    },
+    {
+     "name": "US",
+     "region": "Americas"
+    }
+   ],
+   "region": "Europe",
+   "score": 2.551,
+   "is_trending": false,
+   "bullet_points": [
+    "Western intelligence says Russia may soon launch a satellite capable of carrying a nuclear warhead, despite treaty bans and Kremlin denials.",
+    "The Pentagon warned a nuclear detonation in space could disrupt communications and security on Earth."
+   ],
+   "date": "2026-11-23"
+  },
+  {
+   "id": "46adb1923a",
+   "title": "Tom Jackson, former NFL star who became beloved ESPN analyst, dies aged 75",
+   "link": "https://www.independent.co.uk/news/world/americas/tom-jackson-dead-cause-espn-b3089806.html",
+   "source": "The Independent",
+   "summary": "Jackson’s death was announced by his longtime friend and broadcasting partner, Chris Berman, on ‘Sunday NFL Countdown’.",
+   "image_url": "https://static.independent.co.uk/2026/11/22/16/Obit_Tom_Jackson_18912.jpg?width=1200&auto=webp&crop=3%3A2",
+   "published": "2026-11-22T17:51:20+00:00",
+   "updated": "2026-11-23T11:39:30+00:00",
+   "first_reported": {
+    "source": "Breitbart",
+    "published": "2026-11-22T17:51:20+00:00"
+   },
+   "all_sources": [
+    "Breitbart",
+    "The Independent"
+   ],
+   "source_count": 2,
+   "article_count": 2,
+   "bias_breakdown": {
+    "Lean Left": 1,
+    "Right": 1
+   },
+   "bias_bar": {
+    "left_pct": 50,
+    "center_pct": 0,
+    "right_pct": 50,
+    "left": 1,
+    "center": 0,
+    "right": 1,
+    "unrated": 0,
+    "total": 2
+   },
+   "blindspot": null,
+   "is_blindspot": false,
+   "ownership_breakdown": {
+    "Other": 1,
+    "Individual": 1
+   },
+   "topic": "World",
+   "places": [],
+   "region": "Global",
+   "score": 2.37,
+   "is_trending": false,
+   "bullet_points": [
+    "Tom Jackson, a member of the Denver Broncos' famed Orange Crush defense and a longtime staple of ESPN NFL shows, has died at 75.",
+    "Jackson’s death was announced by his longtime friend and broadcasting partner, Chris Berman, on ‘Sunday NFL Countdown’."
+   ],
+   "date": "2026-11-23"
+  },
+  {
+   "id": "642e454a32",
+   "title": "Kennedy calls Trump, Putin and Xi meeting a 'good thing'",
+   "link": "https://thehill.com/policy/international/6236521-kennedy-calls-trump-putin-and-xi-meeting-a-good-thing/",
+   "source": "The Hill",
+   "summary": "Sen. John Kennedy (R-La.) on Sunday praised President Trump’s recent meeting with Russian President Vladimir Putin and Chinese President Xi Jinping. “Well, I think it's a good thing that the presidents of the three most powerful countries in the world are meeting, so long as America uses the opportunity to show its resolve,” Kennedy told...",
+   "image_url": "https://thehill.com/wp-content/uploads/sites/2/2026/11/Photo_Split-33.png?w=900",
+   "published": "2026-11-22T17:20:02+00:00",
+   "updated": "2026-11-23T02:55:10+00:00",
+   "first_reported": {
+    "source": "Breitbart",
+    "published": "2026-11-22T17:20:02+00:00"
+   },
+   "all_sources": [
+    "Breitbart",
+    "The Hill"
+   ],
+   "source_count": 2,
+   "article_count": 2,
+   "bias_breakdown": {
+    "Center": 1,
+    "Right": 1
+   },
+   "bias_bar": {
+    "left_pct": 0,
+    "center_pct": 50,
+    "right_pct": 50,
+    "left": 0,
+    "center": 1,
+    "right": 1,
+    "unrated": 0,
+    "total": 2
+   },
+   "blindspot": null,
+   "is_blindspot": false,
+   "ownership_breakdown": {
+    "Other": 1,
+    "Media Conglomerate": 1
+   },
+   "topic": "Politics",
+   "places": [
+    {
+     "name": "Russia",
+     "region": "Europe"
+    },
+    {
+     "name": "US",
+     "region": "Americas"
+    },
+    {
+     "name": "China",
+     "region": "Asia-Pacific"
+    },
+    {
+     "name": "Ukraine",
+     "region": "Europe"
+    }
+   ],
+   "region": "Europe",
+   "score": 1.693,
+   "is_trending": false,
+   "bullet_points": [
+    "Sen. John Kennedy (R-La.) on Sunday praised President Trump’s recent meeting with Russian President Vladimir Putin and Chinese President Xi Jinping.",
+    "Sunday on NBC’s “Meet the Press,” Sen. John Kennedy (R-LA) said President Donald Trump is not putting enough pressure on Russia to end the war in Ukraine.",
+    "Kennedy said, “I think it’s a good thing that the presidents of the."
+   ],
+   "date": "2026-11-23"
+  },
+  {
+   "id": "5bba946ddd",
+   "title": "UN-affiliated athlete swims in dangerous Strait of Hormuz to highlight Iran war's impact on wildlife",
+   "link": "https://www.cbc.ca/news/world/un-endurance-swimmer-strait-of-hormuz-wildlife-impact-9.7431891?cmp=rss",
+   "source": "CBC News",
+   "summary": "Lewis Pugh, who is a United Nations Patron of the Oceans, spent three days last week swimming parts of the dangerous waterway to highlight how Iran war threatens the area's habitat and wildlife.",
+   "image_url": "https://i.cbc.ca/ais/e07000a3-ac0f-406e-b916-ad08a7109618,1795366826527/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3B",
+   "published": "2026-11-22T06:46:36+00:00",
+   "updated": "2026-11-22T17:57:36+00:00",
+   "first_reported": {
+    "source": "New York Post",
+    "published": "2026-11-22T06:46:36+00:00"
+   },
+   "all_sources": [
+    "New York Post",
+    "CBC News"
+   ],
+   "source_count": 2,
+   "article_count": 2,
+   "bias_breakdown": {
+    "Lean Left": 1,
+    "Lean Right": 1
+   },
+   "bias_bar": {
+    "left_pct": 50,
+    "center_pct": 0,
+    "right_pct": 50,
+    "left": 1,
+    "center": 0,
+    "right": 1,
+    "unrated": 0,
+    "total": 2
+   },
+   "blindspot": null,
+   "is_blindspot": false,
+   "ownership_breakdown": {
+    "Media Conglomerate": 1,
+    "Government": 1
+   },
+   "topic": "Conflict",
+   "places": [
+    {
+     "name": "Iran",
+     "region": "Middle East"
+    }
+   ],
+   "region": "Middle East",
+   "score": 1.199,
+   "is_trending": false,
+   "bullet_points": [
+    "Lewis Pugh swam parts of the dangerous waterway to highlight how the war with Iran threatens the area’s habitat and wildlife."
+   ],
+   "date": "2026-11-23"
+  }
+ ]
+}
