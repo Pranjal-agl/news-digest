@@ -1,42 +1,106 @@
-schedule: "0 8 * * *"  # 8 AM daily, cron syntax
+# How often the digest runs is set in .github/workflows/daily-digest.yml
+# (GitHub Actions ignores this file for scheduling).
 
 sources:
   rss:
-    # Center
+    # Each feed: name (shown in the digest), url, and outlet (the key in
+    # src/bias.py OUTLETS that holds its bias rating + ownership). Feeds that
+    # fail to load are skipped and reported on the site's Sources page.
+
+    # ── Center ──
     - name: "BBC World"
+      outlet: "BBC News"
       url: "https://feeds.bbci.co.uk/news/world/rss.xml"
     - name: "Christian Science Monitor World"
+      outlet: "Christian Science Monitor"
       url: "http://rss.csmonitor.com/feeds/world"
     - name: "Deutsche Welle Top Stories"
+      outlet: "Deutsche Welle"
       url: "https://rss.dw.com/rdf/rss-en-top"
     - name: "WSJ World News"
+      outlet: "Wall Street Journal"
       url: "https://feeds.a.dj.com/rss/RSSWorldNews.xml"
-    # Lean Left
+    - name: "The Hill International"
+      outlet: "The Hill"
+      url: "https://thehill.com/policy/international/feed/"
+    - name: "Newsweek"
+      outlet: "Newsweek"
+      url: "https://www.newsweek.com/rss"
+
+    # ── Lean Left / Left ──
     - name: "NYT World"
+      outlet: "New York Times"
       url: "https://rss.nytimes.com/services/xml/rss/nyt/World.xml"
     - name: "NPR World"
+      outlet: "NPR"
       url: "https://feeds.npr.org/1004/rss.xml"
     - name: "Al Jazeera"
+      outlet: "Al Jazeera"
       url: "https://www.aljazeera.com/xml/rss/all.xml"
     - name: "The Guardian World"
+      outlet: "The Guardian"
       url: "https://www.theguardian.com/world/rss"
     - name: "CBC World"
+      outlet: "CBC News"
       url: "https://rss.cbc.ca/lineup/world.xml"
-    # Lean Right
+    - name: "The Independent World"
+      outlet: "The Independent"
+      url: "https://www.independent.co.uk/news/world/rss"
+    - name: "Sky News World"
+      outlet: "Sky News"
+      url: "https://feeds.skynews.com/feeds/rss/world.xml"
+    - name: "HuffPost World"
+      outlet: "HuffPost"
+      url: "https://www.huffpost.com/section/world-news/feed"
+
+    # ── Lean Right / Right ──
     - name: "New York Post World"
+      outlet: "New York Post"
       url: "https://nypost.com/world-news/feed"
     - name: "Washington Times World"
+      outlet: "Washington Times"
       url: "https://www.washingtontimes.com/rss/headlines/news/world/"
-    # Right
+    - name: "Washington Examiner"
+      outlet: "Washington Examiner"
+      url: "https://www.washingtonexaminer.com/feed/"
+    - name: "Daily Mail World"
+      outlet: "Daily Mail"
+      url: "https://www.dailymail.co.uk/news/worldnews/index.rss"
     - name: "Fox News World"
+      outlet: "Fox News"
       url: "https://moxie.foxnews.com/google-publisher/world.xml"
+    - name: "Breitbart"
+      outlet: "Breitbart"
+      url: "https://feeds.feedburner.com/breitbart"
+
+fetch:
+  max_entries_per_feed: 50   # read the whole feed, not just the top 10
+  max_age_hours: 48          # ignore articles older than this
+  timeout_seconds: 20
+  retries: 1
+  skip_opinion: true         # drop op-eds/columns (Ground News clusters news only)
+
+clustering:
+  # Cosine similarity (0-1) between an article and a story's centroid needed
+  # to join it. Lower = more aggressive grouping (more false merges).
+  join_threshold: 0.27
+  merge_threshold: 0.40      # second pass: merge two stories this similar
 
 topics_of_interest: []
 # Leave topics_of_interest empty to include all stories.
-# Add keywords here to only keep stories mentioning them, e.g.:
+# Add keywords to only keep stories mentioning them, e.g.:
 # topics_of_interest:
 #   - "climate"
 #   - "elections"
 
-max_stories_per_digest: 50
-max_stories_per_source: 10
+max_stories_per_digest: 60
+max_stories_per_source: 6    # cap on single-source stories per feed
+
+# Optional AI layer. Needs ANTHROPIC_API_KEY in the environment (a GitHub
+# Actions secret). Without a key everything still works with the free local
+# summarizer; with one, the top multi-source stories get a neutral headline,
+# a short summary, and a "how each side framed it" comparison.
+llm:
+  enabled: auto              # auto = on when ANTHROPIC_API_KEY is set
+  model: "claude-haiku-5-5"
+  max_stories: 15
