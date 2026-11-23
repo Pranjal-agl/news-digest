@@ -10,7 +10,7 @@
 
 ```bash
 git clone <repo-url>
-cd ai-news-digest-bot
+cd news-digest
 pip install -r requirements.txt
 ```
 
@@ -34,20 +34,9 @@ Edit `config.yaml` to customize:
 
 ### 4. Test Components
 
-Test individual modules before running the full pipeline:
-
 ```bash
-# Test all components
-python test.py
-
-# Or test specific component
-python test.py config
-python test.py fetch
-python test.py dedupe
-python test.py summarize
-python test.py deliver
-python test.py site
-python test.py pipeline
+python test.py        # offline unit tests (also run by CI before every digest)
+python test.py live   # fetch every configured feed and report which ones work
 ```
 
 ## Running the Pipeline
@@ -55,16 +44,16 @@ python test.py pipeline
 ### Manual Execution (Local)
 
 ```bash
-cd src
-python main.py
+python src/main.py
 ```
 
 This will:
-1. Fetch articles from configured RSS sources
-2. Deduplicate and filter by topics
-3. Summarize locally (free, no API key)
-4. Write `latest_digest.md` and archive to `data/archive/`
-5. (Optional) Post to Discord if `DISCORD_WEBHOOK_URL` is set
+1. Fetch every configured RSS feed in parallel
+2. Group articles into cross-outlet stories and compute bias, blindspots, ownership, topics
+3. Summarize locally (free), plus optional AI framing if `ANTHROPIC_API_KEY` is set
+4. Write `latest_digest.md` and `data/archive/digest_YYYY-MM-DD.md`
+5. Write the site data (`docs/data.json`, `docs/data/*.json`) and copy `web/index.html` to `docs/`
+6. Write the weekly rollup and (optionally) post to Discord
 
 ### Via GitHub Actions
 
@@ -100,45 +89,33 @@ Only needed if you want Discord delivery in addition to the markdown digest:
 
 ```
 src/
-├── fetch.py          # RSS fetching with URL verification
-├── dedupe.py         # Story grouping (keyword + string similarity) and topic filtering
-├── bias.py           # Static AllSides-based source bias lookup
-├── summarize.py      # Free local extractive summarization (no API key)
-├── deliver.py        # Markdown digest writer + optional Discord delivery
-├── htmlsite.py       # Static HTML site generator for GitHub Pages
-├── main.py           # Orchestrates the full pipeline
-└── __init__.py       # Package initialization
+├── fetch.py      # Parallel RSS fetch, date parsing, opinion/age filtering, feed health
+├── dedupe.py     # TF-IDF story clustering, coverage stats, ranking
+├── bias.py       # Outlet registry (AllSides bias, ownership) + bias bar / blindspot maths
+├── topics.py     # Topic and country/region tagging
+├── summarize.py  # Multi-source extractive summaries (free, local)
+├── llm.py        # Optional Claude headlines/summaries/framing (needs ANTHROPIC_API_KEY)
+├── deliver.py    # Markdown digest + optional Discord
+├── htmlsite.py   # Writes docs/ data files and copies the site template
+├── weekly.py     # Weekly rollup (site + markdown)
+└── main.py       # Orchestrates the pipeline
 
-data/
-└── archive/          # Daily digest markdown files
-
-docs/
-└── index.html        # Static site for GitHub Pages, regenerated every run
-
-latest_digest.md      # Always-current digest, updated every run
-
-.github/
-└── workflows/
-    └── daily-digest.yml   # GitHub Actions cron job
-
-config.yaml          # Sources, topics, settings
-requirements.txt     # Python dependencies
-.env.example        # Environment variables template (all optional)
+web/index.html    # The site (single file, vanilla JS). Edit this, not docs/index.html
+docs/             # Generated GitHub Pages output
+data/archive/     # Daily markdown digests
+data/weekly/      # Weekly markdown rollups
+test.py           # Offline tests; `python test.py live` checks feeds
 ```
 
 ## Debugging
 
-### Enable Debug Logging
-
-Add `DEBUG=true` to `.env` for verbose logging.
-
 ### Test RSS URLs
 
-Verify an RSS URL manually:
-```python
-from src.fetch import verify_rss_url
-verify_rss_url('https://feeds.bbci.co.uk/news/world/rss.xml')
+Check every feed at once:
+```bash
+python test.py live
 ```
+The site's **Sources** page also shows which feeds failed on the latest run.
 
 ### Simulate Full Run
 
@@ -165,9 +142,10 @@ The most recent digest is always also available at `latest_digest.md` in the rep
 - [x] Free local summarization (no API key)
 - [x] Markdown digest delivery
 - [x] GitHub Actions cron
-- [ ] Topic-based filtering/scoring (scoring coming next)
-- [ ] Weekly rollup report
-- [ ] GitHub Pages archive site
+- [x] Cross-outlet story grouping, blindspots, ownership
+- [x] Topic tagging and coverage-based ranking
+- [x] Weekly rollup report
+- [x] GitHub Pages archive site
 
 ## Common Issues
 
@@ -188,7 +166,7 @@ expired if you've set one up; otherwise just leave `DISCORD_WEBHOOK_URL` unset.
 ## Contributing
 
 1. Test changes locally: `python test.py`
-2. Verify pipeline runs: `cd src && python main.py`
+2. Verify pipeline runs: `python src/main.py`
 3. Check archives: `ls -la data/archive/`
 4. Push changes and let GitHub Actions verify
 

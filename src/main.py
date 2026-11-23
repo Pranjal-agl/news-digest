@@ -1,161 +1,87 @@
 """
-main.py - Orchestrates the AI News Digest pipeline
+main.py - Runs the News Digest pipeline:
+
+  fetch → group into stories → summarize → (optional AI framing)
+        → markdown digest + archive → site data → weekly rollup
 """
-import yaml
 import logging
 import sys
+from datetime import datetime, timezone
 from pathlib import Path
-from datetime import datetime
 
-# Import pipeline modules
-from fetch import fetch_all_articles, verify_rss_url
-from dedupe import process_articles
-from summarize import summarize_articles, configure_gemini
-from deliver import deliver_all
-from htmlsite import generate_site
+import yaml
 
-logging.basicConfig(
-    level=logging.INFO,
-    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
-)
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+
+from fetch import fetch_all_articles, FEED_STATUS  # noqa: E402
+from dedupe import process_articles  # noqa: E402
+from summarize import summarize_articles  # noqa: E402
+from llm import enrich_stories  # noqa: E402
+from deliver import deliver_all  # noqa: E402
+from htmlsite import generate_site  # noqa: E402
+from weekly import write_weekly  # noqa: E402
+
+logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(name)s - %(levelname)s - %(message)s")
 logger = logging.getLogger(__name__)
+
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
 
 
 def load_config(config_path: str = None) -> dict:
-    """Load configuration from YAML file.
-
-    Resolves config.yaml relative to the project root (one level up from
-    this file's src/ directory) by default, so this works whether you run
-    `python main.py` from src/ or `python src/main.py` from the repo root.
-    """
-    if config_path is None:
-        project_root = Path(__file__).resolve().parent.parent
-        config_path = str(project_root / 'config.yaml')
-
+    path = Path(config_path) if config_path else PROJECT_ROOT / "config.yaml"
     try:
-        with open(config_path, 'r') as f:
-            config = yaml.safe_load(f)
-        logger.info(f"Loaded config from {config_path}")
+        with open(path) as f:
+            config = yaml.safe_load(f) or {}
+        logger.info(f"Loaded config from {path}")
         return config
     except FileNotFoundError:
-        logger.error(f"Config file not found: {config_path}")
-        return {}
-    except Exception as e:
+        logger.error(f"Config file not found: {path}")
+    except Exception as e:  # noqa: BLE001
         logger.error(f"Error loading config: {e}")
-        return {}
+    return {}
 
 
-def verify_rss_urls(config: dict) -> dict:
-    """
-    Verify all RSS URLs are accessible.
-    Removes invalid URLs from config.
-    """
-    rss_sources = config.get('sources', {}).get('rss', [])
-    
-    logger.info(f"Verifying {len(rss_sources)} RSS URLs...")
-    
-    valid_sources = []
-    for source in rss_sources:
-        url = source.get('url')
-        if verify_rss_url(url):
-            valid_sources.append(source)
-        else:
-            logger.warning(f"Skipping invalid RSS source: {source.get('name')}")
-    
-    config['sources']['rss'] = valid_sources
-    logger.info(f"Valid RSS sources: {len(valid_sources)}/{len(rss_sources)}")
-    
-    return config
-
-
-def run_pipeline(config: dict) -> bool:
-    """
-    Run the complete News Digest pipeline.
-    
-    Pipeline:
-    1. Fetch articles from RSS (verifies/skips bad feeds internally)
-    2. Deduplicate and filter by topics
-    3. Summarize (local, free, no API key)
-    4. Save digest as markdown + (optionally) post to Discord
-    
-    Returns:
-        True if successful, False if failed
-    """
+def run_pipeline(config: dict, articles: list = None) -> bool:
+    """Run every step. `articles` can be passed in to skip fetching (tests)."""
     try:
-        logger.info("=" * 60)
-        logger.info("Starting News Digest Pipeline")
-        logger.info(f"Timestamp: {datetime.now().isoformat()}")
-        logger.info("=" * 60)
-        
-        # Step 1: Fetch articles (verification happens per-source inside fetch)
-        logger.info("\n[Step 1] Fetching articles...")
-        articles = fetch_all_articles(config)
-        
+        logger.info(f"Starting News Digest pipeline at {datetime.now(timezone.utc).isoformat()}")
+
+        if articles is None:
+            articles = fetch_all_articles(config)
         if not articles:
             logger.error("No articles fetched. Aborting.")
             return False
-        
-        logger.info(f"Fetched {len(articles)} articles")
-        
-        # Step 2: Deduplicate and filter
-        logger.info("\n[Step 2] Deduplicating and filtering...")
-        processed = process_articles(articles, config)
-        
-        if not processed:
-            logger.error("No articles after deduplication. Aborting.")
-            return False
-        
-        logger.info(f"Processed to {len(processed)} articles")
-        
-        # Step 3: Summarize (local, free, no signup needed)
-        logger.info("\n[Step 3] Summarizing articles...")
-        configure_gemini()  # no-op kept for compatibility; logs that it's free/local
-        processed = summarize_articles(processed)
-        logger.info(f"Summarized {len(processed)} articles")
-        
-        # Step 4: Save digest as markdown (+ optional Discord)
-        logger.info("\n[Step 4] Delivering digest...")
-        results = deliver_all(processed, archive=True)
-        
-        success_count = sum(1 for v in results.values() if v)
-        logger.info(f"Delivered to {success_count}/{len(results)} channels")
 
-        # Step 5: Generate site data + app shell for GitHub Pages
-        logger.info("\n[Step 5] Generating site data...")
-        project_root = Path(__file__).resolve().parent.parent
-        docs_dir = str(project_root / 'docs')
-        site_path = generate_site(processed, output_dir=docs_dir)
-        if site_path:
-            logger.info(f"Site data written: {site_path}")
-        
-        logger.info("\n" + "=" * 60)
-        logger.info("Pipeline Complete!")
-        logger.info("=" * 60)
-        
+        stories = process_articles(articles, config)
+        if not stories:
+            logger.error("No stories after grouping. Aborting.")
+            return False
+
+        summarize_articles(stories)
+        enrich_stories(stories, config)
+
+        deliver_all(stories, archive=True)
+
+        docs_dir = PROJECT_ROOT / "docs"
+        generate_site(stories, output_dir=str(docs_dir), feed_status=dict(FEED_STATUS))
+        try:
+            write_weekly(str(docs_dir), str(PROJECT_ROOT / "data" / "weekly"))
+        except Exception as e:  # noqa: BLE001 - weekly is a nice-to-have
+            logger.warning(f"Weekly rollup skipped: {e}")
+
+        logger.info("Pipeline complete")
         return True
-        
-    except Exception as e:
+    except Exception as e:  # noqa: BLE001
         logger.error(f"Pipeline failed: {e}", exc_info=True)
         return False
 
 
-def main():
-    """Main entry point."""
-    logger.info("AI News Digest Bot - Main Pipeline")
-    
-    # Load config
+def main() -> int:
     config = load_config()
-    
     if not config:
-        logger.error("Failed to load configuration. Exiting.")
         return 1
-    
-    # Run pipeline
-    success = run_pipeline(config)
-    
-    return 0 if success else 1
+    return 0 if run_pipeline(config) else 1
 
 
-if __name__ == '__main__':
-    exit_code = main()
-    sys.exit(exit_code)
+if __name__ == "__main__":
+    sys.exit(main())

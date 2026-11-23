@@ -1,14 +1,14 @@
 """
-summarize.py - Summarizes articles into bullet points.
+summarize.py - Free, local, multi-source extractive summaries.
 
-No API key, no signup, no cost, no rate limits: this uses a simple local
-extractive summarizer (pure Python, no downloads required) instead of
-calling an external AI API. It picks the most representative sentences
-from each article's existing summary/description text.
+For a story covered by several outlets, sentences are pooled from EVERY
+outlet's description, scored by how central they are to the whole story
+(how many of the story's key words they contain), and the top 3
+non-redundant ones become the bullet points - so the summary reflects the
+story, not just one outlet's take. No API key, no downloads.
 
-If you ever want to swap in a real LLM later, replace summarize_article()
-below - everything else in the pipeline (rate limiting, batching) stays
-the same.
+For AI-written neutral summaries and left/center/right framing, see llm.py
+(optional, needs ANTHROPIC_API_KEY).
 """
 import re
 import logging
@@ -17,156 +17,109 @@ from typing import List, Dict, Any
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-# Common words that don't carry much meaning - used to score sentences
 _STOPWORDS = {
-    'the', 'a', 'an', 'and', 'or', 'but', 'in', 'on', 'at', 'to', 'for',
-    'of', 'with', 'by', 'from', 'is', 'are', 'was', 'were', 'be', 'been',
-    'being', 'have', 'has', 'had', 'do', 'does', 'did', 'will', 'would',
-    'could', 'should', 'may', 'might', 'must', 'can', 'this', 'that',
-    'these', 'those', 'it', 'its', 'as', 'if', 'than', 'then', 'so',
-    'such', 'not', 'no', 'also', 'said', 'says',
+    'the', 'a', 'an', 'and', 'or', 'but', 'in', 'on', 'at', 'to', 'for', 'of', 'with', 'by', 'from', 'is', 'are',
+    'was', 'were', 'be', 'been', 'being', 'have', 'has', 'had', 'do', 'does', 'did', 'will', 'would', 'could',
+    'should', 'may', 'might', 'must', 'can', 'this', 'that', 'these', 'those', 'it', 'its', 'as', 'if', 'than',
+    'then', 'so', 'such', 'not', 'no', 'also', 'said', 'says', 'their', 'they', 'his', 'her', 'who', 'which',
 }
 
 _TAG_RE = re.compile(r'<[^>]+>')
 _WORD_RE = re.compile(r"[A-Za-z']+")
-_SENTENCE_SPLIT_RE = re.compile(r'(?<=[.!?])\s+')
+# Abbreviations that end in a period but don't end a sentence
+_ABBREV_RE = re.compile(r"\b(U\.S|U\.K|U\.N|E\.U|Mr|Mrs|Ms|Dr|St|Jr|Sr|Gen|Lt|Col|Sgt|Rep|Sen|Gov|Prof|Inc|Ltd|Co|"
+                        r"No|vs|etc|Jan|Feb|Mar|Apr|Jun|Jul|Aug|Sep|Sept|Oct|Nov|Dec|[A-Z])\.", re.UNICODE)
+_SENT_SPLIT_RE = re.compile(r'(?<=[.!?…])["”’]?\s+(?=["“‘(]?[A-Z0-9])')
+_JUNK_RE = re.compile(r'(continue reading|read more|click here|sign up|subscribe|appeared first on|'
+                      r'all rights reserved|getty images|^watch:|^listen:|^video:)', re.I)
+_PLACEHOLDER = "⁣"
 
 
 def _strip_html(text: str) -> str:
-    """Remove HTML tags that RSS summaries sometimes include."""
-    return _TAG_RE.sub(' ', text or '').strip()
+    return re.sub(r'\s+', ' ', _TAG_RE.sub(' ', text or '')).strip()
 
 
-def _split_sentences(text: str) -> List[str]:
-    sentences = [s.strip() for s in _SENTENCE_SPLIT_RE.split(text) if s.strip()]
-    return sentences
+def split_sentences(text: str) -> List[str]:
+    """Sentence split that doesn't break on U.S., Dr., single initials etc."""
+    protected = _ABBREV_RE.sub(lambda m: m.group(0)[:-1] + _PLACEHOLDER, text)
+    parts = _SENT_SPLIT_RE.split(protected)
+    return [p.replace(_PLACEHOLDER, '.').strip() for p in parts if p.strip()]
 
 
-def _score_sentences(sentences: List[str]) -> List[float]:
-    """
-    Score each sentence by how many notable (non-stopword) words it shares
-    with the rest of the text - a simple, dependency-free stand-in for
-    proper TF-IDF/LexRank scoring.
-    """
-    word_freq: Dict[str, int] = {}
-    for sentence in sentences:
-        for word in _WORD_RE.findall(sentence.lower()):
-            if word not in _STOPWORDS and len(word) > 2:
-                word_freq[word] = word_freq.get(word, 0) + 1
+_split_sentences = split_sentences  # old name
 
-    scores = []
-    for sentence in sentences:
-        words = [w for w in _WORD_RE.findall(sentence.lower())
-                 if w not in _STOPWORDS and len(w) > 2]
-        if not words:
-            scores.append(0.0)
+
+def _words(s: str) -> List[str]:
+    return [w for w in _WORD_RE.findall(s.lower()) if w not in _STOPWORDS and len(w) > 2]
+
+
+def _jaccard(a: set, b: set) -> float:
+    return len(a & b) / len(a | b) if a and b else 0.0
+
+
+def summarize_texts(texts: List[str], title: str = "", max_points: int = 3) -> List[str]:
+    """Pick the most central, non-redundant sentences across several texts."""
+    pool = []  # (sentence, text_index, position)
+    for ti, text in enumerate(texts):
+        for pos, s in enumerate(split_sentences(_strip_html(text))):
+            if 35 <= len(s) <= 400 and not _JUNK_RE.search(s):
+                pool.append((s, ti, pos))
+    if not pool:
+        return []
+
+    freq: Dict[str, float] = {}
+    for s, _, _ in pool:
+        for w in set(_words(s)):
+            freq[w] = freq.get(w, 0) + 1
+    for w in _words(title):          # words in the headline matter more
+        freq[w] = freq.get(w, 0) + 2
+
+    scored = []
+    for s, ti, pos in pool:
+        ws = _words(s)
+        if not ws:
             continue
-        score = sum(word_freq.get(w, 0) for w in words) / len(words)
-        scores.append(score)
-    return scores
+        score = sum(freq.get(w, 0) for w in set(ws)) / (len(ws) ** 0.7)
+        score *= 1.15 if pos == 0 else 1.0      # lede sentences are usually the gist
+        scored.append((score, s, ti))
+    scored.sort(key=lambda x: -x[0])
+
+    chosen, chosen_sets, used_texts = [], [], {}
+    for score, s, ti in scored:
+        ws = set(_words(s))
+        if any(_jaccard(ws, c) > 0.45 for c in chosen_sets):
+            continue
+        # Spread bullets across outlets when possible
+        if used_texts.get(ti, 0) >= 2 and len(texts) > 1:
+            continue
+        if title and _jaccard(ws, set(_words(title))) > 0.8:
+            continue  # just restates the headline
+        chosen.append(s)
+        chosen_sets.append(ws)
+        used_texts[ti] = used_texts.get(ti, 0) + 1
+        if len(chosen) >= max_points:
+            break
+    return chosen
 
 
 def summarize_article(article: Dict[str, Any], max_points: int = 3) -> Dict[str, Any]:
-    """
-    Summarize a single article by extracting its most representative
-    sentences. No external API calls.
-
-    Args:
-        article: Dict with title, link, summary, source
-        max_points: Maximum number of bullet points to produce
-
-    Returns:
-        Article dict with added 'bullet_points' key
-    """
-    title = article.get('title', '')
-    raw_content = _strip_html(article.get('summary', ''))
-
-    if not raw_content:
-        logger.warning(f"No content to summarize for: {title}")
-        article['bullet_points'] = ['No description available']
-        return article
-
-    sentences = _split_sentences(raw_content)
-
-    if not sentences:
-        article['bullet_points'] = [raw_content[:200]]
-        return article
-
-    if len(sentences) <= max_points:
-        article['bullet_points'] = sentences
-        return article
-
-    scores = _score_sentences(sentences)
-    # Keep top-scoring sentences, but preserve their original order
-    ranked_indices = sorted(range(len(sentences)), key=lambda i: scores[i], reverse=True)
-    top_indices = sorted(ranked_indices[:max_points])
-    article['bullet_points'] = [sentences[i] for i in top_indices]
-
-    logger.info(f"Summarized: {title[:60]}")
+    """Add 'bullet_points' to a story (or single article) dict."""
+    texts = article.get('_texts') or [article.get('summary', '')]
+    bullets = summarize_texts(texts, article.get('title', ''), max_points)
+    if not bullets:
+        raw = _strip_html(article.get('summary', ''))
+        bullets = [raw[:240] + ('…' if len(raw) > 240 else '')] if raw else []
+    article['bullet_points'] = bullets
     return article
 
 
-def summarize_articles(articles: List[Dict[str, Any]],
-                      rate_limit_delay: float = 0.0) -> List[Dict[str, Any]]:
-    """
-    Summarize multiple articles.
-
-    Args:
-        articles: List of article dicts
-        rate_limit_delay: Kept for backwards compatibility with main.py's
-            pipeline call signature. Unused since there's no external API
-            to rate-limit against anymore.
-
-    Returns:
-        Articles with 'bullet_points' added
-    """
-    summarized = []
-
-    for i, article in enumerate(articles, 1):
-        logger.info(f"[{i}/{len(articles)}] Summarizing: {article.get('title', '')[:60]}")
-        summarized.append(summarize_article(article))
-
-    logger.info(f"Summarization complete: {len(summarized)}/{len(articles)} articles")
-    return summarized
+def summarize_articles(articles: List[Dict[str, Any]], rate_limit_delay: float = 0.0) -> List[Dict[str, Any]]:
+    for a in articles:
+        summarize_article(a)
+    logger.info(f"Summarized {len(articles)} stories (local extractive)")
+    return articles
 
 
 def configure_gemini():
-    """
-    Kept as a no-op for backwards compatibility with main.py, which calls
-    this before summarizing. There's no external API to configure anymore -
-    summarization runs fully locally, for free, with no signup.
-    """
+    """No-op kept for backwards compatibility."""
     logger.info("Using local extractive summarizer - no API key needed")
-
-
-if __name__ == '__main__':
-    # Test summarize.py standalone
-    test_articles = [
-        {
-            'title': 'World leaders meet for climate summit',
-            'link': 'https://example.com/1',
-            'source': 'BBC World',
-            'summary': """
-            World leaders gathered today for an emergency climate summit in Geneva.
-            The meeting comes after a series of record-breaking heatwaves swept across
-            three continents this summer. Officials are expected to discuss new emissions
-            targets and funding for developing nations. Several environmental groups have
-            criticized the pace of negotiations as too slow. The summit is scheduled to
-            conclude on Friday with a joint statement.
-            """,
-            'published': '2026-06-19T10:00:00',
-            'type': 'rss'
-        },
-    ]
-
-    print("\nSummarizing test articles...\n")
-    results = summarize_articles(test_articles)
-
-    print("\n--- Results ---\n")
-    for article in results:
-        print(f"Title: {article['title']}")
-        print(f"Source: {article['source']}")
-        print("Summary:")
-        for point in article.get('bullet_points', []):
-            print(f"  - {point}")
-        print()

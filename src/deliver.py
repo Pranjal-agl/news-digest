@@ -1,251 +1,154 @@
 """
-deliver.py - Formats the digest and saves it as a markdown file in the repo.
-
-No Discord/Telegram setup needed: the digest is written to data/archive/
-and a top-level latest_digest.md is updated each run. When run via GitHub
-Actions, the workflow commits these files back to the repo automatically -
-so "delivery" is just an updated doc you can read on GitHub.
+deliver.py - Writes the markdown digest (latest_digest.md + a dated copy in
+data/archive/) and optionally posts a summary to a Discord webhook.
 """
-import os
 import html as html_module
 import logging
+import os
+from datetime import datetime, timezone
+from pathlib import Path
 from typing import List, Dict, Any
+
 import requests
-from datetime import datetime
 from dotenv import load_dotenv
-
-
-def _clean(text: str) -> str:
-    """Unescape HTML entities (e.g. &apos; → ') from RSS-sourced text."""
-    return html_module.unescape(str(text or ''))
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
-
 load_dotenv()
 
-
-def format_digest_text(articles: List[Dict[str, Any]]) -> str:
-    """
-    Format articles into readable digest text (plain, for logs/console).
-    """
-    today = datetime.now().strftime('%B %d, %Y')
-    digest = f"News Digest - {today}\n\n"
-
-    for i, article in enumerate(articles, 1):
-        title = _clean(article.get('title', 'No title'))
-        link = article.get('link', '')
-        source = article.get('source', 'Unknown')
-        bullets = [_clean(b) for b in article.get('bullet_points', ['No summary'])]
-
-        digest += f"{i}. [{title}]({link})\n"
-        digest += f"   *Source: {source}*\n"
-
-        for bullet in bullets:
-            digest += f"   - {bullet}\n"
-
-        digest += "\n"
-
-    return digest
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+SIDE_NAME = {"left": "Left", "center": "Center", "right": "Right"}
 
 
-def format_digest_markdown(articles: List[Dict[str, Any]]) -> str:
-    """
-    Format articles as markdown (for archiving / the latest-digest doc).
-    Shows which sources covered each story and a simple bias breakdown,
-    Ground News-style, when more than one source covered it. Leads with a
-    summary header and surfaces blindspot stories first.
-    """
-    today = datetime.now().strftime('%Y-%m-%d')
-
-    total = len(articles)
-    multi_source = sum(1 for a in articles if len(a.get('all_sources', [])) > 1)
-    blindspot_count = sum(1 for a in articles if a.get('is_blindspot'))
-
-    digest = f"# News Digest - {today}\n\n"
-    digest += (f"**{total} stories** · {multi_source} with multi-source coverage"
-               f" · {blindspot_count} blindspot{'s' if blindspot_count != 1 else ''}\n\n")
-    digest += "---\n\n"
-
-    # Surface blindspots first so one-sided coverage doesn't get buried
-    ordered = sorted(articles, key=lambda a: not a.get('is_blindspot', False))
-
-    for i, article in enumerate(ordered, 1):
-        title = _clean(article.get('title', 'No title'))
-        link = article.get('link', '')
-        source = article.get('source', 'Unknown')
-        bullets = [_clean(b) for b in article.get('bullet_points', ['No summary'])]
-        all_sources = article.get('all_sources', [source])
-        bias_counts = article.get('bias_breakdown', {})
-        blindspot = article.get('is_blindspot', False)
-
-        digest += f"## {i}. {'🔍 ' if blindspot else ''}{title}\n\n"
-        digest += f"**Source:** [{source}]({link})\n\n"
-
-        if len(all_sources) > 1:
-            others = [s for s in all_sources if s != source]
-            digest += f"**Also covered by:** {', '.join(others)}\n\n"
-
-        if bias_counts:
-            breakdown_str = " · ".join(f"{label}: {count}" for label, count in bias_counts.items())
-            digest += f"**Bias breakdown:** {breakdown_str}\n\n"
-
-        if blindspot:
-            digest += "**Blindspot:** all covering sources lean the same direction\n\n"
-
-        for bullet in bullets:
-            digest += f"- {bullet}\n"
-
-        digest += "\n"
-
-    return digest
+def _clean(text: str) -> str:
+    return html_module.unescape(str(text or ""))
 
 
-def archive_digest(articles: List[Dict[str, Any]],
-                  archive_dir: str = 'data/archive') -> str:
-    """
-    Save digest to a dated markdown file.
+def _bar_text(bar: Dict[str, Any]) -> str:
+    return f"L {bar.get('left_pct', 0)}% · C {bar.get('center_pct', 0)}% · R {bar.get('right_pct', 0)}%"
 
-    Args:
-        articles: List of article dicts
-        archive_dir: Directory to save to
 
-    Returns:
-        Path to saved file
-    """
+def _bar_emoji(bar: Dict[str, Any], width: int = 10) -> str:
+    l = round(bar.get("left_pct", 0) / 100 * width)
+    r = round(bar.get("right_pct", 0) / 100 * width)
+    c = max(width - l - r, 0)
+    return "🟦" * l + "⬜" * c + "🟥" * r
+
+
+def format_digest_markdown(stories: List[Dict[str, Any]], date: str = None) -> str:
+    date = date or datetime.now(timezone.utc).strftime("%Y-%m-%d")
+    multi = sum(1 for s in stories if s.get("source_count", 1) > 1)
+    bl = sum(1 for s in stories if s.get("blindspot") == "left")
+    br = sum(1 for s in stories if s.get("blindspot") == "right")
+
+    md = [f"# News Digest - {date}", "",
+          f"**{len(stories)} stories** · {multi} covered by 2+ outlets · "
+          f"{bl + br} blindspot{'s' if bl + br != 1 else ''} ({bl} missed by the left, {br} missed by the right)",
+          "", "Ranked by how widely each story was covered. Bias ratings: AllSides (outlet level).", "", "---", ""]
+
+    for i, s in enumerate(stories, 1):
+        title = _clean(s.get("title", "No title"))
+        bar = s.get("bias_bar", {})
+        md.append(f"## {i}. {'🔍 ' if s.get('blindspot') else ''}{title}")
+        md.append("")
+        meta = [f"**{s.get('topic', 'World')}**"]
+        if s.get("places"):
+            meta.append(", ".join(p["name"] for p in s["places"][:3]))
+        meta.append(f"{s.get('source_count', 1)} source{'s' if s.get('source_count', 1) != 1 else ''}")
+        meta.append(f"Coverage: {_bar_text(bar)}")
+        md.append(" · ".join(meta))
+        md.append("")
+        if s.get("blindspot"):
+            md.append(f"**Blindspot for the {SIDE_NAME[s['blindspot']]}:** covered mostly by "
+                      f"{'right' if s['blindspot'] == 'left' else 'left'}-leaning outlets.")
+            md.append("")
+        for b in s.get("bullet_points", []):
+            md.append(f"- {_clean(b)}")
+        md.append("")
+        if s.get("framing"):
+            for side in ("left", "center", "right"):
+                if s["framing"].get(side):
+                    md.append(f"> **{SIDE_NAME[side]}:** {_clean(s['framing'][side])}")
+            md.append("")
+        arts = s.get("articles") or [{"source": s.get("source"), "title": title, "link": s.get("link"),
+                                      "bias_label": ""}]
+        if len(arts) > 1:
+            md.append("**Headlines by outlet:**")
+            md.append("")
+            for a in arts:
+                label = f" ({a['bias_label']})" if a.get("bias_label") else ""
+                md.append(f"- {a['source']}{label}: [{_clean(a['title'])}]({a.get('link', '')})")
+        else:
+            a = arts[0]
+            md.append(f"**Source:** [{a['source']}]({a.get('link', '')})"
+                      + (f" ({a['bias_label']})" if a.get("bias_label") else ""))
+        md.append("")
+    return "\n".join(md)
+
+
+def format_digest_text(stories: List[Dict[str, Any]], limit: int = 10) -> str:
+    """Compact text version (used for Discord)."""
+    today = datetime.now(timezone.utc).strftime("%B %d, %Y")
+    out = [f"**News Digest - {today}**", ""]
+    for i, s in enumerate(stories[:limit], 1):
+        flag = f" 🔍 Blindspot for the {SIDE_NAME[s['blindspot']]}" if s.get("blindspot") else ""
+        out.append(f"**{i}. [{_clean(s.get('title'))}](<{s.get('link', '')}>)**")
+        out.append(f"{_bar_emoji(s.get('bias_bar', {}))} {s.get('source_count', 1)} sources{flag}")
+        out.append("")
+    return "\n".join(out)
+
+
+def archive_digest(stories: List[Dict[str, Any]], archive_dir: str = None) -> str:
+    """Write data/archive/digest_YYYY-MM-DD.md (overwrites same-day re-runs)."""
     try:
-        os.makedirs(archive_dir, exist_ok=True)
-
-        today = datetime.now().strftime('%Y-%m-%d')
-        filename = f"{archive_dir}/digest_{today}.md"
-
-        # Don't overwrite if already exists
-        if os.path.exists(filename):
-            logger.info(f"Archive file already exists: {filename}")
-            return filename
-
-        digest_md = format_digest_markdown(articles)
-
-        with open(filename, 'w', encoding='utf-8') as f:
-            f.write(digest_md)
-
-        logger.info(f"Digest archived to {filename}")
-        return filename
-
-    except Exception as e:
+        archive = Path(archive_dir) if archive_dir else PROJECT_ROOT / "data" / "archive"
+        archive.mkdir(parents=True, exist_ok=True)
+        date = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+        path = archive / f"digest_{date}.md"
+        path.write_text(format_digest_markdown(stories, date), encoding="utf-8")
+        logger.info(f"Digest archived to {path}")
+        return str(path)
+    except Exception as e:  # noqa: BLE001
         logger.error(f"Error archiving digest: {e}")
         return ""
 
 
-def update_latest_digest(articles: List[Dict[str, Any]],
-                        output_path: str = 'latest_digest.md') -> str:
-    """
-    Overwrite a top-level "latest digest" markdown file. This is the file
-    you'd open on GitHub to see today's news at a glance, rather than
-    digging through the dated archive folder.
-
-    Args:
-        articles: List of article dicts
-        output_path: Path to the latest-digest file (repo root by default)
-
-    Returns:
-        Path to the written file, or "" on failure
-    """
+def update_latest_digest(stories: List[Dict[str, Any]], output_path: str = None) -> str:
     try:
-        digest_md = format_digest_markdown(articles)
-        with open(output_path, 'w', encoding='utf-8') as f:
-            f.write(digest_md)
-        logger.info(f"Updated latest digest at {output_path}")
-        return output_path
-    except Exception as e:
+        path = Path(output_path) if output_path else PROJECT_ROOT / "latest_digest.md"
+        path.write_text(format_digest_markdown(stories), encoding="utf-8")
+        logger.info(f"Updated latest digest at {path}")
+        return str(path)
+    except Exception as e:  # noqa: BLE001
         logger.error(f"Error updating latest digest: {e}")
         return ""
 
 
-def send_to_discord(articles: List[Dict[str, Any]]) -> bool:
-    """
-    Optional: send digest to a Discord webhook, if DISCORD_WEBHOOK_URL is
-    set. This is entirely optional now - the markdown file delivery above
-    works with zero setup.
-    """
-    webhook_url = os.getenv('DISCORD_WEBHOOK_URL')
-
-    if not webhook_url:
+def send_to_discord(stories: List[Dict[str, Any]]) -> bool:
+    """Optional: post the top stories to DISCORD_WEBHOOK_URL if it is set."""
+    webhook_url = os.getenv("DISCORD_WEBHOOK_URL")
+    if not webhook_url or "your_discord" in webhook_url:
         return False
-
     try:
-        digest_text = format_digest_text(articles)
-
-        if len(digest_text) > 1900:
-            digest_text = digest_text[:1900] + "\n... (truncated)"
-
-        payload = {"content": digest_text}
-        response = requests.post(webhook_url, json=payload, timeout=10)
-
-        if response.status_code in [200, 204]:
-            logger.info("Discord delivery successful")
-            return True
-        else:
-            logger.error(f"Discord delivery failed: {response.status_code}")
-            return False
-
-    except Exception as e:
+        text = format_digest_text(stories)
+        site = os.getenv("SITE_URL")
+        if site:
+            text += f"\nFull digest: {site}"
+        if len(text) > 1990:
+            text = text[:1985] + "\n…"
+        r = requests.post(webhook_url, json={"content": text}, timeout=10)
+        ok = r.status_code in (200, 204)
+        (logger.info if ok else logger.error)(f"Discord delivery {'ok' if ok else 'failed: ' + str(r.status_code)}")
+        return ok
+    except Exception as e:  # noqa: BLE001
         logger.error(f"Error sending to Discord: {e}")
         return False
 
 
-def deliver_all(articles: List[Dict[str, Any]],
-               archive: bool = True) -> Dict[str, bool]:
-    """
-    Deliver the digest: write the markdown archive + latest-digest doc,
-    and optionally post to Discord if a webhook is configured.
-
-    Args:
-        articles: List of article dicts
-        archive: Whether to save to the dated archive folder
-
-    Returns:
-        Dict with delivery status for each channel
-    """
-    logger.info(f"Starting delivery of {len(articles)} articles...")
-
-    results = {
-        'latest_digest': update_latest_digest(articles) != "",
-    }
-
+def deliver_all(stories: List[Dict[str, Any]], archive: bool = True) -> Dict[str, bool]:
+    results = {"latest_digest": update_latest_digest(stories) != ""}
     if archive:
-        results['archive'] = archive_digest(articles) != ""
-
-    # Optional, only runs if DISCORD_WEBHOOK_URL is set in the environment
-    results['discord'] = send_to_discord(articles)
-
+        results["archive"] = archive_digest(stories) != ""
+    results["discord"] = send_to_discord(stories)
     logger.info(f"Delivery complete: {results}")
     return results
-
-
-if __name__ == '__main__':
-    # Test deliver.py standalone
-    test_articles = [
-        {
-            'title': 'World leaders meet for climate summit',
-            'link': 'https://example.com/1',
-            'source': 'BBC World',
-            'bullet_points': [
-                'World leaders gathered for an emergency climate summit in Geneva',
-                'Officials are expected to discuss new emissions targets',
-                'The summit concludes Friday with a joint statement'
-            ],
-            'published': '2026-06-19T10:00:00',
-            'type': 'rss'
-        },
-    ]
-
-    print("Testing digest formatting...\n")
-    print(format_digest_text(test_articles))
-
-    print("\n--- Archive Format ---\n")
-    print(format_digest_markdown(test_articles))
-
-    print("\n--- Delivery Simulation ---\n")
-    results = deliver_all(test_articles, archive=True)
-    print(f"Results: {results}")

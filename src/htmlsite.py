@@ -1,543 +1,149 @@
 """
-htmlsite.py - Generates docs/data.json (daily story data) and
-docs/index.html (the app shell, only written once / when design changes).
+htmlsite.py - Writes the GitHub Pages site into docs/.
 
-The index.html is a self-contained vanilla JS news app that fetches
-data.json and renders a Ground News-style card grid - images, bias bar,
-trending/blindspot tags, source count, filter tabs, smooth animations.
-No build step, no frameworks, works on GitHub Pages as-is.
+  docs/index.html          the app (copied from web/index.html every run, so
+                           design changes in web/ always go live)
+  docs/data.json           today's stories, sources and stats
+  docs/data/YYYY-MM-DD.json  a copy per day, for the Archive page
+  docs/data/index.json     list of archived days
+  docs/.nojekyll           tells Pages to serve files as-is
+
+The app is a single self-contained HTML file with vanilla JS: no build step.
 """
-import os
 import json
-import html
 import logging
-from typing import List, Dict, Any
-from datetime import datetime
+import os
+import shutil
+from datetime import datetime, timezone
+from pathlib import Path
+from typing import List, Dict, Any, Optional
+
+from bias import OUTLETS, outlet_meta, bias_bar_data
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-# ─── App shell HTML ──────────────────────────────────────────────────────────
-# Written to docs/index.html once (or whenever the design changes).
-# Fetches ./data.json at runtime and renders the UI.
-_APP_SHELL = r"""<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Daily News Digest</title>
-<style>
-  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-
-  :root {
-    --bg: #0d0f12;
-    --surface: #161a20;
-    --surface2: #1e2330;
-    --border: #2a2f3d;
-    --text: #e8eaf0;
-    --text2: #8892a4;
-    --accent: #4f8ef7;
-    --left: #3b82f6;
-    --center: #6b7280;
-    --right: #ef4444;
-    --trending: #f59e0b;
-    --blindspot-l: #3b82f6;
-    --blindspot-r: #ef4444;
-    --radius: 14px;
-    --shadow: 0 4px 24px rgba(0,0,0,.45);
-  }
-
-  body {
-    background: var(--bg);
-    color: var(--text);
-    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-    min-height: 100vh;
-  }
-
-  /* ── Header ── */
-  header {
-    padding: 24px 24px 0;
-    max-width: 1400px;
-    margin: 0 auto;
-  }
-  .header-top {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin-bottom: 6px;
-  }
-  .logo { font-size: 1.5rem; font-weight: 700; letter-spacing: -.5px; }
-  .logo span { color: var(--accent); }
-  #date-label { font-size: .85rem; color: var(--text2); }
-  .stats {
-    display: flex; gap: 20px; flex-wrap: wrap;
-    font-size: .8rem; color: var(--text2);
-    margin-bottom: 16px;
-  }
-  .stats b { color: var(--text); }
-
-  /* ── Filter bar ── */
-  .filters {
-    display: flex; gap: 8px; flex-wrap: wrap;
-    margin-bottom: 24px;
-  }
-  .filter-btn {
-    padding: 6px 14px;
-    border-radius: 999px;
-    border: 1px solid var(--border);
-    background: var(--surface);
-    color: var(--text2);
-    cursor: pointer;
-    font-size: .82rem;
-    transition: all .18s;
-  }
-  .filter-btn:hover { border-color: var(--accent); color: var(--text); }
-  .filter-btn.active {
-    background: var(--accent);
-    border-color: var(--accent);
-    color: #fff;
-  }
-
-  /* ── Grid ── */
-  main {
-    max-width: 1400px;
-    margin: 0 auto;
-    padding: 0 24px 64px;
-  }
-  #grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-    gap: 18px;
-  }
-
-  /* ── Card ── */
-  .card {
-    background: var(--surface);
-    border: 1px solid var(--border);
-    border-radius: var(--radius);
-    overflow: hidden;
-    display: flex;
-    flex-direction: column;
-    cursor: pointer;
-    transition: transform .2s, box-shadow .2s, border-color .2s;
-    animation: fadeUp .35s ease both;
-    text-decoration: none;
-    color: inherit;
-  }
-  .card:hover {
-    transform: translateY(-4px);
-    box-shadow: var(--shadow);
-    border-color: #3a4155;
-  }
-
-  @keyframes fadeUp {
-    from { opacity: 0; transform: translateY(14px); }
-    to   { opacity: 1; transform: translateY(0); }
-  }
-
-  /* ── Card image ── */
-  .card-img {
-    position: relative;
-    aspect-ratio: 16/9;
-    overflow: hidden;
-    background: var(--surface2);
-    flex-shrink: 0;
-  }
-  .card-img img {
-    width: 100%; height: 100%;
-    object-fit: cover;
-    display: block;
-    transition: transform .35s;
-  }
-  .card:hover .card-img img { transform: scale(1.04); }
-
-  /* placeholder when no image */
-  .card-img .no-img {
-    width: 100%; height: 100%;
-    display: flex; align-items: center; justify-content: center;
-    font-size: 2.2rem; color: var(--border);
-  }
-
-  /* image gradient overlay */
-  .card-img::after {
-    content: '';
-    position: absolute; inset: 0;
-    background: linear-gradient(to bottom, transparent 40%, rgba(13,15,18,.88) 100%);
-    pointer-events: none;
-  }
-
-  /* tags layered on top of image */
-  .img-tags {
-    position: absolute; top: 10px; left: 10px;
-    display: flex; gap: 6px; flex-wrap: wrap; z-index: 2;
-  }
-
-  /* ── Tags ── */
-  .tag {
-    display: inline-flex; align-items: center; gap: 4px;
-    padding: 3px 9px; border-radius: 999px;
-    font-size: .7rem; font-weight: 700; letter-spacing: .3px;
-    text-transform: uppercase;
-  }
-  .tag-trending  { background: var(--trending); color: #000; }
-  .tag-blindspot-l { background: var(--blindspot-l); color: #fff; }
-  .tag-blindspot-r { background: var(--blindspot-r); color: #fff; }
-  .tag-multi     { background: rgba(255,255,255,.12); color: #fff; backdrop-filter: blur(4px); }
-
-  /* ── Card body ── */
-  .card-body { padding: 14px 16px; flex: 1; display: flex; flex-direction: column; gap: 8px; }
-
-  .card-source { font-size: .75rem; color: var(--text2); }
-  .card-source .source-count {
-    margin-left: 6px;
-    background: var(--surface2);
-    padding: 1px 7px; border-radius: 999px;
-    font-size: .68rem; color: var(--text2);
-  }
-
-  .card-title {
-    font-size: .97rem; font-weight: 600; line-height: 1.4;
-    color: var(--text);
-    display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;
-    overflow: hidden;
-  }
-
-  .card-bullets {
-    list-style: none; padding: 0;
-    font-size: .8rem; color: var(--text2); line-height: 1.5;
-    display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical;
-    overflow: hidden;
-  }
-  .card-bullets li::before { content: '·  '; color: var(--accent); font-weight: 700; }
-
-  /* ── Bias bar ── */
-  .bias-bar-wrap { margin-top: auto; padding-top: 10px; }
-  .bias-bar {
-    display: flex; height: 5px; border-radius: 999px; overflow: hidden;
-    gap: 1px;
-  }
-  .bias-bar .seg-l { background: var(--left); }
-  .bias-bar .seg-c { background: var(--center); }
-  .bias-bar .seg-r { background: var(--right); }
-  .bias-labels {
-    display: flex; justify-content: space-between;
-    font-size: .68rem; color: var(--text2); margin-top: 4px;
-  }
-  .bias-labels .bl { color: var(--left); font-weight: 600; }
-  .bias-labels .bc { color: var(--center); }
-  .bias-labels .br { color: var(--right); font-weight: 600; }
-
-  /* ── No results ── */
-  #empty {
-    display: none; text-align: center; color: var(--text2);
-    padding: 80px 20px; font-size: 1rem;
-    grid-column: 1 / -1;
-  }
-
-  /* ── Loading ── */
-  #loading {
-    display: flex; flex-direction: column; align-items: center;
-    justify-content: center; height: 60vh; gap: 16px; color: var(--text2);
-  }
-  .spinner {
-    width: 36px; height: 36px; border: 3px solid var(--border);
-    border-top-color: var(--accent);
-    border-radius: 50%; animation: spin .7s linear infinite;
-  }
-  @keyframes spin { to { transform: rotate(360deg); } }
-
-  @media (max-width: 600px) {
-    header, main { padding-left: 14px; padding-right: 14px; }
-    #grid { grid-template-columns: 1fr; }
-  }
-</style>
-</head>
-<body>
-
-<header>
-  <div class="header-top">
-    <div class="logo">News<span>Digest</span></div>
-    <div id="date-label"></div>
-  </div>
-  <div class="stats" id="stats"></div>
-  <div class="filters" id="filters">
-    <button class="filter-btn active" data-filter="all">All</button>
-    <button class="filter-btn" data-filter="trending">🔥 Trending</button>
-    <button class="filter-btn" data-filter="blindspot">🔍 Blindspot</button>
-    <button class="filter-btn" data-filter="multi">📰 Multi-source</button>
-  </div>
-</header>
-
-<main>
-  <div id="loading"><div class="spinner"></div><span>Loading today's digest…</span></div>
-  <div id="grid" style="display:none">
-    <div id="empty">No stories match this filter.</div>
-  </div>
-</main>
-
-<script>
-const BIAS_ICONS = { left: '◀', center: '●', right: '▶' };
-
-function biasBlindspotLabel(story) {
-  if (!story.is_blindspot) return null;
-  const bar = story.bias_bar || {};
-  if ((bar.left_pct || 0) > (bar.right_pct || 0)) return 'blindspot-l';
-  return 'blindspot-r';
-}
-
-function blindspotLabel(story) {
-  const cls = biasBlindspotLabel(story);
-  if (!cls) return '';
-  const side = cls === 'blindspot-l' ? 'Left' : 'Right';
-  return `<span class="tag tag-${cls}">🔍 Blindspot ${side}</span>`;
-}
-
-function makeCard(story, delay) {
-  const bar = story.bias_bar || { left_pct: 0, center_pct: 100, right_pct: 0, total: 1 };
-  const sources = story.all_sources || [story.source];
-  const sourceCount = sources.length;
-
-  const imgHtml = story.image_url
-    ? `<img src="${escHtml(story.image_url)}" alt="" loading="lazy" onerror="this.parentElement.innerHTML='<div class=no-img>📰</div>'">`
-    : `<div class="no-img">📰</div>`;
-
-  const trendingTag = story.is_trending
-    ? `<span class="tag tag-trending">🔥 Trending</span>` : '';
-  const bsTag = blindspotLabel(story);
-  const multiTag = sourceCount > 1 && !story.is_blindspot && !story.is_trending
-    ? `<span class="tag tag-multi">📰 ${sourceCount} sources</span>` : '';
-
-  const bullets = (story.bullet_points || []).slice(0, 2)
-    .map(b => `<li>${escHtml(b)}</li>`).join('');
-
-  // bias bar segments - only show if width > 0
-  const lw = bar.left_pct, cw = bar.center_pct, rw = bar.right_pct;
-  const barSegs = [
-    lw > 0 ? `<div class="seg-l" style="flex:${lw}"></div>` : '',
-    cw > 0 ? `<div class="seg-c" style="flex:${cw}"></div>` : '',
-    rw > 0 ? `<div class="seg-r" style="flex:${rw}"></div>` : '',
-  ].join('');
-
-  const lLabel = lw > 0 ? `<span class="bl">L ${lw}%</span>` : '<span></span>';
-  const cLabel = cw > 0 ? `<span class="bc">C ${cw}%</span>` : '<span></span>';
-  const rLabel = rw > 0 ? `<span class="br">R ${rw}%</span>` : '<span></span>';
-
-  const otherSources = sources.filter(s => s !== story.source);
-  const alsoBy = otherSources.length
-    ? `<span class="source-count">+${otherSources.length} more</span>` : '';
-
-  return `
-    <a class="card" href="${escHtml(story.link)}" target="_blank" rel="noopener"
-       style="animation-delay:${delay}ms"
-       data-trending="${story.is_trending}" data-blindspot="${story.is_blindspot}"
-       data-multi="${sourceCount > 1}">
-      <div class="card-img">
-        ${imgHtml}
-        <div class="img-tags">${trendingTag}${bsTag}${multiTag}</div>
-      </div>
-      <div class="card-body">
-        <div class="card-source">
-          ${escHtml(story.source)}${alsoBy}
-        </div>
-        <div class="card-title">${escHtml(story.title)}</div>
-        <ul class="card-bullets">${bullets}</ul>
-        <div class="bias-bar-wrap">
-          <div class="bias-bar">${barSegs}</div>
-          <div class="bias-labels">${lLabel}${cLabel}${rLabel}</div>
-        </div>
-      </div>
-    </a>`;
-}
-
-function escHtml(str) {
-  return String(str || '')
-    .replace(/&/g,'&amp;').replace(/</g,'&lt;')
-    .replace(/>/g,'&gt;').replace(/"/g,'&quot;')
-    .replace(/'/g,'&#39;');
-}
-
-let allStories = [];
-let activeFilter = 'all';
-
-function render(filter) {
-  activeFilter = filter;
-  const grid = document.getElementById('grid');
-  const empty = document.getElementById('empty');
-
-  let stories = allStories;
-  if (filter === 'trending') stories = stories.filter(s => s.is_trending);
-  if (filter === 'blindspot') stories = stories.filter(s => s.is_blindspot);
-  if (filter === 'multi')     stories = stories.filter(s => (s.all_sources||[]).length > 1);
-
-  // remove old cards (not empty div)
-  [...grid.querySelectorAll('.card')].forEach(el => el.remove());
-
-  if (!stories.length) {
-    empty.style.display = 'block';
-  } else {
-    empty.style.display = 'none';
-    stories.forEach((story, i) => {
-      grid.insertAdjacentHTML('beforeend', makeCard(story, i * 35));
-    });
-  }
-}
-
-document.getElementById('filters').addEventListener('click', e => {
-  const btn = e.target.closest('.filter-btn');
-  if (!btn) return;
-  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
-  btn.classList.add('active');
-  render(btn.dataset.filter);
-});
-
-fetch('./data.json')
-  .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
-  .then(data => {
-    document.getElementById('loading').style.display = 'none';
-    document.getElementById('grid').style.display = 'grid';
-
-    allStories = data.stories || [];
-    const stats = data.stats || {};
-    const d = new Date(data.generated_at || Date.now());
-    document.getElementById('date-label').textContent =
-      d.toLocaleDateString('en-US', { weekday:'long', month:'long', day:'numeric', year:'numeric' });
-
-    document.getElementById('stats').innerHTML = `
-      <span><b>${stats.total || allStories.length}</b> stories</span>
-      <span><b>${stats.multi_source || 0}</b> multi-source</span>
-      <span><b>${stats.trending || 0}</b> trending</span>
-      <span><b>${stats.blindspots || 0}</b> blindspots</span>
-    `;
-
-    render('all');
-  })
-  .catch(err => {
-    document.getElementById('loading').innerHTML =
-      `<div style="color:#ef4444">Failed to load digest: ${err.message}</div>`;
-  });
-</script>
-</body>
-</html>
-"""
+PROJECT_ROOT = Path(__file__).resolve().parent.parent
+TEMPLATE = PROJECT_ROOT / "web" / "index.html"
+_PRIVATE_KEYS = {"_texts", "_centrality"}
+MAX_ARCHIVE_DAYS = 400
 
 
-# ─── Python: generate data.json ──────────────────────────────────────────────
+def _public_story(s: Dict[str, Any]) -> Dict[str, Any]:
+    return {k: v for k, v in s.items() if k not in _PRIVATE_KEYS}
 
-def generate_site(articles: List[Dict[str, Any]], output_dir: str = 'docs') -> str:
-    """
-    Generate docs/data.json (the daily story data consumed by the JS app)
-    and docs/index.html (the app shell — only written if it doesn't already
-    exist, so the design survives daily pipeline runs unchanged).
 
-    Args:
-        articles: Processed story dicts from the pipeline
-        output_dir: Directory to write into (default: docs/)
+def coverage_today(stories: List[Dict[str, Any]]) -> Dict[str, Any]:
+    """Left/center/right share of all of today's articles (by outlet lean)."""
+    counts = {"left": 0, "center": 0, "right": 0}
+    total = 0
+    for s in stories:
+        for a in s.get("articles", []):
+            total += 1
+            if a.get("side") in counts:
+                counts[a["side"]] += 1
+    n = sum(counts.values()) or 1
+    out = {f"{k}_pct": round(v / n * 100) for k, v in counts.items()}
+    out.update(counts)
+    out["articles"] = total
+    return out
 
-    Returns:
-        Path to data.json, or "" on failure
-    """
+
+def sources_report(stories: List[Dict[str, Any]], feed_status: Optional[Dict[str, Dict[str, Any]]] = None) -> List[Dict[str, Any]]:
+    """One row per outlet: metadata + whether its feed(s) loaded + articles used."""
+    used: Dict[str, int] = {}
+    for s in stories:
+        for a in s.get("articles", []):
+            used[a["source"]] = used.get(a["source"], 0) + 1
+
+    rows: Dict[str, Dict[str, Any]] = {}
+    for fs in (feed_status or {}).values():
+        meta = outlet_meta(fs["outlet"])
+        row = rows.setdefault(meta["name"], {**meta, "ok": False, "fetched": 0, "error": "", "feeds": []})
+        row["feeds"].append(fs["feed"])
+        row["ok"] = row["ok"] or fs["ok"]
+        row["fetched"] += fs.get("articles", 0)
+        if fs.get("error"):
+            row["error"] = fs["error"]
+    for name in used:
+        if name not in rows:
+            rows[name] = {**outlet_meta(name), "ok": None, "fetched": None, "error": "", "feeds": []}
+    for name, row in rows.items():
+        row["articles"] = used.get(name, 0)
+        row.pop("domain", None)
+    return list(rows.values())
+
+
+def build_payload(stories: List[Dict[str, Any]], feed_status: Optional[Dict[str, Dict[str, Any]]] = None,
+                  now: Optional[datetime] = None) -> Dict[str, Any]:
+    now = now or datetime.now(timezone.utc)
+    src = sources_report(stories, feed_status)
+    feeds_total = len(feed_status or {})
+    feeds_ok = sum(1 for f in (feed_status or {}).values() if f["ok"])
+    return {
+        "date": now.strftime("%Y-%m-%d"),
+        "generated_at": now.isoformat(),
+        "stats": {
+            "total": len(stories),
+            "multi_source": sum(1 for s in stories if s.get("source_count", 1) > 1),
+            "trending": sum(1 for s in stories if s.get("is_trending")),
+            "blindspots": sum(1 for s in stories if s.get("blindspot")),
+            "blindspot_left": sum(1 for s in stories if s.get("blindspot") == "left"),
+            "blindspot_right": sum(1 for s in stories if s.get("blindspot") == "right"),
+            "articles": sum(s.get("article_count", 1) for s in stories),
+            "sources_ok": feeds_ok if feeds_total else len(src),
+            "sources_total": feeds_total or len(src),
+        },
+        "coverage_today": coverage_today(stories),
+        "sources": src,
+        "stories": [_public_story(s) for s in stories],
+    }
+
+
+def _write_json(path: Path, data: Any):
+    path.parent.mkdir(parents=True, exist_ok=True)
+    tmp = path.with_suffix(".tmp")
+    with open(tmp, "w", encoding="utf-8") as f:
+        json.dump(data, f, ensure_ascii=False, indent=1)
+    os.replace(tmp, path)
+
+
+def update_index(data_dir: Path) -> Dict[str, Any]:
+    """Rebuild data/index.json from the per-day files present."""
+    days = []
+    for p in sorted(data_dir.glob("????-??-??.json"), reverse=True)[:MAX_ARCHIVE_DAYS]:
+        try:
+            with open(p, encoding="utf-8") as f:
+                st = json.load(f).get("stats", {})
+        except (OSError, json.JSONDecodeError):
+            continue
+        days.append({"date": p.stem, "total": st.get("total", 0), "blindspots": st.get("blindspots", 0),
+                     "multi_source": st.get("multi_source", 0)})
+    index = {"updated": datetime.now(timezone.utc).isoformat(), "days": days}
+    _write_json(data_dir / "index.json", index)
+    return index
+
+
+def generate_site(articles: List[Dict[str, Any]], output_dir: str = "docs",
+                  feed_status: Optional[Dict[str, Dict[str, Any]]] = None) -> str:
+    """Write the site. Returns the path to data.json, or "" on failure."""
     try:
-        os.makedirs(output_dir, exist_ok=True)
+        out = Path(output_dir)
+        out.mkdir(parents=True, exist_ok=True)
+        payload = build_payload(articles, feed_status)
 
-        total        = len(articles)
-        multi_source = sum(1 for a in articles if len(a.get('all_sources', [])) > 1)
-        trending     = sum(1 for a in articles if a.get('is_trending'))
-        blindspots   = sum(1 for a in articles if a.get('is_blindspot'))
+        _write_json(out / "data.json", payload)
+        _write_json(out / "data" / f"{payload['date']}.json", payload)
+        update_index(out / "data")
 
-        # Build the JSON payload
-        payload = {
-            "date": datetime.now().strftime('%Y-%m-%d'),
-            "generated_at": datetime.now().isoformat(),
-            "stats": {
-                "total": total,
-                "multi_source": multi_source,
-                "trending": trending,
-                "blindspots": blindspots,
-            },
-            "stories": []
-        }
-
-        # Surface blindspots first, then trending, then rest (by date)
-        ordered = sorted(
-            articles,
-            key=lambda a: (not a.get('is_blindspot', False),
-                           not a.get('is_trending', False))
-        )
-
-        for article in ordered:
-            story = {
-                "title":         article.get('title', ''),
-                "link":          article.get('link', ''),
-                "source":        article.get('source', ''),
-                "all_sources":   article.get('all_sources', [article.get('source', '')]),
-                "bias_breakdown": article.get('bias_breakdown', {}),
-                "bias_bar":      article.get('bias_bar', {"left_pct":0,"center_pct":100,"right_pct":0,"total":1}),
-                "is_blindspot":  article.get('is_blindspot', False),
-                "is_trending":   article.get('is_trending', False),
-                "bullet_points": article.get('bullet_points', []),
-                "image_url":     article.get('image_url'),
-                "published":     article.get('published', ''),
-            }
-            payload["stories"].append(story)
-
-        # Write .nojekyll — tells GitHub Pages to skip Jekyll entirely and
-        # serve our plain HTML/JS directly. Without this, Pages tries to
-        # run Jekyll on docs/ and fails looking for config files we don't have.
-        nojekyll_path = os.path.join(output_dir, '.nojekyll')
-        if not os.path.exists(nojekyll_path):
-            open(nojekyll_path, 'w').close()
-            logger.info(f".nojekyll written: {nojekyll_path}")
-
-        # Write data.json (updated every run)
-        data_path = os.path.join(output_dir, 'data.json')
-        with open(data_path, 'w', encoding='utf-8') as f:
-            json.dump(payload, f, ensure_ascii=False, indent=2)
-        logger.info(f"data.json written: {total} stories → {data_path}")
-
-        # Write index.html only if it doesn't already exist
-        # (preserves any manual design tweaks between runs)
-        index_path = os.path.join(output_dir, 'index.html')
-        if not os.path.exists(index_path):
-            with open(index_path, 'w', encoding='utf-8') as f:
-                f.write(_APP_SHELL)
-            logger.info(f"App shell written: {index_path}")
+        (out / ".nojekyll").touch()
+        if TEMPLATE.exists():
+            shutil.copyfile(TEMPLATE, out / "index.html")
         else:
-            logger.info(f"App shell already exists, skipping: {index_path}")
+            logger.warning(f"Site template missing at {TEMPLATE}; leaving docs/index.html unchanged")
 
-        return data_path
-
-    except Exception as e:
-        logger.error(f"Error generating site: {e}")
+        logger.info(f"Site written: {payload['stats']['total']} stories → {out}")
+        return str(out / "data.json")
+    except Exception as e:  # noqa: BLE001
+        logger.error(f"Error generating site: {e}", exc_info=True)
         return ""
-
-
-if __name__ == '__main__':
-    test_articles = [
-        {
-            'title': 'France confirms first Ebola case',
-            'link': 'https://example.com/1',
-            'source': 'BBC World',
-            'all_sources': ['BBC World', 'NYT World', 'Al Jazeera'],
-            'bias_breakdown': {'Center': 1, 'Lean Left': 2},
-            'bias_bar': {'left_pct': 67, 'center_pct': 33, 'right_pct': 0, 'total': 3},
-            'is_blindspot': False,
-            'is_trending': True,
-            'image_url': 'https://ichef.bbci.co.uk/news/1024/branded_news/placeholder.jpg',
-            'bullet_points': ['A doctor was infected after travel to DR Congo.',
-                              'The authorities said the risk to the wider population was low.']
-        },
-        {
-            'title': 'Iran loyalists promote wider nationalism',
-            'link': 'https://example.com/2',
-            'source': 'NYT World',
-            'all_sources': ['NYT World'],
-            'bias_breakdown': {'Lean Left': 1},
-            'bias_bar': {'left_pct': 100, 'center_pct': 0, 'right_pct': 0, 'total': 1},
-            'is_blindspot': True,
-            'is_trending': False,
-            'image_url': None,
-            'bullet_points': ['Government supporters show ties with former dissidents.']
-        },
-    ]
-    path = generate_site(test_articles, output_dir='/tmp/site_test2')
-    print(f"Wrote {path}")

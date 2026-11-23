@@ -2,29 +2,31 @@ name: Daily News Digest
 
 on:
   schedule:
-    # Runs every day at 8:00 AM UTC
+    # 08:00 UTC daily. For fresher, Ground News-style updates use
+    # '0 */6 * * *' (every 6 hours) - same-day runs overwrite that day's files.
     - cron: '0 8 * * *'
-  # Allow manual triggering for testing
   workflow_dispatch:
 
 permissions:
   contents: write
-  pages: write
-  id-token: write
+
+concurrency:
+  group: daily-digest
+  cancel-in-progress: false
 
 jobs:
   daily-digest:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 15
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Set up Python 3.11
-        uses: actions/setup-python@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: '3.12'
           cache: 'pip'
 
       - name: Install dependencies
@@ -32,11 +34,15 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      - name: Run offline tests
+        run: python test.py
+
       - name: Run News Digest pipeline
         env:
-          # Optional - only needed if you also want Discord delivery.
-          # Everything else works with zero secrets/config.
+          # All optional. Without them the digest still runs fully, for free.
           DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SITE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
         run: python src/main.py
 
       - name: Commit and push digest
@@ -45,9 +51,10 @@ jobs:
           git config --local user.email "${{ github.repository_owner_id }}+${{ github.repository_owner }}@users.noreply.github.com"
           git config --local user.name "${{ github.repository_owner }}"
           git add -A
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Daily digest - $(date +%Y-%m-%d)" && git push)
-
-      - name: Workflow Notification
-        if: failure()
-        run: |
-          echo "::notice::Daily News Digest workflow failed - check logs"
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Daily digest - $(date -u +%Y-%m-%d)"
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
+            git push
+          fi

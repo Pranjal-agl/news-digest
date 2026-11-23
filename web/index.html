@@ -1,0 +1,610 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>News Digest — every side of the day's news</title>
+<meta name="description" content="A daily world news digest that groups coverage from outlets across the political spectrum, shows each story's bias distribution and flags blindspots.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,500;6..72,600;6..72,700&family=Public+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  --page:#EDEFF2; --surface:#FFFFFF; --ink:#16181D; --ink2:#4F5560; --ink3:#7A808B; --line:#DCDFE4;
+  --left:#2C4F91; --center:#C9CDD4; --center-ink:#3D424B; --right:#B5322D; --blind:#5B3E8E;
+  --ok:#2E7D4F; --bad:#B5322D;
+  --serif:"Newsreader",Georgia,"Times New Roman",serif;
+  --sans:"Public Sans",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;
+  --r:6px;
+}
+[data-theme=dark]{
+  --page:#15171B; --surface:#1E2126; --ink:#ECEEF1; --ink2:#B3B8C1; --ink3:#868C97; --line:#30343B;
+  --left:#5B82CC; --center:#5C626C; --center-ink:#E5E7EB; --right:#D9544E; --blind:#9C7FD0;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{-webkit-text-size-adjust:100%}
+body{background:var(--page);color:var(--ink);font:15px/1.5 var(--sans);min-height:100vh}
+a{color:inherit;text-decoration:none}
+button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
+:focus-visible{outline:2px solid var(--left);outline-offset:2px;border-radius:3px}
+img{display:block;max-width:100%}
+.wrap{max-width:1240px;margin:0 auto;padding:0 20px}
+
+/* ── Masthead ───────────────────────────────────────── */
+.mast{background:var(--surface);border-bottom:1px solid var(--line);position:sticky;top:0;z-index:20}
+.mast-row{display:flex;align-items:center;gap:20px;height:60px}
+.brand{font:700 1.45rem/1 var(--serif);letter-spacing:-.01em;display:flex;align-items:center;gap:10px;white-space:nowrap}
+.brand-mark{display:flex;height:14px;width:30px;border-radius:2px;overflow:hidden}
+.brand-mark i{flex:1}
+.brand-mark i:nth-child(1){background:var(--left)} .brand-mark i:nth-child(2){background:var(--center)} .brand-mark i:nth-child(3){background:var(--right)}
+nav.tabs{display:flex;gap:2px;overflow-x:auto;scrollbar-width:none}
+nav.tabs a{padding:8px 11px;border-radius:var(--r);font-weight:600;font-size:.88rem;color:var(--ink2);white-space:nowrap}
+nav.tabs a:hover{background:var(--page);color:var(--ink)}
+nav.tabs a[aria-current=page]{color:var(--ink);background:var(--page)}
+.mast-tools{margin-left:auto;display:flex;align-items:center;gap:8px}
+.search{position:relative}
+.search input{font:inherit;font-size:.88rem;width:220px;padding:8px 12px;border:1px solid var(--line);border-radius:999px;background:var(--page);color:var(--ink)}
+.search input::placeholder{color:var(--ink3)}
+.icon-btn{width:36px;height:36px;border-radius:999px;display:grid;place-items:center;color:var(--ink2)}
+.icon-btn:hover{background:var(--page);color:var(--ink)}
+.subbar{border-top:1px solid var(--line)}
+.subbar-row{display:flex;align-items:center;gap:8px;height:46px;overflow-x:auto;scrollbar-width:none}
+.date{font-size:.82rem;color:var(--ink3);white-space:nowrap;margin-right:6px}
+.chip{padding:5px 12px;border:1px solid var(--line);border-radius:999px;font-size:.82rem;font-weight:500;color:var(--ink2);white-space:nowrap;background:var(--surface)}
+.chip:hover{border-color:var(--ink3);color:var(--ink)}
+.chip[aria-pressed=true]{background:var(--ink);border-color:var(--ink);color:var(--surface)}
+.chip .n{color:var(--ink3);margin-left:4px;font-weight:400}
+.chip[aria-pressed=true] .n{color:inherit;opacity:.7}
+
+/* ── Layout ─────────────────────────────────────────── */
+main.wrap{padding-top:24px;padding-bottom:80px}
+.cols{display:grid;grid-template-columns:minmax(0,1fr) 340px;gap:28px;align-items:start}
+.side{position:sticky;top:130px;display:flex;flex-direction:column;gap:20px}
+.panel{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:18px}
+.panel h2,.section-h{font:600 1.15rem/1.25 var(--serif);margin-bottom:12px}
+.section-h{font-size:1.4rem;margin:4px 0 14px}
+.muted{color:var(--ink3)} .small{font-size:.82rem}
+.notice{background:var(--surface);border:1px solid var(--line);border-left:4px solid var(--blind);border-radius:var(--r);padding:12px 16px;margin-bottom:18px;font-size:.9rem}
+
+/* ── Bias bar (the signature) ───────────────────────── */
+.bar{display:flex;height:22px;border-radius:4px;overflow:hidden;font:600 .72rem/22px var(--sans);gap:2px;background:var(--surface)}
+.bar span{min-width:0;white-space:nowrap;overflow:hidden;padding:0 7px}
+.bar .L{background:var(--left);color:#fff}
+.bar .C{background:var(--center);color:var(--center-ink);text-align:center}
+.bar .R{background:var(--right);color:#fff;text-align:right}
+.bar.thin{height:8px;font-size:0;gap:1px}
+.bar.big{height:34px;font-size:.85rem;line-height:34px}
+.bar.big span{padding:0 10px}
+.bar-legend{display:flex;justify-content:space-between;font-size:.78rem;color:var(--ink3);margin-top:6px}
+@media (prefers-reduced-motion:no-preference){.bar.grow span{animation:grow .6s ease-out both}}
+@keyframes grow{from{flex-grow:0}}
+
+/* ── Story list ─────────────────────────────────────── */
+.lead{display:grid;grid-template-columns:1.25fr 1fr;gap:22px;background:var(--surface);border:1px solid var(--line);border-radius:var(--r);overflow:hidden;margin-bottom:22px}
+.lead .img{aspect-ratio:4/3;background:var(--page);overflow:hidden}
+.lead .img img{width:100%;height:100%;object-fit:cover}
+.lead.text-only{grid-template-columns:1fr}
+.lead.text-only .body{padding:22px}
+.lead .body{padding:22px 22px 22px 0;display:flex;flex-direction:column;gap:12px}
+.lead h3{font:700 1.75rem/1.15 var(--serif);letter-spacing:-.01em}
+.lead ul{list-style:none;color:var(--ink2);font-size:.92rem;display:flex;flex-direction:column;gap:6px}
+.lead li{padding-left:14px;position:relative}
+.lead li::before{content:"";position:absolute;left:0;top:.62em;width:5px;height:5px;background:var(--ink3);border-radius:50%}
+.kicker{font-size:.78rem;color:var(--ink3);display:flex;gap:10px;flex-wrap:wrap;align-items:center}
+.kicker b{color:var(--ink2);font-weight:600}
+.flag{display:inline-flex;align-items:center;gap:5px;font-weight:700;font-size:.74rem;color:var(--blind)}
+.flag::before{content:"";width:8px;height:8px;border-radius:50%;background:currentColor}
+.flag.hot{color:var(--right)}
+.list{background:var(--surface);border:1px solid var(--line);border-radius:var(--r)}
+.row{display:grid;grid-template-columns:minmax(0,1fr) 128px;gap:18px;padding:16px 18px;border-top:1px solid var(--line)}
+.row:first-child{border-top:0}
+.row:hover h3{text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:3px}
+.row h3{font:600 1.12rem/1.3 var(--serif);margin:5px 0 10px}
+.row .thumb{aspect-ratio:4/3;border-radius:4px;overflow:hidden;background:var(--page)}
+.row .thumb img{width:100%;height:100%;object-fit:cover}
+.row .meta{display:flex;justify-content:space-between;gap:10px;font-size:.78rem;color:var(--ink3);margin-top:6px}
+.noimg{width:100%;height:100%;display:grid;place-items:center;font:700 2rem var(--serif);color:var(--line)}
+.more{display:block;width:100%;padding:14px;border-top:1px solid var(--line);font-weight:600;font-size:.88rem;color:var(--ink2)}
+.more:hover{color:var(--ink);background:var(--page)}
+.empty{padding:50px 20px;text-align:center;color:var(--ink2)}
+
+/* ── Sidebar widgets ────────────────────────────────── */
+.mini{display:block;padding:11px 0;border-top:1px solid var(--line)}
+.mini:first-of-type{border-top:0;padding-top:0}
+.mini h4{font:600 .98rem/1.3 var(--serif);margin-bottom:7px}
+.mini:hover h4{text-decoration:underline}
+.stat-grid{display:grid;grid-template-columns:1fr 1fr;gap:12px 16px;margin-top:14px}
+.stat b{display:block;font:700 1.35rem/1.1 var(--serif)}
+.stat span{font-size:.78rem;color:var(--ink3)}
+
+/* ── Story page ─────────────────────────────────────── */
+.back{display:inline-block;font-size:.85rem;font-weight:600;color:var(--ink2);margin-bottom:14px}
+.back:hover{color:var(--ink)}
+.story-h{font:700 2.3rem/1.12 var(--serif);letter-spacing:-.015em;margin:8px 0 14px;max-width:30ch}
+.story-hero{border-radius:var(--r);overflow:hidden;aspect-ratio:16/8;background:var(--page);margin:16px 0}
+.story-hero img{width:100%;height:100%;object-fit:cover}
+.summary{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:20px 22px;margin-bottom:20px}
+.summary ul{list-style:none;display:flex;flex-direction:column;gap:10px;font-size:1rem;max-width:70ch}
+.summary li{padding-left:16px;position:relative}
+.summary li::before{content:"";position:absolute;left:0;top:.6em;width:6px;height:6px;background:var(--ink);border-radius:50%}
+.ai-note{font-size:.76rem;color:var(--ink3);margin-top:12px}
+.framing{display:grid;grid-template-columns:repeat(3,1fr);gap:0;border:1px solid var(--line);border-radius:var(--r);overflow:hidden;background:var(--surface);margin-bottom:20px}
+.framing > div{padding:16px 18px;border-left:1px solid var(--line)}
+.framing > div:first-child{border-left:0}
+.framing h4{font-size:.82rem;font-weight:700;margin-bottom:6px}
+.framing p{font-size:.9rem;color:var(--ink2)}
+.common{grid-column:1/-1;border-left:0 !important;border-top:1px solid var(--line);font-size:.9rem;color:var(--ink2)}
+.compare{display:grid;grid-template-columns:repeat(3,1fr);gap:14px;margin-bottom:24px}
+.compare .colh{display:flex;align-items:center;gap:8px;font-weight:700;font-size:.86rem;padding-bottom:8px;border-bottom:3px solid}
+.compare .colh.L{border-color:var(--left)} .compare .colh.C{border-color:var(--center)} .compare .colh.R{border-color:var(--right)}
+.compare .colh .n{margin-left:auto;color:var(--ink3);font-weight:500}
+.hl{display:block;padding:12px 0;border-bottom:1px solid var(--line)}
+.hl q{display:block;font:600 1rem/1.3 var(--serif);quotes:none;margin-top:3px}
+.hl:hover q{text-decoration:underline}
+.hl .src{font-size:.76rem;color:var(--ink3)}
+.gap{font-size:.86rem;color:var(--ink3);padding:12px 0;font-style:italic}
+.filters{display:flex;gap:6px;margin-bottom:12px;flex-wrap:wrap}
+.art{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:6px 16px;padding:14px 18px;border-top:1px solid var(--line)}
+.art:first-child{border-top:0}
+.art h4{font:600 1.02rem/1.3 var(--serif);grid-column:1/-1}
+.art p{grid-column:1/-1;font-size:.86rem;color:var(--ink2)}
+.art .src{font-size:.8rem;font-weight:600;display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.art .time{font-size:.78rem;color:var(--ink3)}
+.art a.read{grid-column:1/-1;font-size:.82rem;font-weight:600;color:var(--left)}
+.pill{font-size:.7rem;font-weight:700;padding:2px 8px;border-radius:999px;white-space:nowrap}
+.pill.L{background:var(--left);color:#fff} .pill.C{background:var(--center);color:var(--center-ink)} .pill.R{background:var(--right);color:#fff} .pill.U{background:var(--page);color:var(--ink3)}
+.pill.own{background:var(--page);color:var(--ink2);font-weight:600}
+dl.facts{display:grid;grid-template-columns:auto 1fr;gap:9px 14px;font-size:.88rem;margin-bottom:16px}
+dl.facts dt{color:var(--ink3)} dl.facts dd{text-align:right;font-weight:600}
+.hbar{display:grid;grid-template-columns:150px 1fr 26px;align-items:center;gap:10px;font-size:.82rem;margin-top:8px}
+.hbar .track{height:8px;background:var(--page);border-radius:4px;overflow:hidden}
+.hbar .fill{height:100%;background:var(--ink2)}
+.hbar b{text-align:right}
+
+/* ── Blindspot / tables ─────────────────────────────── */
+.two{display:grid;grid-template-columns:1fr 1fr;gap:22px}
+.bs-h{display:flex;align-items:center;gap:10px;font:600 1.2rem var(--serif);margin-bottom:4px}
+.bs-h i{width:14px;height:14px;border-radius:3px}
+table{width:100%;border-collapse:collapse;background:var(--surface);border:1px solid var(--line);border-radius:var(--r);overflow:hidden;font-size:.88rem}
+th,td{text-align:left;padding:11px 14px;border-top:1px solid var(--line);vertical-align:top}
+th{font-weight:600;color:var(--ink3);font-size:.78rem;border-top:0;background:var(--page)}
+td.num{text-align:right;font-variant-numeric:tabular-nums}
+.dot{display:inline-block;width:8px;height:8px;border-radius:50%;margin-right:6px}
+.dot.ok{background:var(--ok)} .dot.bad{background:var(--bad)}
+.days{display:grid;grid-template-columns:repeat(auto-fill,minmax(180px,1fr));gap:10px}
+.day{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:14px}
+.day:hover{border-color:var(--ink3)}
+.day b{display:block;font:600 1.05rem var(--serif)}
+.btn{display:inline-block;padding:9px 16px;border-radius:999px;font-weight:600;font-size:.86rem;border:1px solid var(--line);background:var(--surface)}
+.btn:hover{border-color:var(--ink3)}
+footer{border-top:1px solid var(--line);padding:24px 0 40px;font-size:.8rem;color:var(--ink3)}
+footer a{text-decoration:underline}
+
+@media (max-width:980px){
+  .cols{grid-template-columns:1fr}
+  .side{position:static}
+  .search input{width:150px}
+}
+@media (max-width:700px){
+  .mast-row{height:auto;flex-wrap:wrap;padding:10px 0;gap:8px}
+  nav.tabs{order:3;width:100%}
+  .search input{width:120px}
+  .lead{grid-template-columns:1fr}
+  .lead .body{padding:0 18px 18px}
+  .lead h3{font-size:1.4rem}
+  .row{grid-template-columns:minmax(0,1fr) 88px;gap:12px;padding:14px}
+  .row h3{font-size:1.02rem}
+  .story-h{font-size:1.7rem}
+  .compare,.framing,.two{grid-template-columns:1fr}
+  .framing > div{border-left:0;border-top:1px solid var(--line)}
+  .framing > div:first-child{border-top:0}
+  .side{top:0}
+}
+</style>
+</head>
+<body>
+<header class="mast">
+  <div class="wrap mast-row">
+    <a class="brand" href="#/" aria-label="News Digest home"><span class="brand-mark" aria-hidden="true"><i></i><i></i><i></i></span>News Digest</a>
+    <nav class="tabs" aria-label="Sections">
+      <a href="#/" data-nav="home">Top stories</a>
+      <a href="#/blindspot" data-nav="blindspot">Blindspot</a>
+      <a href="#/weekly" data-nav="weekly">This week</a>
+      <a href="#/bias" data-nav="bias">My news bias</a>
+      <a href="#/sources" data-nav="sources">Sources</a>
+      <a href="#/archive" data-nav="archive">Archive</a>
+    </nav>
+    <div class="mast-tools">
+      <label class="search"><span class="muted" style="position:absolute;left:-9999px">Search stories</span>
+        <input id="q" type="search" placeholder="Search stories" autocomplete="off"></label>
+      <button class="icon-btn" id="theme" aria-label="Switch light or dark theme" title="Switch theme">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>
+      </button>
+    </div>
+  </div>
+  <div class="subbar"><div class="wrap subbar-row" id="chips"></div></div>
+</header>
+
+<main class="wrap" id="app" aria-live="polite"><p class="empty">Loading the latest digest…</p></main>
+
+<footer><div class="wrap">
+  Bias ratings are outlet-level ratings from <a href="https://www.allsides.com/media-bias/ratings" rel="noopener" target="_blank">AllSides</a>; ownership categories follow Ground News's scheme. Stories are grouped automatically from public RSS feeds, so occasional mis-groupings happen.
+  Reading history for "My news bias" stays in this browser only.
+</div></footer>
+
+<script>
+"use strict";
+const $ = s => document.querySelector(s);
+const app = $('#app');
+const state = { data:null, date:null, topic:'All', region:'All', q:'', shown:25, artFilter:'all', index:null, weekly:null };
+const SIDE_NAME = {left:'Left', center:'Center', right:'Right'};
+const SIDE_KEY = {left:'L', center:'C', right:'R'};
+
+// ── storage (wrapped: may be unavailable) ──────────────
+const store = {
+  get(k, d){ try{ const v = localStorage.getItem(k); return v ? JSON.parse(v) : d; }catch(e){ return d; } },
+  set(k, v){ try{ localStorage.setItem(k, JSON.stringify(v)); }catch(e){} }
+};
+
+// ── helpers ────────────────────────────────────────────
+function esc(s){ return String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c])); }
+function ago(iso){
+  const t = Date.parse(iso); if (!t) return '';
+  const m = Math.round((Date.now() - t) / 60000);
+  if (m < 60) return `${Math.max(m,1)}m ago`;
+  const h = Math.round(m/60); if (h < 48) return `${h}h ago`;
+  return new Date(t).toLocaleDateString(undefined,{month:'short',day:'numeric'});
+}
+function plural(n, w){ return `${n} ${w}${n===1?'':'s'}`; }
+function img(url, cls){
+  return url ? `<img src="${esc(url)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.replaceWith(Object.assign(document.createElement('div'),{className:'noimg',textContent:'¶'}))">`
+             : `<div class="noimg" aria-hidden="true">¶</div>`;
+}
+function bar(b, size, grow){
+  b = b || {};
+  const segs = [['L', b.left_pct, b.left, 'Left'], ['C', b.center_pct, b.center, 'Center'], ['R', b.right_pct, b.right, 'Right']]
+    .filter(s => s[1] > 0);
+  if (!segs.length) return `<div class="bar ${size||''}"><span class="C" style="flex:1">Unrated</span></div>`;
+  const label = segs.map(s => `${s[3]} ${s[1]}%`).join(', ');
+  return `<div class="bar ${size||''} ${grow?'grow':''}" role="img" aria-label="Coverage: ${label}">` +
+    segs.map(s => `<span class="${s[0]}" style="flex:${s[1]}">${size==='thin'?'':(s[1] >= 18 ? `${s[0]} ${s[1]}%` : s[1] >= 9 ? `${s[1]}%` : '')}</span>`).join('') + `</div>`;
+}
+function flags(s){
+  let f = '';
+  if (s.blindspot) f += `<span class="flag">Blindspot for the ${SIDE_NAME[s.blindspot]}</span>`;
+  else if (s.is_trending) f += `<span class="flag hot">Widely covered</span>`;
+  return f;
+}
+function kicker(s){
+  const place = (s.places && s.places[0]) ? s.places[0].name : s.region;
+  return `<div class="kicker"><b>${esc(s.topic)}</b><span>${esc(place || '')}</span>${flags(s)}</div>`;
+}
+function srcLine(s){ return `${plural(s.source_count||1,'source')} · ${ago(s.updated||s.published)}`; }
+function stories(){ return (state.data && state.data.stories) || []; }
+function findStory(id){ return stories().find(s => s.id === id); }
+function storyHref(s){ return `#/story/${encodeURIComponent(s.id)}`; }
+
+// ── data loading ───────────────────────────────────────
+async function getJSON(url){ const r = await fetch(url + (url.includes('?')?'&':'?') + 't=' + Date.now()); if(!r.ok) throw new Error(r.status); return r.json(); }
+async function loadDay(date){
+  const url = date ? `./data/${date}.json` : './data.json';
+  state.data = await getJSON(url);
+  state.date = date || null; state.shown = 25;
+  // backfill fields for data written by older versions
+  for (const s of stories()){
+    s.id = s.id || btoa(unescape(encodeURIComponent(s.link||s.title))).slice(0,12);
+    s.source_count = s.source_count || (s.all_sources||[s.source]).length;
+    s.articles = s.articles || (s.all_sources||[s.source]).map(n => ({source:n, title:n===s.source?s.title:'', link:n===s.source?s.link:'', side:'unrated', bias_label:''}));
+    s.topic = s.topic || 'World';
+    if (s.blindspot === undefined) s.blindspot = s.is_blindspot ? ((s.bias_bar||{}).left_pct > (s.bias_bar||{}).right_pct ? 'right' : 'left') : null;
+  }
+  renderChips();
+}
+
+// ── chips (topic filter) ───────────────────────────────
+function renderChips(){
+  const counts = {};
+  for (const s of stories()) counts[s.topic] = (counts[s.topic]||0) + 1;
+  const topics = ['All', ...Object.keys(counts).sort((a,b)=>counts[b]-counts[a])];
+  const d = state.data && state.data.date ? new Date(state.data.date + 'T12:00:00') : new Date();
+  const dateTxt = d.toLocaleDateString(undefined,{weekday:'long', month:'long', day:'numeric'});
+  $('#chips').innerHTML = `<span class="date">${state.date ? 'Archive: ' : ''}${esc(dateTxt)}</span>` +
+    topics.map(t => `<button class="chip" data-topic="${esc(t)}" aria-pressed="${t===state.topic}">${esc(t)}${t!=='All'?`<span class="n">${counts[t]}</span>`:''}</button>`).join('');
+}
+$('#chips').addEventListener('click', e => {
+  const b = e.target.closest('[data-topic]'); if (!b) return;
+  state.topic = b.dataset.topic; state.shown = 25; renderChips();
+  if (!location.hash.startsWith('#/') || location.hash === '#/' || location.hash === '') render(); else location.hash = '#/';
+});
+$('#q').addEventListener('input', e => {
+  state.q = e.target.value.trim().toLowerCase(); state.shown = 25;
+  if (location.hash && location.hash !== '#/') location.hash = '#/'; else render();
+});
+
+function filtered(){
+  let list = stories();
+  if (state.topic !== 'All') list = list.filter(s => s.topic === state.topic);
+  if (state.q){
+    list = list.filter(s => [s.title, (s.bullet_points||[]).join(' '), (s.all_sources||[]).join(' '),
+      (s.places||[]).map(p=>p.name).join(' '), ...(s.articles||[]).map(a=>a.title)].join(' ').toLowerCase().includes(state.q));
+  }
+  return list;
+}
+
+// ── views ──────────────────────────────────────────────
+function viewHome(){
+  const list = filtered();
+  const d = state.data || {}; const st = d.stats || {};
+  let html = '';
+  if (state.date) html += `<div class="notice">You're viewing the digest from ${esc(d.date)}. <a href="#/" data-today="1"><b>Back to today</b></a></div>`;
+  html += `<div class="cols"><div>`;
+  if (!list.length){
+    html += `<div class="list"><p class="empty">No stories match ${state.q ? `"${esc(state.q)}"` : 'this topic'}. Try another topic or clear the search.</p></div>`;
+  } else {
+    const [lead, ...rest] = list;
+    html += `<a class="lead${lead.image_url ? '' : ' text-only'}" href="${storyHref(lead)}">
+      ${lead.image_url ? `<div class="img">${img(lead.image_url)}</div>` : ''}
+      <div class="body">${kicker(lead)}<h3>${esc(lead.title)}</h3>
+        <ul>${(lead.bullet_points||[]).slice(0,2).map(b=>`<li>${esc(b)}</li>`).join('')}</ul>
+        <div style="margin-top:auto">${bar(lead.bias_bar)}<div class="bar-legend"><span>${srcLine(lead)}</span><span>${lead.first_reported ? 'First: ' + esc(lead.first_reported.source) : ''}</span></div></div>
+      </div></a>`;
+    html += `<div class="list">` + rest.slice(0, state.shown).map(s => `
+      <a class="row" href="${storyHref(s)}">
+        <div>${kicker(s)}<h3>${esc(s.title)}</h3>${bar(s.bias_bar)}
+          <div class="meta"><span>${srcLine(s)}</span><span>${esc((s.all_sources||[]).slice(0,3).join(', '))}${(s.all_sources||[]).length>3?' +'+((s.all_sources||[]).length-3):''}</span></div></div>
+        <div class="thumb">${img(s.image_url)}</div>
+      </a>`).join('') +
+      (rest.length > state.shown ? `<button class="more" id="more">Show ${Math.min(25, rest.length - state.shown)} more stories</button>` : '') + `</div>`;
+  }
+  html += `</div><aside class="side">${sideCoverage(d)}${sideBlindspots()}${sideMyBias()}</aside></div>`;
+  app.innerHTML = html;
+  const m = $('#more'); if (m) m.onclick = () => { state.shown += 25; render(); };
+  const t = app.querySelector('[data-today]'); if (t) t.onclick = (e) => { e.preventDefault(); goToday(); };
+}
+
+function sideCoverage(d){
+  const st = d.stats || {}; const ct = d.coverage_today;
+  return `<section class="panel"><h2>Today's coverage</h2>
+    ${ct ? `${bar(ct, 'big')}<p class="small muted" style="margin-top:8px">Share of today's ${plural(ct.articles||0,'article')} by outlet lean.</p>` : ''}
+    <div class="stat-grid">
+      <div class="stat"><b>${st.total ?? stories().length}</b><span>stories</span></div>
+      <div class="stat"><b>${st.multi_source ?? 0}</b><span>covered by 2+ outlets</span></div>
+      <div class="stat"><b>${st.blindspots ?? 0}</b><span>blindspots</span></div>
+      <div class="stat"><b>${st.sources_ok ?? '–'}/${st.sources_total ?? '–'}</b><span>feeds loaded</span></div>
+    </div></section>`;
+}
+function sideBlindspots(){
+  const bs = stories().filter(s => s.blindspot).slice(0, 4);
+  if (!bs.length) return '';
+  return `<section class="panel"><h2>Blindspots</h2>` + bs.map(s => `
+    <a class="mini" href="${storyHref(s)}"><div class="kicker" style="margin-bottom:4px">${flags(s)}</div><h4>${esc(s.title)}</h4>${bar(s.bias_bar,'thin')}</a>`).join('') +
+    `<a class="small" href="#/blindspot" style="font-weight:600;display:block;margin-top:12px">See all blindspots</a></section>`;
+}
+function readLog(){ return store.get('nd_read', []); }
+function sideMyBias(){
+  const log = readLog();
+  if (!log.length) return `<section class="panel"><h2>My news bias</h2><p class="small muted">Open stories and articles and this panel will show which side of the spectrum your reading comes from.</p></section>`;
+  const b = biasOf(log);
+  return `<section class="panel"><h2>My news bias</h2>${bar(b)}<p class="small muted" style="margin-top:8px">Based on ${plural(b.n,'article')} you opened. <a href="#/bias" style="text-decoration:underline">Details</a></p></section>`;
+}
+function biasOf(log){
+  const c = {left:0, center:0, right:0};
+  for (const e of log) if (c[e.side] !== undefined) c[e.side]++;
+  const n = c.left + c.center + c.right || 1;
+  const p = k => Math.round(c[k]/n*100);
+  return {left:c.left, center:c.center, right:c.right, left_pct:p('left'), center_pct:p('center'), right_pct:p('right'), n:c.left+c.center+c.right};
+}
+
+function viewStory(id){
+  const s = findStory(id);
+  if (!s){ app.innerHTML = `<div class="panel empty">That story isn't in this digest. <a href="#/" style="text-decoration:underline">Go to today's top stories</a>.</div>`; return; }
+  logRead(s, null);
+  const arts = s.articles || [];
+  const bySide = {left:[], center:[], right:[]};
+  for (const a of arts) (bySide[a.side] || (bySide.center)).push(a);
+  const b = s.bias_bar || {};
+  const filt = state.artFilter;
+  const shownArts = arts.filter(a => filt === 'all' || a.side === filt);
+  const fr = s.framing || {};
+  const hasFraming = fr.left || fr.center || fr.right;
+
+  const compareCol = (side) => {
+    const items = bySide[side];
+    return `<div><div class="colh ${SIDE_KEY[side]}">${SIDE_NAME[side]}<span class="n">${plural(items.length,'article')}</span></div>` +
+      (items.length ? items.slice(0,4).map(a => `<a class="hl" href="${esc(a.link)}" target="_blank" rel="noopener" data-side="${a.side}" data-src="${esc(a.source)}"><span class="src">${esc(a.source)}</span><q>${esc(a.title)}</q></a>`).join('')
+        : `<p class="gap">No ${side==='center' ? 'center' : SIDE_NAME[side].toLowerCase()+'-leaning'} outlets in this digest covered this story.</p>`) + `</div>`;
+  };
+
+  app.innerHTML = `<a class="back" href="#/">Back to top stories</a>
+  <div class="cols"><article>
+    ${kicker(s)}
+    <h1 class="story-h">${esc(s.title)}</h1>
+    <p class="small muted">${srcLine(s)}${s.first_reported ? ` · First reported by ${esc(s.first_reported.source)} ${ago(s.first_reported.published)}` : ''}</p>
+    ${s.image_url ? `<div class="story-hero">${img(s.image_url)}</div>` : '<div style="height:16px"></div>'}
+    ${(s.bullet_points||[]).length ? `<section class="summary"><ul>${s.bullet_points.map(x=>`<li>${esc(x)}</li>`).join('')}</ul>
+      <p class="ai-note">${s.ai_summary ? 'Summary written by AI from the outlets\' own text. Check the original articles below.' : 'Summary built from sentences in the outlets\' own descriptions.'}</p></section>` : ''}
+    ${hasFraming ? `<h2 class="section-h">How each side framed it</h2><div class="framing">
+      ${['left','center','right'].map(k => `<div><h4 style="color:var(--${k==='center'?'center-ink':k})">${SIDE_NAME[k]}</h4><p>${fr[k] ? esc(fr[k]) : '<span class="muted">No coverage from this side.</span>'}</p></div>`).join('')}
+      ${s.common_ground ? `<div class="common"><b>Common ground:</b> ${esc(s.common_ground)}</div>` : ''}</div>` : ''}
+    <h2 class="section-h">Headlines across the spectrum</h2>
+    <div class="compare">${compareCol('left')}${compareCol('center')}${compareCol('right')}</div>
+    <h2 class="section-h">${plural(arts.length,'article')}</h2>
+    <div class="filters">${['all','left','center','right'].map(k => {
+        const n = k==='all' ? arts.length : bySide[k].length;
+        return `<button class="chip" data-af="${k}" aria-pressed="${filt===k}">${k==='all'?'All':SIDE_NAME[k]}<span class="n">${n}</span></button>`; }).join('')}</div>
+    <div class="list">${shownArts.length ? shownArts.map(a => `
+      <div class="art">
+        <div class="src">${esc(a.source)} <span class="pill ${SIDE_KEY[a.side]||'U'}">${esc(a.bias_label||'Unrated')}</span>${a.ownership?`<span class="pill own" title="${esc(a.owner||'')}">${esc(a.ownership)}</span>`:''}</div>
+        <div class="time">${ago(a.published)}</div>
+        <h4>${esc(a.title)}</h4>
+        ${a.summary ? `<p>${esc(a.summary.length > 220 ? a.summary.slice(0,220)+'…' : a.summary)}</p>` : ''}
+        <a class="read" href="${esc(a.link)}" target="_blank" rel="noopener" data-side="${a.side}" data-src="${esc(a.source)}">Read on ${esc(a.source)}</a>
+      </div>`).join('') : `<p class="empty">No ${SIDE_NAME[filt]?.toLowerCase()}-leaning coverage.</p>`}</div>
+  </article>
+  <aside class="side">
+    <section class="panel"><h2>Coverage details</h2>
+      <dl class="facts">
+        <dt>News sources</dt><dd>${s.source_count}</dd>
+        <dt>Leaning left</dt><dd>${b.left ?? 0}</dd>
+        <dt>Center</dt><dd>${b.center ?? 0}</dd>
+        <dt>Leaning right</dt><dd>${b.right ?? 0}</dd>
+        ${b.unrated ? `<dt>Unrated</dt><dd>${b.unrated}</dd>` : ''}
+        <dt>Last updated</dt><dd>${ago(s.updated || s.published)}</dd>
+      </dl>
+      ${bar(b, 'big', true)}
+      <p class="small muted" style="margin-top:10px">${biasSentence(s)}</p>
+    </section>
+    ${s.ownership_breakdown && Object.keys(s.ownership_breakdown).length ? `<section class="panel"><h2>Who owns the coverage</h2>
+      ${Object.entries(s.ownership_breakdown).map(([k,v]) => `<div class="hbar"><span>${esc(k)}</span><div class="track"><div class="fill" style="width:${Math.round(v/s.source_count*100)}%"></div></div><b>${v}</b></div>`).join('')}
+    </section>` : ''}
+    ${relatedPanel(s)}
+  </aside></div>`;
+  app.querySelectorAll('[data-af]').forEach(btn => btn.onclick = () => { state.artFilter = btn.dataset.af; viewStory(id); });
+  window.scrollTo(0,0);
+}
+function biasSentence(s){
+  const b = s.bias_bar || {};
+  if (s.blindspot === 'left') return `A blindspot for the left: this story is covered mostly by right-leaning outlets.`;
+  if (s.blindspot === 'right') return `A blindspot for the right: this story is covered mostly by left-leaning outlets.`;
+  if ((s.source_count||1) < 2) return `Only one outlet in this digest covered this story so far.`;
+  const ranked = ['left','center','right'].sort((x,y)=>(b[y+'_pct']||0)-(b[x+'_pct']||0));
+  const top = ranked[0];
+  if ((b[ranked[1]+'_pct']||0) === b[top+'_pct']) return `Coverage is split evenly between ${SIDE_NAME[top].toLowerCase()} and ${SIDE_NAME[ranked[1]].toLowerCase()} outlets.`;
+  return `${b[top+'_pct']}% of the outlets covering this story are rated ${SIDE_NAME[top].toLowerCase()}${top==='center'?'':'-leaning'}.`;
+}
+function relatedPanel(s){
+  // Match on the places a story is about; "US" alone is too broad to link stories
+  const key = ps => (ps||[]).map(p=>p.name).filter((n,i,a) => n !== 'US' || a.length === 1);
+  const names = new Set(key(s.places));
+  const rel = stories().filter(x => x.id !== s.id && key(x.places).some(n => names.has(n)))
+    .sort((a,b) => (b.topic===s.topic) - (a.topic===s.topic)).slice(0,4);
+  if (!rel.length) return '';
+  return `<section class="panel"><h2>Related stories</h2>${rel.map(x => `<a class="mini" href="${storyHref(x)}"><h4>${esc(x.title)}</h4>${bar(x.bias_bar,'thin')}</a>`).join('')}</section>`;
+}
+
+function viewBlindspot(){
+  const col = (side, text) => {
+    const list = stories().filter(s => s.blindspot === side);
+    return `<section><div class="bs-h"><i style="background:var(--${side==='left'?'right':'left'})"></i>Blindspot for the ${SIDE_NAME[side]}</div>
+      <p class="small muted" style="margin-bottom:12px">${text}</p>
+      <div class="list">${list.length ? list.map(s => `<a class="row" href="${storyHref(s)}"><div>${kicker(s)}<h3>${esc(s.title)}</h3>${bar(s.bias_bar)}<div class="meta"><span>${srcLine(s)}</span></div></div><div class="thumb">${img(s.image_url)}</div></a>`).join('')
+        : `<p class="empty">No blindspots for the ${SIDE_NAME[side].toLowerCase()} today.</p>`}</div></section>`;
+  };
+  app.innerHTML = `<h1 class="section-h" style="font-size:1.9rem">Blindspot</h1>
+    <p class="muted" style="max-width:68ch;margin-bottom:22px">Stories covered disproportionately by one side of the spectrum, using Ground News's formula: one side has at least 33% of the coverage and the other side has little or none.</p>
+    <div class="two">${col('left','Covered mostly by right-leaning outlets.')}${col('right','Covered mostly by left-leaning outlets.')}</div>`;
+}
+
+function viewSources(){
+  const d = state.data || {};
+  const src = (d.sources || []).slice();
+  const order = {left:0,'lean-left':1,center:2,'lean-right':3,right:4,unrated:5};
+  src.sort((a,b) => (order[a.bias]??9) - (order[b.bias]??9) || a.name.localeCompare(b.name));
+  app.innerHTML = `<h1 class="section-h" style="font-size:1.9rem">Sources</h1>
+    <p class="muted" style="max-width:68ch;margin-bottom:18px">Every outlet in the digest with its AllSides bias rating, owner, and whether its feed loaded on the latest run. To add or re-rate a source, edit <code>config.yaml</code> and <code>src/bias.py</code>.</p>
+    ${src.length ? `<div style="overflow-x:auto"><table><thead><tr><th>Outlet</th><th>Bias</th><th>Owner</th><th>Ownership</th><th>Country</th><th class="num">Articles</th><th>Feed</th></tr></thead><tbody>
+    ${src.map(s => `<tr><td><b>${esc(s.name)}</b></td><td><span class="pill ${SIDE_KEY[s.side]||'U'}">${esc(s.bias_label)}</span></td><td>${esc(s.owner)}</td><td>${esc(s.ownership)}</td><td>${esc(s.country)}</td>
+      <td class="num">${s.articles ?? 0}</td><td>${s.ok === false ? `<span class="dot bad"></span><span class="small" title="${esc(s.error||'')}">Failed</span>` : s.ok ? '<span class="dot ok"></span><span class="small">Loaded</span>' : '<span class="small muted">–</span>'}</td></tr>`).join('')}
+    </tbody></table></div>` : `<p class="panel">Source details appear after the next pipeline run.</p>`}`;
+}
+
+async function viewArchive(){
+  app.innerHTML = `<h1 class="section-h" style="font-size:1.9rem">Archive</h1><p class="muted">Loading past digests…</p>`;
+  try{ state.index = state.index || await getJSON('./data/index.json'); }catch(e){ state.index = {days:[]}; }
+  const days = state.index.days || [];
+  app.innerHTML = `<h1 class="section-h" style="font-size:1.9rem">Archive</h1>
+    <p class="muted" style="margin-bottom:18px">Open any past day's digest. Markdown copies of every digest are also in <code>data/archive/</code> in the repo.</p>
+    ${days.length ? `<div class="days">${days.map(d => `<a class="day" href="#/day/${esc(d.date)}"><b>${new Date(d.date+'T12:00:00').toLocaleDateString(undefined,{weekday:'short',month:'short',day:'numeric',year:'numeric'})}</b>
+      <span class="small muted">${plural(d.total||0,'story')}, ${plural(d.blindspots||0,'blindspot')}</span></a>`).join('')}</div>`
+      : `<p class="panel">No archived days yet. Each pipeline run adds one.</p>`}`;
+}
+
+async function viewWeekly(){
+  app.innerHTML = `<h1 class="section-h" style="font-size:1.9rem">This week</h1><p class="muted">Loading…</p>`;
+  try{ state.weekly = state.weekly || await getJSON('./data/weekly.json'); }catch(e){ state.weekly = null; }
+  const w = state.weekly;
+  if (!w || !(w.stories||[]).length){ app.innerHTML = `<h1 class="section-h" style="font-size:1.9rem">This week</h1><p class="panel">The weekly rollup appears once a few days of digests exist.</p>`; return; }
+  app.innerHTML = `<h1 class="section-h" style="font-size:1.9rem">This week</h1>
+    <p class="muted" style="margin-bottom:18px">The most widely covered stories from ${esc(w.start)} to ${esc(w.end)}, across ${plural(w.days||0,'daily digest')}.</p>
+    <div class="cols"><div class="list">${w.stories.map(s => `<a class="row" href="${s.date===((state.data||{}).date)?storyHref(s):`#/day/${esc(s.date)}/story/${encodeURIComponent(s.id)}`}"><div>${kicker(s)}<h3>${esc(s.title)}</h3>${bar(s.bias_bar)}<div class="meta"><span>${plural(s.source_count||1,'source')} · ${esc(s.date)}</span></div></div><div class="thumb">${img(s.image_url)}</div></a>`).join('')}</div>
+    <aside class="side"><section class="panel"><h2>Week in coverage</h2>${w.coverage ? bar(w.coverage,'big') : ''}
+      <div class="stat-grid"><div class="stat"><b>${w.stats?.stories ?? '–'}</b><span>stories</span></div><div class="stat"><b>${w.stats?.blindspots ?? '–'}</b><span>blindspots</span></div>
+      <div class="stat"><b>${w.stats?.blindspot_left ?? '–'}</b><span>missed by the left</span></div><div class="stat"><b>${w.stats?.blindspot_right ?? '–'}</b><span>missed by the right</span></div></div>
+    </section></aside></div>`;
+}
+
+function viewBias(){
+  const log = readLog();
+  const b = biasOf(log);
+  const bySrc = {};
+  for (const e of log) if (e.src) bySrc[e.src] = (bySrc[e.src]||0) + 1;
+  const top = Object.entries(bySrc).sort((a,b)=>b[1]-a[1]).slice(0,8);
+  const blind = log.filter(e => e.blind).length;
+  const missing = b.n ? ['left','center','right'].filter(k => !b[k]) : [];
+  app.innerHTML = `<h1 class="section-h" style="font-size:1.9rem">My news bias</h1>
+    <p class="muted" style="max-width:68ch;margin-bottom:20px">Which side of the spectrum the articles you open come from. This is stored only in this browser and never leaves it.</p>
+    ${b.n ? `<div class="cols"><div>
+      <section class="panel" style="margin-bottom:20px"><h2>Your reading, by outlet lean</h2>${bar(b,'big',true)}
+        <p style="margin-top:12px">${plural(b.n,'article')} read: ${b.left} left-leaning, ${b.center} center, ${b.right} right-leaning.${missing.length ? ` You haven't opened anything from the ${missing.map(m=>SIDE_NAME[m].toLowerCase()).join(' or ')} yet.` : ''}</p></section>
+      <section class="panel"><h2>Outlets you read most</h2>${top.map(([k,v]) => `<div class="hbar"><span>${esc(k)}</span><div class="track"><div class="fill" style="width:${Math.round(v/top[0][1]*100)}%"></div></div><b>${v}</b></div>`).join('')}</section>
+    </div><aside class="side"><section class="panel"><h2>Stats</h2><div class="stat-grid" style="margin-top:0">
+      <div class="stat"><b>${new Set(log.map(e=>e.story)).size}</b><span>stories opened</span></div>
+      <div class="stat"><b>${blind}</b><span>blindspot reads</span></div></div>
+      <button class="btn" id="reset" style="margin-top:16px">Clear my reading history</button></section></aside></div>`
+    : `<p class="panel">Nothing tracked yet. Open a story and the articles you click through to will show up here.</p>`}`;
+  const r = $('#reset'); if (r) r.onclick = () => { store.set('nd_read', []); viewBias(); };
+}
+
+function logRead(story, art){
+  const log = readLog();
+  if (art) log.push({story: story && story.id, src: art.src, side: art.side, blind: !!(story && story.blindspot), t: Date.now()});
+  store.set('nd_read', log.slice(-1000));
+}
+app.addEventListener('click', e => {
+  const a = e.target.closest('a[data-side]'); if (!a) return;
+  const id = decodeURIComponent((location.hash.match(/story\/([^/]+)/)||[])[1] || '');
+  logRead(findStory(id), {src: a.dataset.src, side: a.dataset.side});
+});
+
+// ── router ─────────────────────────────────────────────
+async function goToday(){ await loadDay(null); location.hash = '#/'; render(); }
+async function render(){
+  const h = location.hash || '#/';
+  const parts = h.replace(/^#\/?/, '').split('/');
+  let view = parts[0] || 'home';
+  if (view === 'day' && parts[1]){
+    if (state.date !== parts[1]){ try{ await loadDay(parts[1]); }catch(e){ app.innerHTML = `<p class="panel empty">No digest saved for ${esc(parts[1])}. <a href="#/archive" style="text-decoration:underline">Pick another day</a>.</p>`; return; } }
+    if (parts[2] === 'story'){ view = 'story'; parts[1] = parts[3]; } else view = 'home';
+  }
+  document.querySelectorAll('[data-nav]').forEach(n => n.toggleAttribute('aria-current', false));
+  const nav = document.querySelector(`[data-nav="${view==='story'?'home':view}"]`); if (nav) nav.setAttribute('aria-current','page');
+  if (view === 'story') state.artFilter = state.artFilter || 'all';
+  if (view === 'home') viewHome();
+  else if (view === 'story') viewStory(decodeURIComponent(parts[1]||''));
+  else if (view === 'blindspot') viewBlindspot();
+  else if (view === 'sources') viewSources();
+  else if (view === 'archive') viewArchive();
+  else if (view === 'weekly') viewWeekly();
+  else if (view === 'bias') viewBias();
+  else viewHome();
+}
+let lastStory = null;
+window.addEventListener('hashchange', () => {
+  const m = location.hash.match(/story\/([^/]+)/);
+  if (m && m[1] !== lastStory){ state.artFilter = 'all'; lastStory = m[1]; }
+  if (!location.hash.includes('story')) window.scrollTo(0,0);
+  render();
+});
+
+// ── theme ──────────────────────────────────────────────
+function applyTheme(t){ document.documentElement.dataset.theme = t; store.set('nd_theme', t); }
+applyTheme(store.get('nd_theme', matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'));
+$('#theme').onclick = () => applyTheme(document.documentElement.dataset.theme === 'dark' ? 'light' : 'dark');
+
+// ── boot ───────────────────────────────────────────────
+loadDay(null).then(render).catch(err => {
+  app.innerHTML = `<div class="panel empty"><b>No digest has been generated yet.</b><br>Run the "Daily News Digest" workflow from the repository's Actions tab, then reload this page.</div>`;
+});
+</script>
+</body>
+</html>
