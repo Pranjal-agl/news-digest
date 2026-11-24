@@ -1,20 +1,20 @@
 {
- "start": "2026-11-17",
- "end": "2026-11-23",
- "days": 1,
+ "start": "2026-11-18",
+ "end": "2026-11-24",
+ "days": 2,
  "coverage": {
-  "left": 73,
-  "center": 31,
-  "right": 48,
+  "left": 157,
+  "center": 71,
+  "right": 101,
   "left_pct": 48,
-  "center_pct": 20,
-  "right_pct": 32
+  "center_pct": 22,
+  "right_pct": 31
  },
  "stats": {
-  "stories": 60,
-  "blindspots": 7,
-  "blindspot_left": 2,
-  "blindspot_right": 5
+  "stories": 108,
+  "blindspots": 18,
+  "blindspot_left": 7,
+  "blindspot_right": 11
  },
  "stories": [
   {
@@ -105,75 +105,73 @@
   },
   {
    "id": "26e0edb3cf",
-   "title": "Nvidia reinstates Jensen Huang as CEO",
-   "link": "https://www.cbc.ca/news/business/jensen-huang-reinstated-nvidia-9.7432353?cmp=rss",
-   "source": "CBC News",
-   "summary": "Nvidia's board reinstated Jensen Huang as its president and CEO on Monday in a surprise move shortly after rejecting his offer to return. It's the latest twist in the fallout from Huang's admission of an affair with a woman suspected of being a Chinese spy.",
-   "image_url": "https://i.cbc.ca/ais/335994d6-980a-4c1e-a9b4-abbcb9a1b34c,1795443564678/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C656%2C3000%2C1687%29%3B",
-   "published": "2026-11-22T11:03:04+00:00",
-   "updated": "2026-11-23T19:35:13+00:00",
+   "title": "Nvidia Brings Back Jensen Huang as CEO After Trump Backs His Return",
+   "link": "https://www.breitbart.com/economy/2026/11/23/jensen-huang-back-as-nvidia-ceo/",
+   "source": "Breitbart",
+   "summary": "Nvidia reinstated Jensen Huang as chief executive Monday, days after President Trump called for his return.",
+   "image_url": "https://thehill.com/wp-content/uploads/sites/2/2026/11/Leading-Huang_051426_AP_MarckSchiefelbein.jpg?w=900",
+   "published": "2026-11-23T14:21:49+00:00",
+   "updated": "2026-11-24T17:45:41+00:00",
    "first_reported": {
-    "source": "New York Times",
-    "published": "2026-11-22T11:03:04+00:00"
+    "source": "Breitbart",
+    "published": "2026-11-23T14:21:49+00:00"
    },
    "all_sources": [
-    "New York Times",
     "Breitbart",
-    "Deutsche Welle",
-    "CBC News",
-    "Al Jazeera",
     "The Hill",
-    "The Independent",
     "BBC News",
-    "Washington Examiner"
+    "CBC News",
+    "New York Times",
+    "The Independent",
+    "NPR",
+    "Deutsche Welle",
+    "Al Jazeera",
+    "Daily Mail"
    ],
-   "source_count": 9,
-   "article_count": 16,
+   "source_count": 10,
+   "article_count": 23,
    "bias_breakdown": {
-    "Lean Left": 4,
+    "Lean Left": 5,
     "Center": 3,
     "Lean Right": 1,
     "Right": 1
    },
    "bias_bar": {
-    "left_pct": 45,
-    "center_pct": 33,
-    "right_pct": 22,
-    "left": 4,
+    "left_pct": 50,
+    "center_pct": 30,
+    "right_pct": 20,
+    "left": 5,
     "center": 3,
     "right": 2,
     "unrated": 0,
-    "total": 9
+    "total": 10
    },
    "blindspot": null,
    "is_blindspot": false,
    "ownership_breakdown": {
     "Government": 4,
-    "Individual": 2,
-    "Corporation": 1,
+    "Media Conglomerate": 2,
     "Other": 1,
-    "Media Conglomerate": 1
+    "Corporation": 1,
+    "Individual": 1,
+    "Independent": 1
    },
    "topic": "Politics",
    "places": [
-    {
-     "name": "China",
-     "region": "Asia-Pacific"
-    },
     {
      "name": "US",
      "region": "Americas"
     }
    ],
-   "region": "Asia-Pacific",
-   "score": 14.348,
+   "region": "Americas",
+   "score": 16.232,
    "is_trending": true,
    "bullet_points": [
-    "Shares of Nvidia surged on Monday morning after the company’s board of directors reinstated Jensen Huang as CEO.",
     "Nvidia reinstated Jensen Huang as chief executive Monday, days after President Trump called for his return.",
-    "Jensen Huang is reinstated as NVIDIA’s CEO after reports he was targeted in an alleged foreign intelligence operation."
+    "Shares of Nvidia surged on Monday morning after the company’s board of directors reinstated Jensen Huang as CEO.",
+    "President Trump took credit for negotiating Jensen Huang's return as CEO of Nvidia."
    ],
-   "date": "2026-11-23"
+   "date": "2026-11-24"
   },
   {
    "id": "e3bce82e41",
@@ -309,6 +307,335 @@
    "date": "2026-11-23"
   },
   {
+   "id": "2e5e06d89f",
+   "title": "Pope Francis' diary reveals claims he saw the devil three times",
+   "link": "https://www.bbc.co.uk/news/articles/cm78270l4z7no?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "summary": "Published extracts from the late pontiff's diary claim one of the visions happened \"in the choir loft\" during Mass.",
+   "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6bfc/live/e3f9d920-e7f2-11f1-ab60-79086b6495b8.jpg",
+   "published": "2026-11-24T06:00:06+00:00",
+   "updated": "2026-11-24T15:21:00+00:00",
+   "first_reported": {
+    "source": "New York Times",
+    "published": "2026-11-24T06:00:06+00:00"
+   },
+   "all_sources": [
+    "New York Times",
+    "New York Post",
+    "CBC News",
+    "BBC News",
+    "Breitbart",
+    "The Independent",
+    "Deutsche Welle"
+   ],
+   "source_count": 7,
+   "article_count": 7,
+   "bias_breakdown": {
+    "Lean Left": 3,
+    "Center": 2,
+    "Lean Right": 1,
+    "Right": 1
+   },
+   "bias_bar": {
+    "left_pct": 42,
+    "center_pct": 29,
+    "right_pct": 29,
+    "left": 3,
+    "center": 2,
+    "right": 2,
+    "unrated": 0,
+    "total": 7
+   },
+   "blindspot": null,
+   "is_blindspot": false,
+   "ownership_breakdown": {
+    "Government": 3,
+    "Corporation": 1,
+    "Media Conglomerate": 1,
+    "Other": 1,
+    "Individual": 1
+   },
+   "topic": "Culture",
+   "places": [
+    {
+     "name": "Argentina",
+     "region": "Americas"
+    }
+   ],
+   "region": "Americas",
+   "score": 8.79,
+   "is_trending": true,
+   "bullet_points": [
+    "The Vatican published The Private Diary of Pope Francis in several languages on Tuesday.",
+    "The late Pope Francis claims to have seen the devil himself three times and also, on one occasion, the fiery \"gates of hell,\" excerpts from his personal diary published Tuesday reveal.",
+    "The late Pope Francis suffered a two-year spiritual crisis starting in 2021 when he felt tempted by the devil and struggled with how to wield power over the Catholic Church, a new collection of his private diaries published on Tuesday revealed."
+   ],
+   "date": "2026-11-24"
+  },
+  {
+   "id": "5fbade4149",
+   "title": "Iranian singer receives 74 lashes over online concert without hijab",
+   "link": "https://www.dailymail.com/news/article-16315343/Iranian-singer-receives-74-lashes-online-concert-without-hijab.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
+   "source": "Daily Mail",
+   "summary": "Popular Iranian singer Parastoo Ahmadi received 74 lashes on Monday for performing without a hijab.",
+   "image_url": "https://i.dailymail.com/1s/2026/11/23/15/112677273-0-image-a-4_1795446235145.jpg",
+   "published": "2026-11-23T18:04:20+00:00",
+   "updated": "2026-11-24T14:55:27+00:00",
+   "first_reported": {
+    "source": "BBC News",
+    "published": "2026-11-23T18:04:20+00:00"
+   },
+   "all_sources": [
+    "BBC News",
+    "CBC News",
+    "New York Post",
+    "Breitbart",
+    "Daily Mail",
+    "New York Times",
+    "Fox News"
+   ],
+   "source_count": 7,
+   "article_count": 7,
+   "bias_breakdown": {
+    "Lean Left": 2,
+    "Center": 1,
+    "Lean Right": 2,
+    "Right": 2
+   },
+   "bias_bar": {
+    "left_pct": 29,
+    "center_pct": 14,
+    "right_pct": 57,
+    "left": 2,
+    "center": 1,
+    "right": 4,
+    "unrated": 0,
+    "total": 7
+   },
+   "blindspot": null,
+   "is_blindspot": false,
+   "ownership_breakdown": {
+    "Media Conglomerate": 3,
+    "Government": 2,
+    "Other": 1,
+    "Corporation": 1
+   },
+   "topic": "World",
+   "places": [
+    {
+     "name": "Iran",
+     "region": "Middle East"
+    }
+   ],
+   "region": "Middle East",
+   "score": 8.647,
+   "is_trending": true,
+   "bullet_points": [
+    "Popular Iranian singer Parastoo Ahmadi received 74 lashes on Monday after performing an online concert without a hijab.",
+    "An Iranian singer and four members of her production team have each received 74 lashes after being sentenced for \"offending public decency ‌by producing and publishing obscene and immoral content online,\" an Iranian news website said on Monday.",
+    "Parastoo Ahmadi sang without wearing the mandatory veil in a virtual concert in 2024 that spread quickly online and drew the ire of the Islamic republic authorities."
+   ],
+   "date": "2026-11-24"
+  },
+  {
+   "id": "c62dd78cc6",
+   "title": "2 men arrested over suspected burglary at Prince William and Kate’s country home in eastern England",
+   "link": "https://thehill.com/policy/international/prince-william-kate-country-home-break-in/",
+   "source": "The Hill",
+   "summary": "LONDON (AP) — Two men were arrested on the British royal family's Sandringham estate, police said Tuesday, after a reported break-in at the country home of Prince William and Princess Catherine. Norfolk Police said that officers were called Monday evening to reported “suspicious activity” at an address on the rural estate in eastern England. After...",
+   "image_url": "https://thehill.com/wp-content/uploads/sites/2/2026/11/6b0597d2401175.75725704.jpeg?w=900",
+   "published": "2026-11-24T11:28:30+00:00",
+   "updated": "2026-11-24T16:31:07+00:00",
+   "first_reported": {
+    "source": "New York Post",
+    "published": "2026-11-24T11:28:30+00:00"
+   },
+   "all_sources": [
+    "New York Post",
+    "The Hill",
+    "CBC News",
+    "Al Jazeera",
+    "New York Times"
+   ],
+   "source_count": 5,
+   "article_count": 5,
+   "bias_breakdown": {
+    "Lean Left": 3,
+    "Center": 1,
+    "Lean Right": 1
+   },
+   "bias_bar": {
+    "left_pct": 60,
+    "center_pct": 20,
+    "right_pct": 20,
+    "left": 3,
+    "center": 1,
+    "right": 1,
+    "unrated": 0,
+    "total": 5
+   },
+   "blindspot": "right",
+   "is_blindspot": true,
+   "ownership_breakdown": {
+    "Media Conglomerate": 2,
+    "Government": 2,
+    "Corporation": 1
+   },
+   "topic": "Crime & Justice",
+   "places": [
+    {
+     "name": "UK",
+     "region": "Europe"
+    }
+   ],
+   "region": "Europe",
+   "score": 7.452,
+   "is_trending": true,
+   "bullet_points": [
+    "LONDON (AP) — Two men were arrested on the British royal family's Sandringham estate, police said Tuesday, after a reported break-in at the country home of Prince William and Princess Catherine.",
+    "British police said Tuesday that two men have been arrested over a suspected burglary at the Royal Family's Sandringham Estate.",
+    "Prince William and Kate Middleton’s home on the royals’ Sandringham estate was the target of a break-in by intruders, it was reported Tuesday."
+   ],
+   "date": "2026-11-24"
+  },
+  {
+   "id": "13390048e2",
+   "title": "More than 700,000 Russian soldiers have been killed in Ukraine: Analysis",
+   "link": "https://thehill.com/policy/defense/6238400-russian-casualties-ukraine-war-putin-zelensky/",
+   "source": "The Hill",
+   "summary": "More than 700,000 Russian soldiers have been killed in Moscow’s war in Ukraine, according to an analysis released Monday. The staggering figure — more people than the U.S. has lost in every war it has fought over the past 150 years combined — was found using new data from the Russian state statistics service gained...",
+   "image_url": "https://thehill.com/wp-content/uploads/sites/2/2026/10/AP26284505371633-e1791745938520.jpg?w=900",
+   "published": "2026-11-23T19:19:23+00:00",
+   "updated": "2026-11-24T17:13:15+00:00",
+   "first_reported": {
+    "source": "New York Times",
+    "published": "2026-11-23T19:19:23+00:00"
+   },
+   "all_sources": [
+    "New York Times",
+    "The Hill",
+    "Daily Mail",
+    "The Independent",
+    "Washington Examiner"
+   ],
+   "source_count": 5,
+   "article_count": 5,
+   "bias_breakdown": {
+    "Lean Left": 2,
+    "Center": 1,
+    "Lean Right": 2
+   },
+   "bias_bar": {
+    "left_pct": 40,
+    "center_pct": 20,
+    "right_pct": 40,
+    "left": 2,
+    "center": 1,
+    "right": 2,
+    "unrated": 0,
+    "total": 5
+   },
+   "blindspot": null,
+   "is_blindspot": false,
+   "ownership_breakdown": {
+    "Media Conglomerate": 2,
+    "Individual": 2,
+    "Corporation": 1
+   },
+   "topic": "Conflict",
+   "places": [
+    {
+     "name": "Russia",
+     "region": "Europe"
+    },
+    {
+     "name": "Ukraine",
+     "region": "Europe"
+    },
+    {
+     "name": "US",
+     "region": "Americas"
+    }
+   ],
+   "region": "Europe",
+   "score": 7.143,
+   "is_trending": true,
+   "bullet_points": [
+    "More than 700,000 Russian soldiers have been killed in Moscow’s war in Ukraine, according to an analysis released Monday.",
+    "More than 700,000 Russian troops have been killed since the start of the full-scale war in Ukraine nearly five years ago, according to new estimates released this week.",
+    "The staggering figure — more people than the U.S. has lost in every war it has fought over the past 150 years combined — was found using new data from the Russian state statistics service gained..."
+   ],
+   "date": "2026-11-24"
+  },
+  {
+   "id": "b061e9fbfb",
+   "title": "Russia is preparing to launch a nuclear space weapon — as soon as next month, intelligence warns",
+   "link": "https://nypost.com/2026/11/23/world-news/russia-is-preparing-to-launch-a-nuclear-space-weapon-as-soon-as-next-month-intelligence-warns/",
+   "source": "New York Post",
+   "summary": "Western intelligence says Russia may soon launch a satellite capable of carrying a nuclear warhead, despite treaty bans and Kremlin denials.",
+   "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Frussia-space-nuclear-weapon-comp.jpg?quality%3D90%26strip%3Dall",
+   "published": "2026-11-23T13:34:02+00:00",
+   "updated": "2026-11-24T10:58:51+00:00",
+   "first_reported": {
+    "source": "New York Post",
+    "published": "2026-11-23T13:34:02+00:00"
+   },
+   "all_sources": [
+    "New York Post",
+    "Fox News",
+    "Daily Mail",
+    "Deutsche Welle",
+    "BBC News"
+   ],
+   "source_count": 5,
+   "article_count": 5,
+   "bias_breakdown": {
+    "Center": 2,
+    "Lean Right": 2,
+    "Right": 1
+   },
+   "bias_bar": {
+    "left_pct": 0,
+    "center_pct": 40,
+    "right_pct": 60,
+    "left": 0,
+    "center": 2,
+    "right": 3,
+    "unrated": 0,
+    "total": 5
+   },
+   "blindspot": "left",
+   "is_blindspot": true,
+   "ownership_breakdown": {
+    "Media Conglomerate": 3,
+    "Government": 2
+   },
+   "topic": "Science",
+   "places": [
+    {
+     "name": "Russia",
+     "region": "Europe"
+    },
+    {
+     "name": "Germany",
+     "region": "Europe"
+    },
+    {
+     "name": "US",
+     "region": "Americas"
+    }
+   ],
+   "region": "Europe",
+   "score": 5.573,
+   "is_trending": true,
+   "bullet_points": [
+    "German media said Russia planned to launch a satellite with a nuclear warhead into space in coming weeks.",
+    "Western intelligence says Russia may soon launch a satellite capable of carrying a nuclear warhead, despite treaty bans and Kremlin denials.",
+    "Western intelligence reportedly warns Russia's nuclear satellite could launch in 60 days, threatening thousands of United States and allied satellites."
+   ],
+   "date": "2026-11-24"
+  },
+  {
    "id": "f23a95a408",
    "title": "Don Toliver Concert in Manchester Is Evacuated Over ‘Unknown Substance’",
    "link": "https://www.nytimes.com/2026/11/23/world/europe/manchester-don-toliver-concert-evacuation-uk.html",
@@ -437,104 +764,107 @@
    "date": "2026-11-23"
   },
   {
-   "id": "66d64f433a",
-   "title": "Iranian singer receives 74 lashes over online concert without hijab",
-   "link": "https://www.dailymail.com/news/article-16315343/Iranian-singer-receives-74-lashes-online-concert-without-hijab.html?ns_mchannel=rss&ns_campaign=1490&ito=1490",
-   "source": "Daily Mail",
-   "summary": "Popular Iranian singer Parastoo Ahmadi received 74 lashes on Monday for performing without a hijab.",
-   "image_url": "https://i.dailymail.com/1s/2026/11/23/15/112677273-0-image-a-4_1795446235145.jpg",
-   "published": "2026-11-23T15:06:10+00:00",
-   "updated": "2026-11-23T19:32:44+00:00",
+   "id": "320df9f90d",
+   "title": "Colombia: Car bomb attack injures at least 23",
+   "link": "https://www.dw.com/en/colombia-car-bomb-attack-injures-at-least-23/a-80033956?maca=en-rss-en-top-1022-rdf",
+   "source": "Deutsche Welle",
+   "summary": "The explosion in Villavicencio coincides with the tenth anniversary of a peace accord with FARC guerrillas, casting doubt on Colombia's peace process.",
+   "image_url": "https://static01.nyt.com/images/2026/11/12/world/00Int-Colombia-FARC-Scrolly/00Int-Colombia-FARC-Scrolly-mediumSquareAt3X.jpg",
+   "published": "2026-11-23T10:02:48+00:00",
+   "updated": "2026-11-24T18:00:00+00:00",
    "first_reported": {
-    "source": "Daily Mail",
-    "published": "2026-11-23T15:06:10+00:00"
+    "source": "New York Times",
+    "published": "2026-11-23T10:02:48+00:00"
    },
    "all_sources": [
-    "Daily Mail",
-    "BBC News",
-    "CBC News"
-   ],
-   "source_count": 3,
-   "article_count": 3,
-   "bias_breakdown": {
-    "Lean Left": 1,
-    "Center": 1,
-    "Lean Right": 1
-   },
-   "bias_bar": {
-    "left_pct": 34,
-    "center_pct": 33,
-    "right_pct": 33,
-    "left": 1,
-    "center": 1,
-    "right": 1,
-    "unrated": 0,
-    "total": 3
-   },
-   "blindspot": null,
-   "is_blindspot": false,
-   "ownership_breakdown": {
-    "Government": 2,
-    "Media Conglomerate": 1
-   },
-   "topic": "World",
-   "places": [
-    {
-     "name": "Iran",
-     "region": "Middle East"
-    }
-   ],
-   "region": "Middle East",
-   "score": 5.187,
-   "is_trending": true,
-   "bullet_points": [
-    "Popular Iranian singer Parastoo Ahmadi received 74 lashes on Monday for performing without a hijab.",
-    "An Iranian singer and four members of her production team have each received 74 lashes after being sentenced for \"offending public decency ‌by producing and publishing obscene and immoral content online,\" an Iranian news website said on Monday.",
-    "Parastoo Ahmadi, three musicians and a producer were reportedly given 74 lashes in Qom."
-   ],
-   "date": "2026-11-23"
-  },
-  {
-   "id": "2b5f9ee639",
-   "title": "Trump orders the Army not to detonate bomb-making chemicals in Iowa without court approval",
-   "link": "https://www.independent.co.uk/news/world/americas/army-iowa-trump-washington-b3090172.html",
-   "source": "The Independent",
-   "summary": "President Donald Trump says he will defer to a federal appeals court on whether to proceed with detonating degraded bomb-making material at an Iowa ammunition plant",
-   "image_url": "https://static.independent.co.uk/2026/11/19/05/Iowa_Army_Lead_Detonation_99168.jpg?width=1200&auto=webp&crop=3%3A2",
-   "published": "2026-11-22T18:29:46+00:00",
-   "updated": "2026-11-23T18:35:50+00:00",
-   "first_reported": {
-    "source": "BBC News",
-    "published": "2026-11-22T18:29:46+00:00"
-   },
-   "all_sources": [
-    "BBC News",
+    "New York Times",
+    "Deutsche Welle",
     "The Independent",
-    "CBC News"
+    "Al Jazeera"
    ],
-   "source_count": 3,
+   "source_count": 4,
    "article_count": 4,
    "bias_breakdown": {
-    "Lean Left": 2,
+    "Lean Left": 3,
     "Center": 1
    },
    "bias_bar": {
-    "left_pct": 67,
-    "center_pct": 33,
+    "left_pct": 75,
+    "center_pct": 25,
     "right_pct": 0,
-    "left": 2,
+    "left": 3,
     "center": 1,
     "right": 0,
     "unrated": 0,
-    "total": 3
+    "total": 4
    },
    "blindspot": "right",
    "is_blindspot": true,
    "ownership_breakdown": {
     "Government": 2,
+    "Corporation": 1,
     "Individual": 1
    },
-   "topic": "Politics",
+   "topic": "Conflict",
+   "places": [
+    {
+     "name": "Colombia",
+     "region": "Americas"
+    }
+   ],
+   "region": "Americas",
+   "score": 5.961,
+   "is_trending": true,
+   "bullet_points": [
+    "The conflict between Colombia’s government and a leftist rebel group ended in a historic 2016 accord.",
+    "The explosion in Villavicencio coincides with the tenth anniversary of a peace accord with FARC guerrillas, casting doubt on Colombia's peace process.",
+    "A decade after Colombia's peace accords, former FARC fighter and artist honours killed signatories with a mural."
+   ],
+   "date": "2026-11-24"
+  },
+  {
+   "id": "11016a206c",
+   "title": "U.S. army says it will detonate Iowa bomb-making material Wednesday, after court's approval",
+   "link": "https://www.cbc.ca/news/world/iowa-lead-azide-explosion-explosive-army-9.7432313?cmp=rss",
+   "source": "CBC News",
+   "summary": "The U.S. army plans to detonate bomb-making chemicals in Iowa on Wednesday morning after getting approval from a federal appeals court in a saga that has sowed confusion and included an unusual twist from President Donald Trump.",
+   "image_url": "https://i.cbc.ca/ais/4c99da99-dd28-4d0b-8d9f-fcb23dc53be0,1795441946358/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C8640%2C4860%29%3B",
+   "published": "2026-11-23T17:52:57+00:00",
+   "updated": "2026-11-24T17:33:41+00:00",
+   "first_reported": {
+    "source": "CBC News",
+    "published": "2026-11-23T17:52:57+00:00"
+   },
+   "all_sources": [
+    "CBC News",
+    "Breitbart",
+    "The Independent",
+    "Al Jazeera"
+   ],
+   "source_count": 4,
+   "article_count": 4,
+   "bias_breakdown": {
+    "Lean Left": 3,
+    "Right": 1
+   },
+   "bias_bar": {
+    "left_pct": 75,
+    "center_pct": 0,
+    "right_pct": 25,
+    "left": 3,
+    "center": 0,
+    "right": 1,
+    "unrated": 0,
+    "total": 4
+   },
+   "blindspot": "right",
+   "is_blindspot": true,
+   "ownership_breakdown": {
+    "Government": 2,
+    "Other": 1,
+    "Individual": 1
+   },
+   "topic": "Conflict",
    "places": [
     {
      "name": "US",
@@ -542,14 +872,14 @@
     }
    ],
    "region": "Americas",
-   "score": 5.024,
+   "score": 5.869,
    "is_trending": true,
    "bullet_points": [
-    "President Donald Trump says he will defer to a federal appeals court on whether to proceed with detonating degraded bomb-making material at an Iowa ammunition plant",
-    "The Army says \"swift action\" is necessary to protect its personnel and nearby communities around its ammunition plant in Iowa.",
-    "Some schools in the path of the plume have canceled classes and residents have been urged to leave their homes."
+    "The U.S. army plans to detonate bomb-making chemicals in Iowa on Wednesday morning after getting approval from a federal appeals court in a saga that has sowed confusion and included an unusual twist from President Donald Trump.",
+    "The US Army is preparing to detonate nearly five tonnes of unstable explosives in Iowa on Wednesday.",
+    "The U.S. Army has rescheduled a detonation of bomb-making chemicals in southeastern Iowa to Wednesday because of more favorable weather and to allow time for extra safety measures"
    ],
-   "date": "2026-11-23"
+   "date": "2026-11-24"
   },
   {
    "id": "f57582a725",
@@ -924,644 +1254,355 @@
    "date": "2026-11-23"
   },
   {
-   "id": "2cb2f93d81",
-   "title": "Who Is the Mexican Drug Kingpin Known as El Chapo Isidro?",
-   "link": "https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-drug-kingpin.html",
-   "source": "New York Times",
-   "summary": "The kingpin, Fausto Isidro Meza Flores, was captured in a violent operation in Mexico. He was one of the F.B.I.’s 10 most wanted fugitives.",
-   "image_url": "https://static01.nyt.com/images/2026/11/21/multimedia/21int-cartel-arrest-zqtf/21int-cartel-arrest-zqtf-mediumSquareAt3X.jpg",
-   "published": "2026-11-21T21:12:24+00:00",
-   "updated": "2026-11-23T19:15:22+00:00",
+   "id": "2f5131769f",
+   "title": "Gisèle Pelicot 'humiliated' after nude photos sent to media to promote book",
+   "link": "https://www.bbc.co.uk/news/articles/cm3eg502nxw2o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "summary": "The publisher of an essay on coercive control apologises for \"an unfortunate and inappropriate communication\".",
+   "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1cd/live/0fff68f0-e776-11f1-a8a9-d7c9e8a923b4.jpg",
+   "published": "2026-11-23T21:24:47+00:00",
+   "updated": "2026-11-24T17:33:45+00:00",
    "first_reported": {
-    "source": "New York Times",
-    "published": "2026-11-21T21:12:24+00:00"
+    "source": "BBC News",
+    "published": "2026-11-23T21:24:47+00:00"
    },
    "all_sources": [
-    "New York Times",
-    "BBC News"
+    "BBC News",
+    "Sky News",
+    "CBC News"
    ],
-   "source_count": 2,
-   "article_count": 6,
+   "source_count": 3,
+   "article_count": 3,
    "bias_breakdown": {
-    "Lean Left": 1,
+    "Lean Left": 2,
     "Center": 1
    },
    "bias_bar": {
-    "left_pct": 50,
-    "center_pct": 50,
+    "left_pct": 67,
+    "center_pct": 33,
     "right_pct": 0,
-    "left": 1,
+    "left": 2,
     "center": 1,
     "right": 0,
     "unrated": 0,
-    "total": 2
+    "total": 3
+   },
+   "blindspot": "right",
+   "is_blindspot": true,
+   "ownership_breakdown": {
+    "Government": 2,
+    "Telecom": 1
+   },
+   "topic": "Culture",
+   "places": [
+    {
+     "name": "France",
+     "region": "Europe"
+    }
+   ],
+   "region": "Europe",
+   "score": 4.702,
+   "is_trending": false,
+   "bullet_points": [
+    "Gisele Pelicot has said she is \"deeply shocked\" and \"humiliated\" after nude images of her were sent to the media without her consent to promote a new book about coercive control.",
+    "Gisèle Pelicot says she is deeply shocked that a Paris publishing house used nude images taken of her by her rapist ex-husband as promotional materials for a book that examines her watershed fight for justice.",
+    "The publisher of an essay on coercive control apologises for \"an unfortunate and inappropriate communication\"."
+   ],
+   "date": "2026-11-24"
+  },
+  {
+   "id": "4252baa474",
+   "title": "CAS reinstates Senegal as 2025 AFCON champions",
+   "link": "https://www.dw.com/en/cas-reinstates-senegal-as-2025-afcon-champions/a-80021027?maca=en-rss-en-top-1022-rdf",
+   "source": "Deutsche Welle",
+   "summary": "The Court of Arbitration for Sport has reinstated Senegal as 2025 AFCON champions, overturning a CAF decision that stripped them of the title. Morocco, previously declared winners, are confirmed runners-up.",
+   "image_url": "https://e3.365dm.com/26/11/1920x1080/skynews-senegal-morocco_7415350.jpg?20261124144126",
+   "published": "2026-11-24T08:06:00+00:00",
+   "updated": "2026-11-24T16:41:22+00:00",
+   "first_reported": {
+    "source": "Sky News",
+    "published": "2026-11-24T08:06:00+00:00"
+   },
+   "all_sources": [
+    "Sky News",
+    "Deutsche Welle",
+    "Al Jazeera"
+   ],
+   "source_count": 3,
+   "article_count": 3,
+   "bias_breakdown": {
+    "Lean Left": 2,
+    "Center": 1
+   },
+   "bias_bar": {
+    "left_pct": 67,
+    "center_pct": 33,
+    "right_pct": 0,
+    "left": 2,
+    "center": 1,
+    "right": 0,
+    "unrated": 0,
+    "total": 3
+   },
+   "blindspot": "right",
+   "is_blindspot": true,
+   "ownership_breakdown": {
+    "Government": 2,
+    "Telecom": 1
+   },
+   "topic": "Crime & Justice",
+   "places": [],
+   "region": "Global",
+   "score": 4.563,
+   "is_trending": false,
+   "bullet_points": [
+    "The Court of Arbitration for Sport has reinstated Senegal as 2025 AFCON champions, overturning a CAF decision that stripped them of the title.",
+    "Al Jazeera’s Samantha Johnson examines how Senegal’s AFCON title controversy reached sport’s highest court.",
+    "Senegal have been awarded the Africa Cup of Nations title after successfully appealing against the decision to strip them of it."
+   ],
+   "date": "2026-11-24"
+  },
+  {
+   "id": "a5f0501335",
+   "title": "China Investigates Chen Jining, Shanghai’s Party Leader, as Xi’s Purges Expand",
+   "link": "https://www.nytimes.com/2026/11/24/world/asia/shanghai-party-leader-investigation-china-xi.html",
+   "source": "New York Times",
+   "summary": "Before his abrupt downfall, the technocratic Chen Jining was seen as a future national leader in Xi Jinping’s China.",
+   "image_url": "https://static01.nyt.com/images/2026/11/24/world/24int-china-party-corruption-aaaaaa/24int-china-party-corruption-aaaaaa-mediumSquareAt3X.jpg",
+   "published": "2026-11-24T14:42:31+00:00",
+   "updated": "2026-11-24T19:03:12+00:00",
+   "first_reported": {
+    "source": "New York Times",
+    "published": "2026-11-24T14:42:31+00:00"
+   },
+   "all_sources": [
+    "New York Times",
+    "Al Jazeera",
+    "Washington Examiner"
+   ],
+   "source_count": 3,
+   "article_count": 3,
+   "bias_breakdown": {
+    "Lean Left": 2,
+    "Lean Right": 1
+   },
+   "bias_bar": {
+    "left_pct": 67,
+    "center_pct": 0,
+    "right_pct": 33,
+    "left": 2,
+    "center": 0,
+    "right": 1,
+    "unrated": 0,
+    "total": 3
    },
    "blindspot": null,
    "is_blindspot": false,
    "ownership_breakdown": {
     "Corporation": 1,
-    "Government": 1
+    "Government": 1,
+    "Individual": 1
    },
-   "topic": "Crime & Justice",
+   "topic": "Politics",
    "places": [
     {
-     "name": "Mexico",
-     "region": "Americas"
-    },
-    {
-     "name": "US",
-     "region": "Americas"
+     "name": "China",
+     "region": "Asia-Pacific"
     }
    ],
-   "region": "Americas",
-   "score": 4.152,
+   "region": "Asia-Pacific",
+   "score": 4.451,
    "is_trending": false,
    "bullet_points": [
-    "The arrest of Fausto Isidro Meza Flores, who is known as El Chapo Isidro and was one of the F.B.I.’s 10 most wanted, was a victory for the Mexican government.",
-    "Fausto Isidro \"Chapo Idisro\" Meza Flores, who is accused of drug trafficking and torture, is detained after gun fight with authorities.",
-    "U.S. and Mexican authorities shared intelligence for weeks to track Fausto Isidro Meza Flores, a drug cartel leader that a U.S. official called the most dangerous man in Mexico."
+    "Before his abrupt downfall, the technocratic Chen Jining was seen as a future national leader in Xi Jinping’s China.",
+    "Shanghai Communist Party Secretary Chen Jining is under investigation for suspected violations of party discipline and law, Chinese state media reported Tuesday, adding another senior official to President Xi Jinping’s sweeping purge of China’s political and military leadership.",
+    "Chen is the fourth Politburo member to be probed since last year in a campaign that has targeted top Chinese leaders."
    ],
-   "date": "2026-11-23"
+   "date": "2026-11-24"
   },
   {
-   "id": "205809fc50",
-   "title": "Tajikistan follows US call, withdraws from ICC",
-   "link": "https://www.dw.com/en/tajikistan-follows-us-call-withdraws-from-icc/a-80023903?maca=en-rss-en-top-1022-rdf",
-   "source": "Deutsche Welle",
-   "summary": "Tajikistan has initiated its withdrawal from the International Criminal Court as the US calls for it to be \"dismantled.\" The decision was made during a recent visit from Russian President Vladimir Putin.",
-   "image_url": null,
-   "published": "2026-11-23T17:36:17+00:00",
-   "updated": "2026-11-23T18:40:00+00:00",
+   "id": "cfd94436f2",
+   "title": "WATCH LIVE: Trump hosts Thanksgiving Turkey pardoning ceremony",
+   "link": "https://www.washingtonexaminer.com/news/white-house/4814007/watch-live-trump-thanksgiving-turkey-pardon/",
+   "source": "Washington Examiner",
+   "summary": "President Donald Trump and First Lady Melania Trump will host the White House’s annual Thanksgiving Turkey Pardoning on Tuesday at 2:00 p.m. TURKEYS ‘FEATHERS’ AND ‘FREEDOM’ STRUT INTO DC AHEAD OF THANKSGIVING TURKEY PARDON President Trump will be pardoning Turkeys “Feathers” and “Freedom” after they were delivered to Washington, D.C., on Sunday. The two birds",
+   "image_url": "https://www.washingtonexaminer.com/wp-content/uploads/2025/11/122525_WEX_TURKEY_PARDONING-24-e1764100723590.jpg?w=1024",
+   "published": "2026-11-24T14:35:45+00:00",
+   "updated": "2026-11-24T18:58:16+00:00",
    "first_reported": {
-    "source": "Al Jazeera",
-    "published": "2026-11-23T17:36:17+00:00"
+    "source": "The Independent",
+    "published": "2026-11-24T14:35:45+00:00"
    },
    "all_sources": [
-    "Al Jazeera",
-    "Deutsche Welle"
+    "The Independent",
+    "Breitbart",
+    "Washington Examiner"
    ],
-   "source_count": 2,
-   "article_count": 2,
+   "source_count": 3,
+   "article_count": 3,
    "bias_breakdown": {
     "Lean Left": 1,
-    "Center": 1
-   },
-   "bias_bar": {
-    "left_pct": 50,
-    "center_pct": 50,
-    "right_pct": 0,
-    "left": 1,
-    "center": 1,
-    "right": 0,
-    "unrated": 0,
-    "total": 2
-   },
-   "blindspot": null,
-   "is_blindspot": false,
-   "ownership_breakdown": {
-    "Government": 2
-   },
-   "topic": "Crime & Justice",
-   "places": [
-    {
-     "name": "Russia",
-     "region": "Europe"
-    },
-    {
-     "name": "US",
-     "region": "Americas"
-    }
-   ],
-   "region": "Europe",
-   "score": 3.104,
-   "is_trending": false,
-   "bullet_points": [
-    "The ICC found that Tajikistan failed to comply with its request to arrest Russian President Vladimir Putin.",
-    "Tajikistan has initiated its withdrawal from the International Criminal Court as the US calls for it to be \"dismantled.",
-    "The decision was made during a recent visit from Russian President Vladimir Putin."
-   ],
-   "date": "2026-11-23"
-  },
-  {
-   "id": "f4c13911cb",
-   "title": "Costa Concordia’s ‘Captain Coward’ released from prison early after crashing ship, leaving 32 dead",
-   "link": "https://nypost.com/2026/11/22/world-news/costa-concordia-captain-francesco-schettino-released-from-prison-early-after-crashing-ship-leaving-32-dead/",
-   "source": "New York Post",
-   "summary": "The disgraced Italian cruise ship skipper who abandoned the doomed Costa Concordia, leaving 32 dead off the coast of Italy, has been freed from his prison sentence 7 years early.",
-   "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F2012-reports-state-overnight-break-32507631.jpg?w%3D1024",
-   "published": "2026-11-22T06:34:34+00:00",
-   "updated": "2026-11-23T19:18:06+00:00",
-   "first_reported": {
-    "source": "New York Post",
-    "published": "2026-11-22T06:34:34+00:00"
-   },
-   "all_sources": [
-    "New York Post",
-    "Fox News"
-   ],
-   "source_count": 2,
-   "article_count": 2,
-   "bias_breakdown": {
     "Lean Right": 1,
     "Right": 1
    },
    "bias_bar": {
-    "left_pct": 0,
+    "left_pct": 33,
     "center_pct": 0,
-    "right_pct": 100,
-    "left": 0,
+    "right_pct": 67,
+    "left": 1,
     "center": 0,
     "right": 2,
     "unrated": 0,
-    "total": 2
-   },
-   "blindspot": "left",
-   "is_blindspot": true,
-   "ownership_breakdown": {
-    "Media Conglomerate": 2
-   },
-   "topic": "Crime & Justice",
-   "places": [
-    {
-     "name": "Italy",
-     "region": "Europe"
-    }
-   ],
-   "region": "Europe",
-   "score": 2.947,
-   "is_trending": false,
-   "bullet_points": [
-    "The disgraced Italian cruise ship skipper who abandoned the doomed Costa Concordia, leaving 32 dead off the coast of Italy, has been freed from his prison sentence 7 years early.",
-    "Costa Concordia captain Francesco Schettino is out of a Rome prison after 9 years, set to serve the remaining 7 years on supervised probation, lawyer says."
-   ],
-   "date": "2026-11-23"
-  },
-  {
-   "id": "fc35623ed9",
-   "title": "Turkey: Authorities search for lioness on the loose in Istanbul",
-   "link": "https://www.dw.com/en/turkey-authorities-search-for-lioness-on-the-loose-in-istanbul/a-80020913?maca=en-rss-en-top-1022-rdf",
-   "source": "Deutsche Welle",
-   "summary": "A lioness was on the loose in northern Istanbul, with wildlife advocates demanding answers over how the animal entered the country and who was keeping it in captivity.",
-   "image_url": "https://static.independent.co.uk/2026/11/23/11/18/Screenshot-2026-11-23-at-11-08-59.png?width=1200&auto=webp&trim=0%2C19%2C0%2C19",
-   "published": "2026-11-23T11:50:46+00:00",
-   "updated": "2026-11-23T16:05:00+00:00",
-   "first_reported": {
-    "source": "The Independent",
-    "published": "2026-11-23T11:50:46+00:00"
-   },
-   "all_sources": [
-    "The Independent",
-    "Deutsche Welle"
-   ],
-   "source_count": 2,
-   "article_count": 2,
-   "bias_breakdown": {
-    "Lean Left": 1,
-    "Center": 1
-   },
-   "bias_bar": {
-    "left_pct": 50,
-    "center_pct": 50,
-    "right_pct": 0,
-    "left": 1,
-    "center": 1,
-    "right": 0,
-    "unrated": 0,
-    "total": 2
+    "total": 3
    },
    "blindspot": null,
    "is_blindspot": false,
    "ownership_breakdown": {
-    "Individual": 1,
-    "Government": 1
+    "Individual": 2,
+    "Other": 1
    },
-   "topic": "World",
+   "topic": "Politics",
    "places": [
+    {
+     "name": "US",
+     "region": "Americas"
+    },
     {
      "name": "Turkey",
      "region": "Europe"
     }
    ],
-   "region": "Europe",
-   "score": 2.81,
+   "region": "Americas",
+   "score": 4.436,
    "is_trending": false,
    "bullet_points": [
-    "A lioness was on the loose in northern Istanbul, with wildlife advocates demanding answers over how the animal entered the country and who was keeping it in captivity.",
-    "The animal is believed to have escaped from a private residence in the area."
+    "President Donald Trump and First Lady Melania Trump will host the White House’s annual Thanksgiving Turkey Pardoning on Tuesday at 2:00 p.m.",
+    "TURKEYS ‘FEATHERS’ AND ‘FREEDOM’ STRUT INTO DC AHEAD OF THANKSGIVING TURKEY PARDON President Trump will be pardoning Turkeys “Feathers” and “Freedom” after they were delivered to Washington, D.C., on Sunday.",
+    "President Trump will pardon two turkeys Tuesday as part of a tradition that began in a slightly different form during former President Harry Truman's administration."
    ],
-   "date": "2026-11-23"
+   "date": "2026-11-24"
   },
   {
-   "id": "6bc6938e2c",
-   "title": "Italian jeweller and businessman Paolo Bulgari dies aged 89",
-   "link": "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "summary": "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
-   "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11c4/live/b30a2e00-e635-11f1-bcaa-b74b42067918.jpg",
-   "published": "2026-11-23T00:33:36+00:00",
-   "updated": "2026-11-23T15:39:33+00:00",
+   "id": "86c16ebeda",
+   "title": "Land mine deaths reach five-year high, watchdog says",
+   "link": "https://www.dw.com/en/land-mine-deaths-reach-five-year-high-watchdog-says/a-80033092?maca=en-rss-en-top-1022-rdf",
+   "source": "Deutsche Welle",
+   "summary": "Myanmar reported the highest annual land mine casualty toll, followed by Syria and Afghanistan, ICBL report says. Since 1999, nearly 50 thousand people were killed by land mines.",
+   "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf76/live/b1401ed0-e816-11f1-99b6-a35a62fa4264.jpg",
+   "published": "2026-11-24T13:32:00+00:00",
+   "updated": "2026-11-24T18:47:05+00:00",
    "first_reported": {
-    "source": "BBC News",
-    "published": "2026-11-23T00:33:36+00:00"
+    "source": "Deutsche Welle",
+    "published": "2026-11-24T13:32:00+00:00"
    },
    "all_sources": [
+    "Deutsche Welle",
     "BBC News",
-    "New York Times"
+    "Al Jazeera"
    ],
-   "source_count": 2,
-   "article_count": 2,
+   "source_count": 3,
+   "article_count": 3,
    "bias_breakdown": {
     "Lean Left": 1,
-    "Center": 1
+    "Center": 2
    },
    "bias_bar": {
-    "left_pct": 50,
-    "center_pct": 50,
+    "left_pct": 33,
+    "center_pct": 67,
     "right_pct": 0,
     "left": 1,
-    "center": 1,
+    "center": 2,
     "right": 0,
     "unrated": 0,
-    "total": 2
+    "total": 3
    },
    "blindspot": null,
    "is_blindspot": false,
    "ownership_breakdown": {
-    "Government": 1,
-    "Corporation": 1
-   },
-   "topic": "World",
-   "places": [
-    {
-     "name": "Italy",
-     "region": "Europe"
-    }
-   ],
-   "region": "Europe",
-   "score": 2.765,
-   "is_trending": false,
-   "bullet_points": [
-    "In a statement to Italian media, his family remember him as \"the greatest jeweller of our time\".",
-    "As the chairman of his family’s company, Mr. Bulgari embraced maximalist aesthetics that recalled ancient Rome.",
-    "After the 2008 financial crisis, he steered the sale of the business to LVMH."
-   ],
-   "date": "2026-11-23"
-  },
-  {
-   "id": "08c2f050ab",
-   "title": "Israeli Political Leaders Denounce ‘Jewish Terrorism’ After West Bank Attacks",
-   "link": "https://www.nytimes.com/2026/11/22/world/middleeast/israeli-political-leaders-decry-jewish-terrorism-after-west-bank-attacks.html",
-   "source": "New York Times",
-   "summary": "Extremist settlers carried out a spate of violent raids in Palestinian villages over the weekend, spurring opponents of the Netanyahu government to demand a forceful response.",
-   "image_url": "https://static01.nyt.com/images/2026/11/22/multimedia/22int-westbank-settler-violence01-photo-vqmk/22int-westbank-settler-violence01-photo-vqmk-mediumSquareAt3X.jpg",
-   "published": "2026-11-22T17:24:08+00:00",
-   "updated": "2026-11-23T17:15:17+00:00",
-   "first_reported": {
-    "source": "HuffPost",
-    "published": "2026-11-22T17:24:08+00:00"
-   },
-   "all_sources": [
-    "HuffPost",
-    "New York Times"
-   ],
-   "source_count": 2,
-   "article_count": 2,
-   "bias_breakdown": {
-    "Left": 1,
-    "Lean Left": 1
-   },
-   "bias_bar": {
-    "left_pct": 100,
-    "center_pct": 0,
-    "right_pct": 0,
-    "left": 2,
-    "center": 0,
-    "right": 0,
-    "unrated": 0,
-    "total": 2
-   },
-   "blindspot": "right",
-   "is_blindspot": true,
-   "ownership_breakdown": {
-    "Corporation": 2
+    "Government": 3
    },
    "topic": "Conflict",
    "places": [
     {
-     "name": "Israel",
+     "name": "Syria",
      "region": "Middle East"
     },
     {
-     "name": "Gaza",
-     "region": "Middle East"
-    }
-   ],
-   "region": "Middle East",
-   "score": 2.761,
-   "is_trending": false,
-   "bullet_points": [
-    "The Israeli militant settlers’ attacks on Palestinian villages come as the opposition leader is asked to form a government.",
-    "Extremist settlers carried out a spate of violent raids in Palestinian villages over the weekend, spurring opponents of the Netanyahu government to demand a forceful response."
-   ],
-   "date": "2026-11-23"
-  },
-  {
-   "id": "e558d762c5",
-   "title": "Poland says Russia allegedly twice tried to kill a Ukrainian American rapper",
-   "link": "https://nypost.com/2026/11/23/world-news/poland-says-russia-allegedly-twice-tried-to-kill-a-ukrainian-american-rapper/",
-   "source": "New York Post",
-   "summary": "Denmark has expelled a Russian official after it said it had thwarted an alleged plot to kill a Ukrainian American citizen on Danish soil.",
-   "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F149811051.jpg?quality%3D90%26strip%3Dall",
-   "published": "2026-11-23T11:19:13+00:00",
-   "updated": "2026-11-23T14:51:55+00:00",
-   "first_reported": {
-    "source": "Breitbart",
-    "published": "2026-11-23T11:19:13+00:00"
-   },
-   "all_sources": [
-    "Breitbart",
-    "New York Post"
-   ],
-   "source_count": 2,
-   "article_count": 2,
-   "bias_breakdown": {
-    "Lean Right": 1,
-    "Right": 1
-   },
-   "bias_bar": {
-    "left_pct": 0,
-    "center_pct": 0,
-    "right_pct": 100,
-    "left": 0,
-    "center": 0,
-    "right": 2,
-    "unrated": 0,
-    "total": 2
-   },
-   "blindspot": "left",
-   "is_blindspot": true,
-   "ownership_breakdown": {
-    "Other": 1,
-    "Media Conglomerate": 1
-   },
-   "topic": "World",
-   "places": [
-    {
-     "name": "Russia",
-     "region": "Europe"
-    },
-    {
-     "name": "Poland",
-     "region": "Europe"
-    },
-    {
-     "name": "Ukraine",
-     "region": "Europe"
-    },
-    {
-     "name": "US",
-     "region": "Americas"
-    }
-   ],
-   "region": "Europe",
-   "score": 2.563,
-   "is_trending": false,
-   "bullet_points": [
-    "WARSAW, Poland -- Denmark has expelled a Russian official after it said it had thwarted an alleged plot to kill a Ukrainian American citizen on Danish soil.",
-    "The case took a new twist Sunday when Polish authorities revealed that the same man was allegedly targeted by Moscow’s intelligence services last summer in Poland."
-   ],
-   "date": "2026-11-23"
-  },
-  {
-   "id": "b061e9fbfb",
-   "title": "Russia is preparing to launch a nuclear space weapon — as soon as next month, intelligence warns",
-   "link": "https://nypost.com/2026/11/23/world-news/russia-is-preparing-to-launch-a-nuclear-space-weapon-as-soon-as-next-month-intelligence-warns/",
-   "source": "New York Post",
-   "summary": "Western intelligence says Russia may soon launch a satellite capable of carrying a nuclear warhead, despite treaty bans and Kremlin denials.",
-   "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2Frussia-space-nuclear-weapon-comp.jpg?quality%3D90%26strip%3Dall",
-   "published": "2026-11-23T10:42:36+00:00",
-   "updated": "2026-11-23T13:34:02+00:00",
-   "first_reported": {
-    "source": "The Independent",
-    "published": "2026-11-23T10:42:36+00:00"
-   },
-   "all_sources": [
-    "The Independent",
-    "New York Post"
-   ],
-   "source_count": 2,
-   "article_count": 2,
-   "bias_breakdown": {
-    "Lean Left": 1,
-    "Lean Right": 1
-   },
-   "bias_bar": {
-    "left_pct": 50,
-    "center_pct": 0,
-    "right_pct": 50,
-    "left": 1,
-    "center": 0,
-    "right": 1,
-    "unrated": 0,
-    "total": 2
-   },
-   "blindspot": null,
-   "is_blindspot": false,
-   "ownership_breakdown": {
-    "Individual": 1,
-    "Media Conglomerate": 1
-   },
-   "topic": "Science",
-   "places": [
-    {
-     "name": "Russia",
-     "region": "Europe"
-    },
-    {
-     "name": "US",
-     "region": "Americas"
-    }
-   ],
-   "region": "Europe",
-   "score": 2.551,
-   "is_trending": false,
-   "bullet_points": [
-    "Western intelligence says Russia may soon launch a satellite capable of carrying a nuclear warhead, despite treaty bans and Kremlin denials.",
-    "The Pentagon warned a nuclear detonation in space could disrupt communications and security on Earth."
-   ],
-   "date": "2026-11-23"
-  },
-  {
-   "id": "46adb1923a",
-   "title": "Tom Jackson, former NFL star who became beloved ESPN analyst, dies aged 75",
-   "link": "https://www.independent.co.uk/news/world/americas/tom-jackson-dead-cause-espn-b3089806.html",
-   "source": "The Independent",
-   "summary": "Jackson’s death was announced by his longtime friend and broadcasting partner, Chris Berman, on ‘Sunday NFL Countdown’.",
-   "image_url": "https://static.independent.co.uk/2026/11/22/16/Obit_Tom_Jackson_18912.jpg?width=1200&auto=webp&crop=3%3A2",
-   "published": "2026-11-22T17:51:20+00:00",
-   "updated": "2026-11-23T11:39:30+00:00",
-   "first_reported": {
-    "source": "Breitbart",
-    "published": "2026-11-22T17:51:20+00:00"
-   },
-   "all_sources": [
-    "Breitbart",
-    "The Independent"
-   ],
-   "source_count": 2,
-   "article_count": 2,
-   "bias_breakdown": {
-    "Lean Left": 1,
-    "Right": 1
-   },
-   "bias_bar": {
-    "left_pct": 50,
-    "center_pct": 0,
-    "right_pct": 50,
-    "left": 1,
-    "center": 0,
-    "right": 1,
-    "unrated": 0,
-    "total": 2
-   },
-   "blindspot": null,
-   "is_blindspot": false,
-   "ownership_breakdown": {
-    "Other": 1,
-    "Individual": 1
-   },
-   "topic": "World",
-   "places": [],
-   "region": "Global",
-   "score": 2.37,
-   "is_trending": false,
-   "bullet_points": [
-    "Tom Jackson, a member of the Denver Broncos' famed Orange Crush defense and a longtime staple of ESPN NFL shows, has died at 75.",
-    "Jackson’s death was announced by his longtime friend and broadcasting partner, Chris Berman, on ‘Sunday NFL Countdown’."
-   ],
-   "date": "2026-11-23"
-  },
-  {
-   "id": "642e454a32",
-   "title": "Kennedy calls Trump, Putin and Xi meeting a 'good thing'",
-   "link": "https://thehill.com/policy/international/6236521-kennedy-calls-trump-putin-and-xi-meeting-a-good-thing/",
-   "source": "The Hill",
-   "summary": "Sen. John Kennedy (R-La.) on Sunday praised President Trump’s recent meeting with Russian President Vladimir Putin and Chinese President Xi Jinping. “Well, I think it's a good thing that the presidents of the three most powerful countries in the world are meeting, so long as America uses the opportunity to show its resolve,” Kennedy told...",
-   "image_url": "https://thehill.com/wp-content/uploads/sites/2/2026/11/Photo_Split-33.png?w=900",
-   "published": "2026-11-22T17:20:02+00:00",
-   "updated": "2026-11-23T02:55:10+00:00",
-   "first_reported": {
-    "source": "Breitbart",
-    "published": "2026-11-22T17:20:02+00:00"
-   },
-   "all_sources": [
-    "Breitbart",
-    "The Hill"
-   ],
-   "source_count": 2,
-   "article_count": 2,
-   "bias_breakdown": {
-    "Center": 1,
-    "Right": 1
-   },
-   "bias_bar": {
-    "left_pct": 0,
-    "center_pct": 50,
-    "right_pct": 50,
-    "left": 0,
-    "center": 1,
-    "right": 1,
-    "unrated": 0,
-    "total": 2
-   },
-   "blindspot": null,
-   "is_blindspot": false,
-   "ownership_breakdown": {
-    "Other": 1,
-    "Media Conglomerate": 1
-   },
-   "topic": "Politics",
-   "places": [
-    {
-     "name": "Russia",
-     "region": "Europe"
-    },
-    {
-     "name": "US",
-     "region": "Americas"
-    },
-    {
-     "name": "China",
+     "name": "Myanmar",
      "region": "Asia-Pacific"
     },
     {
-     "name": "Ukraine",
-     "region": "Europe"
+     "name": "Afghanistan",
+     "region": "South Asia"
     }
    ],
-   "region": "Europe",
-   "score": 1.693,
+   "region": "Middle East",
+   "score": 4.405,
    "is_trending": false,
    "bullet_points": [
-    "Sen. John Kennedy (R-La.) on Sunday praised President Trump’s recent meeting with Russian President Vladimir Putin and Chinese President Xi Jinping.",
-    "Sunday on NBC’s “Meet the Press,” Sen. John Kennedy (R-LA) said President Donald Trump is not putting enough pressure on Russia to end the war in Ukraine.",
-    "Kennedy said, “I think it’s a good thing that the presidents of the."
+    "Myanmar reported the highest annual land mine casualty toll, followed by Syria and Afghanistan, ICBL report says.",
+    "Since 1999, nearly 50 thousand people were killed by land mines.",
+    "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show."
    ],
-   "date": "2026-11-23"
+   "date": "2026-11-24"
   },
   {
-   "id": "5bba946ddd",
-   "title": "UN-affiliated athlete swims in dangerous Strait of Hormuz to highlight Iran war's impact on wildlife",
-   "link": "https://www.cbc.ca/news/world/un-endurance-swimmer-strait-of-hormuz-wildlife-impact-9.7431891?cmp=rss",
-   "source": "CBC News",
-   "summary": "Lewis Pugh, who is a United Nations Patron of the Oceans, spent three days last week swimming parts of the dangerous waterway to highlight how Iran war threatens the area's habitat and wildlife.",
-   "image_url": "https://i.cbc.ca/ais/e07000a3-ac0f-406e-b916-ad08a7109618,1795366826527/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3B",
-   "published": "2026-11-22T06:46:36+00:00",
-   "updated": "2026-11-22T17:57:36+00:00",
+   "id": "3bd0ec532c",
+   "title": "Deadly fire at confectionery factory kills 24 as rescuers search for dozens still missing",
+   "link": "https://news.sky.com/story/deadly-fire-at-confectionery-factory-in-indonesia-kills-24-as-rescuers-search-for-dozens-still-missing-13615577",
+   "source": "Sky News",
+   "summary": "A deadly fire that tore through a confectionery factory in Indonesia has claimed the lives of 24 people, with 34 others still missing.",
+   "image_url": "https://e3.365dm.com/26/11/1920x1080/skynews-serang-indonesia_7414286.jpg?20261123105702",
+   "published": "2026-11-23T08:22:07+00:00",
+   "updated": "2026-11-24T13:12:41+00:00",
    "first_reported": {
     "source": "New York Post",
-    "published": "2026-11-22T06:46:36+00:00"
+    "published": "2026-11-23T08:22:07+00:00"
    },
    "all_sources": [
     "New York Post",
-    "CBC News"
+    "Sky News",
+    "New York Times"
    ],
-   "source_count": 2,
-   "article_count": 2,
+   "source_count": 3,
+   "article_count": 4,
    "bias_breakdown": {
-    "Lean Left": 1,
+    "Lean Left": 2,
     "Lean Right": 1
    },
    "bias_bar": {
-    "left_pct": 50,
+    "left_pct": 67,
     "center_pct": 0,
-    "right_pct": 50,
-    "left": 1,
+    "right_pct": 33,
+    "left": 2,
     "center": 0,
     "right": 1,
     "unrated": 0,
-    "total": 2
+    "total": 3
    },
    "blindspot": null,
    "is_blindspot": false,
    "ownership_breakdown": {
     "Media Conglomerate": 1,
-    "Government": 1
+    "Telecom": 1,
+    "Corporation": 1
    },
-   "topic": "Conflict",
+   "topic": "Crime & Justice",
    "places": [
     {
-     "name": "Iran",
-     "region": "Middle East"
+     "name": "Indonesia",
+     "region": "Asia-Pacific"
     }
    ],
-   "region": "Middle East",
-   "score": 1.199,
+   "region": "Asia-Pacific",
+   "score": 3.751,
    "is_trending": false,
    "bullet_points": [
-    "Lewis Pugh swam parts of the dangerous waterway to highlight how the war with Iran threatens the area’s habitat and wildlife."
+    "A deadly fire that tore through a confectionery factory in Indonesia has claimed the lives of 24 people, with 34 others still missing.",
+    "About 300 workers were inside the factory when the fire erupted.",
+    "Hundreds of people were at the compound when a blaze broke out on Saturday and then raged for hours."
    ],
-   "date": "2026-11-23"
+   "date": "2026-11-24"
   }
  ]
 }
