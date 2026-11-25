@@ -1,20 +1,20 @@
 {
- "start": "2026-11-18",
- "end": "2026-11-24",
- "days": 2,
+ "start": "2026-11-19",
+ "end": "2026-11-25",
+ "days": 3,
  "coverage": {
-  "left": 157,
-  "center": 71,
-  "right": 101,
-  "left_pct": 48,
+  "left": 244,
+  "center": 108,
+  "right": 140,
+  "left_pct": 50,
   "center_pct": 22,
-  "right_pct": 31
+  "right_pct": 28
  },
  "stats": {
-  "stories": 108,
-  "blindspots": 18,
-  "blindspot_left": 7,
-  "blindspot_right": 11
+  "stories": 159,
+  "blindspots": 34,
+  "blindspot_left": 11,
+  "blindspot_right": 23
  },
  "stories": [
   {
@@ -438,6 +438,143 @@
    "date": "2026-11-24"
   },
   {
+   "id": "0de2773b0b",
+   "title": "Kilmar Abrego Garcia arrives in Spain after self-deporting",
+   "link": "https://thehill.com/policy/international/6242020-kilmar-abrego-garcia-self-deport-spain-arrival/",
+   "source": "The Hill",
+   "summary": "Salvadoran migrant Kilmar Abrego Garcia arrived in Spain on Wednesday, ending a long legal and political battle over his status that became a proxy debate for the Trump administration’s immigration agenda. Abrego Garcia self-deported to Spain, Sen. Chris Van Hollen (D-Md.) confirmed Tuesday, after facing the threat of deportation to an African country. He arrived...",
+   "image_url": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26329455587277-e1795614721892.jpg?w=900",
+   "published": "2026-11-24T23:19:14+00:00",
+   "updated": "2026-11-25T16:04:44+00:00",
+   "first_reported": {
+    "source": "The Independent",
+    "published": "2026-11-24T23:19:14+00:00"
+   },
+   "all_sources": [
+    "The Independent",
+    "The Hill",
+    "Breitbart",
+    "NPR",
+    "New York Post",
+    "CBC News",
+    "Al Jazeera"
+   ],
+   "source_count": 7,
+   "article_count": 10,
+   "bias_breakdown": {
+    "Lean Left": 4,
+    "Center": 1,
+    "Lean Right": 1,
+    "Right": 1
+   },
+   "bias_bar": {
+    "left_pct": 57,
+    "center_pct": 14,
+    "right_pct": 29,
+    "left": 4,
+    "center": 1,
+    "right": 2,
+    "unrated": 0,
+    "total": 7
+   },
+   "blindspot": null,
+   "is_blindspot": false,
+   "ownership_breakdown": {
+    "Media Conglomerate": 2,
+    "Government": 2,
+    "Individual": 1,
+    "Other": 1,
+    "Independent": 1
+   },
+   "topic": "Migration",
+   "places": [
+    {
+     "name": "US",
+     "region": "Americas"
+    },
+    {
+     "name": "Spain",
+     "region": "Europe"
+    }
+   ],
+   "region": "Americas",
+   "score": 10.047,
+   "is_trending": true,
+   "bullet_points": [
+    "Kilmar Ábrego García, a Salvadoran national who fought his mistaken deportation, arrived in Spain on Wednesday after voluntarily leaving the United States, potentially ending a defining saga of the Trump administration’s immigration crackdown.",
+    "Salvadoran migrant Kilmar Abrego Garcia, whose wrongful deportation became a flashpoint in the debate over President Trump's immigration crackdown, self-deported Tuesday, Sen. Chris Van Hollen (D-Md.) confirmed.",
+    "Salvadoran migrant Kilmar Abrego Garcia arrived in Spain on Wednesday, ending a long legal and political battle over his status that became a proxy debate for the Trump administration’s immigration agenda."
+   ],
+   "date": "2026-11-25"
+  },
+  {
+   "id": "86884f7c0f",
+   "title": "US Army detonates toxic lead explosives in Iowa amid health concerns",
+   "link": "https://www.aljazeera.com/news/2026/11/25/us-army-detonates-toxic-lead-stockpile-in-iowa-amid-backlash?traffic_source=rss",
+   "source": "Al Jazeera",
+   "summary": "The US Army destroys nearly 4,500kg of lead azide amid fears of toxic fallout affecting residents, farms and livestock.",
+   "image_url": "https://i.cbc.ca/ais/e1c1ebc9-af43-4968-a043-4e3c75524b0b,1795561058529/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C2064%2C3644%2C2049%29%3B",
+   "published": "2026-11-24T23:05:19+00:00",
+   "updated": "2026-11-25T16:59:09+00:00",
+   "first_reported": {
+    "source": "CBC News",
+    "published": "2026-11-24T23:05:19+00:00"
+   },
+   "all_sources": [
+    "CBC News",
+    "Breitbart",
+    "Al Jazeera",
+    "The Independent",
+    "Deutsche Welle",
+    "Washington Examiner"
+   ],
+   "source_count": 6,
+   "article_count": 10,
+   "bias_breakdown": {
+    "Lean Left": 3,
+    "Center": 1,
+    "Lean Right": 1,
+    "Right": 1
+   },
+   "bias_bar": {
+    "left_pct": 50,
+    "center_pct": 17,
+    "right_pct": 33,
+    "left": 3,
+    "center": 1,
+    "right": 2,
+    "unrated": 0,
+    "total": 6
+   },
+   "blindspot": null,
+   "is_blindspot": false,
+   "ownership_breakdown": {
+    "Government": 3,
+    "Individual": 2,
+    "Other": 1
+   },
+   "topic": "Conflict",
+   "places": [
+    {
+     "name": "US",
+     "region": "Americas"
+    },
+    {
+     "name": "Canada",
+     "region": "Americas"
+    }
+   ],
+   "region": "Americas",
+   "score": 9.459,
+   "is_trending": true,
+   "bullet_points": [
+    "The U.S. army plans to detonate nearly 10,000 pounds of lead azide — an extremely volatile explosive used to trigger bombs — at a military base in Iowa.",
+    "A huge cloud of smoke rose into the air after the US Army detonated nearly 10,000 pounds (4,500 kg) of degraded lead azide in Iowa on Wednesday (November 25).",
+    "The US Army has carried out a controlled blast of nearly five tonnes of deteriorating lead azide at a military plant."
+   ],
+   "date": "2026-11-25"
+  },
+  {
    "id": "c62dd78cc6",
    "title": "2 men arrested over suspected burglary at Prince William and Kate’s country home in eastern England",
    "link": "https://thehill.com/policy/international/prince-william-kate-country-home-break-in/",
@@ -445,41 +582,45 @@
    "summary": "LONDON (AP) — Two men were arrested on the British royal family's Sandringham estate, police said Tuesday, after a reported break-in at the country home of Prince William and Princess Catherine. Norfolk Police said that officers were called Monday evening to reported “suspicious activity” at an address on the rural estate in eastern England. After...",
    "image_url": "https://thehill.com/wp-content/uploads/sites/2/2026/11/6b0597d2401175.75725704.jpeg?w=900",
    "published": "2026-11-24T11:28:30+00:00",
-   "updated": "2026-11-24T16:31:07+00:00",
+   "updated": "2026-11-25T17:33:35+00:00",
    "first_reported": {
     "source": "New York Post",
     "published": "2026-11-24T11:28:30+00:00"
    },
    "all_sources": [
     "New York Post",
+    "HuffPost",
     "The Hill",
-    "CBC News",
-    "Al Jazeera",
-    "New York Times"
+    "New York Times",
+    "Breitbart",
+    "CBC News"
    ],
-   "source_count": 5,
-   "article_count": 5,
+   "source_count": 6,
+   "article_count": 8,
    "bias_breakdown": {
-    "Lean Left": 3,
+    "Left": 1,
+    "Lean Left": 2,
     "Center": 1,
-    "Lean Right": 1
+    "Lean Right": 1,
+    "Right": 1
    },
    "bias_bar": {
-    "left_pct": 60,
-    "center_pct": 20,
-    "right_pct": 20,
+    "left_pct": 50,
+    "center_pct": 17,
+    "right_pct": 33,
     "left": 3,
     "center": 1,
-    "right": 1,
+    "right": 2,
     "unrated": 0,
-    "total": 5
+    "total": 6
    },
-   "blindspot": "right",
-   "is_blindspot": true,
+   "blindspot": null,
+   "is_blindspot": false,
    "ownership_breakdown": {
     "Media Conglomerate": 2,
-    "Government": 2,
-    "Corporation": 1
+    "Corporation": 2,
+    "Other": 1,
+    "Government": 1
    },
    "topic": "Crime & Justice",
    "places": [
@@ -489,14 +630,14 @@
     }
    ],
    "region": "Europe",
-   "score": 7.452,
+   "score": 9.187,
    "is_trending": true,
    "bullet_points": [
     "LONDON (AP) — Two men were arrested on the British royal family's Sandringham estate, police said Tuesday, after a reported break-in at the country home of Prince William and Princess Catherine.",
-    "British police said Tuesday that two men have been arrested over a suspected burglary at the Royal Family's Sandringham Estate.",
-    "Prince William and Kate Middleton’s home on the royals’ Sandringham estate was the target of a break-in by intruders, it was reported Tuesday."
+    "Prince William and Kate Middleton’s home on the royals’ Sandringham estate was the target of a break-in by intruders, it was reported Tuesday.",
+    "British police said Tuesday that two men have been arrested over a suspected burglary at the Royal Family's Sandringham Estate."
    ],
-   "date": "2026-11-24"
+   "date": "2026-11-25"
   },
   {
    "id": "13390048e2",
@@ -634,6 +775,126 @@
     "Western intelligence reportedly warns Russia's nuclear satellite could launch in 60 days, threatening thousands of United States and allied satellites."
    ],
    "date": "2026-11-24"
+  },
+  {
+   "id": "0673a56a8e",
+   "title": "Spain’s Canary Islands swamped by record 2,100 migrants in just 24 hours",
+   "link": "https://nypost.com/2026/11/25/world-news/spains-canary-islands-swamped-by-record-2100-migrants-in-just-24-hours/",
+   "source": "New York Post",
+   "summary": "Arrivals so far this year had climbed to 28,103 as of late November, more than last year's total but still well below an all-time high of 46,843 recorded in 2024.",
+   "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F2026-surge-migrant-boat-arrivals-149838611.jpg?w%3D1024",
+   "published": "2026-11-25T10:08:50+00:00",
+   "updated": "2026-11-25T18:00:00+00:00",
+   "first_reported": {
+    "source": "Breitbart",
+    "published": "2026-11-25T10:08:50+00:00"
+   },
+   "all_sources": [
+    "Breitbart",
+    "Daily Mail",
+    "New York Post",
+    "The Independent",
+    "Deutsche Welle"
+   ],
+   "source_count": 5,
+   "article_count": 5,
+   "bias_breakdown": {
+    "Lean Left": 1,
+    "Center": 1,
+    "Lean Right": 2,
+    "Right": 1
+   },
+   "bias_bar": {
+    "left_pct": 20,
+    "center_pct": 20,
+    "right_pct": 60,
+    "left": 1,
+    "center": 1,
+    "right": 3,
+    "unrated": 0,
+    "total": 5
+   },
+   "blindspot": "left",
+   "is_blindspot": true,
+   "ownership_breakdown": {
+    "Media Conglomerate": 2,
+    "Other": 1,
+    "Individual": 1,
+    "Government": 1
+   },
+   "topic": "Migration",
+   "places": [
+    {
+     "name": "Spain",
+     "region": "Europe"
+    }
+   ],
+   "region": "Europe",
+   "score": 8.122,
+   "is_trending": true,
+   "bullet_points": [
+    "The arrival of over 2,000 migrants to the islands comes as Spain holds elections this weekend.",
+    "Upwards of 2,100 migrants arrived at the Spanish Canary Islands' El Hierro over the past 24 hours in what Spanish outlets describe as the highest single-day figure at the popular Atlantic tourist hotspot.",
+    "The Canary Island leader has criticised African countries for a lack of cooperation on the migrant crisis following an enormous influx into Spanish territory."
+   ],
+   "date": "2026-11-25"
+  },
+  {
+   "id": "a7bb82c599",
+   "title": "Thomas Markle formally charged over child sexual abuse material",
+   "link": "https://news.sky.com/story/thomas-markle-formally-charged-in-us-over-possessing-child-sexual-abuse-material-13616074",
+   "source": "Sky News",
+   "summary": "Thomas Markle has been formally charged on two counts of possessing child sexual abuse material in Los Angeles.",
+   "image_url": "https://e3.365dm.com/26/11/1920x1080/skynews-thomas-markle-us_7411020.jpg?20261119231423",
+   "published": "2026-11-24T17:43:00+00:00",
+   "updated": "2026-11-25T02:55:17+00:00",
+   "first_reported": {
+    "source": "Sky News",
+    "published": "2026-11-24T17:43:00+00:00"
+   },
+   "all_sources": [
+    "Sky News",
+    "CBC News",
+    "Breitbart",
+    "BBC News",
+    "New York Times"
+   ],
+   "source_count": 5,
+   "article_count": 5,
+   "bias_breakdown": {
+    "Lean Left": 3,
+    "Center": 1,
+    "Right": 1
+   },
+   "bias_bar": {
+    "left_pct": 60,
+    "center_pct": 20,
+    "right_pct": 20,
+    "left": 3,
+    "center": 1,
+    "right": 1,
+    "unrated": 0,
+    "total": 5
+   },
+   "blindspot": "right",
+   "is_blindspot": true,
+   "ownership_breakdown": {
+    "Government": 2,
+    "Telecom": 1,
+    "Other": 1,
+    "Corporation": 1
+   },
+   "topic": "Crime & Justice",
+   "places": [],
+   "region": "Global",
+   "score": 4.765,
+   "is_trending": true,
+   "bullet_points": [
+    "Thomas Markle has been formally charged on two counts of possessing child sexual abuse material in Los Angeles.",
+    "The FBI arrested Markle on 6 November after a search of a storage unit he had allegedly rented in Los Angeles uncovered the abuse material.",
+    "Mr. Markle, 82, was indicted by a grand jury in Los Angeles and is expected to be arraigned in the coming weeks, prosecutors said."
+   ],
+   "date": "2026-11-25"
   },
   {
    "id": "f23a95a408",
@@ -880,6 +1141,196 @@
     "The U.S. Army has rescheduled a detonation of bomb-making chemicals in southeastern Iowa to Wednesday because of more favorable weather and to allow time for extra safety measures"
    ],
    "date": "2026-11-24"
+  },
+  {
+   "id": "b3f9e1d720",
+   "title": "North Korea expels Swiss envoy over sanctions on camp accused of indoctrinating Ukrainian children",
+   "link": "https://www.dw.com/en/north-korea-expels-swiss-envoy-over-sanctions-on-camp-accused-of-indoctrinating-ukrainian-children/a-80043648?maca=en-rss-en-top-1022-rdf",
+   "source": "Deutsche Welle",
+   "summary": "North Korea has ordered Switzerland to close its newly reopened diplomatic office. The dispute centers on Swiss sanctions against a camp accused of indoctrinating Ukrainian children from Russian-occupied territories.",
+   "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F2026-shows-north-korean-leader-149781683.jpg?w%3D995",
+   "published": "2026-11-25T06:40:12+00:00",
+   "updated": "2026-11-25T17:00:24+00:00",
+   "first_reported": {
+    "source": "New York Post",
+    "published": "2026-11-25T06:40:12+00:00"
+   },
+   "all_sources": [
+    "New York Post",
+    "Deutsche Welle",
+    "Al Jazeera",
+    "New York Times"
+   ],
+   "source_count": 4,
+   "article_count": 4,
+   "bias_breakdown": {
+    "Lean Left": 2,
+    "Center": 1,
+    "Lean Right": 1
+   },
+   "bias_bar": {
+    "left_pct": 50,
+    "center_pct": 25,
+    "right_pct": 25,
+    "left": 2,
+    "center": 1,
+    "right": 1,
+    "unrated": 0,
+    "total": 4
+   },
+   "blindspot": null,
+   "is_blindspot": false,
+   "ownership_breakdown": {
+    "Government": 2,
+    "Media Conglomerate": 1,
+    "Corporation": 1
+   },
+   "topic": "Politics",
+   "places": [
+    {
+     "name": "North Korea",
+     "region": "Asia-Pacific"
+    },
+    {
+     "name": "Ukraine",
+     "region": "Europe"
+    },
+    {
+     "name": "Russia",
+     "region": "Europe"
+    }
+   ],
+   "region": "Asia-Pacific",
+   "score": 6.153,
+   "is_trending": true,
+   "bullet_points": [
+    "The move followed Switzerland’s decision to impose sanctions on an international youth camp in North Korea, which is accused of hosting Ukrainian children for indoctrination.",
+    "The closure came after North Korea condemned Switzerland for adding a children’s camp to its sanctions list.",
+    "North Korea has ordered Switzerland to close its newly reopened diplomatic office."
+   ],
+   "date": "2026-11-25"
+  },
+  {
+   "id": "5ce3799844",
+   "title": "Colombian police storm supermarket to free 20 held hostage for 17 hours",
+   "link": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "summary": "One gunman was killed in the operation to free around 20 shoppers and employees after a 17-hour hostage ordeal.",
+   "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/997a/live/4f4b3940-e8c4-11f1-ac76-db9e97f93d67.jpg",
+   "published": "2026-11-24T21:36:00+00:00",
+   "updated": "2026-11-25T16:44:22+00:00",
+   "first_reported": {
+    "source": "Sky News",
+    "published": "2026-11-24T21:36:00+00:00"
+   },
+   "all_sources": [
+    "Sky News",
+    "New York Post",
+    "BBC News",
+    "Al Jazeera"
+   ],
+   "source_count": 4,
+   "article_count": 4,
+   "bias_breakdown": {
+    "Lean Left": 2,
+    "Center": 1,
+    "Lean Right": 1
+   },
+   "bias_bar": {
+    "left_pct": 50,
+    "center_pct": 25,
+    "right_pct": 25,
+    "left": 2,
+    "center": 1,
+    "right": 1,
+    "unrated": 0,
+    "total": 4
+   },
+   "blindspot": null,
+   "is_blindspot": false,
+   "ownership_breakdown": {
+    "Government": 2,
+    "Telecom": 1,
+    "Media Conglomerate": 1
+   },
+   "topic": "Conflict",
+   "places": [
+    {
+     "name": "Colombia",
+     "region": "Americas"
+    }
+   ],
+   "region": "Americas",
+   "score": 6.09,
+   "is_trending": true,
+   "bullet_points": [
+    "Colombian police have stormed a supermarket and freed at least 20 people who were being held hostage, killing one of the gunmen.",
+    "All hostages have been rescued by Colombian forces after a 17-hour siege in Cartagena supermarket.",
+    "Security forces rescued all the hostages held for nearly a day at a supermarket in the northern Colombian tourist city of Cartagena."
+   ],
+   "date": "2026-11-25"
+  },
+  {
+   "id": "82e4da64b6",
+   "title": "Huawei guilty of plotting to steal trade secrets and bank fraud",
+   "link": "https://news.sky.com/story/chinese-tech-giant-guilty-of-plotting-to-steal-trade-secrets-and-bank-fraud-13616130",
+   "source": "Sky News",
+   "summary": "Chinese tech giant Huawei, has been found guilty of conspiracy to steal trade secrets and bank fraud after a landmark trial in the US.",
+   "image_url": "https://e3.365dm.com/26/11/1920x1080/skynews-huawei-mobile-logo_7415657.jpg?20261124210537",
+   "published": "2026-11-24T21:05:00+00:00",
+   "updated": "2026-11-25T13:37:51+00:00",
+   "first_reported": {
+    "source": "Sky News",
+    "published": "2026-11-24T21:05:00+00:00"
+   },
+   "all_sources": [
+    "Sky News",
+    "CBC News",
+    "BBC News",
+    "Al Jazeera"
+   ],
+   "source_count": 4,
+   "article_count": 4,
+   "bias_breakdown": {
+    "Lean Left": 3,
+    "Center": 1
+   },
+   "bias_bar": {
+    "left_pct": 75,
+    "center_pct": 25,
+    "right_pct": 0,
+    "left": 3,
+    "center": 1,
+    "right": 0,
+    "unrated": 0,
+    "total": 4
+   },
+   "blindspot": "right",
+   "is_blindspot": true,
+   "ownership_breakdown": {
+    "Government": 3,
+    "Telecom": 1
+   },
+   "topic": "Business",
+   "places": [
+    {
+     "name": "China",
+     "region": "Asia-Pacific"
+    },
+    {
+     "name": "US",
+     "region": "Americas"
+    }
+   ],
+   "region": "Asia-Pacific",
+   "score": 5.28,
+   "is_trending": true,
+   "bullet_points": [
+    "Chinese tech giant Huawei, has been found guilty of conspiracy to steal trade secrets and bank fraud after a landmark trial in the US.",
+    "A U.S. jury convicted Chinese tech giant Huawei Technologies on Tuesday of conspiracy to steal trade secrets and bank fraud as it grew into one of the world's biggest suppliers of gear for wireless telecommunications networks.",
+    "Chinese tech giant has faced legal problems from Europe to Asia, and its products have been banned in trade war with US."
+   ],
+   "date": "2026-11-25"
   },
   {
    "id": "f57582a725",
@@ -1190,419 +1641,6 @@
     "FIFA on Monday confirmed the United States will lead a four-nation, regional co-hosting of the 2031 Women's World Cup, and a UK project led by England was ratified for the 2035 edition."
    ],
    "date": "2026-11-23"
-  },
-  {
-   "id": "ba920d31a5",
-   "title": "Trump dares Iran to breach US port blockade as Tehran reportedly readies 14 oil tankers",
-   "link": "https://www.foxnews.com/world/trump-dares-iran-breach-us-port-blockade-tehran-reportedly-readies-14-oil-tankers",
-   "source": "Fox News",
-   "summary": "Iran reportedly positioned 14 tankers at Kharg Island to breach the U.S. blockade, as President Donald Trump dared Tehran to test American naval forces in the Gulf.",
-   "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/05/931/523/trump-iran-hormuz.jpg?ve=1&tl=1",
-   "published": "2026-11-22T22:43:24+00:00",
-   "updated": "2026-11-23T13:04:11+00:00",
-   "first_reported": {
-    "source": "Fox News",
-    "published": "2026-11-22T22:43:24+00:00"
-   },
-   "all_sources": [
-    "Fox News",
-    "Breitbart",
-    "Al Jazeera"
-   ],
-   "source_count": 3,
-   "article_count": 4,
-   "bias_breakdown": {
-    "Lean Left": 1,
-    "Right": 2
-   },
-   "bias_bar": {
-    "left_pct": 33,
-    "center_pct": 0,
-    "right_pct": 67,
-    "left": 1,
-    "center": 0,
-    "right": 2,
-    "unrated": 0,
-    "total": 3
-   },
-   "blindspot": null,
-   "is_blindspot": false,
-   "ownership_breakdown": {
-    "Media Conglomerate": 1,
-    "Other": 1,
-    "Government": 1
-   },
-   "topic": "Politics",
-   "places": [
-    {
-     "name": "Iran",
-     "region": "Middle East"
-    },
-    {
-     "name": "US",
-     "region": "Americas"
-    }
-   ],
-   "region": "Middle East",
-   "score": 3.657,
-   "is_trending": true,
-   "bullet_points": [
-    "Iran reportedly positioned 14 tankers at Kharg Island to breach the U.S. blockade, as President Donald Trump dared Tehran to test American naval forces in the Gulf.",
-    "Iran threatens response to any attack amid naval blockade",
-    "President Donald Trump dared Iran on Sunday to challenge the U.S. naval blockade, warning that Iranian vessels attempting to break it would end up at the “bottom of the sea,” while signaling that major American strikes could resume after the New Year if negotiations fail."
-   ],
-   "date": "2026-11-23"
-  },
-  {
-   "id": "2f5131769f",
-   "title": "Gisèle Pelicot 'humiliated' after nude photos sent to media to promote book",
-   "link": "https://www.bbc.co.uk/news/articles/cm3eg502nxw2o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "summary": "The publisher of an essay on coercive control apologises for \"an unfortunate and inappropriate communication\".",
-   "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1cd/live/0fff68f0-e776-11f1-a8a9-d7c9e8a923b4.jpg",
-   "published": "2026-11-23T21:24:47+00:00",
-   "updated": "2026-11-24T17:33:45+00:00",
-   "first_reported": {
-    "source": "BBC News",
-    "published": "2026-11-23T21:24:47+00:00"
-   },
-   "all_sources": [
-    "BBC News",
-    "Sky News",
-    "CBC News"
-   ],
-   "source_count": 3,
-   "article_count": 3,
-   "bias_breakdown": {
-    "Lean Left": 2,
-    "Center": 1
-   },
-   "bias_bar": {
-    "left_pct": 67,
-    "center_pct": 33,
-    "right_pct": 0,
-    "left": 2,
-    "center": 1,
-    "right": 0,
-    "unrated": 0,
-    "total": 3
-   },
-   "blindspot": "right",
-   "is_blindspot": true,
-   "ownership_breakdown": {
-    "Government": 2,
-    "Telecom": 1
-   },
-   "topic": "Culture",
-   "places": [
-    {
-     "name": "France",
-     "region": "Europe"
-    }
-   ],
-   "region": "Europe",
-   "score": 4.702,
-   "is_trending": false,
-   "bullet_points": [
-    "Gisele Pelicot has said she is \"deeply shocked\" and \"humiliated\" after nude images of her were sent to the media without her consent to promote a new book about coercive control.",
-    "Gisèle Pelicot says she is deeply shocked that a Paris publishing house used nude images taken of her by her rapist ex-husband as promotional materials for a book that examines her watershed fight for justice.",
-    "The publisher of an essay on coercive control apologises for \"an unfortunate and inappropriate communication\"."
-   ],
-   "date": "2026-11-24"
-  },
-  {
-   "id": "4252baa474",
-   "title": "CAS reinstates Senegal as 2025 AFCON champions",
-   "link": "https://www.dw.com/en/cas-reinstates-senegal-as-2025-afcon-champions/a-80021027?maca=en-rss-en-top-1022-rdf",
-   "source": "Deutsche Welle",
-   "summary": "The Court of Arbitration for Sport has reinstated Senegal as 2025 AFCON champions, overturning a CAF decision that stripped them of the title. Morocco, previously declared winners, are confirmed runners-up.",
-   "image_url": "https://e3.365dm.com/26/11/1920x1080/skynews-senegal-morocco_7415350.jpg?20261124144126",
-   "published": "2026-11-24T08:06:00+00:00",
-   "updated": "2026-11-24T16:41:22+00:00",
-   "first_reported": {
-    "source": "Sky News",
-    "published": "2026-11-24T08:06:00+00:00"
-   },
-   "all_sources": [
-    "Sky News",
-    "Deutsche Welle",
-    "Al Jazeera"
-   ],
-   "source_count": 3,
-   "article_count": 3,
-   "bias_breakdown": {
-    "Lean Left": 2,
-    "Center": 1
-   },
-   "bias_bar": {
-    "left_pct": 67,
-    "center_pct": 33,
-    "right_pct": 0,
-    "left": 2,
-    "center": 1,
-    "right": 0,
-    "unrated": 0,
-    "total": 3
-   },
-   "blindspot": "right",
-   "is_blindspot": true,
-   "ownership_breakdown": {
-    "Government": 2,
-    "Telecom": 1
-   },
-   "topic": "Crime & Justice",
-   "places": [],
-   "region": "Global",
-   "score": 4.563,
-   "is_trending": false,
-   "bullet_points": [
-    "The Court of Arbitration for Sport has reinstated Senegal as 2025 AFCON champions, overturning a CAF decision that stripped them of the title.",
-    "Al Jazeera’s Samantha Johnson examines how Senegal’s AFCON title controversy reached sport’s highest court.",
-    "Senegal have been awarded the Africa Cup of Nations title after successfully appealing against the decision to strip them of it."
-   ],
-   "date": "2026-11-24"
-  },
-  {
-   "id": "a5f0501335",
-   "title": "China Investigates Chen Jining, Shanghai’s Party Leader, as Xi’s Purges Expand",
-   "link": "https://www.nytimes.com/2026/11/24/world/asia/shanghai-party-leader-investigation-china-xi.html",
-   "source": "New York Times",
-   "summary": "Before his abrupt downfall, the technocratic Chen Jining was seen as a future national leader in Xi Jinping’s China.",
-   "image_url": "https://static01.nyt.com/images/2026/11/24/world/24int-china-party-corruption-aaaaaa/24int-china-party-corruption-aaaaaa-mediumSquareAt3X.jpg",
-   "published": "2026-11-24T14:42:31+00:00",
-   "updated": "2026-11-24T19:03:12+00:00",
-   "first_reported": {
-    "source": "New York Times",
-    "published": "2026-11-24T14:42:31+00:00"
-   },
-   "all_sources": [
-    "New York Times",
-    "Al Jazeera",
-    "Washington Examiner"
-   ],
-   "source_count": 3,
-   "article_count": 3,
-   "bias_breakdown": {
-    "Lean Left": 2,
-    "Lean Right": 1
-   },
-   "bias_bar": {
-    "left_pct": 67,
-    "center_pct": 0,
-    "right_pct": 33,
-    "left": 2,
-    "center": 0,
-    "right": 1,
-    "unrated": 0,
-    "total": 3
-   },
-   "blindspot": null,
-   "is_blindspot": false,
-   "ownership_breakdown": {
-    "Corporation": 1,
-    "Government": 1,
-    "Individual": 1
-   },
-   "topic": "Politics",
-   "places": [
-    {
-     "name": "China",
-     "region": "Asia-Pacific"
-    }
-   ],
-   "region": "Asia-Pacific",
-   "score": 4.451,
-   "is_trending": false,
-   "bullet_points": [
-    "Before his abrupt downfall, the technocratic Chen Jining was seen as a future national leader in Xi Jinping’s China.",
-    "Shanghai Communist Party Secretary Chen Jining is under investigation for suspected violations of party discipline and law, Chinese state media reported Tuesday, adding another senior official to President Xi Jinping’s sweeping purge of China’s political and military leadership.",
-    "Chen is the fourth Politburo member to be probed since last year in a campaign that has targeted top Chinese leaders."
-   ],
-   "date": "2026-11-24"
-  },
-  {
-   "id": "cfd94436f2",
-   "title": "WATCH LIVE: Trump hosts Thanksgiving Turkey pardoning ceremony",
-   "link": "https://www.washingtonexaminer.com/news/white-house/4814007/watch-live-trump-thanksgiving-turkey-pardon/",
-   "source": "Washington Examiner",
-   "summary": "President Donald Trump and First Lady Melania Trump will host the White House’s annual Thanksgiving Turkey Pardoning on Tuesday at 2:00 p.m. TURKEYS ‘FEATHERS’ AND ‘FREEDOM’ STRUT INTO DC AHEAD OF THANKSGIVING TURKEY PARDON President Trump will be pardoning Turkeys “Feathers” and “Freedom” after they were delivered to Washington, D.C., on Sunday. The two birds",
-   "image_url": "https://www.washingtonexaminer.com/wp-content/uploads/2025/11/122525_WEX_TURKEY_PARDONING-24-e1764100723590.jpg?w=1024",
-   "published": "2026-11-24T14:35:45+00:00",
-   "updated": "2026-11-24T18:58:16+00:00",
-   "first_reported": {
-    "source": "The Independent",
-    "published": "2026-11-24T14:35:45+00:00"
-   },
-   "all_sources": [
-    "The Independent",
-    "Breitbart",
-    "Washington Examiner"
-   ],
-   "source_count": 3,
-   "article_count": 3,
-   "bias_breakdown": {
-    "Lean Left": 1,
-    "Lean Right": 1,
-    "Right": 1
-   },
-   "bias_bar": {
-    "left_pct": 33,
-    "center_pct": 0,
-    "right_pct": 67,
-    "left": 1,
-    "center": 0,
-    "right": 2,
-    "unrated": 0,
-    "total": 3
-   },
-   "blindspot": null,
-   "is_blindspot": false,
-   "ownership_breakdown": {
-    "Individual": 2,
-    "Other": 1
-   },
-   "topic": "Politics",
-   "places": [
-    {
-     "name": "US",
-     "region": "Americas"
-    },
-    {
-     "name": "Turkey",
-     "region": "Europe"
-    }
-   ],
-   "region": "Americas",
-   "score": 4.436,
-   "is_trending": false,
-   "bullet_points": [
-    "President Donald Trump and First Lady Melania Trump will host the White House’s annual Thanksgiving Turkey Pardoning on Tuesday at 2:00 p.m.",
-    "TURKEYS ‘FEATHERS’ AND ‘FREEDOM’ STRUT INTO DC AHEAD OF THANKSGIVING TURKEY PARDON President Trump will be pardoning Turkeys “Feathers” and “Freedom” after they were delivered to Washington, D.C., on Sunday.",
-    "President Trump will pardon two turkeys Tuesday as part of a tradition that began in a slightly different form during former President Harry Truman's administration."
-   ],
-   "date": "2026-11-24"
-  },
-  {
-   "id": "86c16ebeda",
-   "title": "Land mine deaths reach five-year high, watchdog says",
-   "link": "https://www.dw.com/en/land-mine-deaths-reach-five-year-high-watchdog-says/a-80033092?maca=en-rss-en-top-1022-rdf",
-   "source": "Deutsche Welle",
-   "summary": "Myanmar reported the highest annual land mine casualty toll, followed by Syria and Afghanistan, ICBL report says. Since 1999, nearly 50 thousand people were killed by land mines.",
-   "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf76/live/b1401ed0-e816-11f1-99b6-a35a62fa4264.jpg",
-   "published": "2026-11-24T13:32:00+00:00",
-   "updated": "2026-11-24T18:47:05+00:00",
-   "first_reported": {
-    "source": "Deutsche Welle",
-    "published": "2026-11-24T13:32:00+00:00"
-   },
-   "all_sources": [
-    "Deutsche Welle",
-    "BBC News",
-    "Al Jazeera"
-   ],
-   "source_count": 3,
-   "article_count": 3,
-   "bias_breakdown": {
-    "Lean Left": 1,
-    "Center": 2
-   },
-   "bias_bar": {
-    "left_pct": 33,
-    "center_pct": 67,
-    "right_pct": 0,
-    "left": 1,
-    "center": 2,
-    "right": 0,
-    "unrated": 0,
-    "total": 3
-   },
-   "blindspot": null,
-   "is_blindspot": false,
-   "ownership_breakdown": {
-    "Government": 3
-   },
-   "topic": "Conflict",
-   "places": [
-    {
-     "name": "Syria",
-     "region": "Middle East"
-    },
-    {
-     "name": "Myanmar",
-     "region": "Asia-Pacific"
-    },
-    {
-     "name": "Afghanistan",
-     "region": "South Asia"
-    }
-   ],
-   "region": "Middle East",
-   "score": 4.405,
-   "is_trending": false,
-   "bullet_points": [
-    "Myanmar reported the highest annual land mine casualty toll, followed by Syria and Afghanistan, ICBL report says.",
-    "Since 1999, nearly 50 thousand people were killed by land mines.",
-    "Nearly 1,000 children are among those killed or injured by explosives left over from the conflict, figures show."
-   ],
-   "date": "2026-11-24"
-  },
-  {
-   "id": "3bd0ec532c",
-   "title": "Deadly fire at confectionery factory kills 24 as rescuers search for dozens still missing",
-   "link": "https://news.sky.com/story/deadly-fire-at-confectionery-factory-in-indonesia-kills-24-as-rescuers-search-for-dozens-still-missing-13615577",
-   "source": "Sky News",
-   "summary": "A deadly fire that tore through a confectionery factory in Indonesia has claimed the lives of 24 people, with 34 others still missing.",
-   "image_url": "https://e3.365dm.com/26/11/1920x1080/skynews-serang-indonesia_7414286.jpg?20261123105702",
-   "published": "2026-11-23T08:22:07+00:00",
-   "updated": "2026-11-24T13:12:41+00:00",
-   "first_reported": {
-    "source": "New York Post",
-    "published": "2026-11-23T08:22:07+00:00"
-   },
-   "all_sources": [
-    "New York Post",
-    "Sky News",
-    "New York Times"
-   ],
-   "source_count": 3,
-   "article_count": 4,
-   "bias_breakdown": {
-    "Lean Left": 2,
-    "Lean Right": 1
-   },
-   "bias_bar": {
-    "left_pct": 67,
-    "center_pct": 0,
-    "right_pct": 33,
-    "left": 2,
-    "center": 0,
-    "right": 1,
-    "unrated": 0,
-    "total": 3
-   },
-   "blindspot": null,
-   "is_blindspot": false,
-   "ownership_breakdown": {
-    "Media Conglomerate": 1,
-    "Telecom": 1,
-    "Corporation": 1
-   },
-   "topic": "Crime & Justice",
-   "places": [
-    {
-     "name": "Indonesia",
-     "region": "Asia-Pacific"
-    }
-   ],
-   "region": "Asia-Pacific",
-   "score": 3.751,
-   "is_trending": false,
-   "bullet_points": [
-    "A deadly fire that tore through a confectionery factory in Indonesia has claimed the lives of 24 people, with 34 others still missing.",
-    "About 300 workers were inside the factory when the fire erupted.",
-    "Hundreds of people were at the compound when a blaze broke out on Saturday and then raged for hours."
-   ],
-   "date": "2026-11-24"
   }
  ]
 }
