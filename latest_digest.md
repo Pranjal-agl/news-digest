@@ -1,534 +1,564 @@
-# News Digest - 2026-11-25
+# News Digest - 2026-11-26
 
-**60 stories** · 42 covered by 2+ outlets · 18 blindspots (4 missed by the left, 14 missed by the right)
+**60 stories** · 38 covered by 2+ outlets · 14 blindspots (6 missed by the left, 8 missed by the right)
 
 Ranked by how widely each story was covered. Bias ratings: AllSides (outlet level).
 
 ---
 
-## 1. Kilmar Abrego Garcia arrives in Spain after self-deporting
+## 1. At least 31 dead after fuel tanker fire in Egypt
 
-**Migration** · US, Spain · 7 sources · Coverage: L 57% · C 14% · R 29%
+**Conflict** · Egypt · 6 sources · Coverage: L 50% · C 17% · R 33%
 
-- Kilmar Ábrego García, a Salvadoran national who fought his mistaken deportation, arrived in Spain on Wednesday after voluntarily leaving the United States, potentially ending a defining saga of the Trump administration’s immigration crackdown.
-- Salvadoran migrant Kilmar Abrego Garcia, whose wrongful deportation became a flashpoint in the debate over President Trump's immigration crackdown, self-deported Tuesday, Sen. Chris Van Hollen (D-Md.) confirmed.
-- Salvadoran migrant Kilmar Abrego Garcia arrived in Spain on Wednesday, ending a long legal and political battle over his status that became a proxy debate for the Trump administration’s immigration agenda.
-
-**Headlines by outlet:**
-
-- The Independent (Lean Left): [Trump-era deportation saga comes to close with Kilmar Abrego Garcia leaving US voluntarily](https://www.independent.co.uk/news/world/americas/us-politics/kilmar-abrego-garcia-deported-trump-usa-b3091064.html)
-- The Hill (Center): [Van Hollen: Abrego Garcia leaving US, 'will be safe' amid self-deportation reports](https://thehill.com/policy/international/6241572-kilmar-abrego-garcia-self-deports/)
-- Breitbart (Right): [Kilmar Abrego Garcia Avoids Deportation to Liberia by Leaving for Spain Voluntarily](https://www.breitbart.com/immigration/2026/11/24/kilmar-abrego-garcia-avoids-deportation-liberia-leaving-spain/)
-- Breitbart (Right): [Senate Leadership Challenger Chris Van Hollen Praises Deal for MS-13 Suspect Abrego Garcia](https://www.breitbart.com/immigration/2026/11/24/senate-democrat-leader-hopeful-chris-van-hollen-hails-abrego-garcia-departure-victory/)
-- NPR (Lean Left): [Army to detonate tons of lead azide after delays. And, Abrego Garcia leaves U.S.](https://www.npr.org/2026/11/25/g-s1-155493/up-first-newsletter-iowa-detonation-kilmar-abrego-garcia-nvidia-jensen-huang)
-- New York Post (Lean Right): [Kilmar Abrego García lands in Spain after self-deporting, ending months-long battle with Trump administration](https://nypost.com/2026/11/25/world-news/kilmar-abrego-garcia-who-fought-being-mistakenly-sent-to-el-salvador-arrives-in-spain-after-self-deporting/)
-- CBC News (Lean Left): [Kilmar Ábrego García, who faced U.S. deportation efforts and 'vindictive prosecution,' arrives in Spain](https://www.cbc.ca/news/world/us-spain-abrego-garcia-9.7435157?cmp=rss)
-- The Hill (Center): [Kilmar Abrego Garcia arrives in Spain after self-deporting](https://thehill.com/policy/international/6242020-kilmar-abrego-garcia-self-deport-spain-arrival/)
-- Al Jazeera (Lean Left): [Kilmar Abrego Garcia, wrongfully deported from US, arrives in Spain](https://www.aljazeera.com/news/2026/11/25/kilmar-abrego-garcia-wrongfully-deported-from-us-arrives-in-spain?traffic_source=rss)
-- The Independent (Lean Left): [A timeline of key events in Kilmar Ábrego García's fight with the Trump administration](https://www.independent.co.uk/news/world/europe/el-salvador-tennessee-maryland-chris-van-hollen-trump-b3091611.html)
-
-## 2. The Return of Jensen Huang
-
-**Politics** · US, China, Israel · 6 sources · Coverage: L 50% · C 17% · R 33%
-
-- President Trump took credit for negotiating Jensen Huang's return as CEO of Nvidia.
-- Nvidia CEO Jensen Huang issued a public apology to his employees during an hourlong meeting on Tuesday, one day after his controversial return to the semiconductor giant.
-- The U.S. government has no evidence that the Chinese executive who had an extramarital affair with Nvidia CEO Jensen Huang was a covert spy working on behalf of China.
+- A fuel tanker crash on Cairo's Ring Road ignited a massive fire, killing at least 30 people, Egyptian officials said.
+- Egyptian authorities detained a driver suspected of causing a Ring Road fuel tanker crash in Cairo that killed at least 31 people.
+- At least 31 people have died in a large fire on a busy highway in Cairo, after a fuel tanker overturned, says Egypt's health ministry.
 
 **Headlines by outlet:**
 
-- BBC News (Center): [Cheers and applause as Jensen Huang returns to Nvidia office](https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss)
-- New York Times (Lean Left): [The Return of Jensen Huang](https://www.nytimes.com/2026/11/23/world/jensen-huang-return-nvidia-ukraine.html)
-- New York Times (Lean Left): [For China, Jensen Huang’s Return to Nvidia Is a Mixed Blessing](https://www.nytimes.com/2026/11/24/world/asia/jensen-huang-nvidia-china.html)
-- NPR (Lean Left): [Jensen Huang returns to Nvidia. And, Rep. Gomez resigns amid alleged sexual misconduct](https://www.npr.org/2026/11/24/g-s1-155227/up-first-newsletter-nvidia-jensen-huang-trump-ukraine-russia-jimmy-gomez)
-- BBC News (Center): [Trump's rescue of Nvidia's Huang brings political risks](https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss)
-- Al Jazeera (Lean Left): [‘Second home’: Why Israel is celebrating Jensen Huang’s return to Nvidia](https://www.aljazeera.com/features/2026/11/25/second-home-why-israel-is-celebrating-jensen-huangs-return-to-nvidia?traffic_source=rss)
-- Breitbart (Right): [President Trump Leaves Door Open to Pardoning Nvidia CEO Jensen Huang: 'Always an Option'](https://www.breitbart.com/politics/2026/11/25/trump-leaves-door-open-pardoning-nvidia-ceo-jensen-huang-always-option/)
-- Breitbart (Right): [Jensen Huang Apologizes to Nvidia Employees, Tells Staff He Is in 'Daily' Therapy Sessions](https://www.breitbart.com/tech/2026/11/25/jensen-huang-apologizes-to-nvidia-employees-tells-staff-he-is-in-daily-therapy-sessions/)
-- Washington Examiner (Lean Right): [US has no evidence Jensen Huang’s affair was organized by Chinese intelligence](https://www.washingtonexaminer.com/news/world/4815224/us-no-evidence-jensen-huang-affair-china-spy/)
+- New York Times (Lean Left): [Road Fire Near Cairo Kills Dozens After Petroleum-Laden Truck Crashes](https://www.nytimes.com/2026/11/25/world/middleeast/road-fire-near-cairo-kills-dozens-after-petroleum-laden-truck-crashes.html)
+- CBC News (Lean Left): [At least 31 dead after fuel tanker fire in Egypt](https://www.cbc.ca/news/world/egypt-fire-petroleum-vehicle-overturns-9.7436271?cmp=rss)
+- New York Post (Lean Right): [At least 30 dead after fuel tanker crash ignites massive fire on Egyptian highway](https://nypost.com/2026/11/25/world-news/fuel-tanker-crash-ignites-a-massive-highway-fire-in-cairo-at-least-30-dead/)
+- The Independent (Lean Left): [At least 31 dead in Egypt blaze after vehicle carrying petrol products flips](https://www.independent.co.uk/news/world/africa/egypt-fire-vehicle-flip-deaths-b3091723.html)
+- BBC News (Center): [Deadly fire erupts near Cairo killing dozens of people](https://www.bbc.co.uk/news/videos/c52e8ndplvemo?at_medium=RSS&at_campaign=rss)
+- New York Post (Lean Right): [Driver suspected of causing tanker crash that killed at least 31 in Egypt arrested: officials](https://nypost.com/2026/11/26/world-news/driver-suspected-of-causing-egypt-fuel-tanker-crash-gets-detained-authorities/)
+- Fox News (Right): [Egypt detains driver suspected of causing Cairo fuel tanker crash and inferno that left 31 dead](https://www.foxnews.com/world/egypt-detains-driver-suspected-causing-cairo-fuel-tanker-crash-inferno-left-31-dead)
 
-## 3. US Army detonates toxic lead explosives in Iowa amid health concerns
+## 2. 🔍 Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules
 
-**Conflict** · US, Canada · 6 sources · Coverage: L 50% · C 17% · R 33%
-
-- The U.S. army plans to detonate nearly 10,000 pounds of lead azide — an extremely volatile explosive used to trigger bombs — at a military base in Iowa.
-- A huge cloud of smoke rose into the air after the US Army detonated nearly 10,000 pounds (4,500 kg) of degraded lead azide in Iowa on Wednesday (November 25).
-- The US Army has carried out a controlled blast of nearly five tonnes of deteriorating lead azide at a military plant.
-
-**Headlines by outlet:**
-
-- CBC News (Lean Left): [Why the U.S. army is about to blow up 5 tons of lead explosives in Iowa | About That](https://www.cbc.ca/player/play/9.7434811?cmp=rss)
-- Breitbart (Right): [U.S. Army Set to Detonate Iowa Stockpile of Bomb-Making Chemicals](https://www.breitbart.com/politics/2026/11/25/u-s-army-set-to-detonate-iowa-stockpile-of-bomb-making-chemicals/)
-- Al Jazeera (Lean Left): [US Army detonates toxic lead explosives in Iowa amid health concerns](https://www.aljazeera.com/news/2026/11/25/us-army-detonates-toxic-lead-stockpile-in-iowa-amid-backlash?traffic_source=rss)
-- The Independent (Lean Left): [Watch: Moment almost 10,000lbs of lead azide blown up by US Army in Iowa](https://www.independent.co.uk/tv/news/iowa-lead-azide-explosion-video-b3091547.html)
-- The Independent (Lean Left): [What is lead azide? 5 tons of bomb materials detonated in Iowa despite health concerns](https://www.independent.co.uk/news/world/americas/what-is-lead-azide-us-army-detonation-b3091558.html)
-- Deutsche Welle (Center): [US Army detonates unstable lead-based explosives in Iowa](https://www.dw.com/en/us-army-detonates-unstable-lead-based-explosives-in-iowa/a-80043319?maca=en-rss-en-top-1022-rdf)
-- The Independent (Lean Left): [Army explodes 5 tons of lead in Iowa and says ‘0.0 percent’ detected in the air](https://www.independent.co.uk/news/world/americas/us-politics/iowa-explosion-army-evacuation-safe-b3091493.html)
-- CBC News (Lean Left): [U.S. army says detonation of bomb chemicals in Iowa a success despite toxic plume concerns](https://www.cbc.ca/news/world/us-army-detonation-lead-azide-iowa-9.7435246?cmp=rss)
-- Al Jazeera (Lean Left): [US Army detonates nearly five tonnes of toxic explosives in Iowa](https://www.aljazeera.com/video/newsfeed/2026/11/25/us-army-detonates-nearly-five-tonnes-of-toxic-explosives-in-iowa?traffic_source=rss)
-- Washington Examiner (Lean Right): [WATCH LIVE: Army updates public on Iowa lead azide detonation](https://www.washingtonexaminer.com/policy/defense/4815189/watch-live-army-update-public-iowa-lead-azide-detonation/)
-
-## 4. 2 men arrested over suspected burglary at Prince William and Kate’s country home in eastern England
-
-**Crime & Justice** · UK · 6 sources · Coverage: L 50% · C 17% · R 33%
-
-- LONDON (AP) — Two men were arrested on the British royal family's Sandringham estate, police said Tuesday, after a reported break-in at the country home of Prince William and Princess Catherine.
-- Prince William and Kate Middleton’s home on the royals’ Sandringham estate was the target of a break-in by intruders, it was reported Tuesday.
-- British police said Tuesday that two men have been arrested over a suspected burglary at the Royal Family's Sandringham Estate.
-
-**Headlines by outlet:**
-
-- New York Post (Lean Right): [Two suspects arrested after break-in reported at Prince William and Kate Middleton’s estate gifted to them by Queen Elizabeth II](https://nypost.com/2026/11/24/world-news/prince-william-kate-middletons-royal-anmer-hall-home-broken-into/)
-- HuffPost (Left): [2 Men Arrested Over Suspected Burglary At UK Royal Family’s Sandringham Estate](https://www.huffpost.com/entry/sandringham-estate-break-in-robbery-prince-william-royals_n_6b058da9e4b0da866ee3db9d)
-- The Hill (Center): [2 men arrested over suspected burglary at Prince William and Kate’s country home in eastern England](https://thehill.com/policy/international/prince-william-kate-country-home-break-in/)
-- New York Times (Lean Left): [Prince William and Kate’s Country Home Is Broken Into; 2 Men Arrested](https://www.nytimes.com/2026/11/24/world/europe/prince-william-kate-home-break-in-anmer-hall-uk.html)
-- New York Post (Lean Right): [Two Albanian nationals charged over break-in at Prince William and Kate Middleton’s estate](https://nypost.com/2026/11/25/world-news/two-intruders-charged-over-break-in-at-prince-william-and-kate-middletons-estate/)
-- Breitbart (Right): [Man Arrested Over Suspected Burglary of Royal Hall is Illegal Albanian Migrant: Report](https://www.breitbart.com/europe/2026/11/25/man-arrested-over-suspected-burglary-of-royal-hall-is-illegal-albanian-migrant-report/)
-- CBC News (Lean Left): [2 men charged in break-in at country residence of Prince William, Princess of Wales](https://www.cbc.ca/news/world/uk-breakin-royals-charges-9.7435154?cmp=rss)
-- New York Times (Lean Left): [2 Men Charged After Break-In at Prince William and Kate’s Country Home](https://www.nytimes.com/2026/11/25/world/europe/prince-william-kate-home-break-in-charged.html)
-
-## 5. 🔍 Spain’s Canary Islands swamped by record 2,100 migrants in just 24 hours
-
-**Migration** · Spain · 5 sources · Coverage: L 20% · C 20% · R 60%
-
-**Blindspot for the Left:** covered mostly by right-leaning outlets.
-
-- The arrival of over 2,000 migrants to the islands comes as Spain holds elections this weekend.
-- Upwards of 2,100 migrants arrived at the Spanish Canary Islands' El Hierro over the past 24 hours in what Spanish outlets describe as the highest single-day figure at the popular Atlantic tourist hotspot.
-- The Canary Island leader has criticised African countries for a lack of cooperation on the migrant crisis following an enormous influx into Spanish territory.
-
-**Headlines by outlet:**
-
-- Breitbart (Right): [Illegal Migrants Swamp Spain's Canary Islands: New Record Set with 2,100+ Arrivals in a Single Day](https://www.breitbart.com/europe/2026/11/25/migrant-crisis-at-spains-canary-islands-breaks-new-records-with-2100-arrivals-in-a-single-day/)
-- Daily Mail (Lean Right): [Canary Islands leader 'blames African nations' as record 2,100 migrants reach the Spanish territory in one day](https://www.dailymail.com/news/article-16320577/Record-number-migrants-hits-overwhelmed-Canary-Islands-2-100-arrive-one-day-territory-population-just-12-000.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
-- New York Post (Lean Right): [Spain’s Canary Islands swamped by record 2,100 migrants in just 24 hours](https://nypost.com/2026/11/25/world-news/spains-canary-islands-swamped-by-record-2100-migrants-in-just-24-hours/)
-- The Independent (Lean Left): [Almost 2,000 migrants arrive on Canary Islands in single-day record before Spain election](https://www.independent.co.uk/news/world/europe/canary-islands-migrants-spain-election-b3091650.html)
-- Deutsche Welle (Center): [Spain: Canary Islands witness 1-day migration record](https://www.dw.com/en/spain-canary-islands-witness-1-day-migration-record/a-80052770?maca=en-rss-en-top-1022-rdf)
-
-## 6. Libyan army says 2 officers were killed in Ukraine's attack on Russian warship
-
-**Conflict** · Libya, Ukraine, Russia · 5 sources · Coverage: L 60% · C 0% · R 40%
-
-- The Libyan National Army mourns two soldiers who died Tuesday from a Ukrainian drone strike on a Russian warship in Benghazi, vowing retaliation.
-- Two Libyan naval officers died from wounds sustained in Ukraine's recent drone attack on a Russian warship docked at a port in eastern Libya, military authorities there said, vowing unspecified retaliation against Kyiv for the deaths.
-- The attack on Zaporizhzhia comes as authorities debate the legitimacy of a Ukrainian strike on a Russian warship docked in Libya’s Benghazi.
-
-**Headlines by outlet:**
-
-- Fox News (Right): [Ukraine’s drone strike on Russian warship in Libya risks ‘serious escalation,’ former official warns](https://www.foxnews.com/world/ukraines-drone-strike-russian-warship-libya-risks-serious-escalation-former-official-warns)
-- HuffPost (Left): [Russian Strike On Ukraine Kills 2 And Wounds 48, Including Children](https://www.huffpost.com/entry/russian-strike-ukraine-zaporizhzhia-kills-2_n_6b05d2c7e4b01d8bd1d8b2bf)
-- New York Post (Lean Right): [2 Libyan naval officers die of wounds from Ukrainian drone attack on Russian warship](https://nypost.com/2026/11/25/world-news/2-libyan-naval-officers-die-of-wounds-from-ukrainian-drone-attack-on-russian-warship/)
-- New York Times (Lean Left): [Libyan Forces Threaten Retaliation Over Ukraine’s Attack on Russian Ships](https://www.nytimes.com/2026/11/25/world/middleeast/libya-ukraine-russia-haftar.html)
-- CBC News (Lean Left): [Libyan army says 2 officers were killed in Ukraine's attack on Russian warship](https://www.cbc.ca/news/world/ukraine-russia-libya-attack-9.7435192?cmp=rss)
-- Fox News (Right): [Libyans pledge to retaliate after Ukraine strikes Russian warship near Benghazi, killing 2 soldiers](https://www.foxnews.com/world/libyans-pledge-retaliate-ukraine-strikes-russian-warship-benghazi-killing-2-soldiers)
-
-## 7. North Korea expels Swiss envoy over sanctions on camp accused of indoctrinating Ukrainian children
-
-**Politics** · North Korea, Ukraine, Russia · 4 sources · Coverage: L 50% · C 25% · R 25%
-
-- The move followed Switzerland’s decision to impose sanctions on an international youth camp in North Korea, which is accused of hosting Ukrainian children for indoctrination.
-- The closure came after North Korea condemned Switzerland for adding a children’s camp to its sanctions list.
-- North Korea has ordered Switzerland to close its newly reopened diplomatic office.
-
-**Headlines by outlet:**
-
-- New York Post (Lean Right): [North Korea expels Swiss representative over sanctions related to children’s camp](https://nypost.com/2026/11/25/world-news/north-korea-expels-swiss-diplomat-from-pyongyang-over-childrens-camp-sanctions/)
-- Deutsche Welle (Center): [North Korea expels Swiss envoy over sanctions on camp accused of indoctrinating Ukrainian children](https://www.dw.com/en/north-korea-expels-swiss-envoy-over-sanctions-on-camp-accused-of-indoctrinating-ukrainian-children/a-80043648?maca=en-rss-en-top-1022-rdf)
-- Al Jazeera (Lean Left): [Switzerland forced to close office in North Korea over sanctions feud](https://www.aljazeera.com/news/2026/11/25/switzerland-regrets-closure-of-north-korea-office-over-sanctions-feud?traffic_source=rss)
-- New York Times (Lean Left): [North Korea Kicks Out Swiss Diplomats in Spat Linked to Ukraine War](https://www.nytimes.com/2026/11/25/world/asia/north-korea-switzerland-diplomats.html)
-
-## 8. Colombian police storm supermarket to free 20 held hostage for 17 hours
-
-**Conflict** · Colombia · 4 sources · Coverage: L 50% · C 25% · R 25%
-
-- Colombian police have stormed a supermarket and freed at least 20 people who were being held hostage, killing one of the gunmen.
-- All hostages have been rescued by Colombian forces after a 17-hour siege in Cartagena supermarket.
-- Security forces rescued all the hostages held for nearly a day at a supermarket in the northern Colombian tourist city of Cartagena.
-
-**Headlines by outlet:**
-
-- Sky News (Lean Left): [Colombian police storm supermarket, freeing hostages and killing gunman](https://news.sky.com/story/armed-men-take-at-least-25-hostages-in-supermarket-in-colombia-tourist-hotspot-13616139)
-- New York Post (Lean Right): [Colombian authorities rescue hostages held at supermarket](https://nypost.com/2026/11/25/world-news/colombian-authorities-rescue-hostages-held-at-supermarket/)
-- BBC News (Center): [Colombian police storm supermarket to free 20 held hostage for 17 hours](https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss)
-- Al Jazeera (Lean Left): [Colombian forces rescue all hostages after supermarket siege](https://www.aljazeera.com/video/newsfeed/2026/11/25/colombian-forces-rescue-all-hostages-after-supermarket-siege?traffic_source=rss)
-
-## 9. 🔍 Huawei guilty of plotting to steal trade secrets and bank fraud
-
-**Business** · China, US · 4 sources · Coverage: L 75% · C 25% · R 0%
+**Crime & Justice** · France · 5 sources · Coverage: L 60% · C 20% · R 20%
 
 **Blindspot for the Right:** covered mostly by left-leaning outlets.
 
-- Chinese tech giant Huawei, has been found guilty of conspiracy to steal trade secrets and bank fraud after a landmark trial in the US.
-- A U.S. jury convicted Chinese tech giant Huawei Technologies on Tuesday of conspiracy to steal trade secrets and bank fraud as it grew into one of the world's biggest suppliers of gear for wireless telecommunications networks.
-- Chinese tech giant has faced legal problems from Europe to Asia, and its products have been banned in trade war with US.
+- A Paris appeals court rules Depardieu will go on trial for the alleged rape of Charlotte Arnould.
+- Depardieu, 77, has denied the rape allegations.
+- Paris court of appeal dismisses allegations relating to a second incident involving actress Charlotte Arnould.
 
 **Headlines by outlet:**
 
-- Sky News (Lean Left): [Huawei guilty of plotting to steal trade secrets and bank fraud](https://news.sky.com/story/chinese-tech-giant-guilty-of-plotting-to-steal-trade-secrets-and-bank-fraud-13616130)
-- CBC News (Lean Left): [U.S. jury finds Chinese tech giant Huawei guilty of conspiring to steal trade secrets](https://www.cbc.ca/news/world/huawei-conspiracy-trade-secrets-ruling-9.7434554?cmp=rss)
-- BBC News (Center): [Huawei found guilty of stealing US trade secrets but acquitted of racketeering](https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss)
-- Al Jazeera (Lean Left): [US court convicts Huawei of theft: A history of Chinese firm’s global woes](https://www.aljazeera.com/news/2026/11/25/us-court-convicts-huawei-of-theft-a-history-of-chinese-firms-global-woes?traffic_source=rss)
+- New York Times (Lean Left): [Gérard Depardieu Is Ordered to Stand Trial Over Rape Accusation](https://www.nytimes.com/2026/11/26/world/europe/france-depardieu-rape-trial.html)
+- BBC News (Center): [Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules](https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss)
+- New York Post (Lean Right): [French actor Gérard Depardieu loses appeal, will stand trial for rape charges](https://nypost.com/2026/11/26/entertainment/gerard-depardieu-will-stand-trial-for-rape-charges/)
+- The Independent (Lean Left): [Gérard Depardieu ordered to stand trial for rape](https://www.independent.co.uk/news/world/europe/gerard-depardieu-rape-trial-metoo-b3092287.html)
+- Al Jazeera (Lean Left): [French actor Gerard Depardieu to stand trial for alleged 2018 rape](https://www.aljazeera.com/news/2026/11/26/paris-court-orders-gerard-depardieu-to-stand-trial-for-rape-sexual-assault?traffic_source=rss)
 
-## 10. 🔍 Is the Stock Market Open on Thanksgiving Day 2026?
+## 3. Netanyahu declares corruption trial has 'fallen apart' after judges question key charges
 
-**Business** · US · 3 sources · Coverage: L 67% · C 33% · R 0%
+**Crime & Justice** · Israel · 5 sources · Coverage: L 40% · C 0% · R 60%
+
+- Israeli Prime Minister Benjamin Netanyahu declared his corruption trial "fell apart" as judges urged prosecutors to rethink the bribery and fraud cases.
+- Israeli Prime Minister Benjamin Netanyahu declared Wednesday that his corruption trial had collapsed after judges urged prosecutors to drop the most serious case against him and questioned the criminal basis of another, dealing a devastating blow to a prosecution that has roiled Israeli politics for nearly a decade.
+- Prime Minister Benjamin Netanyahu is accused of bribery, fraud and breach of trust in a long-running trial that has divided the country.
+
+**Headlines by outlet:**
+
+- New York Post (Lean Right): [Judges in Netanyahu’s corruption trial propose dropping charges against PM](https://nypost.com/2026/11/25/world-news/judges-in-netanyahus-trial-propose-dropping-charges/)
+- New York Times (Lean Left): [Judges in Israel Suggest Dropping Key Corruption Case Against Netanyahu](https://www.nytimes.com/2026/11/25/world/middleeast/judges-israel-corruption-case-netanyahu.html)
+- Fox News (Right): [Netanyahu declares corruption trial has 'fallen apart' after judges question key charges](https://www.foxnews.com/world/netanyahu-declares-corruption-trial-fallen-apart-judges-question-key-charges)
+- Breitbart (Right): [Netanyahu Declares Trial Has ‘Fallen Apart’ — Judges Deal Devastating Blow to Decade-Long Prosecution](https://www.breitbart.com/politics/2026/11/25/netanyahu-declares-trial-has-fallen-apart-judges-deal-devastating-blow-to-decade-long-prosecution/)
+- Al Jazeera (Lean Left): [Netanyahu’s corruption trial: Is it really all over?](https://www.aljazeera.com/news/2026/11/26/netanyahus-corruption-trial-is-it-really-all-over?traffic_source=rss)
+
+## 4. Ukraine-Russia war latest: Trump tells Putin to end military aggression in Europe to ‘stop the bloodbath’
+
+**Conflict** · Russia, Ukraine, US · 4 sources · Coverage: L 25% · C 50% · R 25%
+
+- US President Donald Trump claimed that he talked with Vladimir Putin about ceasing Russia's military aggression in Europe and expressed his belief in the possibility of a deal between Russia and Ukraine.
+- Andrii Sybiha, Ukraine’s minister of foreign affairs, told Russian President Vladimir Putin to “stop complaining” about attacks on oil refineries following tit-for-tat strikes between the countries targeting energy facilities.
+- “If Putin doesn’t like Ukraine’s strikes on his oil refineries, he can order an end to the war.
+
+**Headlines by outlet:**
+
+- The Hill (Center): [Ukraine tells Putin to 'stop complaining' about oil refinery attacks](https://thehill.com/policy/international/6243656-ukraine-russia-oil-refinery-attacks/)
+- New York Post (Lean Right): [Ukraine tells Putin ‘stop complaining’ following attacks on Russian infrastructure](https://nypost.com/2026/11/25/world-news/ukraine-tells-putin-stop-complaining-about-refinery-attacks/)
+- The Independent (Lean Left): [Ukraine-Russia war latest: Trump tells Putin to end military aggression in Europe to ‘stop the bloodbath’](https://www.independent.co.uk/news/world/europe/russia-ukraine-war-live-putin-drones-nuclear-weapons-casualties-b3091880.html)
+- Deutsche Welle (Center): [Trump says he urged Putin to 'pull back' military aggression in Europe](https://www.dw.com/en/trump-says-he-urged-putin-to-pull-back-military-aggression-in-europe/a-80067722?maca=en-rss-en-top-1022-rdf)
+- The Independent (Lean Left): [Trump shares the Europe request he made to Putin during China talks](https://www.independent.co.uk/news/world/europe/trump-putin-russia-ukraine-war-b3092350.html)
+
+## 5. 🔍 2 Italians killed in Iranian drone attack in Kuwait, Italy says
+
+**Conflict** · Italy, Iran, Germany · 4 sources · Coverage: L 50% · C 50% · R 0%
 
 **Blindspot for the Right:** covered mostly by left-leaning outlets.
 
-- Shares have veered wildly for days, pushed and pulled by the drama at Nvidia and the rise and fall of Anthropic’s stock after its blockbuster public offering.
-- Stocks tied to the artificial intelligence industry dragged the U.S. market lower Tuesday after their surge from the day before quickly fizzled.
-- U.S. stock markets will close for Thanksgiving 2026, with the NYSE and Nasdaq reopening for shorter hours on Friday.
+- Two Italians were killed in an Iranian drone attack in Kuwait on Thursday, Italy's foreign minister said, adding that the victims were technicians working for the Italian unit of German defence group Rheinmetall.
+- Kuwait’s army says two Italian workers were killed and four others were injured in an Iranian drone attack.
+- The Italians were employed as technicians for the Italian branch of German arms manufacturer Rheinmetall.
 
 **Headlines by outlet:**
 
-- New York Times (Lean Left): [Stock Markets Slip as Nvidia and A.I. Stocks Erase Some of Monday’s Rally](https://www.nytimes.com/2026/11/24/business/stocks-sp500-huang-nvidia.html)
-- CBC News (Lean Left): [Drops for Nvidia, Anthropic and other AI stocks drag the markets back down](https://www.cbc.ca/news/business/stock-market-latest-nvidia-anthropic-ai-stocks-9.7434596?cmp=rss)
-- New York Times (Lean Left): [National Security vs. the Stock Market](https://www.nytimes.com/2026/11/24/world/nvidia-trump-stocks-china-books.html)
-- Newsweek (Center): [Is the Stock Market Open on Thanksgiving Day 2026?](https://www.newsweek.com/stock-market-thanksgiving-2026-12761725)
+- Deutsche Welle (Center): [Iranian drone kills 2 Italian workers in Kuwait, Meloni says](https://www.dw.com/en/iranian-drone-kills-2-italian-workers-in-kuwait-meloni-says/a-80064974?maca=en-rss-en-top-1022-rdf)
+- Al Jazeera (Lean Left): [Two dead after Iranian drone attack on Kuwait](https://www.aljazeera.com/video/newsfeed/2026/11/26/two-dead-after-iranian-drone-attack-on-kuwait?traffic_source=rss)
+- CBC News (Lean Left): [2 Italians killed in Iranian drone attack in Kuwait, Italy says](https://www.cbc.ca/news/world/italian-workers-killed-kuwait-iran-strike-9.7437089?cmp=rss)
+- Al Jazeera (Lean Left): [Two Italians killed by ‘drone strike debris’ in Kuwait](https://www.aljazeera.com/news/2026/11/26/two-italians-killed-after-iranian-drones-strike-facility-says-kuwait?traffic_source=rss)
+- BBC News (Center): [Two Italians killed in strike in Kuwait, as Iran denies responsibility](https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss)
 
-## 11. 🔍 Thomas Markle formally charged over child sexual abuse material
+## 6. 🔍 Judge blocks FCC review of Disney's ABC stations, says Trump administration appears retaliatory
 
-**Crime & Justice** · 5 sources · Coverage: L 60% · C 20% · R 20%
+**Politics** · US · 4 sources · Coverage: L 75% · C 0% · R 25%
 
 **Blindspot for the Right:** covered mostly by left-leaning outlets.
 
-- Thomas Markle has been formally charged on two counts of possessing child sexual abuse material in Los Angeles.
-- The FBI arrested Markle on 6 November after a search of a storage unit he had allegedly rented in Los Angeles uncovered the abuse material.
-- Mr. Markle, 82, was indicted by a grand jury in Los Angeles and is expected to be arraigned in the coming weeks, prosecutors said.
+- Judge blocks FCC from early license review for ABC, which network says has had a chilling effect
+- WASHINGTON (AP) — A federal judge on Wednesday blocked the Federal Communications Commission from conducting an early review of ABC’s broadcast licenses, agreeing with the network that the Trump administration was chilling the network’s free speech rights.
+- A U.S. ‌judge on Wednesday barred the Federal Communications Commission from revoking Walt Disney's licences for its eight company-owned ABC TV stations, in a dramatic blow to President Donald Trump's efforts to rein in American media companies.
 
 **Headlines by outlet:**
 
-- Sky News (Lean Left): [Thomas Markle formally charged over child sexual abuse material](https://news.sky.com/story/thomas-markle-formally-charged-in-us-over-possessing-child-sexual-abuse-material-13616074)
-- CBC News (Lean Left): [Megan Markle's father indicted on 2 counts of possessing child sex abuse materials](https://www.cbc.ca/news/world/thomas-markle-child-sex-abuse-materials-9.7434831?cmp=rss)
-- Breitbart (Right): [Grand Jury Charges Meghan Markle's Father with Child Porn Possession](https://www.breitbart.com/entertainment/2026/11/24/grand-jury-charges-meghan-markles-father-with-child-porn-possession/)
-- BBC News (Center): [Thomas Markle charged in US for possessing child sex abuse images](https://www.bbc.co.uk/news/articles/crwy4egxn592o?at_medium=RSS&at_campaign=rss)
-- New York Times (Lean Left): [Thomas Markle Indicted in US on Charges of Possession of Child Sexual Abuse Materials](https://www.nytimes.com/2026/11/24/world/europe/thomas-markle-indicted.html)
+- CBC News (Lean Left): [Judge blocks FCC review of Disney's ABC stations, says Trump administration appears retaliatory](https://www.cbc.ca/news/world/judge-blocks-fcc-revoking-abc-licences-9.7436635?cmp=rss)
+- The Independent (Lean Left): [Federal judge slaps down Trump administration over campaign of retaliation against ABC](https://www.independent.co.uk/news/world/americas/us-politics/judge-blocks-fcc-abc-licenses-b3092253.html)
+- Al Jazeera (Lean Left): [US judge blocks Trump’s FCC attempt to target Disney’s ABC stations](https://www.aljazeera.com/news/2026/11/26/us-judge-blocks-trumps-fcc-attempt-to-target-disneys-abc-stations?traffic_source=rss)
+- Breitbart (Right): [Biden-Appointed Judge Halts FCC’s Early Review of ABC's Broadcast Licenses](https://www.breitbart.com/entertainment/2026/11/26/biden-appointed-judge-halts-fccs-early-review-of-abcs-broadcast-licenses/)
 
-## 12. 🔍 South Africa's Ramaphosa wins court battle over impeachment threat
+## 7. Trump administration rolls out new tariffs on China, EU
 
-**Politics** · South Africa, US · 3 sources · Coverage: L 67% · C 33% · R 0%
-
-**Blindspot for the Right:** covered mostly by left-leaning outlets.
-
-- A court threw out a report suggesting that Cyril Ramaphosa may have tried to conceal the theft of more than half a million dollars of U.S. currency.
-- The ruling hands the president ​a political reprieve by removing a finding that had exposed him to possible impeachment.
-- The break-in happened in 2020, when thieves allegedly stole bundles of US dollar bills hidden inside a sofa at the farm.
-
-**Headlines by outlet:**
-
-- Al Jazeera (Lean Left): [South Africa court repeals ‘farmgate’ impeachment threat against Ramaphosa](https://www.aljazeera.com/news/2026/11/25/south-africa-court-repeals-farmgate-impeachment-threat-against-ramaphosa?traffic_source=rss)
-- BBC News (Center): [South Africa's Ramaphosa wins court battle over impeachment threat](https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o?at_medium=RSS&at_campaign=rss)
-- New York Times (Lean Left): [South African President Wins Reprieve From ‘Farmgate’ Impeachment Investigation](https://www.nytimes.com/2026/11/25/world/africa/south-africa-ramaphosa-farmgate.html)
-
-## 13. 🔍 Israeli strike kills senior Hamas security official and family in Gaza City
-
-**Conflict** · Gaza, Israel · 3 sources · Coverage: L 67% · C 33% · R 0%
-
-**Blindspot for the Right:** covered mostly by left-leaning outlets.
-
-- Israel assassinated Hamas’s internal security chief in Gaza City, killing him and six others in a strike
-- Mohammed Abu al-Ouf, head of Hamas's internal security service in northern Gaza, was killed with his wife and two teenage daughters, doctors say.
-- The second strike left four people dead, including two children.
-
-**Headlines by outlet:**
-
-- BBC News (Center): [Israeli strike kills senior Hamas security official and family in Gaza City](https://www.bbc.co.uk/news/articles/cmd718zydz9qo?at_medium=RSS&at_campaign=rss)
-- Al Jazeera (Lean Left): [Jerusalem Daily: Israel kills Hamas’s Gaza security chief](https://www.aljazeera.com/video/newsfeed/2026/11/25/jerusalem-daily-israel-kills-hamass-gaza-security-chief?traffic_source=rss)
-- CBC News (Lean Left): [Israeli strike kills 2 senior Hamas officials](https://www.cbc.ca/news/world/gaza-hamas-israel-kills-two-hamas-officials-9.7435419?cmp=rss)
-
-## 14. 🔍 Houthis claim attacks on Saudi refinery, financial district
-
-**Conflict** · Saudi Arabia, Yemen, Iran · 3 sources · Coverage: L 67% · C 33% · R 0%
-
-**Blindspot for the Right:** covered mostly by left-leaning outlets.
-
-- Iran-backed Yemeni Houthis say they carried out fresh retaliatory attacks in Saudi Arabia.
-- Yemen's Iran-aligned Houthis said on Wednesday they had attacked Saudi Arabia's Ras Tanura oil refinery, the kingdom's largest, which is near a major export terminal for Saudi crude.
-- The Iran-backed militia and Saudi Arabia have been exchanging escalating attacks for weeks.
-
-**Headlines by outlet:**
-
-- New York Times (Lean Left): [Houthi Attack on Skyscraper in Saudi Capital Wounds 11, Officials Say](https://www.nytimes.com/2026/11/24/world/middleeast/saudi-skyscraper-houthi-strike.html)
-- Deutsche Welle (Center): [Houthis claim attacks on Saudi refinery, financial district](https://www.dw.com/en/houthis-claim-attacks-on-saudi-refinery-financial-district/a-80043632?maca=en-rss-en-top-1022-rdf)
-- CBC News (Lean Left): [Yemen's Houthis claim attack on major Saudi oil refinery](https://www.cbc.ca/news/world/yemen-houthi-saudi-arabia-strikes-9.7435269?cmp=rss)
-
-## 15. 🔍 Australia, Solomon Islands sign sweeping pact seen as countering China
-
-**World** · China, Australia · 3 sources · Coverage: L 67% · C 33% · R 0%
-
-**Blindspot for the Right:** covered mostly by left-leaning outlets.
-
-- Solomon Islands will have to consult Canberra before making new security or infrastructure deals under new pact.
-- A 2022 Solomon Islands agreement with China had raised concerns it would enable Beijing to establish a military presence on the Pacific island.
-- Australia will become the Solomon Islands' primary security partner, while the archipelago will reject any foreign power trying to "interfere" on its "sensitive" infrastructure.
-
-**Headlines by outlet:**
-
-- New York Times (Lean Left): [Solomon Islands Enters Security Treaty With Australia, in a Blow to China](https://www.nytimes.com/2026/11/24/world/asia/solomon-islands-security-treaty-australia-china.html)
-- Deutsche Welle (Center): [Australia, Solomon Islands sign sweeping pact seen as countering China](https://www.dw.com/en/australia-solomon-islands-sign-sweeping-pact-seen-as-countering-china/a-80043646?maca=en-rss-en-top-1022-rdf)
-- Al Jazeera (Lean Left): [Solomon Islands signs security deal with Australia](https://www.aljazeera.com/news/2026/11/25/solomon-islands-signs-security-deal-with-australia?traffic_source=rss)
-
-## 16. Trump administration rolls out new tariffs on China, EU
-
-**Business** · US, China, EU · 3 sources · Coverage: L 33% · C 67% · R 0%
+**Business** · US, China, EU · 3 sources · Coverage: L 34% · C 33% · R 33%
 
 - The Trump administration on Wednesday proposed new tariffs on more than a dozen countries, including China and the European Union.
-- The Trump administration is planning new import duties of up to 20% to counter excessive manufacturing abroad.
-- The US is planning tariffs on 14 economies it accuses of using subsidies to help their industries overproduce.
+- The United States on Wednesday proposed new tariffs on imports from 14 major trading partners, including China and the European Union, to counter what Washington says is excess industrial capacity.
+- On Nov. 25, three weeks after his party lost both houses of Congress, President Donald Trump proposed new tariffs on 14 major trading partners — including China, the European Union, Japan, and India — over what his administration calls structural excess industrial capacity.
 
 **Headlines by outlet:**
 
 - The Hill (Center): [Trump administration rolls out new tariffs on China, EU](https://thehill.com/homenews/administration/6242105-trump-administration-new-tariffs-china-european-union/)
-- Deutsche Welle (Center): [US plans new tariffs on EU, China and 12 others](https://www.dw.com/en/us-plans-new-tariffs-on-eu-china-and-12-others/a-80050872?maca=en-rss-en-top-1022-rdf)
-- Al Jazeera (Lean Left): [Trump announces new trade tariffs: Which countries are affected?](https://www.aljazeera.com/news/2026/11/25/trump-announces-new-trade-tariffs-which-countries-will-they-target?traffic_source=rss)
+- The Hill (Center): [EU 'strongly rejects' rationale behind Trump's tariffs](https://thehill.com/policy/international/6244220-eu-rejects-us-tariff-proposal/)
+- The Independent (Lean Left): [China accuses Trump of using trade tariffs for ‘political manipulation’ and threatens to retaliate](https://www.independent.co.uk/asia/china/china-response-trump-tariff-retaliate-b3092076.html)
+- Washington Examiner (Lean Right): [Trump is following his conviction on tariffs, not politics](https://www.washingtonexaminer.com/op-eds/4816147/trump-tariffs-leadership-conviction/)
+- The Independent (Lean Left): [Five big takeaways from Donald Trump’s sweeping new tariffs on China, Europe and 12 other economies](https://www.independent.co.uk/news/world/americas/us-politics/judge-alikhan-fcc-abc-trump-b3092281.html)
+- The Hill (Center): [China, others bash Trump’s latest tariff gambit: ‘Trade wars serve no one’s interests’](https://thehill.com/policy/international/6244629-trump-global-tariffs-china-japan-eu-fallout/)
 
-## 17. Iranian Singer Receives 74 Lashes for Performing With No Hijab
+## 8. More than 1,000 flights cancelled or delayed in US as weather disrupts Thanksgiving travel
 
-**World** · Iran · 3 sources · Coverage: L 33% · C 0% · R 67%
+**Climate & Environment** · US · 3 sources · Coverage: L 34% · C 33% · R 33%
 
-- Lawyers said singer Parastoo Ahmadi and members of her concert team received 74 lashes each in Qom after performing without a hijab.
-- Masoud Pezeshkian's comments on X came just days after an Iranian singer received 74 lashes for performing in a live-streamed concert without a hijab.
-- Parastoo Ahmadi sang without wearing the mandatory veil in a virtual concert in 2024 that spread quickly online and drew the ire of the Islamic republic authorities.
+- Adding to Thanksgiving disruptions, over 440,000
+- Massive storms are descending on both US coasts as an estimated 80 million Americans hit the road for Thanksgiving holiday.
+- Storms on the East Coast have even led the postponement of the annual Macy’s Thanksgiving Day Parade.
 
 **Headlines by outlet:**
 
-- New York Times (Lean Left): [Iranian Singer Receives 74 Lashes for Performing With No Hijab](https://www.nytimes.com/2026/11/24/world/middleeast/iran-singer-parastoo-ahmadi-flogging-lashes.html)
-- Fox News (Right): [Iran flogs female singer 74 times for performing without hijab in viral YouTube concert](https://www.foxnews.com/world/iran-flogs-female-singer-74-times-performing-without-hijab-viral-youtube-concert)
-- Daily Mail (Lean Right): [Iran's president says 'Prophet of Islam was a champion in the fight against violence against women' days after regime lashes singer 74 times for not wearing a hijab](https://www.dailymail.com/news/article-16321175/Irans-president-says-Prophet-Islam-champion-fight-against-violence-against-women-days-regime-lashes-singer-74-times-not-wearing-hijab.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
+- The Independent (Lean Left): [Thanksgiving travel chaos as severe weather batters much of US](https://www.independent.co.uk/news/world/americas/weather-today-forecast-nyc-thanksgiving-macys-parade-b3092225.html)
+- The Independent (Lean Left): [Thanksgiving travel chaos with over 360 flights canceled and storms hitting both coasts](https://www.independent.co.uk/news/world/americas/thanksgiving-travel-chaos-storms-coasts-b3092174.html)
+- Washington Examiner (Lean Right): [Thanksgiving travel chaos grows as storm brings widespread flight disruptions and power outages](https://www.washingtonexaminer.com/policy/infrastructure/4816191/thanksgiving-travel-chaos-flight-disruptions-power-outages/)
+- BBC News (Center): [More than 1,000 flights cancelled or delayed in US as weather disrupts Thanksgiving travel](https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss)
 
-## 18. 🔍 Africa Cup title given back to Senegal after sports court rules against Morocco
+## 9. 🔍 Protests in Iraqi Kurdistan at plans for government in Baghdad to take over oil, border crossings
 
-**Crime & Justice** · 3 sources · Coverage: L 100% · C 0% · R 0%
+**Politics** · Iraq, Iran · 3 sources · Coverage: L 67% · C 33% · R 0%
 
 **Blindspot for the Right:** covered mostly by left-leaning outlets.
 
-- Senegal have been awarded the Africa Cup of Nations title after successfully appealing against the decision to strip them of it.
-- The Court of Arbitration for Sport ruled that Senegal were the rightful winners of the 2025 African Cup of Nations.
-- Senegal won the Africa Cup on the field in Morocco in January and then lost it in a legal case in March because its players walked off the field in protest in second-half stoppage time.
+- Thousands have gathered in the capital of northern Iraq's semiautonomous Kurdish region, waving flags and voicing opposition to plans for the federal government to take control of oil operations and border crossings.
+- Ali al-Zaidi, who just scored a symbolic victory against a powerful Iran-backed militia, has now moved to assert control over Kurdish border crossings and oil resources.
+- Prime Minister al-Zaidi's move to take control of border crossings and oilfields has drawn a sharp response from Erbil.
 
 **Headlines by outlet:**
 
-- Sky News (Lean Left): [Morocco 'astonished' at decision to restore Senegal as Africa Cup of Nations champions](https://news.sky.com/story/senegal-awarded-africa-cup-of-nations-after-winning-appeal-over-title-being-stripped-13615900)
-- NPR (Lean Left): [Africa Cup title given back to Senegal after sports court rules against Morocco](https://www.npr.org/2026/11/25/nx-s1-6053783/africa-cup-senegal-morocco)
-- Al Jazeera (Lean Left): [Senegal deny Morocco’s allegations of ‘contact’ with CAS amid AFCON row](https://www.aljazeera.com/sports/2026/11/25/senegal-deny-moroccos-allegations-of-contact-with-cas-amid-afcon-row?traffic_source=rss)
+- New York Times (Lean Left): [Iraq’s Prime Minister Aims to Wrest More Power From Kurdistan Region](https://www.nytimes.com/2026/11/24/world/middleeast/iraq-prime-minister-kurdistan-control.html)
+- Al Jazeera (Lean Left): [How an oil feud is deepening rift between Baghdad and Iraq’s Kurdish region](https://www.aljazeera.com/news/2026/11/26/how-an-oil-feud-is-deepening-rift-between-baghdad-and-iraqs-kurdish-region?traffic_source=rss)
+- Deutsche Welle (Center): [Protests in Iraqi Kurdistan at plans for government in Baghdad to take over oil, border crossings](https://www.dw.com/en/protests-in-iraqi-kurdistan-at-plans-for-government-in-baghdad-to-take-over-oil-border-crossings/a-80065994?maca=en-rss-en-top-1022-rdf)
 
-## 19. Netanyahu Wants to Attack Iran. Does That Serve Israel or Him?
+## 10. Andy Taylor, guitarist of new wave icons Duran Duran, dead at 65
 
-**Conflict** · Israel, Iran, US · 2 sources · Coverage: L 50% · C 0% · R 50%
+**World** · 3 sources · Coverage: L 34% · C 33% · R 33%
 
-- Gadi Eisenkot says Iran poses no immediate threat before a new government forms, as Netanyahu pushes back and Trump weighs renewed strikes on Tehran.
-- Gadi Eisenkot, a former military chief, has set Dec. 6 as the deadline to form a new Israeli government.
-- The Israeli prime minister, Benjamin Netanyahu, calls renewing strikes a matter of national security.
+- Andy Taylor, the original guitarist of the 1980s English new wave band Duran Duran, has died.
+- Andy Taylor, the original guitarist of the 1980s English new wave band Duran Duran, whose huge pop hits included “Hungry Like the Wolf,” “The Reflex” and “Rio” and were inextricably linked to the launch of MTV, has died.
+- Simon Le Bon and his other bandmates say Taylor "brought an indelible fire and swagger to our music".
 
 **Headlines by outlet:**
 
-- Fox News (Right): [Israel’s leading contender for prime minister clashes with Netanyahu over Iran strikes](https://www.foxnews.com/world/israels-leading-contender-prime-minister-clashes-netanyahu-over-iran-strikes)
-- New York Times (Lean Left): [Netanyahu Wants to Attack Iran. Does That Serve Israel or Him?](https://www.nytimes.com/2026/11/23/world/middleeast/netanyahu-israel-iran.html)
-- New York Times (Lean Left): [Opposition Makes Progress Toward Ousting Netanyahu, Party Leader Says](https://www.nytimes.com/2026/11/25/world/middleeast/opposition-makes-progress-toward-ousting-netanyahu-party-leader-says.html)
+- CBC News (Lean Left): [Andy Taylor, guitarist of new wave icons Duran Duran, dead at 65](https://www.cbc.ca/news/entertainment/duran-duran-guitarist-andy-taylor-dead-9.7436261?cmp=rss)
+- Breitbart (Right): [Andy Taylor, Guitarist of English New Wave Icons Duran Duran, Dies at 65](https://www.breitbart.com/entertainment/2026/11/26/andy-taylor-guitarist-of-english-new-wave-icons-duran-duran-dies-at-65/)
+- BBC News (Center): [Tributes for Duran Duran guitarist Andy Taylor after his death aged 65](https://www.bbc.co.uk/news/articles/cmp3vk6vr44po?at_medium=RSS&at_campaign=rss)
 
-## 20. Will weather ground Macy’s Thanksgiving Parade balloons? Official floats start time change
+## 11. Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one
+
+**World** · Spain · 3 sources · Coverage: L 33% · C 67% · R 0%
+
+- Authorities rescued 17 crew members but one later died in hospital after a diesel tanker sank off the Spanish island of Ibiza.
+- Aerial footage shows the capsized Maltese-flagged Med Emre chemical tanker off the Spanish island of Ibiza.
+- The possible environmental damage is still being assessed by Spain's sea rescue service.
+
+**Headlines by outlet:**
+
+- Deutsche Welle (Center): [Crew member dies after diesel tanker sinks off Ibiza coast](https://www.dw.com/en/crew-member-dies-after-diesel-tanker-sinks-off-ibiza-coast/a-80059054?maca=en-rss-en-top-1022-rdf)
+- BBC News (Center): [Diesel tanker carrying up to 7,000 tonnes capsizes near Ibiza, killing one](https://www.bbc.co.uk/news/articles/c9gklryvj24do?at_medium=RSS&at_campaign=rss)
+- Al Jazeera (Lean Left): [Diesel tanker capsizes near Ibiza, killing crew member](https://www.aljazeera.com/video/newsfeed/2026/11/26/aje-onl-nf_loaded-diesel-tanker-capsizes-off-ibiza-killing-one-261126?traffic_source=rss)
+
+## 12. Hamas political official and wife among eight Palestinians killed in Israeli strikes on Gaza
+
+**Conflict** · Gaza, Israel · 3 sources · Coverage: L 34% · C 33% · R 33%
+
+- His killing follows a series of Israeli strikes that have eliminated approximately 80 Hamas terrorists over the past month, according to the joint statement.
+- The killings are the latest from a series of near daily attacks by Israel against what it says are Hamas targets.
+- The second strike left four people dead, including two children.
+
+**Headlines by outlet:**
+
+- CBC News (Lean Left): [Israeli strike kills 2 senior Hamas officials](https://www.cbc.ca/news/world/gaza-hamas-israel-kills-two-hamas-officials-9.7435419?cmp=rss)
+- New York Post (Lean Right): [IDF kills senior Hamas terrorist Khaled Abu Nada in Gaza Strip](https://nypost.com/2026/11/26/world-news/senior-hamas-terrorist-khaled-abu-nada-killed-in-israel-strike-in-gaza-strip/)
+- BBC News (Center): [Hamas political official and wife among eight Palestinians killed in Israeli strikes on Gaza](https://www.bbc.co.uk/news/articles/cqvg2n4mzl1jo?at_medium=RSS&at_campaign=rss)
+
+## 13. EU leaders seek agreement on long-term budget and Ukraine at summit
+
+**Business** · EU, Ukraine, Italy · 2 sources · Coverage: L 50% · C 50% · R 0%
+
+- EU leaders have gathered to discuss the bloc's budget for 2028 to 2034.
+- The bloc is holding an extraordinary summit in Brussels to discuss its budget proposal for 2028 to 2034.
+- Amid competing demands, Hungary's Magyar has said he sees "zero chance" of a quick deal.
+
+**Headlines by outlet:**
+
+- Deutsche Welle (Center): [EU leaders seek agreement on long-term budget and Ukraine at summit](https://www.dw.com/en/eu-leaders-seek-agreement-on-long-term-budget-and-ukraine-at-summit/live-80056415?maca=en-rss-en-top-1022-rdf)
+- Al Jazeera (Lean Left): [EU leaders struggle to agree on long-term budget, more money for Ukraine](https://www.aljazeera.com/economy/2026/11/26/eu-leaders-struggle-to-agree-on-long-term-budget-more-money-for-ukraine?traffic_source=rss)
+
+## 14. 🔍 Kilmar Abrego Garcia arrives in Spain after self-deporting
+
+**Migration** · Spain, US · 3 sources · Coverage: L 0% · C 33% · R 67%
+
+**Blindspot for the Left:** covered mostly by right-leaning outlets.
+
+- Salvadoran migrant Kilmar Abrego Garcia, whose wrongful deportation became a flashpoint in the debate over President Trump's immigration crackdown, self-deported Tuesday, Sen. Chris Van Hollen (D-Md.) confirmed.
+- Salvadoran migrant Kilmar Abrego Garcia arrived in Spain on Wednesday, ending a long legal and political battle over his status that became a proxy debate for the Trump administration’s immigration agenda.
+- Abrego Garcia self-deported to Spain, Sen. Chris Van Hollen (D-Md.) confirmed Tuesday, after facing the threat of deportation to an African country.
+
+**Headlines by outlet:**
+
+- The Hill (Center): [Van Hollen: Abrego Garcia leaving US, 'will be safe' amid self-deportation reports](https://thehill.com/policy/international/6241572-kilmar-abrego-garcia-self-deports/)
+- New York Post (Lean Right): [Kilmar Abrego García lands in Spain after self-deporting, ending months-long battle with Trump administration](https://nypost.com/2026/11/25/world-news/kilmar-abrego-garcia-who-fought-being-mistakenly-sent-to-el-salvador-arrives-in-spain-after-self-deporting/)
+- The Hill (Center): [Kilmar Abrego Garcia arrives in Spain after self-deporting](https://thehill.com/policy/international/6242020-kilmar-abrego-garcia-self-deport-spain-arrival/)
+- Breitbart (Right): [Deported MS-13 Suspect Abrego Garcia Plans Speaking Tour in Europe](https://www.breitbart.com/immigration/2026/11/25/kilmar-abrego-garcia-speaking-tour-europe-self-deport/)
+
+## 15. USC Trojans marching band ousted from Rose Bowl game over ‘lewd phrase’ scandal
 
 **World** · 2 sources · Coverage: L 50% · C 0% · R 50%
 
-- This year’s Macy’s Thanksgiving Day Parade will be the 100th edition of the much-applauded public celebration but already early weather forecasts are casting doubt on whether or not it will go ahead fully as planned.
-- The Macy’s Thanksgiving Day Parade in New York City is once again facing its eternal foe: wind.
-- In the parade's early years, the helium-filled balloons weren’t packed up and stored for next year.
+- Students from the USC Marching Band who vandalized the UCLA campus will not be taking the field during Saturday's matchup at the Rose Bowl.
+- Members of the marching band were involved in a prank that removed letters from a sign on the Wasserman Football Center on rival UCLA’s campus to reveal the lewd phrase, according to students.
 
 **Headlines by outlet:**
 
-- The Independent (Lean Left): [Will weather ground Macy’s Thanksgiving Parade balloons? Official floats start time change](https://www.independent.co.uk/news/world/americas/macys-thanksgiving-parade-balloons-weather-start-time-b3091468.html)
-- Breitbart (Right): [Could Weather Cancel Macy’s 100th Thanksgiving Day Parade? It Has Happened Before](https://www.breitbart.com/environment/2026/11/25/could-weather-cancel-macys-100th-thanksgiving-day-parade-it-has-happened-before/)
-- The Independent (Lean Left): [Long-lost Macy’s parade balloon is back with ‘age spots’ after disappearing 95 years ago](https://www.independent.co.uk/news/world/americas/macys-thanksgiving-parade-balloons-hippo-floated-away-b3091681.html)
+- Breitbart (Right): [USC Marching Band Students Who Vandalized UCLA Campus Will Not Take the Field on Saturday](https://www.breitbart.com/sports/2026/11/26/usc-marching-band-students-who-vandalized-ucla-campus-will-not-take-the-field-on-saturday/)
+- The Independent (Lean Left): [USC Trojans marching band ousted from Rose Bowl game over ‘lewd phrase’ scandal](https://www.independent.co.uk/news/world/americas/usc-marching-band-banned-rose-bowl-ucla-prank-b3092355.html)
 
-## 21. Stephen A Smith Blasts Steelers for Stunning Aaron Rodgers Benching
+## 16. Trump, NATO chief urge Russia not to expand war in Ukraine
 
-**World** · 2 sources · Coverage: L 0% · C 50% · R 50%
+**Conflict** · US, Ukraine, Russia · 2 sources · Coverage: L 0% · C 50% · R 50%
 
-- Stephen A. Smith ripped the Pittsburgh Steelers' "insulting" decision to bench Aaron Rodgers for Mason Rudolph.
-- The Pittsburgh Steelers have decided to bench Aaron Rodgers for this week's game against the Denver Broncos.
-- Pittsburgh Steelers players are reportedly frustrated with head coach Mike McCarthy amid quarterback Aaron Rodgers' benching.
-
-**Headlines by outlet:**
-
-- Breitbart (Right): [Steelers Bench Aaron Rodgers in Shocking Move](https://www.breitbart.com/sports/2026/11/24/steelers-bench-aaron-rodgers-in-shocking-move/)
-- Newsweek (Center): [Stephen A Smith Blasts Steelers for Stunning Aaron Rodgers Benching](https://www.newsweek.com/sports/nfl/stephen-a-smith-blasts-steelers-for-stunning-aaron-rodgers-benching-12767745)
-- Newsweek (Center): [Steelers Players 'Upset' With Mike McCarthy Amid Aaron Rodgers' Benching](https://www.newsweek.com/sports/nfl/steelers-players-upset-with-mike-mccarthy-amid-aaron-rodgers-benching-12768249)
-
-## 22. Shapiro says Biden should've done more to rein in Netanyahu
-
-**Politics** · Israel, Gaza, US · 2 sources · Coverage: L 0% · C 50% · R 50%
-
-- Pennsylvania Gov. Josh Shapiro (D) said in a new interview that former President Biden should have put more effort into reining in Israeli Prime Minister Benjamin Netanyahu amid the war in Gaza.
-- Gov. Josh Shapiro (D-PA) is increasingly outlining a foreign policy vision he could take into a 2028 presidential campaign, criticizing both President Donald Trump and former President Joe Biden for failing to put enough pressure on Israeli Prime Minister Benjamin Netanyahu during the war in Gaza.
-- In an interview with the Wall Street Journal, Shapiro
+- President Donald Trump and NATO Secretary-General Mark Rutte said they had an “outstanding” meeting in Mar-a-Lago Wednesday night, saying in a joint statement that they discussed the importance of preventing further escalation of the war between Russia and Ukraine.
+- President Trump and NATO Secretary General Mark Rutte urged Russia not to expand its war with Ukraine, as peace talks between the countries have made little headway in recent weeks and as the conflict nears five years.
+- Trump and Rutte, following a meeting Wednesday at the president's Mar-a-Lago resort in Florida, released a joint statement...
 
 **Headlines by outlet:**
 
-- The Hill (Center): [Shapiro says Biden should've done more to rein in Netanyahu](https://thehill.com/homenews/campaign/6242554-shapiro-criticizes-biden-netanyahu/)
-- Washington Examiner (Lean Right): [Josh Shapiro criticizes Trump and Biden for failing to rein in Netanyahu as he builds up foreign policy bona fides](https://www.washingtonexaminer.com/news/campaigns/presidential/4815244/josh-shapiro-criticizes-trump-biden-netanyahu-foreign-policy/)
+- Washington Examiner (Lean Right): [Trump says he had ‘outstanding’ meeting with NATO chief over Iran, Russia wars](https://www.washingtonexaminer.com/news/white-house/4816225/trump-outstanding-meeting-nato-chief-iran-russia/)
+- The Hill (Center): [Trump, NATO chief urge Russia not to expand war in Ukraine](https://thehill.com/policy/international/6244695-donald-trump-mark-rutte-meeting-russia-ukraine-war/)
 
-## 23. Pope Francis' private diary reveals visions of the devil
+## 17. Breakfast chain Denny’s ruthlessly trolled over its bizarre defense of Nvidia’s Jensen Huang
 
-**Culture** · 4 sources · Coverage: L 50% · C 25% · R 25%
+**World** · 2 sources · Coverage: L 50% · C 0% · R 50%
 
-- Pope Francis' private diary reveals a two-year spiritual crisis from 2021, with the late pontiff writing he felt tempted by the devil and saw hell in 2018.
-- The book, "The Private Diary of Pope Francis," also shows the pope went through a deep spiritual crisis in 2021 and 2022.
-- Excerpts released by the Vatican reveal his mystical visions and turmoil over clergy sexual abuse.
-
-**Headlines by outlet:**
-
-- HuffPost (Left): [Pope Francis' Private Diary Describes A Profound Spiritual Crisis, Encounters With The Devil](https://www.huffpost.com/entry/vatican-pope-francis-diary_n_6b0593c5e4b0e97a940ab67a)
-- The Hill (Center): [Pope Francis' private diary reveals visions of the devil](https://thehill.com/policy/international/6240210-pope-francis-private-diary-reveals-visions-of-the-devil/)
-- New York Times (Lean Left): [Pope Francis Diary Excerpts Published in New Book](https://www.nytimes.com/2026/11/24/world/europe/pope-francis-diary.html)
-- Fox News (Right): [Vatican releases Pope Francis' private diary detailing spiritual crisis, encounters with the devil](https://www.foxnews.com/world/vatican-releases-pope-francis-private-diary-detailing-spiritual-crisis-encounters-devil)
-
-## 24. Russia's own figures show it has lost nearly 500,000 people in Ukraine war
-
-**Conflict** · Ukraine, Russia · 2 sources · Coverage: L 50% · C 50% · R 0%
-
-- BBC’s analysis of the records show 65 per cent of 18 to 24 year-olds who lost their lives in 2025 died in the war.
-- Vladimir Putin still demands huge concessions from Ukraine, but leaked data from his main stats agency suggests the losses are only getting worse with time, writes James C. Reynolds.
-- Leaked data reveal how the full-scale invasion of Ukraine has fundamentally changed mortality patterns in Russia.
+- The restaurant chain Denny's has broken its silence on the Jensen Huang controversy, announcing that a plaque dedicated to the Nvidia CEO will remain at one of its diners.
+- Restaurant chain mocked for defense of scandal-hit tech boss, who began his career as a dishwasher in one of its diners.
 
 **Headlines by outlet:**
 
-- BBC News (Center): [Russia's own figures show it has lost nearly 500,000 people in Ukraine war](https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss)
-- The Independent (Lean Left): [Ukraine-Russia war latest: Germany says Putin is ‘escalating on a massive scale and wants more than Ukraine’](https://www.independent.co.uk/news/world/europe/ukraine-russia-war-live-putin-zelensky-oil-refineries-casualties-map-b3091150.html)
-- The Independent (Lean Left): [The devastating scale of Putin’s war on Ukraine laid bare as leaked figures show 500,000 Russian soldiers dead](https://www.independent.co.uk/news/world/europe/russia-ukraine-war-trump-putin-troops-death-toll-b3091347.html)
+- Breitbart (Right): [Restaurant Chain Denny's Breaks Silence on Jensen Huang: Memorial Plaque Will Remain](https://www.breitbart.com/politics/2026/11/25/dennys-breaks-silence-jensen-huang-memorial-plaque-remain/)
+- The Independent (Lean Left): [Breakfast chain Denny’s ruthlessly trolled over its bizarre defense of Nvidia’s Jensen Huang](https://www.independent.co.uk/news/world/americas/dennys-jensen-huang-nvidia-plaque-b3092157.html)
 
-## 25. Watch: Flock of turkeys chases woman on Massachusetts pavement
+## 18. North Korean’s Kim Jong Un brazenly inspects nuclear weapons — and declares he’ll ‘never seek the approval of anyone’
 
-**World** · 2 sources · Coverage: L 50% · C 50% · R 0%
+**World** · North Korea, South Korea, US · 2 sources · Coverage: L 50% · C 0% · R 50%
 
-- The woman said she had to jump into a stranger's car to escape a flock of turkeys that chased her down the sidewalk.
-- A woman in Massachusetts was forced to leap into a stranger’s car after she was pursued by aggressive wild turkeys days before Thanksgiving .
-
-**Headlines by outlet:**
-
-- BBC News (Center): [Watch: Flock of turkeys chases woman on Massachusetts pavement](https://www.bbc.co.uk/news/videos/cknv4mq93gd2o?at_medium=RSS&at_campaign=rss)
-- The Independent (Lean Left): [Woman chased by turkeys days before Thanksgiving escapes by jumping into stranger’s car](https://www.independent.co.uk/tv/news/massachusetts-woman-turkey-chase-video-b3091676.html)
-
-## 26. 10 History-Making Miss Universe Moments As Jennifer Barreto Wins
-
-**World** · 2 sources · Coverage: L 50% · C 50% · R 0%
-
-- Jennifer Barreto became the sixth Puerto Rican woman to secure the Miss Universe crown.
-- Jennifer Barreto became the first married woman and mother to win Miss Universe after eligibility rules changed.
+- North Korean leader Kim Jong Un showed off his new arsenal of nuclear bombs on Thursday as he defiantly declared that his atomic weapons would never be reigned in by other countries.
+- Leader Kim Jong Un reportedly visited facilities that produce nuclear ingredients and called for building more nuclear weapons to cope with threats from the U.S. and South Korea.
 
 **Headlines by outlet:**
 
-- The Independent (Lean Left): [Meet Miss Universe 2026: Mom from Puerto Rico makes history after 20-year wait](https://www.independent.co.uk/news/world/americas/jennifer-barreto-miss-universe-2026-puerto-rico-wins-b3091524.html)
-- Newsweek (Center): [10 History-Making Miss Universe Moments As Jennifer Barreto Wins](https://www.newsweek.com/10-history-making-miss-universe-moments-as-jennifer-barreto-wins-12767486)
+- NPR (Lean Left): [North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture](https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump)
+- New York Post (Lean Right): [North Korean’s Kim Jong Un brazenly inspects nuclear weapons — and declares he’ll ‘never seek the approval of anyone’](https://nypost.com/2026/11/26/world-news/north-koreans-kim-jong-un-inspects-nuclear-weapons/)
 
-## 27. Swiss man is killed and a Brit gored in elephant rampage: UK tourists hid in tree stumps and climbed trees to stay alive during Cameroon hike
-
-**Conflict** · UK · 2 sources · Coverage: L 50% · C 0% · R 50%
-
-- A Swiss man has been killed and a British tourist was gored in an elephant rampage on the slopes of Mount Cameroon.
-- Survivors told how they hid in trees to escape a herd of rampaging elephants in Cameroon.
-
-**Headlines by outlet:**
-
-- The Independent (Lean Left): [Swiss tourist killed and British man injured after being charged by elephants on hiking trip](https://www.independent.co.uk/news/world/africa/british-tourist-gored-elephant-cameroon-b3091203.html)
-- Daily Mail (Lean Right): [Swiss man is killed and a Brit gored in elephant rampage: UK tourists hid in tree stumps and climbed trees to stay alive during Cameroon hike](https://www.dailymail.com/news/article-16317603/Swiss-man-killed-Brit-gored-elephant-rampage-UK-tourists-hid-tree-stumps-climbed-trees-stay-alive-Cameroon-safari.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
-
-## 28. 🔍 Trump Administration Pauses Joint Operations With Ecuador
+## 19. 🔍 U.S. army says detonation of bomb chemicals in Iowa a success despite toxic plume concerns
 
 **Conflict** · US · 2 sources · Coverage: L 100% · C 0% · R 0%
 
 **Blindspot for the Right:** covered mostly by left-leaning outlets.
 
-- Joint military efforts have been paused as the US investigates a lethal operation carried out by Ecuador.
-- The administration has halted military operations while it investigates an operation by Ecuadorean forces that killed an accused gang leader.
+- The U.S. Army intentionally blew up the nation's entire stockpile of lead azide, a chemical used to make explosives, saying the first checks show Wednesday's controlled detonation in Iowa didn't spread toxic dust to nearby homes and farms.
+- The vice president made the remarks the same day the Army carried out a controlled blast to destroy the near 5 tone stockpile in Middleton, promoting local concerns about the potential health hazard.
 
 **Headlines by outlet:**
 
-- New York Times (Lean Left): [Trump Administration Pauses Joint Operations With Ecuador](https://www.nytimes.com/2026/11/24/world/americas/ecuador-us-military-operations-trump.html)
-- Al Jazeera (Lean Left): [Ecuador and US review joint military operations, official says](https://www.aljazeera.com/news/2026/11/25/ecuador-and-us-review-joint-military-operations-official-says?traffic_source=rss)
+- CBC News (Lean Left): [U.S. army says detonation of bomb chemicals in Iowa a success despite toxic plume concerns](https://www.cbc.ca/news/world/us-army-detonation-lead-azide-iowa-9.7435246?cmp=rss)
+- The Independent (Lean Left): [Vance shredded for trying to blame Obama for Iowa’s toxic lead after detonation backlash](https://www.independent.co.uk/news/world/americas/us-politics/vance-obama-iowa-lead-explosion-azide-b3092309.html)
 
-## 29. 🔍 Iraq’s Prime Minister Aims to Wrest More Power From Kurdistan Region
+## 20. Thirteen dead as mine disaster highlights illegal hunt for gold
 
-**Politics** · Iraq, Iran · 2 sources · Coverage: L 100% · C 0% · R 0%
+**World** · Indonesia · 2 sources · Coverage: L 50% · C 50% · R 0%
+
+- Indonesian authorities say another 13 are missing in the illegal gold mine, which flooded on Monday.
+- Dozens of workers had been stuck inside the illegal gold mine since Monday, after its narrow shafts flooded.
+- Rescuers said they were losing hope that those still inside would be found alive.
+
+**Headlines by outlet:**
+
+- BBC News (Center): [Thirteen dead as mine disaster highlights illegal hunt for gold](https://www.bbc.co.uk/news/articles/cmde1zr0nlyro?at_medium=RSS&at_campaign=rss)
+- New York Times (Lean Left): [13 Dead and 13 Thought Trapped in Indonesian Mine After Heavy Rain](https://www.nytimes.com/2026/11/25/world/asia/indonesia-miners-trapped.html)
+
+## 21. FIFA says a cyberattack against it targeted a 'limited set of personal and business information'
+
+**Sports** · 2 sources · Coverage: L 50% · C 50% · R 0%
+
+- World football's governing body says the cyberattack targeted personal and business information.
+- FIFA was the victim of a cyberattack that saw hackers gain access to what soccer’s world governing body describes as a “limited set of personal and business information," it said Thursday.
+- They struck at a sensitive time for the under-fire organization and its president, Gianni Infantino.
+
+**Headlines by outlet:**
+
+- CBC News (Lean Left): [FIFA says it has been victim of a cyberattack accessing 'personal and business information'](https://www.cbc.ca/sports/soccer/fifa-cyberattack-9.7436802?cmp=rss)
+- Deutsche Welle (Center): [FIFA says a cyberattack against it targeted a 'limited set of personal and business information'](https://www.dw.com/en/fifa-says-a-cyberattack-against-it-targeted-a-limited-set-of-personal-and-business-information/a-80062660?maca=en-rss-en-top-1022-rdf)
+
+## 22. 🔍 Ebola cases reach 12,000 in Congo as second-largest outbreak on record grows
+
+**Health** · DR Congo · 2 sources · Coverage: L 100% · C 0% · R 0%
 
 **Blindspot for the Right:** covered mostly by left-leaning outlets.
 
-- Ali al-Zaidi, who just scored a symbolic victory against a powerful Iran-backed militia, has now moved to assert control over Kurdish border crossings and oil resources.
-- The ruling comes a day after Kurdish authorities accused Baghdad of an 'assault' on the region's constitutional rights.
+- The number of confirmed Ebola cases in Democratic Republic of Congo now exceeds 12,000, government data showed on Thursday, as responders continue to struggle to bring the second-largest outbreak on record under control.
+- As the fast-moving outbreak continues to spread in eastern Congo, fighting between rebels and the army is disrupting efforts to contain the spread of the disease.
 
 **Headlines by outlet:**
 
-- New York Times (Lean Left): [Iraq’s Prime Minister Aims to Wrest More Power From Kurdistan Region](https://www.nytimes.com/2026/11/24/world/middleeast/iraq-prime-minister-kurdistan-control.html)
-- Al Jazeera (Lean Left): [Iraq’s top court rules government can take over Kurdish borders, oil fields](https://www.aljazeera.com/news/2026/11/25/iraqs-top-court-rules-government-can-take-over-kurdish-borders-oil-fields?traffic_source=rss)
+- NPR (Lean Left): [Congo Ebola outbreak reaches 12,000 cases as some responders evacuate](https://www.npr.org/2026/11/26/g-s1-155957/congo-ebola-responders)
+- CBC News (Lean Left): [Ebola cases reach 12,000 in Congo as second-largest outbreak on record grows](https://www.cbc.ca/news/health/ebola-tops-12000-cases-outbreak-9.7436970?cmp=rss)
 
-## 30. Melania Trump says nine children reunited with families amid Russia-Ukraine war
+## 23. German boat dealer suspected of supplying Channel smuggling gangs, BBC finds
 
-**Politics** · Russia, US, Ukraine · 2 sources · Coverage: L 50% · C 50% · R 0%
+**Crime & Justice** · Germany, France · 2 sources · Coverage: L 0% · C 50% · R 50%
 
-- First lady Melania Trump said Wednesday that she has succeeded in reuniting nine children with their families amid Russia’s war against Ukraine.
-- The White House says Melania Trump has helped return a seventh group of Ukrainian and Russian children to their families
-- That marks a total of 43 children the first lady has helped return to their families since she became involved in August 2025.
+- A German boat dealer is suspected by European authorities of being one of the main suppliers to migrant smugglers operating in the English Channel.
+- Nearly a third of crossings in early 2026 allegedly involved boats or engines from the German man's firm.
+- Marvin Reuter is contesting extradition to France, where he could face smuggling, criminal conspiracy and involuntary manslaughter charges.
 
 **Headlines by outlet:**
 
-- The Independent (Lean Left): [Melania Trump reunites her seventh group of Ukrainian and Russian children with their families](https://www.independent.co.uk/news/world/americas/melania-trump-white-house-children-donald-trump-washington-b3091373.html)
-- The Hill (Center): [Melania Trump says nine children reunited with families amid Russia-Ukraine war](https://thehill.com/policy/international/6242437-melania-trump-reunites-children-russia-ukraine/)
+- BBC News (Center): [German boat dealer suspected of supplying Channel smuggling gangs, BBC finds](https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss)
+- BBC News (Center): [Watch: BBC confronts German man suspected of supplying migrant gangs with small boats](https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss)
+- Daily Mail (Lean Right): [Arrest warrant for German dinghy dealer 'supplying small-boat migrant smugglers'](https://www.dailymail.com/news/article-16323549/The-German-boat-dealer-supplying-migrant-smugglers-operating-English-Channel-equipment-linked-two-deadly-accident.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
 
-## 31. 🔍 Israeli high court signals that charges against Netanyahu will fail, suggests prosecutors make deals
+## 24. 🔍 Norse Atlantic airline suspends all flights, on brink of bankruptcy amid rising fuel costs
 
-**Crime & Justice** · Israel · 2 sources · Coverage: L 0% · C 0% · R 100%
+**World** · Iran · 2 sources · Coverage: L 0% · C 0% · R 100%
 
 **Blindspot for the Left:** covered mostly by right-leaning outlets.
 
-- Israel’s highest court is warning prosecutors that their yearslong campaign to convict Prime Minister Benjamin Netanyahu on bribery charges might be a wasted venture.
-- Israeli Defense Minister Israel Katz reacted to the hearing, calling for an end “to a trial born in sin.”
-- Justices summoned Attorney General Gali Baharav-Miara to the court on Wednesday, where they conveyed their prediction for the trial that began in 2020.
+- Norse Atlantic suspended flights on Thursday and plans to file for bankruptcy unless it urgently secures financing following Iran war fuel spikes.
+- Norse Atlantic suspended all flights as its board warned it may file for bankruptcy without urgent short-term financing, leaving PIA passengers stranded.
 
 **Headlines by outlet:**
 
-- New York Post (Lean Right): [Judges in Netanyahu’s corruption trial propose dropping charges against PM](https://nypost.com/2026/11/25/world-news/judges-in-netanyahus-trial-propose-dropping-charges/)
-- Washington Examiner (Lean Right): [Israeli high court signals that charges against Netanyahu will fail, suggests prosecutors make deals](https://www.washingtonexaminer.com/news/world/4815056/israel-high-court-charges-netanyahu-fail/)
+- New York Post (Lean Right): [European budget airline suspends flights amid ‘critical’ finances, plans for bankruptcy](https://nypost.com/2026/11/26/lifestyle/european-budget-airline-suspends-flights-amid-plans-for-bankruptcy/)
+- Fox News (Right): [Norse Atlantic airline suspends all flights, on brink of bankruptcy amid rising fuel costs](https://www.foxnews.com/world/norse-atlantic-airlines-suspends-all-flights-brink-bankruptcy-amid-rising-fuel-costs)
 
-## 32. 🔍 Martha Firestone Ford, former Detroit Lions owner and member of auto giant family, dead at 101
+## 25. 2 Libyan naval officers die of wounds from Ukrainian drone attack on Russian warship
 
-**World** · 2 sources · Coverage: L 100% · C 0% · R 0%
+**Conflict** · Libya, Ukraine, Russia · 4 sources · Coverage: L 50% · C 0% · R 50%
+
+- The Libyan National Army mourns two soldiers who died Tuesday from a Ukrainian drone strike on a Russian warship in Benghazi, vowing retaliation.
+- The attack on Zaporizhzhia comes as authorities debate the legitimacy of a Ukrainian strike on a Russian warship docked in Libya’s Benghazi.
+- They were wounded in the Sunday drone attack at the Benghazi Naval Base, the self-styled Libyan National Army said.
+
+**Headlines by outlet:**
+
+- HuffPost (Left): [Russian Strike On Ukraine Kills 2 And Wounds 48, Including Children](https://www.huffpost.com/entry/russian-strike-ukraine-zaporizhzhia-kills-2_n_6b05d2c7e4b01d8bd1d8b2bf)
+- New York Post (Lean Right): [2 Libyan naval officers die of wounds from Ukrainian drone attack on Russian warship](https://nypost.com/2026/11/25/world-news/2-libyan-naval-officers-die-of-wounds-from-ukrainian-drone-attack-on-russian-warship/)
+- Fox News (Right): [Libyans pledge to retaliate after Ukraine strikes Russian warship near Benghazi, killing 2 soldiers](https://www.foxnews.com/world/libyans-pledge-retaliate-ukraine-strikes-russian-warship-benghazi-killing-2-soldiers)
+- HuffPost (Left): [Two Libyan Naval Officers Die Of Wounds From Ukrainian Drone Attack](https://www.huffpost.com/entry/libyan-naval-officers-die-ukrainian-attack-russia_n_6b0717f3e4b01a3571b9d70f)
+- New York Times (Lean Left): [Libyan Forces Threaten Retaliation Over Ukraine’s Attack on Russian Ships](https://www.nytimes.com/2026/11/25/world/middleeast/libya-ukraine-russia-haftar.html)
+
+## 26. Myanmar refuses to comply with parts of ICJ genocide ruling
+
+**Crime & Justice** · Myanmar · 2 sources · Coverage: L 50% · C 50% · R 0%
+
+- A landmark ruling by the International Court of Justice (ICJ) convicted Myanmar of genocide against its Rohingya minority.
+- Myanmar's leader has said his government will not ‌comply with all measures ordered by a top international court after it was found guilty of committing genocide against the Rohingya minority.
+
+**Headlines by outlet:**
+
+- BBC News (Center): [Myanmar refuses to comply with parts of ICJ genocide ruling](https://www.bbc.co.uk/news/articles/c61wr87wyg5wo?at_medium=RSS&at_campaign=rss)
+- Sky News (Lean Left): [Myanmar says it will not comply with 'inappropriate' ICJ genocide orders](https://news.sky.com/story/myanmar-says-it-will-not-comply-with-inappropriate-icj-genocide-orders-13616762)
+
+## 27. 🔍 Houthi Attack on Skyscraper in Saudi Capital Wounds 11, Officials Say
+
+**Conflict** · Saudi Arabia, Yemen, Iran · 2 sources · Coverage: L 100% · C 0% · R 0%
 
 **Blindspot for the Right:** covered mostly by left-leaning outlets.
 
-- Former Detroit Lions owner Martha Firestone Ford has died
-- Martha Firestone Ford, the tire heiress who became a link between two of the automotive industry's most iconic families and later took over the NFL's Detroit Lions, has died at 101.
+- The people were wounded in the strike on a building in Riyadh, the Saudi authorities said.
+- The Iran-backed militia and Saudi Arabia have been exchanging escalating attacks for weeks.
+- The Kingdom continues to endure regular strikes as the emboldened Houthis close in on Aden in Yemen.
 
 **Headlines by outlet:**
 
-- The Independent (Lean Left): [Martha Firestone Ford: Ex-Detroit Lions owner dies aged 101](https://www.independent.co.uk/news/world/americas/martha-firestone-ford-dead-detroit-lions-tire-heiress-b3091610.html)
-- CBC News (Lean Left): [Martha Firestone Ford, former Detroit Lions owner and member of auto giant family, dead at 101](https://www.cbc.ca/news/canada/windsor/martha-ford-nfl-obit-9.7435464?cmp=rss)
+- New York Times (Lean Left): [Houthi Attack on Skyscraper in Saudi Capital Wounds 11, Officials Say](https://www.nytimes.com/2026/11/24/world/middleeast/saudi-skyscraper-houthi-strike.html)
+- The Independent (Lean Left): [How Houthi attacks are causing chaos in Saudi Arabia as Kingdom postpones another major conference](https://www.independent.co.uk/news/world/middle-east/houthi-attacks-saudi-arabia-conference-war-b3091966.html)
 
-## 33. British asset manager fell 200ft to his death after trying to retrieve his phone while skiing off piste in French Alps
+## 28. A renovation was meant to improve these Hong Kong homes - it ended in a blaze that killed 168
 
-**World** · France, UK · 2 sources · Coverage: L 50% · C 0% · R 50%
+**Conflict** · China · 2 sources · Coverage: L 0% · C 50% · R 50%
+
+- The blaze engulfed seven high-rise buildings in Wang Fuk Court on Nov. 26, 2025, killing 168 people and displacing thousands of others in a disaster unimaginable in the wealthy financial hub known for its safety and modernity.
+- A year after one of Hong Kong's deadliest fires, families left behind are still waiting for justice.
+
+**Headlines by outlet:**
+
+- BBC News (Center): [A renovation was meant to improve these Hong Kong homes - it ended in a blaze that killed 168](https://www.bbc.co.uk/news/articles/cqx2wrkyrdn8o?at_medium=RSS&at_campaign=rss)
+- New York Post (Lean Right): [Hong Kong marks anniversary high-rise blaze that killed 168, city’s deadliest fire in decades](https://nypost.com/2026/11/26/world-news/hong-kong-marks-anniversary-high-rise-blaze-that-killed-168-in-wang-fuk-court/)
+
+## 29. FedEx plane overshoots runway at Miami airport on Thanksgiving eve
+
+**World** · US · 2 sources · Coverage: L 50% · C 50% · R 0%
+
+- A FedEx plane from Memphis ran past the end of a runway at Miami airport, shutting most runways and causing delays of several hours on the eve of the US holiday.
+- There were no reports of injuries after the plane ran off the runway at about 8:40 p.m.
+- By early Thursday, the Federal Aviation Administration was reporting hourslong flight delays.
+
+**Headlines by outlet:**
+
+- Deutsche Welle (Center): [FedEx plane overshoots runway at Miami airport on Thanksgiving eve](https://www.dw.com/en/fedex-plane-overshoots-runway-at-miami-airport-on-thanksgiving-eve/a-80056541?maca=en-rss-en-top-1022-rdf)
+- CBC News (Lean Left): [FedEx airplane overruns runway at Miami airport, temporarily closing all but 1 runway](https://www.cbc.ca/news/world/fedex-plane-miami-overrun-runway-9.7436760?cmp=rss)
+
+## 30. Musk's plan to send a million SpaceX data satellites into space approved
+
+**Tech** · US · 2 sources · Coverage: L 50% · C 50% · R 0%
+
+- The US' Federal Communications Commission is authorising SpaceX to send a million satellites for data centres in space, the agency said.
+- The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.
+
+**Headlines by outlet:**
+
+- Sky News (Lean Left): [US authorises SpaceX to deploy one million satellites to space](https://news.sky.com/story/us-authorises-elon-musks-spacex-to-deploy-one-million-satellites-to-space-13616493)
+- BBC News (Center): [Musk's plan to send a million SpaceX data satellites into space approved](https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss)
+
+## 31. 🔍 Spain’s Canary Islands swamped by record 2,100 migrants in just 24 hours
+
+**Migration** · Spain · 2 sources · Coverage: L 0% · C 0% · R 100%
+
+**Blindspot for the Left:** covered mostly by right-leaning outlets.
+
+- The local government of the Spanish Canary Islands declared a state of sanitary, social, and security emergency Wednesday while pleading for help after the shocking arrival of thousands of illegal migrants at the tourist hotspot in recent days.
+- Arrivals so far this year had climbed to 28,103 as of late November, more than last year's total but still well below an all-time high of 46,843 recorded in 2024.
+
+**Headlines by outlet:**
+
+- New York Post (Lean Right): [Spain’s Canary Islands swamped by record 2,100 migrants in just 24 hours](https://nypost.com/2026/11/25/world-news/spains-canary-islands-swamped-by-record-2100-migrants-in-just-24-hours/)
+- Breitbart (Right): [Canary Islands Govt. Declares Emergency After 15,000+ Illegals Invade in November](https://www.breitbart.com/europe/2026/11/26/canary-islands-govt-declares-emergency-after-15000-migrants-arrive-in-november/)
+
+## 32. Kushner calls Putin 'grandmaster of politics'
+
+**Politics** · Russia, US, Ukraine · 2 sources · Coverage: L 50% · C 50% · R 0%
+
+- U.S. special envoy Jared Kushner, President Trump’s son-in-law, called Russian President Vladimir Putin a “grandmaster of politics” following U.S.-backed trilateral peace talks that have yielded little progress.
+- But he's definitely a grandmaster of politics,” Kushner said...
+- Trump’s peace envoy also accused European countries of having ‘no plan’ to end the war in Ukraine.
+
+**Headlines by outlet:**
+
+- The Hill (Center): [Kushner calls Putin 'grandmaster of politics'](https://thehill.com/policy/international/6244109-kushner-calls-putin-grandmaster/)
+- The Independent (Lean Left): [Kushner accused of being Putin’s spokesman after praising ‘political grandmaster’](https://www.independent.co.uk/news/world/europe/kushner-putin-witkoff-ukraine-war-b3091967.html)
+
+## 33. 🔍 IN PHOTOS | King tides hit California
+
+**World** · US · 2 sources · Coverage: L 100% · C 0% · R 0%
+
+**Blindspot for the Right:** covered mostly by left-leaning outlets.
+
+- Potentially record-breaking king tides, combined with elevated surf and a large Pacific swell are bringing coastal flooding to Southern California during U.S. Thanksgiving week, with the greatest impacts anticipated Wednesday and Thursday.
+- The Environmental Protection Agency said sea level rise will make current king tides become the future’s everyday tides.
+
+**Headlines by outlet:**
+
+- CBC News (Lean Left): [IN PHOTOS | King tides hit California](https://www.cbc.ca/news/science/photos/in-photos-king-tides-hit-california-9.7436078?cmp=rss)
+- The Independent (Lean Left): [King tides are flooding coastal communities. But what are they?](https://www.independent.co.uk/news/world/americas/king-tides-el-nino-california-b3091943.html)
+
+## 34. 🔍 British asset manager fell 200ft to his death after trying to retrieve his phone while skiing off piste in French Alps
+
+**World** · France, UK · 2 sources · Coverage: L 0% · C 0% · R 100%
+
+**Blindspot for the Left:** covered mostly by right-leaning outlets.
 
 - Joshua Henry Miles Davies (pictured) slipped down a 'rocky and jagged' area after dropping his mobile in Villaroger in the Savoie department in the Auvergne-Rhône-Alpes in south eastern France.
-- Joshua Davies was on a trip with four school friends when the accident occurred, an inquest heard.
+- The slope he was on was known as a "couloir," a "gully-type corridor" without much snow, the coroner said.
 
 **Headlines by outlet:**
 
 - Daily Mail (Lean Right): [British asset manager fell 200ft to his death after trying to retrieve his phone while skiing off piste in French Alps](https://www.dailymail.com/news/article-16318071/British-asset-manager-fell-200ft-death-retrieve-phone-skiing-piste-French-Alps.html?ns_mchannel=rss&ns_campaign=1490&ito=1490)
-- The Independent (Lean Left): [Brit, 25, fell 200ft to his death while trying to retrieve phone in French Alps](https://www.independent.co.uk/news/world/europe/joshua-davies-french-alps-inquest-b3091460.html)
+- New York Post (Lean Right): [Experienced skier falls 200 feet to death in French Alps after trying to retrieve dropped phone](https://nypost.com/2026/11/25/world-news/skier-falls-to-death-in-french-alps-after-dropping-phone/)
 
-## 34. 🔍 Eurostar trains cancelled and delayed over 'unannounced strike action'
+## 35. 🔍 Iran to execute 2 protesters at dawn after torture, forced confessions
 
-**Conflict** · 2 sources · Coverage: L 100% · C 0% · R 0%
+**Human Rights** · Iran · 2 sources · Coverage: L 0% · C 0% · R 100%
 
-**Blindspot for the Right:** covered mostly by left-leaning outlets.
+**Blindspot for the Left:** covered mostly by right-leaning outlets.
 
-- Several Eurostar trains have been cancelled or delayed due to "unannounced strike action", the company said.
-- Eurostar is advising travelers to postpone their journeys.
+- Iran Human Rights urges UN intervention as two political prisoners await execution at Ghezel Hesar Prison in Iran's high-profile "Ekbatan case."
+- Milad Armoun, 27, and Navid Najaran, 34, are scheduled to be executed in the early hours of Wednesday, Nov. 25, according to Iran Human Rights (IHRNGO).
 
 **Headlines by outlet:**
 
-- Sky News (Lean Left): [Eurostar trains cancelled and delayed over 'unannounced strike action'](https://news.sky.com/story/eurostar-trains-cancelled-and-delayed-over-unannounced-strike-action-13616317)
-- The Independent (Lean Left): [Eurostar services between London and Paris cancelled after unannounced strike](https://www.independent.co.uk/travel/news-and-advice/eurostar-unannounced-rail-strike-london-paris-trains-b3091529.html)
+- Fox News (Right): [Iran to execute 2 anti-regime protesters at dawn after 3 days in death row holding cells](https://www.foxnews.com/world/iran-execute-2-anti-regime-protesters-dawn-3-days-death-row-holding-cells)
+- New York Post (Lean Right): [Iran to execute 2 protesters at dawn after torture, forced confessions](https://nypost.com/2026/11/25/world-news/iran-to-execute-2-protesters-at-dawn-after-torture-forced-confessions/)
 
-## 35. 🔍 NATO fighter jet cleared to shoot down Russian missile over Poland as Warsaw pushes for US troops
+## 36. North Korea Kicks Out Swiss Diplomats in Spat Linked to Ukraine War
+
+**Conflict** · North Korea, Ukraine, Russia · 2 sources · Coverage: L 50% · C 0% · R 50%
+
+- North Korea on Wednesday gave Astier Sylvain, the senior diplomat from Switzerland, 48 hours to leave the country and ordered the Swiss office in Pyongyang shuttered in retaliation for Switzerland imposing sanctions on a North Korean youth camp linked to Russian war crimes in Ukraine.
+- The move followed Switzerland’s decision to impose sanctions on an international youth camp in North Korea, which is accused of hosting Ukrainian children for indoctrination.
+
+**Headlines by outlet:**
+
+- New York Times (Lean Left): [North Korea Kicks Out Swiss Diplomats in Spat Linked to Ukraine War](https://www.nytimes.com/2026/11/25/world/asia/north-korea-switzerland-diplomats.html)
+- Breitbart (Right): [North Korea Boots Swiss Ambassador in Retaliation for Sanctions](https://www.breitbart.com/asia/2026/11/25/north-korea-boots-swiss-ambassador-in-retaliation-for-sanctions/)
+
+## 37. Hegseth considered using wartime law to force Nvidia to reinstate scandal-struck CEO: report
+
+**World** · US · 1 source · Coverage: L 100% · C 0% · R 0%
+
+- Defense Secretary entertained the idea of using the Defense Production Act of 1950 to compel chipmaker to restore scandal-hit CEO on national security grounds, according to the Washington Post.
+- Secretary of State Marco Rubio has reportedly expressed concerns in private about Jensen Huang’s return to chipmaker, CBS News reports.
+- The Pentagon has denied the claims.
+
+**Headlines by outlet:**
+
+- The Independent (Lean Left): [Hegseth considered using wartime law to force Nvidia to reinstate scandal-struck CEO: report](https://www.independent.co.uk/news/world/americas/us-politics/pete-hegseth-jensen-huang-nvidia-b3092097.html)
+- The Independent (Lean Left): [Rubio angry after Nvidia CEO reinstated despite warning Trump officials about security risk: report](https://www.independent.co.uk/news/world/americas/us-politics/marco-rubio-jensen-huang-nvidia-b3092316.html)
+
+## 38. Lured by High Salaries, Some Brazilians Were Duped Into Fighting for Russia
+
+**World** · Russia · 1 source · Coverage: L 100% · C 0% · R 0%
+
+- Dozens of Brazilians have joined the Russian army, some say lured by a pair of recruiters promising money and adventure.
+- Dozens of Brazilians were sent to the front lines with little training, and the high salaries they were promised, they say, turned out to be illusory.
+
+**Headlines by outlet:**
+
+- New York Times (Lean Left): [Lured by High Salaries, Some Brazilians Were Duped Into Fighting for Russia](https://www.nytimes.com/2026/11/26/world/americas/brazil-recruiting-russia-army.html)
+- New York Times (Lean Left): [Brazilian Duped Into Fighting for Russia: ‘War Is Hell’](https://www.nytimes.com/2026/11/26/world/americas/brazil-soldier-ukraine-war.html)
+
+## 39. Exclusive– Matthew Everhard: Thanksgiving for Christians All About Gratefulness to God for Who He Is, His Son Jesus, and What He Has Done
+
+**World** · US · 1 source · Coverage: L 0% · C 0% · R 100%
+
+- Thanksgiving for modern-day Christians is all about expressing gratitude to God for who He is, His Son Jesus, and what He has done for us, Matthew Everhard, Professor at Reformed Presbyterian Theological Seminary, said during an appearance on Breitbart News Daily.
+- The Puritans were "adventurers who loved the Lord," Matthew Everhard, professor at Reformed Presbyterian Theological Seminary, said during an appearance on Breitbart News Daily.
+
+**Headlines by outlet:**
+
+- Breitbart (Right): [Exclusive — Matthew Everhard Hits Back Against Anti-Christian Bias During Thanksgiving Season: Puritans Were 'Adventurers Who Loved the Lord'](https://www.breitbart.com/politics/2026/11/25/exclusive-matthew-everhard-hits-back-against-anti-christian-bias-during-thanksgiving-season-puritans-were-adventurers-who-loved-the-lord/)
+- Breitbart (Right): [Exclusive– Matthew Everhard: Thanksgiving for Christians All About Gratefulness to God for Who He Is, His Son Jesus, and What He Has Done](https://www.breitbart.com/politics/2026/11/26/matthew-everhard-thanksgiving-christians-gratefulness-god/)
+
+## 40. 🔍 NATO fighter jet cleared to shoot down Russian missile over Poland as Warsaw pushes for US troops
 
 **Conflict** · Poland, Russia, US · 2 sources · Coverage: L 0% · C 0% · R 100%
 
@@ -543,245 +573,175 @@ Ranked by how widely each story was covered. Bias ratings: AllSides (outlet leve
 - Fox News (Right): [NATO fighter jet cleared to shoot down Russian missile over Poland as Warsaw pushes for US troops](https://www.foxnews.com/world/nato-jet-cleared-shoot-russian-missile-poland-warsaw-pushes-us-troops)
 - New York Post (Lean Right): [NATO fighter jet cleared to shoot down Russian missile over Poland as Warsaw pushes for US troops](https://nypost.com/2026/11/25/world-news/poland-pushes-for-us-troops-stationed-in-nato-country-after-russian-missile-incursion/)
 
-## 36. 🔍 China investigates Politburo member and Shanghai party chief Chen Jining
+## 41. Two Albanian nationals charged over break-in at Prince William and Kate Middleton’s estate
 
-**Politics** · China · 2 sources · Coverage: L 100% · C 0% · R 0%
+**Crime & Justice** · UK · 2 sources · Coverage: L 50% · C 0% · R 50%
 
-**Blindspot for the Right:** covered mostly by left-leaning outlets.
-
-- Before his abrupt downfall, the technocratic Chen Jining was seen as a future national leader in Xi Jinping’s China.
-- The Politburo member is the latest senior official targeted in President Xi Jinping's long-running anti-corruption campaign, which has shown no signs of letting up in scope or depth.
+- Two intruders have been charged over the break-in that happened at Prince William and Kate Middleton's home on the royals' Sandringham estate, UK police confirmed Wednesday.
+- Prosecutors said the two men, who appeared in court on Wednesday, had climbed a drainpipe to break into the royals’ country retreat in Norfolk.
 
 **Headlines by outlet:**
 
-- New York Times (Lean Left): [China Investigates Chen Jining, Shanghai’s Party Leader, as Xi’s Purges Expand](https://www.nytimes.com/2026/11/24/world/asia/shanghai-party-leader-investigation-china-xi.html)
-- NPR (Lean Left): [China investigates Politburo member and Shanghai party chief Chen Jining](https://www.npr.org/2026/11/25/nx-s1-6053801/china-investigation-politburo-shanghai-party)
+- New York Post (Lean Right): [Two Albanian nationals charged over break-in at Prince William and Kate Middleton’s estate](https://nypost.com/2026/11/25/world-news/two-intruders-charged-over-break-in-at-prince-william-and-kate-middletons-estate/)
+- New York Times (Lean Left): [2 Men Charged After Break-In at Prince William and Kate’s Country Home](https://www.nytimes.com/2026/11/25/world/europe/prince-william-kate-home-break-in-charged.html)
 
-## 37. Two children among six dead after plane crash off Mississippi coast
-
-**World** · US · 2 sources · Coverage: L 50% · C 50% · R 0%
-
-- Divers have found the bodies of six people, including two children, after a plane crashed off the coast of Mississippi on Tuesday, according to the US Coast Guard.
-- Divers found the bodies of four adults and two boys, aged 8 and 10, in the fuselage, the US Coast Guard said.
-
-**Headlines by outlet:**
-
-- Sky News (Lean Left): [Two children among six dead in plane crash](https://news.sky.com/story/divers-find-bodies-of-six-people-including-two-children-after-us-plane-crash-13616273)
-- BBC News (Center): [Two children among six dead after plane crash off Mississippi coast](https://www.bbc.co.uk/news/articles/c6z74l1017zpo?at_medium=RSS&at_campaign=rss)
-
-## 38. 🔍 Israel raises prospect of preemptive strike over emerging Iranian chemical weapons threat
-
-**Conflict** · Israel, Iran, US · 2 sources · Coverage: L 0% · C 0% · R 100%
-
-**Blindspot for the Left:** covered mostly by right-leaning outlets.
-
-- Israel Katz says Israel and the U.S. hold intelligence on Iran's alleged chemical weapons program, warning a preemptive strike remains possible.
-- Israeli Defense Minister Israel Katz warned Tuesday that Iran is developing chemical weapons in an effort to restore its military deterrence, vowing that Israel would prevent Tehran from acquiring the capability and revealing that the American and Israeli militaries have drawn up plans for potential renewed strikes.
-
-**Headlines by outlet:**
-
-- Fox News (Right): [Israel raises prospect of preemptive strike over emerging Iranian chemical weapons threat](https://www.foxnews.com/world/israel-raises-prospect-preemptive-strike-emerging-iranian-chemical-weapons-threat)
-- Breitbart (Right): [Israeli Defense Minister Warns Iran Developing Chemical Weapons as ‘Game-Changer’ — Israel Won’t Allow It](https://www.breitbart.com/politics/2026/11/24/israeli-defense-minister-warns-iran-developing-chemical-weapons-as-game-changer-israel-wont-allow-it/)
-
-## 39. 🔍 FA chair had to sign NDA to view FIFA documents on World Cup sell-off
-
-**Sports** · 2 sources · Coverage: L 100% · C 0% · R 0%
-
-**Blindspot for the Right:** covered mostly by left-leaning outlets.
-
-- Football Association chair Debbie Hewitt has now viewed some FIFA documents on the World Cup sell-off but had to sign a nondisclosure agreement, Sky News has learned.
-- Gianni Infantino's failed private equity plan that provoked the biggest crisis of his FIFA presidency intended to sell stakes in the World Cup for 96 years.
-
-**Headlines by outlet:**
-
-- Sky News (Lean Left): [FA chair had to sign NDA to view FIFA documents on World Cup sell-off](https://news.sky.com/story/fa-chair-had-to-sign-nda-to-view-fifa-documents-on-world-cup-sell-off-13615958)
-- CBC News (Lean Left): [Leaked FIFA documents show president Infantino's 96-year private equity plan for World Cup](https://www.cbc.ca/sports/soccer/fifa-private-equity-plan-leaked-documents-infantino-9.7434682?cmp=rss)
-
-## 40. Pentagon prepared to 'up the ante' in defence dispute with Canada
-
-**Conflict** · Canada, US · 2 sources · Coverage: L 50% · C 0% · R 50%
-
-- The Pentagon accused Canada on Monday of failing to modernize its military and meet its commitments to NATO.
-- The Pentagon is threatening further, unspecified measures against Canada unless Ottawa prioritizes continental defence in its military buildup.
-- Defence Minister David McGuinty pushed back, while experts suggested the dispute extends well beyond military spending commitments.
-
-**Headlines by outlet:**
-
-- Breitbart (Right): [Pentagon Scolds Canada: ‘Get Serious'](https://www.breitbart.com/national-security/2026/11/24/pentagon-scolds-canada-get-serious/)
-- CBC News (Lean Left): [Pentagon prepared to 'up the ante' in defence dispute with Canada](https://www.cbc.ca/news/politics/defence-canada-us-pentagon-spending-9.7434887?cmp=rss)
-
-## 41. Vanity Fair's Taylor Swift exposé sparks backlash
-
-**World** · Canada · 2 sources · Coverage: L 50% · C 0% · R 50%
-
-- Why does "Vanity Fair" angle an article as a hit piece when even the worst behavior it alleges about Taylor Swift makes her look awesome?
-- The piece, which Canadian journalist May Jeong says drew from interviews with more than 100 people, rests some of its claims on anonymous accounts and memories of events from decades ago.
-- And critics have questioned what the article establishes — and what it asks readers to infer.
-
-**Headlines by outlet:**
-
-- Breitbart (Right): [Nolte: Mean Girls at ‘Vanity Fair’ Rip Taylor Swift for Political Reasons](https://www.breitbart.com/the-media/2026/11/24/nolte-mean-girls-vanity-fair-rip-taylor-swift-political-reasons/)
-- CBC News (Lean Left): [Vanity Fair's Taylor Swift exposé sparks backlash](https://www.cbc.ca/news/entertainment/taylor-swift-vanity-fair-criticism-backlash-9.7434367?cmp=rss)
-
-## 42. Gas up 56 cents from last year ahead of Thanksgiving: AAA
-
-**World** · US · 2 sources · Coverage: L 0% · C 50% · R 50%
-
-- The price of gas is up by an average of $0.56 per gallon from a year ago as people travel for Thanksgiving later this week, according to AAA.
-- The average price of a regular gallon of gas in the U.S. was at about $3.61 on Tuesday afternoon, according to AAA.
-- More than 81.5 million Americans are projected to travel for Thanksgiving — on par with last year's number and more than in all four years of Joe Biden's presidency combined — as gas prices drop.
-
-**Headlines by outlet:**
-
-- The Hill (Center): [Gas up 56 cents from last year ahead of Thanksgiving: AAA](https://thehill.com/business/6241030-gas-prices-up-thanksgiving/)
-- Breitbart (Right): [81.5 Million Americans Set to Travel for Thanksgiving as Gas Prices Drop](https://www.breitbart.com/economy/2026/11/24/81-5-million-americans-set-to-travel-for-thanksgiving-as-gas-prices-drop/)
-
-## 43. Canadian astronaut welcomes baby girl from space station
-
-**Science** · Canada, China · 1 source · Coverage: L 0% · C 100% · R 0%
-
-- Joshua Kutryk, currently on his first space mission, is just the fourth astronaut in history to miss the birth of a child while aboard the International Space Station.
-- China launched its Shenzhou-24 space mission to bring three astronauts to its Tiangong space station.
-
-**Headlines by outlet:**
-
-- BBC News (Center): [Moment Chinese space mission lifts off with first Pakistan astronaut aboard](https://www.bbc.co.uk/news/videos/cmz74l0yzzvyo?at_medium=RSS&at_campaign=rss)
-- BBC News (Center): [Canadian astronaut welcomes baby girl from space station](https://www.bbc.co.uk/news/articles/ckx283y8wwwgo?at_medium=RSS&at_campaign=rss)
-
-## 44. More Americans Are Taking the Train Than Ever Before
-
-**World** · US · 1 source · Coverage: L 0% · C 100% · R 0%
-
-- Amtrak has recorded 37.1 million passenger trips, with higher fuel prices and new trains helping drive demand for rail travel.
-
-**Source:** [Newsweek](https://www.newsweek.com/amtrak-train-travel-record-ridership-us-12768106) (Center)
-
-## 45. Woman Feels Exhausted and Weak During Workouts, Then Comes Diagnosis
-
-**World** · 1 source · Coverage: L 0% · C 100% · R 0%
-
-- Tatiana Yasmin Cole told Newsweek the first signs emerged during a Pilates class around eight years ago.
-
-**Source:** [Newsweek](https://www.newsweek.com/woman-feels-exhausted-weak-during-workouts-diagnosis-12766269) (Center)
-
-## 46. Questions swirl over above-market purchase of Republican’s DC home
-
-**Business** · 1 source · Coverage: L 100% · C 0% · R 0%
-
-- Stefanik’s Capitol Hill home sold for more than $910,000 over the original asking price.
-
-**Source:** [The Independent](https://www.independent.co.uk/news/world/americas/us-politics/elise-stefanik-dc-home-sale-b3091670.html) (Lean Left)
-
-## 47. Deal Signed to Sell Lukoil’s Foreign Assets, but Without Envoys’ Business Associates
-
-**Business** · Russia, US · 1 source · Coverage: L 100% · C 0% · R 0%
-
-- But Middle Eastern business contacts of the peace negotiators Steve Witkoff and Jared Kushner are no longer part of the buyer group.
-- Valuable properties belonging to the Russian energy giant will be sold to an American-led consortium.
-
-**Source:** [New York Times](https://www.nytimes.com/2026/11/25/us/politics/lukoil-deal.html) (Lean Left)
-
-## 48. Remember when NASA slammed a spacecraft into an asteroid? We now have close-up images of the aftermath
-
-**Science** · 1 source · Coverage: L 100% · C 0% · R 0%
-
-- Four years after NASA slammed a spacecraft into an asteroid to see if it could successfully alter its orbit around a larger companion, the European Space Agency's Hera spacecraft has arrived to see just how well that went.
-
-**Source:** [CBC News](https://www.cbc.ca/news/science/esa-hera-mission-dimorphos-didymos-9.7435354?cmp=rss) (Lean Left)
-
-## 49. Chiefs Make Kenneth Walker Decision for Thanksgiving Clash With Bills
-
-**World** · 1 source · Coverage: L 0% · C 100% · R 0%
-
-- The Chiefs decided on running back Kenneth Walker's playing status ahead of their Thanksgiving game against the Bills.
-
-**Source:** [Newsweek](https://www.newsweek.com/sports/nfl/chiefs-make-kenneth-walker-decision-for-thanksgiving-clash-with-bills-12768085) (Center)
-
-## 50. Boy in wheelchair and family rescued from alligator-infested floodwaters surrounding home
-
-**World** · 1 source · Coverage: L 100% · C 0% · R 0%
-
-- A family including a boy in a wheelchair and a six-month-old baby were rescued after alligator-infested floodwaters surrounded their Florida home.
-
-**Source:** [The Independent](https://www.independent.co.uk/tv/news/boy-wheelchair-alligator-flood-rescue-video-b3091660.html) (Lean Left)
-
-## 51. Orioles Linked to 3 More Free Agents After Huge Freddy Peralta Move
-
-**World** · 1 source · Coverage: L 0% · C 100% · R 0%
-
-- The Baltimore Orioles are being linked to three more free agents after signing Freddy Peralta.
-
-**Source:** [Newsweek](https://www.newsweek.com/sports/mlb/orioles-linked-to-3-more-free-agents-after-huge-freddy-peralta-move-12768197) (Center)
-
-## 52. Voter ID Rules Could Change Under New Republican Bill
-
-**World** · US · 1 source · Coverage: L 0% · C 100% · R 0%
-
-- Observers have already pointed to similarities between Steil’s proposals and Donald Trump’s controversial SAVE America Act.
-
-**Source:** [Newsweek](https://www.newsweek.com/voter-id-rules-could-change-new-republican-bill-12768070) (Center)
-
-## 53. Dozens of oil-covered birds are showing up on a California coast. A 1953 shipwreck may be to blame
-
-**World** · 1 source · Coverage: L 100% · C 0% · R 0%
-
-- Rescued animals are being treated at a San Francisco Bay care center as officials urge beachgoers not to approach affected wildlife.
-
-**Source:** [The Independent](https://www.independent.co.uk/news/world/americas/california-coast-oil-covered-birds-1953-shipwreck-b3091612.html) (Lean Left)
-
-## 54. Iran tightening control over Strait of Hormuz, spokesperson says
-
-**Conflict** · Iran · 1 source · Coverage: L 0% · C 100% · R 0%
-
-- Iran is tightening its control over the Strait of Hormuz by increasing its surveillance over the vital waterway, Tehran’s state media reported Wednesday.
-- Iranian army spokesperson Mohammad Akrami-Nia said the country’s military is on heightened alert and warned vessels that they must coordinate transit with Iranian forces for safe passage, according to Iran’s Tasnim News...
-
-**Source:** [The Hill](https://thehill.com/policy/defense/6243090-iran-strait-of-hormuz-ships/) (Center)
-
-## 55. Trump’s Nvidia scandal exposes one truth: There’s no limit to Todd Blanche’s blind loyalty
+## 42. Trump’s close MAGA confidant goes on ‘Muslim mayor’ tirade over Macy’s Thanksgiving parade
 
 **Politics** · US · 1 source · Coverage: L 100% · C 0% · R 0%
 
-- The attorney general says, ‘I don’t know what you’re talking about,’ after Trump marshaled government resources and turned to his former lawyer for help bailing out an ally to save Wall Street, Alex Woodward writes.
+- He doesn't control the weather, dumb***’ one X user responded.
 
-**Source:** [The Independent](https://www.independent.co.uk/news/world/americas/us-politics/trump-jensen-huang-todd-blanche-doj-b3091652.html) (Lean Left)
+**Source:** [The Independent](https://www.independent.co.uk/news/world/americas/us-politics/thanksgiving-parade-mamdani-laura-loomer-b3092323.html) (Lean Left)
 
-## 56. Turkey farm shuttered days before Thanksgiving due to ‘imminent health hazard’
+## 43. Trial of Berlin woman accused of spying for Russia begins after delay
 
-**Health** · Turkey · 1 source · Coverage: L 100% · C 0% · R 0%
+**Crime & Justice** · Germany, Russia, Ukraine · 1 source · Coverage: L 0% · C 100% · R 0%
 
-- No live turkeys were found at the Massachusetts farm.
+- Despite delays due to health issues, the trial of the Berlin woman accused of spying for Russia has begun.
+- Prosecutors say the defendant used her military contacts to provide information on German defense and Ukraine.
 
-**Source:** [The Independent](https://www.independent.co.uk/news/world/americas/massachusetts-turkey-farm-closed-health-hazard-b3091651.html) (Lean Left)
+**Source:** [Deutsche Welle](https://www.dw.com/en/trial-of-berlin-woman-accused-of-spying-for-russia-begins-after-delay/a-80057677?maca=en-rss-en-top-1022-rdf) (Center)
 
-## 57. US stocks fall further as fears over AI intensify
+## 44. Saudi pop music is thriving — but for the right reasons?
 
-**Tech** · US · 1 source · Coverage: L 0% · C 100% · R 0%
+**Culture** · Saudi Arabia · 1 source · Coverage: L 0% · C 100% · R 0%
 
-- All three main US indexes were down in early trading, with the tech-dominated Nasdaq down almost 4%.
+- As part of Vision 2030, Saudi Arabia's music scene has evolved hugely thanks to state funding and support.
+- But are they actually just helping prop up an authoritarian state?
+- Local musicians and DJs are optimistic.
 
-**Source:** [BBC News](https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss) (Center)
+**Source:** [Deutsche Welle](https://www.dw.com/en/saudi-pop-music-is-thriving-but-for-the-right-reasons/a-80036013?maca=en-rss-en-top-1022-rdf) (Center)
 
-## 58. Young Republicans say they’re fed up with ‘childish’ GOP antics and want party to ‘grow up’
+## 45. VIDEO -- Zach Lahn: White House Chief of Staff Stephen Miller 'Unsung Hero' of Successful Iowa Detonation Effort
 
-**Politics** · 1 source · Coverage: L 100% · C 0% · R 0%
+**Politics** · US · 1 source · Coverage: L 0% · C 0% · R 100%
 
-- Some said they are bored with ‘owning the libs’ and put off by meme-driven political messaging.
+- Former governor candidate Zach Lahn (R) named Stephen Miller among officials who made the detonation of hazardous material in Iowa a success.
 
-**Source:** [The Independent](https://www.independent.co.uk/news/world/americas/us-politics/young-republicans-trump-midterms-message-grow-up-b3091667.html) (Lean Left)
+**Source:** [Breitbart](https://www.breitbart.com/politics/2026/11/26/video-zach-lahn-white-house-chief-staff-stephen-miller-unsung-hero-successful-iowa-detonation-effort/) (Right)
 
-## 59. Japan’s Leader, in Break With U.S., Defends International Criminal Court
+## 46. Syrian children continue learning amid the ruins of war in Idlib
 
-**Crime & Justice** · US, Japan · 1 source · Coverage: L 100% · C 0% · R 0%
+**Conflict** · Syria · 1 source · Coverage: L 100% · C 0% · R 0%
 
-- Sanae Takaichi welcomed the court’s president and vowed to accelerate financial support despite an effort by the Trump administration to cripple the global body.
+- Syria reopened a semi destroyed school in Idlib province
 
-**Source:** [New York Times](https://www.nytimes.com/2026/11/24/world/asia/japan-international-criminal-court-takaichi-trump.html) (Lean Left)
+**Source:** [Al Jazeera](https://www.aljazeera.com/video/newsfeed/2026/11/26/syrian-children-continue-learning-amid-the-ruins-of-war-in-idlib?traffic_source=rss) (Lean Left)
 
-## 60. Cambodia hosts Chinese military for Golden Dragon joint exercise to strengthen ties between the 2 nations
+## 47. EPA announces collection of over 1,000 post-detonation samples in Iowa, results expected Friday
 
-**Conflict** · China · 1 source · Coverage: L 0% · C 0% · R 100%
+**World** · 1 source · Coverage: L 0% · C 0% · R 100%
 
-- China and Cambodia launched their eighth joint military exercise on Wednesday, according to reports.
+- The agency does not expect to start receiving lab results from post-detonation sampling until Friday.
+- The Environmental Protection Agency has collected more than 1,000 environmental samples following Wednesday’s controlled detonation of five tons of destabilized lead azide in Middletown, Iowa, according to a public update from the agency.
+- According to EPA Administrator Lee Zeldin, the
 
-**Source:** [New York Post](https://nypost.com/2026/11/25/world-news/cambodia-hosts-chinese-military-for-golden-dragon-joint-exercise-to-strengthen-ties-between-the-2-nations/) (Lean Right)
+**Source:** [Washington Examiner](https://www.washingtonexaminer.com/policy/energy-and-environment/4816248/lee-zeldin-epa-collected-post-detonation-samples-iowa/) (Lean Right)
+
+## 48. Farage: Young Britons Are Being Replaced With Small Boat Migrants
+
+**Migration** · 1 source · Coverage: L 0% · C 0% · R 100%
+
+- Migration stats have been spun as good news for the government, but overall a decades-long replacement of Britons continues, says Farage.
+
+**Source:** [Breitbart](https://www.breitbart.com/europe/2026/11/26/farage-young-britons-are-being-replaced-with-small-boat-migrants/) (Right)
+
+## 49. On his last Africa trip, Steinmeier urges German firms to invest and take risks as China pushes ahead
+
+**World** · Germany, China, Kenya · 1 source · Coverage: L 0% · C 100% · R 0%
+
+- Ivory Coast, Ghana, Kenya: On his last trip to Africa, the outgoing German president called on companies at home to be bolder and seize opportunities in Africa.
+
+**Source:** [Deutsche Welle](https://www.dw.com/en/on-his-last-africa-trip-steinmeier-urges-german-firms-to-invest-and-take-risks-as-china-pushes-ahead/a-80067717?maca=en-rss-en-top-1022-rdf) (Center)
+
+## 50. Witnesses contacted as US probe into World Cup sell-off plan intensifies
+
+**Sports** · US · 1 source · Coverage: L 100% · C 0% · R 0%
+
+- A planned US congressional investigation into FIFA and Gianni Infantino's World Cup sell-off plans is intensifying with requests to speak to current and former FIFA staff, Sky News understands.
+
+**Source:** [Sky News](https://news.sky.com/story/witnesses-contacted-as-us-probe-into-world-cup-sell-off-plan-intensifies-13616919) (Lean Left)
+
+## 51. Ex-49ers Star Terrell Owens Sees Racist Double-Standard in Aaron Rodgers-Mike McCarthy Feud
+
+**World** · 1 source · Coverage: L 0% · C 0% · R 100%
+
+- Terrell Owen alleged that the NFL has a racist double-standard, citing responses to quarterback Aaron Rodgers' criticism of Mike McCarthy.
+
+**Source:** [Breitbart](https://www.breitbart.com/sports/2026/11/26/ex-49ers-star-terrell-owens-sees-racist-double-standard-aaron-rodgers-mike-mccarthy-feud/) (Right)
+
+## 52. Francesca Hong reveals Thanksgiving menu after holiday controversy dogged campaign
+
+**Politics** · 1 source · Coverage: L 0% · C 0% · R 100%
+
+- Francesca Hong, the Wisconsin socialist whose gubernatorial campaign was dogged by her past call to “cancel Thanksgiving,” says the holiday is her favorite.
+- Hong’s now-deleted 2020 tweet became a major talking point for opponents during the Wisconsin Democratic gubernatorial primary, helping paint the state lawmaker as out of touch with Midwestern voters.
+
+**Source:** [Washington Examiner](https://www.washingtonexaminer.com/news/entertainment/4816246/francesca-hong-thanksgiving-menu-holiday-controversy/) (Lean Right)
+
+## 53. Teen Gamer and His Mom Teamed Up to Rescue Kidnapped Girl Missing for 500 Days
+
+**World** · US · 1 source · Coverage: L 0% · C 0% · R 100%
+
+- The teen gamer and his mom worked together to locate the girl who was rescued by law enforcement.
+- A 17-year-old Utah girl missing since May 2025 was rescued earlier this month after secretly reaching out for help to a friend she met while playing the video game Among Us.
+
+**Source:** [Breitbart](https://www.breitbart.com/tech/2026/11/26/teen-gamer-and-his-mom-teamed-up-to-rescue-kidnapped-girl-missing-for-500-days/) (Right)
+
+## 54. Illegal Migrant Wins $1 Million Massachusetts Lottery and ICE Handcuffs
+
+**Migration** · 1 source · Coverage: L 0% · C 0% · R 100%
+
+- An illegal migrant won $1 million from the Massachusetts lottery -- plus an arrest and a bed at the local Immigration and Customs Enforcement center.
+
+**Source:** [Breitbart](https://www.breitbart.com/economy/2026/11/26/illegal-migrant-wins-1-million-massachusetts-lottery-and-ice-handcuffs/) (Right)
+
+## 55. How a teen’s death raises questions about Colombia’s security crackdown
+
+**Human Rights** · Colombia · 1 source · Coverage: L 100% · C 0% · R 0%
+
+- President Abelardo de la Espriella's campaign against armed groups has resulted in accusations of extrajudicial killing.
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/news/longform/2026/11/26/how-a-teens-death-raises-questions-about-colombias-security-crackdown?traffic_source=rss) (Lean Left)
+
+## 56. Trump wishes America, including the ‘Radical Far Left,’ a happy Thanksgiving
+
+**Politics** · US · 1 source · Coverage: L 0% · C 0% · R 100%
+
+- President Donald Trump on Thursday morning wished a happy Thanksgiving to “ALL AMERICAN PATRIOTS WHO HAVE WORKED SO HARD TO MAKE OUR COUNTRY GREAT” in a Truth Social post.
+- Trump, who is known for his provocative Thanksgiving notes, struck an apparently sarcastic tone throughout his message.
+- The president, who earlier on Thursday lamented the federal
+
+**Source:** [Washington Examiner](https://www.washingtonexaminer.com/news/white-house/4816241/trump-radical-far-left-happy-thanksgiving/) (Lean Right)
+
+## 57. Spanish economist to become new European Central Bank chief
+
+**Business** · Spain · 1 source · Coverage: L 100% · C 0% · R 0%
+
+- Economist Pablo Hernandez de Cos was announced after a meeting of eurozone leaders.
+
+**Source:** [Al Jazeera](https://www.aljazeera.com/news/2026/11/26/spanish-economist-to-become-new-european-central-bank-chief?traffic_source=rss) (Lean Left)
+
+## 58. Nine injured, three critically, after Bangkok oil refinery explosion
+
+**World** · Thailand · 1 source · Coverage: L 0% · C 100% · R 0%
+
+- Black smoke could be seen across Bangkok's skyline after the blast, as officials urged residents to leave the area.
+
+**Source:** [BBC News](https://www.bbc.co.uk/news/articles/crx209kwk4kzo?at_medium=RSS&at_campaign=rss) (Center)
+
+## 59. A staggering amount of food goes to waste at Thanksgiving. Here’s how to cut down
+
+**World** · 1 source · Coverage: L 100% · C 0% · R 0%
+
+- Over-preparation and uneaten leftovers are two of the major issues contributing to the problem.
+
+**Source:** [The Independent](https://www.independent.co.uk/news/world/americas/thanksgiving-dinner-turkey-food-waste-leftovers-recipe-b3092297.html) (Lean Left)
+
+## 60. Democratic Party’s biggest midterms loser gets trolled over Thanksgiving post
+
+**Politics** · Turkey · 1 source · Coverage: L 100% · C 0% · R 0%
+
+- ‘Imagine slaughtering your own political career worse than a turkey’.
+
+**Source:** [The Independent](https://www.independent.co.uk/news/world/americas/us-politics/haley-stevens-thanksgiving-post-democrat-b3092236.html) (Lean Left)

@@ -1,20 +1,20 @@
 {
- "start": "2026-11-19",
- "end": "2026-11-25",
- "days": 3,
+ "start": "2026-11-20",
+ "end": "2026-11-26",
+ "days": 4,
  "coverage": {
-  "left": 244,
-  "center": 108,
-  "right": 140,
-  "left_pct": 50,
+  "left": 303,
+  "center": 140,
+  "right": 185,
+  "left_pct": 48,
   "center_pct": 22,
-  "right_pct": 28
+  "right_pct": 29
  },
  "stats": {
-  "stories": 159,
-  "blindspots": 34,
-  "blindspot_left": 11,
-  "blindspot_right": 23
+  "stories": 214,
+  "blindspots": 44,
+  "blindspot_left": 13,
+  "blindspot_right": 31
  },
  "stories": [
   {
@@ -640,6 +640,70 @@
    "date": "2026-11-25"
   },
   {
+   "id": "d0cb0fe8f0",
+   "title": "At least 31 dead after fuel tanker fire in Egypt",
+   "link": "https://www.cbc.ca/news/world/egypt-fire-petroleum-vehicle-overturns-9.7436271?cmp=rss",
+   "source": "CBC News",
+   "summary": "Thirty-one people were killed and 21 wounded in a fire after a vehicle carrying petroleum products overturned on a major ring road in Egypt, authorities said on Wednesday.",
+   "image_url": "https://i.cbc.ca/ais/c5431289-648a-4c87-819b-5ec958f67888,1795643556639/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C1%2C3018%2C1697%29%3B",
+   "published": "2026-11-25T21:37:07+00:00",
+   "updated": "2026-11-26T15:41:46+00:00",
+   "first_reported": {
+    "source": "New York Times",
+    "published": "2026-11-25T21:37:07+00:00"
+   },
+   "all_sources": [
+    "New York Times",
+    "CBC News",
+    "New York Post",
+    "The Independent",
+    "BBC News",
+    "Fox News"
+   ],
+   "source_count": 6,
+   "article_count": 7,
+   "bias_breakdown": {
+    "Lean Left": 3,
+    "Center": 1,
+    "Lean Right": 1,
+    "Right": 1
+   },
+   "bias_bar": {
+    "left_pct": 50,
+    "center_pct": 17,
+    "right_pct": 33,
+    "left": 3,
+    "center": 1,
+    "right": 2,
+    "unrated": 0,
+    "total": 6
+   },
+   "blindspot": null,
+   "is_blindspot": false,
+   "ownership_breakdown": {
+    "Government": 2,
+    "Media Conglomerate": 2,
+    "Corporation": 1,
+    "Individual": 1
+   },
+   "topic": "Conflict",
+   "places": [
+    {
+     "name": "Egypt",
+     "region": "Middle East"
+    }
+   ],
+   "region": "Middle East",
+   "score": 8.422,
+   "is_trending": true,
+   "bullet_points": [
+    "A fuel tanker crash on Cairo's Ring Road ignited a massive fire, killing at least 30 people, Egyptian officials said.",
+    "Egyptian authorities detained a driver suspected of causing a Ring Road fuel tanker crash in Cairo that killed at least 31 people.",
+    "At least 31 people have died in a large fire on a busy highway in Cairo, after a fuel tanker overturned, says Egypt's health ministry."
+   ],
+   "date": "2026-11-26"
+  },
+  {
    "id": "13390048e2",
    "title": "More than 700,000 Russian soldiers have been killed in Ukraine: Analysis",
    "link": "https://thehill.com/policy/defense/6238400-russian-casualties-ukraine-war-putin-zelensky/",
@@ -895,6 +959,130 @@
     "Mr. Markle, 82, was indicted by a grand jury in Los Angeles and is expected to be arraigned in the coming weeks, prosecutors said."
    ],
    "date": "2026-11-25"
+  },
+  {
+   "id": "0d2f39b45b",
+   "title": "Gérard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
+   "link": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "summary": "A Paris appeals court rules Depardieu will go on trial for the alleged rape of Charlotte Arnould.",
+   "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5c6/live/4c0cb100-e97d-11f1-99b6-a35a62fa4264.jpg",
+   "published": "2026-11-26T14:17:40+00:00",
+   "updated": "2026-11-26T17:18:24+00:00",
+   "first_reported": {
+    "source": "New York Times",
+    "published": "2026-11-26T14:17:40+00:00"
+   },
+   "all_sources": [
+    "New York Times",
+    "BBC News",
+    "New York Post",
+    "The Independent",
+    "Al Jazeera"
+   ],
+   "source_count": 5,
+   "article_count": 5,
+   "bias_breakdown": {
+    "Lean Left": 3,
+    "Center": 1,
+    "Lean Right": 1
+   },
+   "bias_bar": {
+    "left_pct": 60,
+    "center_pct": 20,
+    "right_pct": 20,
+    "left": 3,
+    "center": 1,
+    "right": 1,
+    "unrated": 0,
+    "total": 5
+   },
+   "blindspot": "right",
+   "is_blindspot": true,
+   "ownership_breakdown": {
+    "Government": 2,
+    "Corporation": 1,
+    "Media Conglomerate": 1,
+    "Individual": 1
+   },
+   "topic": "Crime & Justice",
+   "places": [
+    {
+     "name": "France",
+     "region": "Europe"
+    }
+   ],
+   "region": "Europe",
+   "score": 8.008,
+   "is_trending": true,
+   "bullet_points": [
+    "A Paris appeals court rules Depardieu will go on trial for the alleged rape of Charlotte Arnould.",
+    "Depardieu, 77, has denied the rape allegations.",
+    "Paris court of appeal dismisses allegations relating to a second incident involving actress Charlotte Arnould."
+   ],
+   "date": "2026-11-26"
+  },
+  {
+   "id": "2a4e7c89b7",
+   "title": "Netanyahu declares corruption trial has 'fallen apart' after judges question key charges",
+   "link": "https://www.foxnews.com/world/netanyahu-declares-corruption-trial-fallen-apart-judges-question-key-charges",
+   "source": "Fox News",
+   "summary": "Israeli Prime Minister Benjamin Netanyahu declared his corruption trial \"fell apart\" as judges urged prosecutors to rethink the bribery and fraud cases.",
+   "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2025/03/931/523/netanyahu-2.jpg?ve=1&tl=1",
+   "published": "2026-11-25T15:52:14+00:00",
+   "updated": "2026-11-26T17:38:02+00:00",
+   "first_reported": {
+    "source": "New York Post",
+    "published": "2026-11-25T15:52:14+00:00"
+   },
+   "all_sources": [
+    "New York Post",
+    "New York Times",
+    "Fox News",
+    "Breitbart",
+    "Al Jazeera"
+   ],
+   "source_count": 5,
+   "article_count": 5,
+   "bias_breakdown": {
+    "Lean Left": 2,
+    "Lean Right": 1,
+    "Right": 2
+   },
+   "bias_bar": {
+    "left_pct": 40,
+    "center_pct": 0,
+    "right_pct": 60,
+    "left": 2,
+    "center": 0,
+    "right": 3,
+    "unrated": 0,
+    "total": 5
+   },
+   "blindspot": null,
+   "is_blindspot": false,
+   "ownership_breakdown": {
+    "Media Conglomerate": 2,
+    "Corporation": 1,
+    "Other": 1,
+    "Government": 1
+   },
+   "topic": "Crime & Justice",
+   "places": [
+    {
+     "name": "Israel",
+     "region": "Middle East"
+    }
+   ],
+   "region": "Middle East",
+   "score": 6.867,
+   "is_trending": true,
+   "bullet_points": [
+    "Israeli Prime Minister Benjamin Netanyahu declared his corruption trial \"fell apart\" as judges urged prosecutors to rethink the bribery and fraud cases.",
+    "Israeli Prime Minister Benjamin Netanyahu declared Wednesday that his corruption trial had collapsed after judges urged prosecutors to drop the most serious case against him and questioned the criminal basis of another, dealing a devastating blow to a prosecution that has roiled Israeli politics for nearly a decade.",
+    "Prime Minister Benjamin Netanyahu is accused of bribery, fraud and breach of trust in a long-running trial that has divided the country."
+   ],
+   "date": "2026-11-26"
   },
   {
    "id": "f23a95a408",
@@ -1333,47 +1521,49 @@
    "date": "2026-11-25"
   },
   {
-   "id": "f57582a725",
-   "title": "Moscow Accuses Neighbouring Estonia of 'Russophobia' for Border Closure",
-   "link": "https://www.breitbart.com/europe/2026/11/23/moscow-accuses-neighbouring-estonia-of-russophobia-for-border-closure/",
-   "source": "Breitbart",
-   "summary": "The Kremlin has accused Estonia of Russophobia after the European country announced it would close its road borders with Russia.",
-   "image_url": "https://static.independent.co.uk/2026/11/23/11/2305986990..?width=1200&auto=webp&crop=3%3A2",
-   "published": "2026-11-23T15:42:27+00:00",
-   "updated": "2026-11-23T19:20:30+00:00",
+   "id": "4078576572",
+   "title": "Ukraine-Russia war latest: Trump tells Putin to end military aggression in Europe to ‘stop the bloodbath’",
+   "link": "https://www.independent.co.uk/news/world/europe/russia-ukraine-war-live-putin-drones-nuclear-weapons-casualties-b3091880.html",
+   "source": "The Independent",
+   "summary": "President Trump embraced Putin as a ‘friend’ at a trilateral summit in China, causing concern in Europe.",
+   "image_url": "https://static.independent.co.uk/2026/11/22/17/2026-11-22T164503Z_1518491131_RC2TQOAP0QH9_RTRMADP_3_USA-TRUMP-PUTIN.JPG?width=1200&auto=webp&trim=109%2C0%2C109%2C0",
+   "published": "2026-11-25T21:11:36+00:00",
+   "updated": "2026-11-26T17:05:24+00:00",
    "first_reported": {
-    "source": "The Independent",
-    "published": "2026-11-23T15:42:27+00:00"
+    "source": "The Hill",
+    "published": "2026-11-25T21:11:36+00:00"
    },
    "all_sources": [
+    "The Hill",
+    "New York Post",
     "The Independent",
-    "Breitbart",
-    "Al Jazeera"
+    "Deutsche Welle"
    ],
-   "source_count": 3,
-   "article_count": 3,
+   "source_count": 4,
+   "article_count": 5,
    "bias_breakdown": {
-    "Lean Left": 2,
-    "Right": 1
+    "Lean Left": 1,
+    "Center": 2,
+    "Lean Right": 1
    },
    "bias_bar": {
-    "left_pct": 67,
-    "center_pct": 0,
-    "right_pct": 33,
-    "left": 2,
-    "center": 0,
+    "left_pct": 25,
+    "center_pct": 50,
+    "right_pct": 25,
+    "left": 1,
+    "center": 2,
     "right": 1,
     "unrated": 0,
-    "total": 3
+    "total": 4
    },
    "blindspot": null,
    "is_blindspot": false,
    "ownership_breakdown": {
+    "Media Conglomerate": 2,
     "Individual": 1,
-    "Other": 1,
     "Government": 1
    },
-   "topic": "Migration",
+   "topic": "Conflict",
    "places": [
     {
      "name": "Russia",
@@ -1382,265 +1572,94 @@
     {
      "name": "Ukraine",
      "region": "Europe"
+    },
+    {
+     "name": "US",
+     "region": "Americas"
+    },
+    {
+     "name": "China",
+     "region": "Asia-Pacific"
     }
    ],
    "region": "Europe",
-   "score": 4.411,
+   "score": 6.485,
    "is_trending": true,
    "bullet_points": [
-    "The allegation comes after Estonia announced it will close its land borders with Russia.",
-    "The Kremlin has accused Estonia of Russophobia after the European country announced it would close its road borders with Russia.",
-    "Moscow accuses Tallinn of 'hostile actions' citing border closure and claiming it is allowing Ukraine to launch attacks."
+    "US President Donald Trump claimed that he talked with Vladimir Putin about ceasing Russia's military aggression in Europe and expressed his belief in the possibility of a deal between Russia and Ukraine.",
+    "Andrii Sybiha, Ukraine’s minister of foreign affairs, told Russian President Vladimir Putin to “stop complaining” about attacks on oil refineries following tit-for-tat strikes between the countries targeting energy facilities.",
+    "“If Putin doesn’t like Ukraine’s strikes on his oil refineries, he can order an end to the war."
    ],
-   "date": "2026-11-23"
+   "date": "2026-11-26"
   },
   {
-   "id": "ef614842ee",
-   "title": "Israel’s leading contender for prime minister clashes with Netanyahu over Iran strikes",
-   "link": "https://www.foxnews.com/world/israels-leading-contender-prime-minister-clashes-netanyahu-over-iran-strikes",
-   "source": "Fox News",
-   "summary": "Gadi Eisenkot says Iran poses no immediate threat before a new government forms, as Netanyahu pushes back and Trump weighs renewed strikes on Tehran.",
-   "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/netanyahu-trump-eisenkot-split.jpg?ve=1&tl=1",
-   "published": "2026-11-23T15:49:34+00:00",
-   "updated": "2026-11-23T18:54:41+00:00",
+   "id": "ad5279f11e",
+   "title": "2 Italians killed in Iranian drone attack in Kuwait, Italy says",
+   "link": "https://www.cbc.ca/news/world/italian-workers-killed-kuwait-iran-strike-9.7437089?cmp=rss",
+   "source": "CBC News",
+   "summary": "Two Italians were killed in an Iranian drone attack in Kuwait on Thursday, Italy's foreign minister said, adding that the victims were technicians working for the Italian unit of German defence group Rheinmetall.",
+   "image_url": "https://i.cbc.ca/ais/9eb3c171-16e5-4072-89a2-bad62147bbc4,1795708348214/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C321%2C6163%2C3466%29%3B",
+   "published": "2026-11-26T15:11:00+00:00",
+   "updated": "2026-11-26T17:54:22+00:00",
    "first_reported": {
-    "source": "The Independent",
-    "published": "2026-11-23T15:49:34+00:00"
+    "source": "Deutsche Welle",
+    "published": "2026-11-26T15:11:00+00:00"
    },
    "all_sources": [
-    "The Independent",
-    "Fox News",
-    "New York Times"
+    "Deutsche Welle",
+    "Al Jazeera",
+    "CBC News",
+    "BBC News"
    ],
-   "source_count": 3,
-   "article_count": 3,
+   "source_count": 4,
+   "article_count": 5,
    "bias_breakdown": {
     "Lean Left": 2,
-    "Right": 1
+    "Center": 2
    },
    "bias_bar": {
-    "left_pct": 67,
-    "center_pct": 0,
-    "right_pct": 33,
+    "left_pct": 50,
+    "center_pct": 50,
+    "right_pct": 0,
     "left": 2,
-    "center": 0,
-    "right": 1,
+    "center": 2,
+    "right": 0,
     "unrated": 0,
-    "total": 3
+    "total": 4
    },
-   "blindspot": null,
-   "is_blindspot": false,
+   "blindspot": "right",
+   "is_blindspot": true,
    "ownership_breakdown": {
-    "Individual": 1,
-    "Media Conglomerate": 1,
-    "Corporation": 1
+    "Government": 4
    },
-   "topic": "Politics",
+   "topic": "Conflict",
    "places": [
     {
-     "name": "Israel",
-     "region": "Middle East"
+     "name": "Italy",
+     "region": "Europe"
     },
     {
      "name": "Iran",
      "region": "Middle East"
     },
     {
-     "name": "US",
-     "region": "Americas"
-    }
-   ],
-   "region": "Middle East",
-   "score": 4.338,
-   "is_trending": true,
-   "bullet_points": [
-    "The Israeli prime minister, Benjamin Netanyahu, calls renewing strikes a matter of national security.",
-    "The Israeli prime minister is reported to be pushing a reluctant White House into new military action.",
-    "Gadi Eisenkot says Iran poses no immediate threat before a new government forms, as Netanyahu pushes back and Trump weighs renewed strikes on Tehran."
-   ],
-   "date": "2026-11-23"
-  },
-  {
-   "id": "0e298c8adc",
-   "title": "German police respond to multiple school bomb threats",
-   "link": "https://www.dw.com/en/german-police-respond-to-multiple-school-bomb-threats/a-80018842?maca=en-rss-en-top-1022-rdf",
-   "source": "Deutsche Welle",
-   "summary": "Police in Germany are responding to bomb threats against a series of schools, but say that at present they don't believe them to be credible. Danish authorities are reporting a similar series of apparent hoaxes.",
-   "image_url": "https://static.independent.co.uk/2026/11/23/10/2303993627..?width=1200&auto=webp&trim=0%2C0%2C0%2C0",
-   "published": "2026-11-23T11:01:00+00:00",
-   "updated": "2026-11-23T15:07:59+00:00",
-   "first_reported": {
-    "source": "Deutsche Welle",
-    "published": "2026-11-23T11:01:00+00:00"
-   },
-   "all_sources": [
-    "Deutsche Welle",
-    "The Independent",
-    "Al Jazeera"
-   ],
-   "source_count": 3,
-   "article_count": 3,
-   "bias_breakdown": {
-    "Lean Left": 2,
-    "Center": 1
-   },
-   "bias_bar": {
-    "left_pct": 67,
-    "center_pct": 33,
-    "right_pct": 0,
-    "left": 2,
-    "center": 1,
-    "right": 0,
-    "unrated": 0,
-    "total": 3
-   },
-   "blindspot": "right",
-   "is_blindspot": true,
-   "ownership_breakdown": {
-    "Government": 2,
-    "Individual": 1
-   },
-   "topic": "Crime & Justice",
-   "places": [
-    {
      "name": "Germany",
      "region": "Europe"
+    },
+    {
+     "name": "Pakistan",
+     "region": "South Asia"
     }
    ],
    "region": "Europe",
-   "score": 4.251,
+   "score": 6.448,
    "is_trending": true,
    "bullet_points": [
-    "Hundreds of schools have received bomb threats via email.",
-    "Police in Germany are responding to bomb threats against a series of schools, but say that at present they don't believe them to be credible.",
-    "Bomb threats follow hoax emails sent to schools across Europe earlier in November."
+    "Two Italians were killed in an Iranian drone attack in Kuwait on Thursday, Italy's foreign minister said, adding that the victims were technicians working for the Italian unit of German defence group Rheinmetall.",
+    "Kuwait’s army says two Italian workers were killed and four others were injured in an Iranian drone attack.",
+    "The Italians were employed as technicians for the Italian branch of German arms manufacturer Rheinmetall."
    ],
-   "date": "2026-11-23"
-  },
-  {
-   "id": "59a966b49a",
-   "title": "India pledges $1.6bn to Nepal in reset of ties",
-   "link": "https://www.bbc.co.uk/news/articles/cwx2ervemj4ko?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "summary": "As Nepal rebuilds after deadly floods, its prime minister sets contentious issues aside to secure Indian funding, port access and a new train service.",
-   "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25f9/live/8fa3a390-e71d-11f1-914b-6d226d813a52.jpg",
-   "published": "2026-11-23T13:39:30+00:00",
-   "updated": "2026-11-23T18:12:55+00:00",
-   "first_reported": {
-    "source": "BBC News",
-    "published": "2026-11-23T13:39:30+00:00"
-   },
-   "all_sources": [
-    "BBC News",
-    "Deutsche Welle",
-    "Al Jazeera"
-   ],
-   "source_count": 3,
-   "article_count": 3,
-   "bias_breakdown": {
-    "Lean Left": 1,
-    "Center": 2
-   },
-   "bias_bar": {
-    "left_pct": 33,
-    "center_pct": 67,
-    "right_pct": 0,
-    "left": 1,
-    "center": 2,
-    "right": 0,
-    "unrated": 0,
-    "total": 3
-   },
-   "blindspot": null,
-   "is_blindspot": false,
-   "ownership_breakdown": {
-    "Government": 3
-   },
-   "topic": "Politics",
-   "places": [
-    {
-     "name": "India",
-     "region": "South Asia"
-    },
-    {
-     "name": "Nepal",
-     "region": "South Asia"
-    }
-   ],
-   "region": "South Asia",
-   "score": 4.224,
-   "is_trending": true,
-   "bullet_points": [
-    "On his first foreign bilateral visit, rapper-turned-Prime Minister Balendra Shah sought deeper ties with Nepal's neighbor and largest trading partner, while steering clear of sticky territorial issues.",
-    "Nepal's Prime Minister Balendra Shah is in New Delhi for a two-day visit — his first since coming to power in March.",
-    "As Nepal rebuilds after deadly floods, its prime minister sets contentious issues aside to secure Indian funding, port access and a new train service."
-   ],
-   "date": "2026-11-23"
-  },
-  {
-   "id": "57fa941fb5",
-   "title": "US and UK to host Women's World Cups in 2031 and 2035",
-   "link": "https://www.dw.com/en/us-and-uk-to-host-women-s-world-cups-in-2031-and-2035/a-80023786?maca=en-rss-en-top-1022-rdf",
-   "source": "Deutsche Welle",
-   "summary": "FIFA has confirmed the United States, Mexico, Costa Rica and Jamaica will host the 2031 Women's World Cup — the first to feature 48 teams. The UK will stage the 2035 edition, its first World Cup since 1966.",
-   "image_url": "https://i.cbc.ca/ais/6849cdcd-b3ce-4f74-ae9c-f547d5e6112b,1795453589948/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C1180%2C663%29%3B",
-   "published": "2026-11-23T15:28:29+00:00",
-   "updated": "2026-11-23T17:13:20+00:00",
-   "first_reported": {
-    "source": "CBC News",
-    "published": "2026-11-23T15:28:29+00:00"
-   },
-   "all_sources": [
-    "CBC News",
-    "Deutsche Welle",
-    "The Hill"
-   ],
-   "source_count": 3,
-   "article_count": 3,
-   "bias_breakdown": {
-    "Lean Left": 1,
-    "Center": 2
-   },
-   "bias_bar": {
-    "left_pct": 33,
-    "center_pct": 67,
-    "right_pct": 0,
-    "left": 1,
-    "center": 2,
-    "right": 0,
-    "unrated": 0,
-    "total": 3
-   },
-   "blindspot": null,
-   "is_blindspot": false,
-   "ownership_breakdown": {
-    "Government": 2,
-    "Media Conglomerate": 1
-   },
-   "topic": "Sports",
-   "places": [
-    {
-     "name": "US",
-     "region": "Americas"
-    },
-    {
-     "name": "UK",
-     "region": "Europe"
-    },
-    {
-     "name": "Mexico",
-     "region": "Americas"
-    }
-   ],
-   "region": "Americas",
-   "score": 4.065,
-   "is_trending": true,
-   "bullet_points": [
-    "FIFA has confirmed the United States, Mexico, Costa Rica and Jamaica will host the 2031 Women's World Cup — the first to feature 48 teams.",
-    "The United States will host Women's World Cup matches in 2031, five years after the men's tournament brought millions of international travelers to the country this summer and earned FIFA its most profitable Cup in history.",
-    "FIFA on Monday confirmed the United States will lead a four-nation, regional co-hosting of the 2031 Women's World Cup, and a UK project led by England was ratified for the 2035 edition."
-   ],
-   "date": "2026-11-23"
+   "date": "2026-11-26"
   }
  ]
 }
