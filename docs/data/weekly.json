@@ -1,20 +1,20 @@
 {
- "start": "2026-11-20",
- "end": "2026-11-26",
- "days": 4,
+ "start": "2026-11-21",
+ "end": "2026-11-27",
+ "days": 5,
  "coverage": {
-  "left": 303,
-  "center": 140,
-  "right": 185,
+  "left": 367,
+  "center": 166,
+  "right": 224,
   "left_pct": 48,
   "center_pct": 22,
-  "right_pct": 29
+  "right_pct": 30
  },
  "stats": {
-  "stories": 214,
-  "blindspots": 44,
-  "blindspot_left": 13,
-  "blindspot_right": 31
+  "stories": 267,
+  "blindspots": 53,
+  "blindspot_left": 15,
+  "blindspot_right": 38
  },
  "stories": [
   {
@@ -508,6 +508,71 @@
    "date": "2026-11-25"
   },
   {
+   "id": "bc2a55e75f",
+   "title": "Driver suspected of causing tanker crash that killed at least 31 in Egypt arrested: officials",
+   "link": "https://nypost.com/2026/11/26/world-news/driver-suspected-of-causing-egypt-fuel-tanker-crash-gets-detained-authorities/",
+   "source": "New York Post",
+   "summary": "Egyptian authorities detained a driver suspected of causing a Ring Road fuel tanker crash in Cairo that killed at least 31 people.",
+   "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F2026-screengrab-obtained-social-media-150045750.jpg?w%3D1024",
+   "published": "2026-11-25T21:37:07+00:00",
+   "updated": "2026-11-27T15:07:22+00:00",
+   "first_reported": {
+    "source": "New York Times",
+    "published": "2026-11-25T21:37:07+00:00"
+   },
+   "all_sources": [
+    "New York Times",
+    "CBC News",
+    "HuffPost",
+    "New York Post",
+    "Fox News",
+    "Sky News",
+    "Al Jazeera"
+   ],
+   "source_count": 7,
+   "article_count": 7,
+   "bias_breakdown": {
+    "Left": 1,
+    "Lean Left": 4,
+    "Lean Right": 1,
+    "Right": 1
+   },
+   "bias_bar": {
+    "left_pct": 71,
+    "center_pct": 0,
+    "right_pct": 29,
+    "left": 5,
+    "center": 0,
+    "right": 2,
+    "unrated": 0,
+    "total": 7
+   },
+   "blindspot": "right",
+   "is_blindspot": true,
+   "ownership_breakdown": {
+    "Corporation": 2,
+    "Government": 2,
+    "Media Conglomerate": 2,
+    "Telecom": 1
+   },
+   "topic": "Conflict",
+   "places": [
+    {
+     "name": "Egypt",
+     "region": "Middle East"
+    }
+   ],
+   "region": "Middle East",
+   "score": 9.053,
+   "is_trending": true,
+   "bullet_points": [
+    "Egyptian authorities detained a driver suspected of causing a Ring Road fuel tanker crash in Cairo that killed at least 31 people.",
+    "The driver of a car suspected to have caused a fuel tanker to overturn in Egypt, causing the deaths of 31 people, has been detained.",
+    "The driver accused of sparking Cairo's deadly fuel tanker fire on the Ring Road is in custody as prosecutors detail the crash that led to the blaze."
+   ],
+   "date": "2026-11-27"
+  },
+  {
    "id": "86884f7c0f",
    "title": "US Army detonates toxic lead explosives in Iowa amid health concerns",
    "link": "https://www.aljazeera.com/news/2026/11/25/us-army-detonates-toxic-lead-stockpile-in-iowa-amid-backlash?traffic_source=rss",
@@ -702,6 +767,80 @@
     "At least 31 people have died in a large fire on a busy highway in Cairo, after a fuel tanker overturned, says Egypt's health ministry."
    ],
    "date": "2026-11-26"
+  },
+  {
+   "id": "fc921caa0a",
+   "title": "Zelensky questions 'strange' Trump-Putin friendship in BBC interview",
+   "link": "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "summary": "The Ukrainian president tells the BBC that Russia's Vladimir Putin should not be treated as a friend.",
+   "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e73/live/90642570-ea33-11f1-99b6-a35a62fa4264.jpg",
+   "published": "2026-11-26T22:06:20+00:00",
+   "updated": "2026-11-27T17:41:21+00:00",
+   "first_reported": {
+    "source": "BBC News",
+    "published": "2026-11-26T22:06:20+00:00"
+   },
+   "all_sources": [
+    "BBC News",
+    "The Hill",
+    "The Independent",
+    "New York Post",
+    "Washington Examiner",
+    "CBC News"
+   ],
+   "source_count": 6,
+   "article_count": 8,
+   "bias_breakdown": {
+    "Lean Left": 2,
+    "Center": 2,
+    "Lean Right": 2
+   },
+   "bias_bar": {
+    "left_pct": 34,
+    "center_pct": 33,
+    "right_pct": 33,
+    "left": 2,
+    "center": 2,
+    "right": 2,
+    "unrated": 0,
+    "total": 6
+   },
+   "blindspot": null,
+   "is_blindspot": false,
+   "ownership_breakdown": {
+    "Government": 2,
+    "Media Conglomerate": 2,
+    "Individual": 2
+   },
+   "topic": "Politics",
+   "places": [
+    {
+     "name": "Russia",
+     "region": "Europe"
+    },
+    {
+     "name": "US",
+     "region": "Americas"
+    },
+    {
+     "name": "Ukraine",
+     "region": "Europe"
+    },
+    {
+     "name": "China",
+     "region": "Asia-Pacific"
+    }
+   ],
+   "region": "Europe",
+   "score": 9.441,
+   "is_trending": true,
+   "bullet_points": [
+    "Ukrainian President Volodymyr Zelensky called President Donald Trump’s friendship with Russian President Vladimir Putin “strange” in a BBC interview that was published Friday.",
+    "The Ukrainian president tells the BBC that Russia's Vladimir Putin should not be treated as a friend.",
+    "Volodymyr Zelensky called President Donald Trump’s close relationship with Vladimir Putin “strange” — and even likened it to being friends with Adolf Hiter."
+   ],
+   "date": "2026-11-27"
   },
   {
    "id": "13390048e2",
@@ -1085,6 +1224,141 @@
    "date": "2026-11-26"
   },
   {
+   "id": "4d8882957c",
+   "title": "Norse Atlantic airline suspends all flights, on brink of bankruptcy amid rising fuel costs",
+   "link": "https://www.foxnews.com/world/norse-atlantic-airlines-suspends-all-flights-brink-bankruptcy-amid-rising-fuel-costs",
+   "source": "Fox News",
+   "summary": "Norse Atlantic suspended all flights as its board warned it may file for bankruptcy without urgent short-term financing, leaving PIA passengers stranded.",
+   "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/11/931/523/Norse.jpg?ve=1&tl=1",
+   "published": "2026-11-26T13:44:57+00:00",
+   "updated": "2026-11-27T16:31:20+00:00",
+   "first_reported": {
+    "source": "New York Post",
+    "published": "2026-11-26T13:44:57+00:00"
+   },
+   "all_sources": [
+    "New York Post",
+    "Fox News",
+    "Sky News",
+    "Deutsche Welle",
+    "Al Jazeera"
+   ],
+   "source_count": 5,
+   "article_count": 5,
+   "bias_breakdown": {
+    "Lean Left": 2,
+    "Center": 1,
+    "Lean Right": 1,
+    "Right": 1
+   },
+   "bias_bar": {
+    "left_pct": 40,
+    "center_pct": 20,
+    "right_pct": 40,
+    "left": 2,
+    "center": 1,
+    "right": 2,
+    "unrated": 0,
+    "total": 5
+   },
+   "blindspot": null,
+   "is_blindspot": false,
+   "ownership_breakdown": {
+    "Media Conglomerate": 2,
+    "Government": 2,
+    "Telecom": 1
+   },
+   "topic": "Conflict",
+   "places": [
+    {
+     "name": "Iran",
+     "region": "Middle East"
+    }
+   ],
+   "region": "Middle East",
+   "score": 7.364,
+   "is_trending": true,
+   "bullet_points": [
+    "Norse Atlantic Airways has suspended all flights, with the company saying it could file for bankruptcy unless an urgent solution to its finances is found.",
+    "Norse Atlantic suspended flights on Thursday and plans to file for bankruptcy unless it urgently secures financing following Iran war fuel spikes.",
+    "Norse Atlantic suspended all flights as its board warned it may file for bankruptcy without urgent short-term financing, leaving PIA passengers stranded."
+   ],
+   "date": "2026-11-27"
+  },
+  {
+   "id": "1fdf144308",
+   "title": "Iran accuses Zelenskyy of 'false flag' Kuwait drone strike op to get Trump's attention",
+   "link": "https://www.foxnews.com/world/iran-accuses-zelenskyy-false-flag-kuwait-drone-strike-op-get-trumps-attention",
+   "source": "Fox News",
+   "summary": "A former Iran nuclear adviser claimed Thursday the Kuwait drone attack was a Ukrainian \"false flag\" staged to get President Donald Trump's attention.",
+   "image_url": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2026/03/931/523/kuwait-iran-us-air-force-jets.jpg?ve=1&tl=1",
+   "published": "2026-11-26T16:03:57+00:00",
+   "updated": "2026-11-27T11:51:26+00:00",
+   "first_reported": {
+    "source": "CBC News",
+    "published": "2026-11-26T16:03:57+00:00"
+   },
+   "all_sources": [
+    "CBC News",
+    "New York Times",
+    "Fox News",
+    "New York Post",
+    "Al Jazeera"
+   ],
+   "source_count": 5,
+   "article_count": 5,
+   "bias_breakdown": {
+    "Lean Left": 3,
+    "Lean Right": 1,
+    "Right": 1
+   },
+   "bias_bar": {
+    "left_pct": 60,
+    "center_pct": 0,
+    "right_pct": 40,
+    "left": 3,
+    "center": 0,
+    "right": 2,
+    "unrated": 0,
+    "total": 5
+   },
+   "blindspot": null,
+   "is_blindspot": false,
+   "ownership_breakdown": {
+    "Government": 2,
+    "Media Conglomerate": 2,
+    "Corporation": 1
+   },
+   "topic": "Conflict",
+   "places": [
+    {
+     "name": "Iran",
+     "region": "Middle East"
+    },
+    {
+     "name": "Ukraine",
+     "region": "Europe"
+    },
+    {
+     "name": "US",
+     "region": "Americas"
+    },
+    {
+     "name": "Italy",
+     "region": "Europe"
+    }
+   ],
+   "region": "Middle East",
+   "score": 5.557,
+   "is_trending": true,
+   "bullet_points": [
+    "A former Iran nuclear adviser claimed Thursday the Kuwait drone attack was a Ukrainian \"false flag\" staged to get President Donald Trump's attention.",
+    "Iran has openly claimed its strikes on Gulf states throughout the war.",
+    "Two Italians were killed in a drone attack in Kuwait on Thursday that Italy and Kuwait blamed on Iran, although Tehran has denied any involvement."
+   ],
+   "date": "2026-11-27"
+  },
+  {
    "id": "f23a95a408",
    "title": "Don Toliver Concert in Manchester Is Evacuated Over ‘Unknown Substance’",
    "link": "https://www.nytimes.com/2026/11/23/world/europe/manchester-don-toliver-concert-evacuation-uk.html",
@@ -1397,269 +1671,6 @@
     "North Korea has ordered Switzerland to close its newly reopened diplomatic office."
    ],
    "date": "2026-11-25"
-  },
-  {
-   "id": "5ce3799844",
-   "title": "Colombian police storm supermarket to free 20 held hostage for 17 hours",
-   "link": "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News",
-   "summary": "One gunman was killed in the operation to free around 20 shoppers and employees after a 17-hour hostage ordeal.",
-   "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/997a/live/4f4b3940-e8c4-11f1-ac76-db9e97f93d67.jpg",
-   "published": "2026-11-24T21:36:00+00:00",
-   "updated": "2026-11-25T16:44:22+00:00",
-   "first_reported": {
-    "source": "Sky News",
-    "published": "2026-11-24T21:36:00+00:00"
-   },
-   "all_sources": [
-    "Sky News",
-    "New York Post",
-    "BBC News",
-    "Al Jazeera"
-   ],
-   "source_count": 4,
-   "article_count": 4,
-   "bias_breakdown": {
-    "Lean Left": 2,
-    "Center": 1,
-    "Lean Right": 1
-   },
-   "bias_bar": {
-    "left_pct": 50,
-    "center_pct": 25,
-    "right_pct": 25,
-    "left": 2,
-    "center": 1,
-    "right": 1,
-    "unrated": 0,
-    "total": 4
-   },
-   "blindspot": null,
-   "is_blindspot": false,
-   "ownership_breakdown": {
-    "Government": 2,
-    "Telecom": 1,
-    "Media Conglomerate": 1
-   },
-   "topic": "Conflict",
-   "places": [
-    {
-     "name": "Colombia",
-     "region": "Americas"
-    }
-   ],
-   "region": "Americas",
-   "score": 6.09,
-   "is_trending": true,
-   "bullet_points": [
-    "Colombian police have stormed a supermarket and freed at least 20 people who were being held hostage, killing one of the gunmen.",
-    "All hostages have been rescued by Colombian forces after a 17-hour siege in Cartagena supermarket.",
-    "Security forces rescued all the hostages held for nearly a day at a supermarket in the northern Colombian tourist city of Cartagena."
-   ],
-   "date": "2026-11-25"
-  },
-  {
-   "id": "82e4da64b6",
-   "title": "Huawei guilty of plotting to steal trade secrets and bank fraud",
-   "link": "https://news.sky.com/story/chinese-tech-giant-guilty-of-plotting-to-steal-trade-secrets-and-bank-fraud-13616130",
-   "source": "Sky News",
-   "summary": "Chinese tech giant Huawei, has been found guilty of conspiracy to steal trade secrets and bank fraud after a landmark trial in the US.",
-   "image_url": "https://e3.365dm.com/26/11/1920x1080/skynews-huawei-mobile-logo_7415657.jpg?20261124210537",
-   "published": "2026-11-24T21:05:00+00:00",
-   "updated": "2026-11-25T13:37:51+00:00",
-   "first_reported": {
-    "source": "Sky News",
-    "published": "2026-11-24T21:05:00+00:00"
-   },
-   "all_sources": [
-    "Sky News",
-    "CBC News",
-    "BBC News",
-    "Al Jazeera"
-   ],
-   "source_count": 4,
-   "article_count": 4,
-   "bias_breakdown": {
-    "Lean Left": 3,
-    "Center": 1
-   },
-   "bias_bar": {
-    "left_pct": 75,
-    "center_pct": 25,
-    "right_pct": 0,
-    "left": 3,
-    "center": 1,
-    "right": 0,
-    "unrated": 0,
-    "total": 4
-   },
-   "blindspot": "right",
-   "is_blindspot": true,
-   "ownership_breakdown": {
-    "Government": 3,
-    "Telecom": 1
-   },
-   "topic": "Business",
-   "places": [
-    {
-     "name": "China",
-     "region": "Asia-Pacific"
-    },
-    {
-     "name": "US",
-     "region": "Americas"
-    }
-   ],
-   "region": "Asia-Pacific",
-   "score": 5.28,
-   "is_trending": true,
-   "bullet_points": [
-    "Chinese tech giant Huawei, has been found guilty of conspiracy to steal trade secrets and bank fraud after a landmark trial in the US.",
-    "A U.S. jury convicted Chinese tech giant Huawei Technologies on Tuesday of conspiracy to steal trade secrets and bank fraud as it grew into one of the world's biggest suppliers of gear for wireless telecommunications networks.",
-    "Chinese tech giant has faced legal problems from Europe to Asia, and its products have been banned in trade war with US."
-   ],
-   "date": "2026-11-25"
-  },
-  {
-   "id": "4078576572",
-   "title": "Ukraine-Russia war latest: Trump tells Putin to end military aggression in Europe to ‘stop the bloodbath’",
-   "link": "https://www.independent.co.uk/news/world/europe/russia-ukraine-war-live-putin-drones-nuclear-weapons-casualties-b3091880.html",
-   "source": "The Independent",
-   "summary": "President Trump embraced Putin as a ‘friend’ at a trilateral summit in China, causing concern in Europe.",
-   "image_url": "https://static.independent.co.uk/2026/11/22/17/2026-11-22T164503Z_1518491131_RC2TQOAP0QH9_RTRMADP_3_USA-TRUMP-PUTIN.JPG?width=1200&auto=webp&trim=109%2C0%2C109%2C0",
-   "published": "2026-11-25T21:11:36+00:00",
-   "updated": "2026-11-26T17:05:24+00:00",
-   "first_reported": {
-    "source": "The Hill",
-    "published": "2026-11-25T21:11:36+00:00"
-   },
-   "all_sources": [
-    "The Hill",
-    "New York Post",
-    "The Independent",
-    "Deutsche Welle"
-   ],
-   "source_count": 4,
-   "article_count": 5,
-   "bias_breakdown": {
-    "Lean Left": 1,
-    "Center": 2,
-    "Lean Right": 1
-   },
-   "bias_bar": {
-    "left_pct": 25,
-    "center_pct": 50,
-    "right_pct": 25,
-    "left": 1,
-    "center": 2,
-    "right": 1,
-    "unrated": 0,
-    "total": 4
-   },
-   "blindspot": null,
-   "is_blindspot": false,
-   "ownership_breakdown": {
-    "Media Conglomerate": 2,
-    "Individual": 1,
-    "Government": 1
-   },
-   "topic": "Conflict",
-   "places": [
-    {
-     "name": "Russia",
-     "region": "Europe"
-    },
-    {
-     "name": "Ukraine",
-     "region": "Europe"
-    },
-    {
-     "name": "US",
-     "region": "Americas"
-    },
-    {
-     "name": "China",
-     "region": "Asia-Pacific"
-    }
-   ],
-   "region": "Europe",
-   "score": 6.485,
-   "is_trending": true,
-   "bullet_points": [
-    "US President Donald Trump claimed that he talked with Vladimir Putin about ceasing Russia's military aggression in Europe and expressed his belief in the possibility of a deal between Russia and Ukraine.",
-    "Andrii Sybiha, Ukraine’s minister of foreign affairs, told Russian President Vladimir Putin to “stop complaining” about attacks on oil refineries following tit-for-tat strikes between the countries targeting energy facilities.",
-    "“If Putin doesn’t like Ukraine’s strikes on his oil refineries, he can order an end to the war."
-   ],
-   "date": "2026-11-26"
-  },
-  {
-   "id": "ad5279f11e",
-   "title": "2 Italians killed in Iranian drone attack in Kuwait, Italy says",
-   "link": "https://www.cbc.ca/news/world/italian-workers-killed-kuwait-iran-strike-9.7437089?cmp=rss",
-   "source": "CBC News",
-   "summary": "Two Italians were killed in an Iranian drone attack in Kuwait on Thursday, Italy's foreign minister said, adding that the victims were technicians working for the Italian unit of German defence group Rheinmetall.",
-   "image_url": "https://i.cbc.ca/ais/9eb3c171-16e5-4072-89a2-bad62147bbc4,1795708348214/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C321%2C6163%2C3466%29%3B",
-   "published": "2026-11-26T15:11:00+00:00",
-   "updated": "2026-11-26T17:54:22+00:00",
-   "first_reported": {
-    "source": "Deutsche Welle",
-    "published": "2026-11-26T15:11:00+00:00"
-   },
-   "all_sources": [
-    "Deutsche Welle",
-    "Al Jazeera",
-    "CBC News",
-    "BBC News"
-   ],
-   "source_count": 4,
-   "article_count": 5,
-   "bias_breakdown": {
-    "Lean Left": 2,
-    "Center": 2
-   },
-   "bias_bar": {
-    "left_pct": 50,
-    "center_pct": 50,
-    "right_pct": 0,
-    "left": 2,
-    "center": 2,
-    "right": 0,
-    "unrated": 0,
-    "total": 4
-   },
-   "blindspot": "right",
-   "is_blindspot": true,
-   "ownership_breakdown": {
-    "Government": 4
-   },
-   "topic": "Conflict",
-   "places": [
-    {
-     "name": "Italy",
-     "region": "Europe"
-    },
-    {
-     "name": "Iran",
-     "region": "Middle East"
-    },
-    {
-     "name": "Germany",
-     "region": "Europe"
-    },
-    {
-     "name": "Pakistan",
-     "region": "South Asia"
-    }
-   ],
-   "region": "Europe",
-   "score": 6.448,
-   "is_trending": true,
-   "bullet_points": [
-    "Two Italians were killed in an Iranian drone attack in Kuwait on Thursday, Italy's foreign minister said, adding that the victims were technicians working for the Italian unit of German defence group Rheinmetall.",
-    "Kuwait’s army says two Italian workers were killed and four others were injured in an Iranian drone attack.",
-    "The Italians were employed as technicians for the Italian branch of German arms manufacturer Rheinmetall."
-   ],
-   "date": "2026-11-26"
   }
  ]
 }
