@@ -1,20 +1,20 @@
 {
- "start": "2026-11-21",
- "end": "2026-11-27",
- "days": 5,
+ "start": "2026-11-22",
+ "end": "2026-11-28",
+ "days": 6,
  "coverage": {
-  "left": 367,
-  "center": 166,
-  "right": 224,
+  "left": 428,
+  "center": 196,
+  "right": 259,
   "left_pct": 48,
   "center_pct": 22,
-  "right_pct": 30
+  "right_pct": 29
  },
  "stats": {
-  "stories": 267,
-  "blindspots": 53,
-  "blindspot_left": 15,
-  "blindspot_right": 38
+  "stories": 317,
+  "blindspots": 61,
+  "blindspot_left": 17,
+  "blindspot_right": 44
  },
  "stories": [
   {
@@ -573,6 +573,83 @@
    "date": "2026-11-27"
   },
   {
+   "id": "fc921caa0a",
+   "title": "Zelensky on Trump calling Putin 'friend': Same as somebody saying that 'about Hitler' in WWII",
+   "link": "https://thehill.com/policy/international/6245089-zelensky-calls-for-us-peace-progress/",
+   "source": "The Hill",
+   "summary": "Ukrainian President Volodymyr Zelensky said President Trump calling Russian President Vladimir Putin a “friend” was the “same as somebody saying about Hitler” in World War II. When asked during a BBC interview how he felt about Trump’s comment about Putin, Zelensky stated “it's up to the president of the United States, but it's strange.” Putin...",
+   "image_url": "https://thehill.com/wp-content/uploads/sites/2/2025/03/Peace-talks_032325_GNAP.png?w=900",
+   "published": "2026-11-26T22:06:20+00:00",
+   "updated": "2026-11-28T13:19:17+00:00",
+   "first_reported": {
+    "source": "BBC News",
+    "published": "2026-11-26T22:06:20+00:00"
+   },
+   "all_sources": [
+    "BBC News",
+    "The Hill",
+    "New York Post",
+    "CBC News",
+    "The Independent",
+    "Breitbart",
+    "Fox News"
+   ],
+   "source_count": 7,
+   "article_count": 8,
+   "bias_breakdown": {
+    "Lean Left": 2,
+    "Center": 2,
+    "Lean Right": 1,
+    "Right": 2
+   },
+   "bias_bar": {
+    "left_pct": 29,
+    "center_pct": 29,
+    "right_pct": 42,
+    "left": 2,
+    "center": 2,
+    "right": 3,
+    "unrated": 0,
+    "total": 7
+   },
+   "blindspot": null,
+   "is_blindspot": false,
+   "ownership_breakdown": {
+    "Media Conglomerate": 3,
+    "Government": 2,
+    "Individual": 1,
+    "Other": 1
+   },
+   "topic": "Politics",
+   "places": [
+    {
+     "name": "Russia",
+     "region": "Europe"
+    },
+    {
+     "name": "Ukraine",
+     "region": "Europe"
+    },
+    {
+     "name": "US",
+     "region": "Americas"
+    },
+    {
+     "name": "EU",
+     "region": "Europe"
+    }
+   ],
+   "region": "Europe",
+   "score": 9.242,
+   "is_trending": true,
+   "bullet_points": [
+    "Ukrainian President Volodymyr Zelensky said President Trump calling Russian President Vladimir Putin a “friend” was the “same as somebody saying about Hitler” in World War II.",
+    "Being friends with Putin is like cosying up to Adolf Hitler , Zelensky said in a calculated snub of President Trump.",
+    "Volodymyr Zelensky called President Donald Trump’s close relationship with Vladimir Putin “strange” — and even likened it to being friends with Adolf Hiter."
+   ],
+   "date": "2026-11-28"
+  },
+  {
    "id": "86884f7c0f",
    "title": "US Army detonates toxic lead explosives in Iowa amid health concerns",
    "link": "https://www.aljazeera.com/news/2026/11/25/us-army-detonates-toxic-lead-stockpile-in-iowa-amid-backlash?traffic_source=rss",
@@ -841,6 +918,144 @@
     "Volodymyr Zelensky called President Donald Trump’s close relationship with Vladimir Putin “strange” — and even likened it to being friends with Adolf Hiter."
    ],
    "date": "2026-11-27"
+  },
+  {
+   "id": "abcd6ee2ad",
+   "title": "Argentina's bid to stop Falklands oil drilling rejected",
+   "link": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "summary": "A joint venture between UK-Israeli companies is set to start exploring for oil and gas, but Argentina sought to block it as part of its claim to sovereignty.",
+   "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1615/live/b6e6bd30-eb1d-11f1-8743-3f686b14075c.jpg",
+   "published": "2026-11-28T00:01:00+00:00",
+   "updated": "2026-11-28T16:03:13+00:00",
+   "first_reported": {
+    "source": "Sky News",
+    "published": "2026-11-28T00:01:00+00:00"
+   },
+   "all_sources": [
+    "Sky News",
+    "Al Jazeera",
+    "BBC News",
+    "Breitbart",
+    "New York Times",
+    "The Independent"
+   ],
+   "source_count": 6,
+   "article_count": 6,
+   "bias_breakdown": {
+    "Lean Left": 4,
+    "Center": 1,
+    "Right": 1
+   },
+   "bias_bar": {
+    "left_pct": 66,
+    "center_pct": 17,
+    "right_pct": 17,
+    "left": 4,
+    "center": 1,
+    "right": 1,
+    "unrated": 0,
+    "total": 6
+   },
+   "blindspot": "right",
+   "is_blindspot": true,
+   "ownership_breakdown": {
+    "Government": 2,
+    "Telecom": 1,
+    "Other": 1,
+    "Corporation": 1,
+    "Individual": 1
+   },
+   "topic": "Politics",
+   "places": [
+    {
+     "name": "Argentina",
+     "region": "Americas"
+    },
+    {
+     "name": "UK",
+     "region": "Europe"
+    },
+    {
+     "name": "US",
+     "region": "Americas"
+    },
+    {
+     "name": "Israel",
+     "region": "Middle East"
+    }
+   ],
+   "region": "Americas",
+   "score": 9.3,
+   "is_trending": true,
+   "bullet_points": [
+    "Argentina's president has claimed the Falklands \"are Argentine\" after an international court rejected his bid to block oil drilling off the disputed islands.",
+    "Argentina's bid to temporarily block oil drilling off the nearby U.K.-held Falkland Islands was rejected Saturday by an international tribunal that rules on maritime disputes.",
+    "President Javier Milei of Argentina has taken aim at an oil project planned near the British territory."
+   ],
+   "date": "2026-11-28"
+  },
+  {
+   "id": "ffbf778222",
+   "title": "Explosion at a middle school in Afghanistan kills at least 10, injures 110",
+   "link": "https://www.cbc.ca/news/world/afghanistan-school-explosion-9.7440205?cmp=rss",
+   "source": "CBC News",
+   "summary": "An explosion at a primary and middle school in the eastern Afghan province of Kunar Saturday killed 10 people and wounded another 110, most of them children, officials said, adding that the blast appeared to have originated in a neighbouring depot for explosives.",
+   "image_url": "https://i.cbc.ca/ais/c0f489a6-662d-4017-9e18-f888d1d2e051,1795880696494/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C312%2C6000%2C3375%29%3B",
+   "published": "2026-11-28T10:05:26+00:00",
+   "updated": "2026-11-28T15:25:06+00:00",
+   "first_reported": {
+    "source": "Al Jazeera",
+    "published": "2026-11-28T10:05:26+00:00"
+   },
+   "all_sources": [
+    "Al Jazeera",
+    "Deutsche Welle",
+    "CBC News",
+    "NPR",
+    "BBC News",
+    "Fox News"
+   ],
+   "source_count": 6,
+   "article_count": 6,
+   "bias_breakdown": {
+    "Lean Left": 3,
+    "Center": 2,
+    "Right": 1
+   },
+   "bias_bar": {
+    "left_pct": 50,
+    "center_pct": 33,
+    "right_pct": 17,
+    "left": 3,
+    "center": 2,
+    "right": 1,
+    "unrated": 0,
+    "total": 6
+   },
+   "blindspot": null,
+   "is_blindspot": false,
+   "ownership_breakdown": {
+    "Government": 4,
+    "Independent": 1,
+    "Media Conglomerate": 1
+   },
+   "topic": "Conflict",
+   "places": [
+    {
+     "name": "Afghanistan",
+     "region": "South Asia"
+    }
+   ],
+   "region": "South Asia",
+   "score": 8.588,
+   "is_trending": true,
+   "bullet_points": [
+    "An explosion at a primary and middle school in the eastern Afghan province of Kunar Saturday killed 10 people and wounded another 110, most of them children, officials said, adding that the blast appeared to have originated in a neighbouring depot for explosives.",
+    "At least six students have been killed and 97 injured in an explosion beside a middle school in Asadabad, Afghanistan.",
+    "The Taliban Interior Ministry says a school explosion in Kunar province killed 10 and injured 110, with video showing children rushed to hospital."
+   ],
+   "date": "2026-11-28"
   },
   {
    "id": "13390048e2",
@@ -1359,318 +1574,129 @@
    "date": "2026-11-27"
   },
   {
-   "id": "f23a95a408",
-   "title": "Don Toliver Concert in Manchester Is Evacuated Over ‘Unknown Substance’",
-   "link": "https://www.nytimes.com/2026/11/23/world/europe/manchester-don-toliver-concert-evacuation-uk.html",
-   "source": "New York Times",
-   "summary": "The American rapper was performing in Manchester on Sunday when people in the crowd began experiencing effects from the substance, prompting an emergency response.",
-   "image_url": "https://static01.nyt.com/images/2026/11/23/multimedia/23xp-manchester-01-tfcg/23xp-manchester-01-tfcg-mediumSquareAt3X.jpg",
-   "published": "2026-11-23T09:05:51+00:00",
-   "updated": "2026-11-23T19:07:37+00:00",
-   "first_reported": {
-    "source": "HuffPost",
-    "published": "2026-11-23T09:05:51+00:00"
-   },
-   "all_sources": [
-    "HuffPost",
-    "Breitbart",
-    "New York Times",
-    "Al Jazeera"
-   ],
-   "source_count": 4,
-   "article_count": 4,
-   "bias_breakdown": {
-    "Left": 1,
-    "Lean Left": 2,
-    "Right": 1
-   },
-   "bias_bar": {
-    "left_pct": 75,
-    "center_pct": 0,
-    "right_pct": 25,
-    "left": 3,
-    "center": 0,
-    "right": 1,
-    "unrated": 0,
-    "total": 4
-   },
-   "blindspot": "right",
-   "is_blindspot": true,
-   "ownership_breakdown": {
-    "Corporation": 2,
-    "Other": 1,
-    "Government": 1
-   },
-   "topic": "World",
-   "places": [
-    {
-     "name": "UK",
-     "region": "Europe"
-    },
-    {
-     "name": "US",
-     "region": "Americas"
-    }
-   ],
-   "region": "Europe",
-   "score": 6.09,
-   "is_trending": true,
-   "bullet_points": [
-    "Around 12,000 fans were hastily evacuated from rapper Don Toliver's show in the north of England on Sunday night after an \"unknown substance\" was released into the crowd.",
-    "The American rapper was performing in Manchester on Sunday when people in the crowd began experiencing effects from the substance, prompting an emergency response.",
-    "More than 12,000 people were evacuated from Manchester’s Co-op Live arena"
-   ],
-   "date": "2026-11-23"
-  },
-  {
-   "id": "5b09301f10",
-   "title": "Carney shares stage with Trump impersonator: 'Fake news'",
-   "link": "https://thehill.com/policy/international/6236751-carney-trump-impersonators-dinner/",
-   "source": "The Hill",
-   "summary": "Canadian Prime Minister Mark Carney on Saturday shared the stage with two impersonators –– one of himself and the other of President Trump –– at the annual Parliamentary Press Gallery dinner in Ottawa. Carney announced that he was \"pressing the emergency comedy button\" before comedian Mark McKinney appeared as Carney. Comedian Mark Critch, as Trump,...",
-   "image_url": "https://thehill.com/wp-content/uploads/sites/2/2026/11/AP26327065080138-e1795445420544.jpg?w=900",
-   "published": "2026-11-23T10:16:09+00:00",
-   "updated": "2026-11-23T17:17:03+00:00",
+   "id": "027e6296bb",
+   "title": "Student-led protests in Albania turn violent as thousands call for prime minister to resign",
+   "link": "https://www.cbc.ca/news/world/albania-student-protest-violence-9.7440320?cmp=rss",
+   "source": "CBC News",
+   "summary": "Clashes broke out Saturday between police and protesters in the Albanian capital, Tirana, as thousands of people called for the resignation of Prime Minister Edi Rama, the latest in a long series of anti-government protests.",
+   "image_url": "https://i.cbc.ca/ais/72719e3e-3d8e-4950-b6f2-80383d6ecc50,1795876980683/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C287%2C5500%2C3093%29%3B",
+   "published": "2026-11-28T14:00:50+00:00",
+   "updated": "2026-11-28T16:34:00+00:00",
    "first_reported": {
     "source": "The Independent",
-    "published": "2026-11-23T10:16:09+00:00"
+    "published": "2026-11-28T14:00:50+00:00"
    },
    "all_sources": [
     "The Independent",
-    "The Hill",
-    "BBC News",
-    "New York Post"
-   ],
-   "source_count": 4,
-   "article_count": 4,
-   "bias_breakdown": {
-    "Lean Left": 1,
-    "Center": 2,
-    "Lean Right": 1
-   },
-   "bias_bar": {
-    "left_pct": 25,
-    "center_pct": 50,
-    "right_pct": 25,
-    "left": 1,
-    "center": 2,
-    "right": 1,
-    "unrated": 0,
-    "total": 4
-   },
-   "blindspot": null,
-   "is_blindspot": false,
-   "ownership_breakdown": {
-    "Media Conglomerate": 2,
-    "Individual": 1,
-    "Government": 1
-   },
-   "topic": "Politics",
-   "places": [
-    {
-     "name": "Canada",
-     "region": "Americas"
-    },
-    {
-     "name": "US",
-     "region": "Americas"
-    }
-   ],
-   "region": "Americas",
-   "score": 5.886,
-   "is_trending": true,
-   "bullet_points": [
-    "Canadian Prime Minister Mark Carney on Saturday shared the stage with two impersonators –– one of himself and the other of President Trump –– at the annual Parliamentary Press Gallery dinner in Ottawa.",
-    "The impersonator, Canadian comedian Mark Critch, poked fun at the US president's search for a new press secretary and US-Canada trade talks.",
-    "Because I'm crazy,\" comedian Mark Critch quipped as Trump at Ottawa's annual press-gallery dinner."
-   ],
-   "date": "2026-11-23"
-  },
-  {
-   "id": "320df9f90d",
-   "title": "Colombia: Car bomb attack injures at least 23",
-   "link": "https://www.dw.com/en/colombia-car-bomb-attack-injures-at-least-23/a-80033956?maca=en-rss-en-top-1022-rdf",
-   "source": "Deutsche Welle",
-   "summary": "The explosion in Villavicencio coincides with the tenth anniversary of a peace accord with FARC guerrillas, casting doubt on Colombia's peace process.",
-   "image_url": "https://static01.nyt.com/images/2026/11/12/world/00Int-Colombia-FARC-Scrolly/00Int-Colombia-FARC-Scrolly-mediumSquareAt3X.jpg",
-   "published": "2026-11-23T10:02:48+00:00",
-   "updated": "2026-11-24T18:00:00+00:00",
-   "first_reported": {
-    "source": "New York Times",
-    "published": "2026-11-23T10:02:48+00:00"
-   },
-   "all_sources": [
+    "Al Jazeera",
+    "CBC News",
     "New York Times",
-    "Deutsche Welle",
-    "The Independent",
-    "Al Jazeera"
+    "Deutsche Welle"
    ],
-   "source_count": 4,
-   "article_count": 4,
+   "source_count": 5,
+   "article_count": 7,
    "bias_breakdown": {
-    "Lean Left": 3,
+    "Lean Left": 4,
     "Center": 1
    },
    "bias_bar": {
-    "left_pct": 75,
-    "center_pct": 25,
+    "left_pct": 80,
+    "center_pct": 20,
     "right_pct": 0,
-    "left": 3,
+    "left": 4,
     "center": 1,
     "right": 0,
     "unrated": 0,
-    "total": 4
+    "total": 5
    },
    "blindspot": "right",
    "is_blindspot": true,
    "ownership_breakdown": {
-    "Government": 2,
-    "Corporation": 1,
-    "Individual": 1
-   },
-   "topic": "Conflict",
-   "places": [
-    {
-     "name": "Colombia",
-     "region": "Americas"
-    }
-   ],
-   "region": "Americas",
-   "score": 5.961,
-   "is_trending": true,
-   "bullet_points": [
-    "The conflict between Colombia’s government and a leftist rebel group ended in a historic 2016 accord.",
-    "The explosion in Villavicencio coincides with the tenth anniversary of a peace accord with FARC guerrillas, casting doubt on Colombia's peace process.",
-    "A decade after Colombia's peace accords, former FARC fighter and artist honours killed signatories with a mural."
-   ],
-   "date": "2026-11-24"
-  },
-  {
-   "id": "11016a206c",
-   "title": "U.S. army says it will detonate Iowa bomb-making material Wednesday, after court's approval",
-   "link": "https://www.cbc.ca/news/world/iowa-lead-azide-explosion-explosive-army-9.7432313?cmp=rss",
-   "source": "CBC News",
-   "summary": "The U.S. army plans to detonate bomb-making chemicals in Iowa on Wednesday morning after getting approval from a federal appeals court in a saga that has sowed confusion and included an unusual twist from President Donald Trump.",
-   "image_url": "https://i.cbc.ca/ais/4c99da99-dd28-4d0b-8d9f-fcb23dc53be0,1795441946358/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C8640%2C4860%29%3B",
-   "published": "2026-11-23T17:52:57+00:00",
-   "updated": "2026-11-24T17:33:41+00:00",
-   "first_reported": {
-    "source": "CBC News",
-    "published": "2026-11-23T17:52:57+00:00"
-   },
-   "all_sources": [
-    "CBC News",
-    "Breitbart",
-    "The Independent",
-    "Al Jazeera"
-   ],
-   "source_count": 4,
-   "article_count": 4,
-   "bias_breakdown": {
-    "Lean Left": 3,
-    "Right": 1
-   },
-   "bias_bar": {
-    "left_pct": 75,
-    "center_pct": 0,
-    "right_pct": 25,
-    "left": 3,
-    "center": 0,
-    "right": 1,
-    "unrated": 0,
-    "total": 4
-   },
-   "blindspot": "right",
-   "is_blindspot": true,
-   "ownership_breakdown": {
-    "Government": 2,
-    "Other": 1,
-    "Individual": 1
-   },
-   "topic": "Conflict",
-   "places": [
-    {
-     "name": "US",
-     "region": "Americas"
-    }
-   ],
-   "region": "Americas",
-   "score": 5.869,
-   "is_trending": true,
-   "bullet_points": [
-    "The U.S. army plans to detonate bomb-making chemicals in Iowa on Wednesday morning after getting approval from a federal appeals court in a saga that has sowed confusion and included an unusual twist from President Donald Trump.",
-    "The US Army is preparing to detonate nearly five tonnes of unstable explosives in Iowa on Wednesday.",
-    "The U.S. Army has rescheduled a detonation of bomb-making chemicals in southeastern Iowa to Wednesday because of more favorable weather and to allow time for extra safety measures"
-   ],
-   "date": "2026-11-24"
-  },
-  {
-   "id": "b3f9e1d720",
-   "title": "North Korea expels Swiss envoy over sanctions on camp accused of indoctrinating Ukrainian children",
-   "link": "https://www.dw.com/en/north-korea-expels-swiss-envoy-over-sanctions-on-camp-accused-of-indoctrinating-ukrainian-children/a-80043648?maca=en-rss-en-top-1022-rdf",
-   "source": "Deutsche Welle",
-   "summary": "North Korea has ordered Switzerland to close its newly reopened diplomatic office. The dispute centers on Swiss sanctions against a camp accused of indoctrinating Ukrainian children from Russian-occupied territories.",
-   "image_url": "https://nypost.com/wp-content%2Fuploads%2Fsites%2F2%2F2026%2F11%2F2026-shows-north-korean-leader-149781683.jpg?w%3D995",
-   "published": "2026-11-25T06:40:12+00:00",
-   "updated": "2026-11-25T17:00:24+00:00",
-   "first_reported": {
-    "source": "New York Post",
-    "published": "2026-11-25T06:40:12+00:00"
-   },
-   "all_sources": [
-    "New York Post",
-    "Deutsche Welle",
-    "Al Jazeera",
-    "New York Times"
-   ],
-   "source_count": 4,
-   "article_count": 4,
-   "bias_breakdown": {
-    "Lean Left": 2,
-    "Center": 1,
-    "Lean Right": 1
-   },
-   "bias_bar": {
-    "left_pct": 50,
-    "center_pct": 25,
-    "right_pct": 25,
-    "left": 2,
-    "center": 1,
-    "right": 1,
-    "unrated": 0,
-    "total": 4
-   },
-   "blindspot": null,
-   "is_blindspot": false,
-   "ownership_breakdown": {
-    "Government": 2,
-    "Media Conglomerate": 1,
+    "Government": 3,
+    "Individual": 1,
     "Corporation": 1
    },
    "topic": "Politics",
    "places": [
     {
-     "name": "North Korea",
-     "region": "Asia-Pacific"
-    },
-    {
-     "name": "Ukraine",
-     "region": "Europe"
-    },
-    {
-     "name": "Russia",
-     "region": "Europe"
+     "name": "US",
+     "region": "Americas"
     }
    ],
-   "region": "Asia-Pacific",
-   "score": 6.153,
+   "region": "Americas",
+   "score": 7.98,
    "is_trending": true,
    "bullet_points": [
-    "The move followed Switzerland’s decision to impose sanctions on an international youth camp in North Korea, which is accused of hosting Ukrainian children for indoctrination.",
-    "The closure came after North Korea condemned Switzerland for adding a children’s camp to its sanctions list.",
-    "North Korea has ordered Switzerland to close its newly reopened diplomatic office."
+    "Clashes broke out Saturday between police and protesters in the Albanian capital, Tirana, as thousands of people called for the resignation of Prime Minister Edi Rama, the latest in a long series of anti-government protests.",
+    "Police in Albania have clashed with protesters during a demonstration by thousands who are demanding Prime Minister Edi Rama's resignation",
+    "Thousands of people have protested in Albania's capital, Tirana, demanding Prime Minister Edi Rama's resignation."
    ],
-   "date": "2026-11-25"
+   "date": "2026-11-28"
+  },
+  {
+   "id": "fd69677220",
+   "title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
+   "link": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News",
+   "summary": "The Israeli military says it targeted \"Hamas terrorists\" in the strike which has been condemned by the World Health Organization.",
+   "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f48/live/c26c94a0-eb21-11f1-99a1-253766e7ad8b.jpg",
+   "published": "2026-11-28T00:33:00+00:00",
+   "updated": "2026-11-28T15:18:21+00:00",
+   "first_reported": {
+    "source": "Sky News",
+    "published": "2026-11-28T00:33:00+00:00"
+   },
+   "all_sources": [
+    "Sky News",
+    "BBC News",
+    "CBC News",
+    "The Independent",
+    "New York Times"
+   ],
+   "source_count": 5,
+   "article_count": 5,
+   "bias_breakdown": {
+    "Lean Left": 4,
+    "Center": 1
+   },
+   "bias_bar": {
+    "left_pct": 80,
+    "center_pct": 20,
+    "right_pct": 0,
+    "left": 4,
+    "center": 1,
+    "right": 0,
+    "unrated": 0,
+    "total": 5
+   },
+   "blindspot": "right",
+   "is_blindspot": true,
+   "ownership_breakdown": {
+    "Government": 2,
+    "Telecom": 1,
+    "Individual": 1,
+    "Corporation": 1
+   },
+   "topic": "Conflict",
+   "places": [
+    {
+     "name": "Israel",
+     "region": "Middle East"
+    },
+    {
+     "name": "Gaza",
+     "region": "Middle East"
+    }
+   ],
+   "region": "Middle East",
+   "score": 7.15,
+   "is_trending": true,
+   "bullet_points": [
+    "A humanitarian medical charity says it is \"devastated and outraged\" after two civil guards at one of its offices in Gaza were killed in an Israeli strike.",
+    "Medical charity Médecins Sans Frontières has voiced outrage after an Israeli strike killed two of its staff outside a medical clinic in Gaza ‌late on Friday.",
+    "The Israeli military says it targeted \"Hamas terrorists\" in the strike which has been condemned by the World Health Organization."
+   ],
+   "date": "2026-11-28"
   }
  ]
 }
